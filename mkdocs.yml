@@ -10,10 +10,10 @@ theme:
     code: Roboto Mono
   palette:
     - scheme: default
-      primary: teal
+      primary: brown
       toggle: {icon: material/brightness-7, name: Tmavý režim}
     - scheme: slate
-      primary: teal
+      primary: brown
       toggle: {icon: material/brightness-4, name: Svetlý režim}
   features:
     - navigation.instant
