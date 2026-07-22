@@ -1,6 +1,6 @@
 # Vetva Ličko (Medzev)
 
-Súvisí: [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md) (Jozef Ličko ⚭ Irena Hajmanová) · [Prehľad](index.md)
+Súvisí: [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md) (Jozef Ličko ⚭ Irena Hajmanová) · [Prehľad](prehlad.md)
 
 ## ⭐⭐ SVEDECTVO RODINY (19.7.2026) — cez Viktora (Jozefov syn, mamin nevlastný brat)
 

@@ -1,6 +1,6 @@
 # Vetva Rusinko (Rokycany)
 
-Súvisí: [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) (manželka Jána 1898) · [Prehľad](index.md)
+Súvisí: [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) (manželka Jána 1898) · [Prehľad](prehlad.md)
 
 ## Čo vieme
 

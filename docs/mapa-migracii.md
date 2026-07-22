@@ -1,6 +1,6 @@
 # Mapa migrácií rodiny
 
-Súvisí: [Prehľad](index.md) · [Štatistiky](statistiky.md) · Interaktívna mapa presunov jednotlivých vetiev (farebne). Súradnice sú približné (obec, nie dom). Zostavené 22.7.2026.
+Súvisí: [Prehľad](prehlad.md) · [Štatistiky](statistiky.md) · Interaktívna mapa presunov jednotlivých vetiev (farebne). Súradnice sú približné (obec, nie dom). Zostavené 22.7.2026.
 
 <div id="mapa-migracie" style="height: 560px; border-radius: 8px; margin: 1em 0;"></div>
 

@@ -1,6 +1,6 @@
 # Časová os rodiny
 
-Súvisí: [Prehľad](index.md) · [Rodokmeň](rodokmen.md) · zostavené 14.7.2026 zo všetkých doložených prameňov (matriky, sčítania, hroby, tlač, rodinné svedectvá). Neisté údaje označené „~" alebo „?". · 🌍 = svetové/dejinné pozadie (kurzívou), aby sa dali predkovia zaradiť do doby.
+Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené 14.7.2026 zo všetkých doložených prameňov (matriky, sčítania, hroby, tlač, rodinné svedectvá). Neisté údaje označené „~" alebo „?". · 🌍 = svetové/dejinné pozadie (kurzívou), aby sa dali predkovia zaradiť do doby.
 
 ## Hlboké korene (18.–19. storočie)
 

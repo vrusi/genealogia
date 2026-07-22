@@ -1,6 +1,6 @@
 # Vetva Fejerčák – Guľas (farnosť Bajerov)
 
-Súvisí: [Vetva Rusinko](vetva-rusinko.md) · [Prehľad](index.md)
+Súvisí: [Vetva Rusinko](vetva-rusinko.md) · [Prehľad](prehlad.md)
 
 Najlepšie zdokumentovaná vetva — všetko doložené v „Slovakia, Church and Synagogue Books, 1592–1935" (FS kolekcia 1554443, fondy župy Sáros).
 

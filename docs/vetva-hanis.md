@@ -1,6 +1,6 @@
 # Vetva Hanis (Žipov)
 
-Súvisí: [Vetva Rusinko](vetva-rusinko.md) (Anna Hanisová ⚭ Ján Rusinko 1923) · [Prehľad](index.md)
+Súvisí: [Vetva Rusinko](vetva-rusinko.md) (Anna Hanisová ⚭ Ján Rusinko 1923) · [Prehľad](prehlad.md)
 
 ## ⭐⭐⭐ PRIELOM 19.7.2026 — meno otca + nová generácia (Arcibiskupský archív KE, Mgr. Róbert Eliáš)
 

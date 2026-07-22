@@ -1,6 +1,6 @@
 # Stav osôb — čo je prebraté a kde sa dá ešte hľadať
 
-Súvisí: [Prehľad](index.md) · aktualizované **14.7.2026** (webový prieskum 11 agentov + sčítacie hárky + rodinné svedectvá)
+Súvisí: [Prehľad](prehlad.md) · aktualizované **14.7.2026** (webový prieskum 11 agentov + sčítacie hárky + rodinné svedectvá)
 
 Legenda: ✅ prebraté (online vyčerpané) · 🔍 otvorené stopy · 📄 čaká na dokument (offline)
 

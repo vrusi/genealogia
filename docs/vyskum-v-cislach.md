@@ -1,6 +1,6 @@
 # Výskum v číslach (meta-štatistiky)
 
-Súvisí: [Prehľad](index.md) · [Štatistiky](statistiky.md) · stav k 22.7.2026 — 14. deň projektu (začiatok 9.7.2026).
+Súvisí: [Prehľad](prehlad.md) · [Štatistiky](statistiky.md) · stav k 22.7.2026 — 14. deň projektu (začiatok 9.7.2026).
 
 ## Tempo výskumu
 

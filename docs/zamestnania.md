@@ -1,6 +1,6 @@
 # Zamestnania a povolania v rodine
 
-Súvisí: [Prehľad](index.md) · [Stav osôb](stav-osob.md) · zostavené 16.7.2026 (agent nad vaultom)
+Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · zostavené 16.7.2026 (agent nad vaultom)
 
 ## Po vetvách
 

@@ -1,6 +1,6 @@
 # Vetva Hajman – Škodiová (Košice)
 
-Súvisí: [Vetva Ličko](vetva-licko.md) · [Prehľad](index.md)
+Súvisí: [Vetva Ličko](vetva-licko.md) · [Prehľad](prehlad.md)
 
 ## Čo vieme
 

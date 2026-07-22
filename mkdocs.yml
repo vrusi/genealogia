@@ -20,6 +20,8 @@ plugins:
       lang: sk
 markdown_extensions:
   - tables
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.tilde
   - pymdownx.superfences:
@@ -28,12 +30,13 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
-  - Prehľad: index.md
+  - Domov: index.md
   - Rodokmeň: rodokmen.md
   - Mapa rodokmeňa: mapa-rodokmena.md
   - Mapa migrácií: mapa-migracii.md
   - Štatistiky: statistiky.md
   - Výskum v číslach: vyskum-v-cislach.md
+  - Prehľad výskumu: prehlad.md
   - Časová os: casova-os.md
   - Stav osôb: stav-osob.md
   - Zamestnania v rodine: zamestnania.md

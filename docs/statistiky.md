@@ -1,6 +1,6 @@
 # Štatistiky rodiny
 
-Súvisí: [Prehľad](index.md) · [Stav osôb](stav-osob.md) · [Zamestnania v rodine](zamestnania.md) · zostavené 22.7.2026 z doložených dátumov (~32 osôb s úplnými rokmi narodenia aj úmrtia). Hodnoty s ~ sú približné (rok bez presného dňa).
+Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v rodine](zamestnania.md) · zostavené 22.7.2026 z doložených dátumov (~32 osôb s úplnými rokmi narodenia aj úmrtia). Hodnoty s ~ sú približné (rok bez presného dňa).
 
 ## Dĺžka života
 

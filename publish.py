@@ -9,7 +9,7 @@ DOCS = Path(__file__).parent / "docs"
 
 # publikované súbory: vault názov -> slug
 FILES = {
-    "Prehľad": "index",
+    "Prehľad": "prehlad",
     "Rodokmeň": "rodokmen",
     "Časová os": "casova-os",
     "Stav osôb": "stav-osob",
@@ -75,6 +75,8 @@ def main():
         '<iframe src="prilohy/mapa-rodokmena.html" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
         encoding="utf-8")
     print("OK mapa-rodokmena wrapper")
+    shutil.copy(Path(__file__).parent / "landing.md", DOCS / "index.md")
+    print("OK landing -> index.md")
     # kontrola, že nič citlivé nepretieklo
     leaked = []
     for f in DOCS.glob("*.md"):
