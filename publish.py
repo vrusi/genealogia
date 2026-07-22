@@ -19,6 +19,9 @@ FILES = {
     "Vetva Hanis": "vetva-hanis",
     "Vetva Ličko": "vetva-licko",
     "Vetva Hajman-Škodiová": "vetva-hajman-skodiova",
+    "Štatistiky": "statistiky",
+    "Mapa migrácií": "mapa-migracii",
+    "Výskum v číslach": "vyskum-v-cislach",
 }
 # NEpublikované: Drafty emailov, Korešpondencia a úlohy, DNA matche (kontakty, stratégia, žijúci matchovia)
 
@@ -65,6 +68,13 @@ def main():
         print(f"OK {name} -> {slug}.md")
     shutil.copytree(VAULT / "prilohy", DOCS / "prilohy")
     print("OK prilohy/")
+    # wrapper pre interaktívnu mapu rodokmeňa (samostatný HTML v prílohách)
+    (DOCS / "mapa-rodokmena.md").write_text(
+        "# Mapa rodokmeňa\n\n"
+        "[Otvoriť na celú obrazovku](prilohy/mapa-rodokmena.html){target=_blank}\n\n"
+        '<iframe src="prilohy/mapa-rodokmena.html" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
+        encoding="utf-8")
+    print("OK mapa-rodokmena wrapper")
     # kontrola, že nič citlivé nepretieklo
     leaked = []
     for f in DOCS.glob("*.md"):

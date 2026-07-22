@@ -30,6 +30,10 @@ markdown_extensions:
 nav:
   - Prehľad: index.md
   - Rodokmeň: rodokmen.md
+  - Mapa rodokmeňa: mapa-rodokmena.md
+  - Mapa migrácií: mapa-migracii.md
+  - Štatistiky: statistiky.md
+  - Výskum v číslach: vyskum-v-cislach.md
   - Časová os: casova-os.md
   - Stav osôb: stav-osob.md
   - Zamestnania v rodine: zamestnania.md

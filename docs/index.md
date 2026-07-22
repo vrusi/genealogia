@@ -3,6 +3,7 @@
 > Dlhodobý projekt. Založené 9. 7. 2026. FamilySearch účet: V7180 (osoba `PMQS-SVF`).
 > Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) · [Vetva Hanis](vetva-hanis.md) · [Vetva Ličko](vetva-licko.md) · [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md)
 > Strom: [Rodokmeň](rodokmen.md) · Úlohy: Korešpondencia a úlohy · Register osôb: [Stav osôb](stav-osob.md) · Časová os: [Časová os](casova-os.md)
+> 🌐 **Verejná stránka pre rodinu: https://vrusi.github.io/genealogia/** (repo `vrusi/genealogia`; aktualizácia: v `~/Documents/genealogia-web` spustiť `python3 publish.py && git add -A && git commit -m update && git push` — publikuje sa BEZ Draftov emailov, Korešpondencie a DNA matchov a bez kontaktov žijúcich osôb)
 
 ## Stav otvorených otázok
 
