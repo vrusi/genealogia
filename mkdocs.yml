@@ -1,0 +1,41 @@
+site_name: Genealógia — Rusinko · Hajman · Ličko · Hanis · Fejerčák
+site_url: https://vrusi.github.io/genealogia/
+theme:
+  name: material
+  language: sk
+  palette:
+    - scheme: default
+      primary: brown
+      toggle: {icon: material/brightness-7, name: Tmavý režim}
+    - scheme: slate
+      primary: brown
+      toggle: {icon: material/brightness-4, name: Svetlý režim}
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.suggest
+    - content.tabs.link
+plugins:
+  - search:
+      lang: sk
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+nav:
+  - Prehľad: index.md
+  - Rodokmeň: rodokmen.md
+  - Časová os: casova-os.md
+  - Stav osôb: stav-osob.md
+  - Zamestnania v rodine: zamestnania.md
+  - Vetvy:
+      - Rusinko: vetva-rusinko.md
+      - Fejerčák–Guľas: vetva-fejercak-gulas.md
+      - Hanis: vetva-hanis.md
+      - Ličko: vetva-licko.md
+      - Hajman–Škodiová: vetva-hajman-skodiova.md
