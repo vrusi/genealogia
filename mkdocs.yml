@@ -21,7 +21,7 @@ theme:
     - search.suggest
     - content.tabs.link
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.css?v=3
 plugins:
   - search:
       lang: sk
