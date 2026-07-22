@@ -1,6 +1,8 @@
-# Vetva Ličko (Medzev)
+# Vetva Ličko a Lorenowicz
 
 Súvisí: [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md) (Jozef Ličko ⚭ Irena Hajmanová) · [Prehľad](prehlad.md)
+
+**Vetva dvoch dedov.** Jozef Ličko (*1942 Valaská) zomrel mladý, keď mala mama ~10 rokov. **Peter Lorenowicz** sa potom oženil s ovdovenou Irenou, **mamu a Zdenu si osvojil a vychoval ako vlastné** — a dodnes žije v rodinnom dome na Lichardovej 30, kde opatruje rodinnú pamäť (albumy, spomienky na Irenu, Helenu aj Ličkovcov). Pátranie po Ličkovcoch je pátranie po koreňoch; dedom zostáva Peter.
 
 ## ⭐⭐ SVEDECTVO RODINY (19.7.2026) — cez Viktora (Jozefov syn, mamin nevlastný brat)
 

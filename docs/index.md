@@ -12,7 +12,7 @@
 
 -   🏠 **Dom na Lichardovej 30**
 
-    Celý hajmanovský klan býval v 30. rokoch v jednom košickom bloku — a rodinný dom, ktorý dostaval kominár Rudolf, drží rodina dodnes. [→ vetva Hajman](vetva-hajman-skodiova.md)
+    Celý hajmanovský klan býval v 30. rokoch v jednom košickom bloku — a v rodinnom dome, ktorý dostaval kominár Rudolf, žije dodnes dedo Peter. [→ vetva Hajman](vetva-hajman-skodiova.md)
 
 -   🇭🇺 **Slúžka Erzsébet z Mokraniec**
 
@@ -29,6 +29,10 @@
 -   🕵️ **Záhada Kataríny Škodovej**
 
     Prežila päť štátov bez jediného sťahovania — a jej rodné meno stále nepoznáme. Práve oň sa hrá o poľskú stopu rodiny. [→ vetva Škodiová](vetva-hajman-skodiova.md)
+
+-   🧡 **Dedo Peter**
+
+    Peter Lorenowicz prišiel s rodinou z Chomutova do Košíc za železiarňami. Po smrti Jozefa Lička sa oženil s Irenou a jej dcéry — mamu a Zdenu — si osvojil a vychoval ako vlastné. Dodnes žije v dome na Lichardovej a je najvzácnejším živým svedkom rodinných spomienok. [→ vetva Ličko a Lorenowicz](vetva-licko.md)
 
 -   🎻 **Zoznámení rozhlasom**
 
