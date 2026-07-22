@@ -72,7 +72,7 @@ def main():
     (DOCS / "mapa-rodokmena.md").write_text(
         "# Mapa rodokmeňa\n\n"
         "[Otvoriť na celú obrazovku](prilohy/mapa-rodokmena.html){target=_blank}\n\n"
-        '<iframe src="prilohy/mapa-rodokmena.html" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
+        '<iframe src="../prilohy/mapa-rodokmena.html" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
         encoding="utf-8")
     print("OK mapa-rodokmena wrapper")
     shutil.copy(Path(__file__).parent / "landing.md", DOCS / "index.md")
