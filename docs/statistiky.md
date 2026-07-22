@@ -15,11 +15,13 @@ Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v
 
 ```mermaid
 xychart-beta
-    title "Priemerná dĺžka života podľa vetvy (doložené úmrtia)"
-    x-axis ["Rusinko", "Hajman", "Ličko+Lorenowicz", "Škoda", "Hanis+Dzuriček", "Fejerčák-Guľas"]
+    title "Priemerná dĺžka života podľa vetvy (doložené úmrtia; n = počet osôb)"
+    x-axis ["Rusinko (n=7)", "Škoda (n=2)", "Lorenowicz (n=1)", "Hajman (n=9)", "Hanis+Dzuriček (n=3)", "Ličko (n=1)", "Guľas (n=1)"]
     y-axis "roky" 0 --> 100
-    bar [83, 73, 67, 82, 50, 32]
+    bar [83, 82, 74, 73, 50, 40, 32]
 ```
+
+Ličko a Lorenowicz sú v poznámkach jedna „vetva" (spája ich Irena), ale pokrvne sú to dve rodiny — v štatistike preto samostatne. Pri vetvách s n=1–2 je „priemer" len osud jednotlivca: Ličko = Jozef (~40), Lorenowicz = Dmytro (74), Guľas = Juraj (32). Etela Lischková (~83) nie je započítaná — jej príbuznosť zatiaľ nie je doložená.
 
 - ⭐ **Rusinkovská dlhovekosť**: vetva Rusinko má priemer ~83 rokov — štyria z nej sa dožili presne ~90 (Štefan, Andrej, Emília, Mária Holmáňová). Ak sa niečo dedí, tak toto.
 - **Traja otcovia, ktorí zomreli mladí** — a zakaždým to prepísalo osud rodiny: Juraj Guľas (32, †1866 — vdova Alžbeta s deťmi), Jozef Hanis (34, †1929 — vdova Anna s dcérami), Jozef Ličko (~40, †~1981–83 — vdova Irena, dcéry adoptoval Peter Lorenowicz).
