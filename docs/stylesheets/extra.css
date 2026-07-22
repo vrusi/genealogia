@@ -28,12 +28,17 @@
 /* Pásik faktov na úvode */
 .fakt-pas { display: flex; flex-wrap: wrap; gap: 0.5em; margin: 1.2em 0; }
 .fakt-pas span {
-  background: linear-gradient(135deg, #5a232a, #8a4a57);
-  color: #ffffff;
+  background: transparent;
+  border: 1.5px solid #8a4a57;
+  color: #722f37;
   padding: 0.35em 0.9em;
   border-radius: 999px;
   font-size: 0.82em;
   font-weight: 600;
+}
+[data-md-color-scheme="slate"] .fakt-pas span {
+  border-color: #a8767f;
+  color: #d9aeb5;
 }
 
 /* Tabuľky */

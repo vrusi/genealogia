@@ -92,3 +92,24 @@ Register fondu *Československé repatriačné stredisko v Prešove* (ŠA Prešo
 
 - [Krsty 1798–1896, sobáše 1798–1897, úmrtia 1881–1896](https://www.familysearch.org/ark:/61903/3:1:S3HT-6LL7-3TL?cc=1554443)
 - [Krsty 1870–1895, sobáše 1861–1895, úmrtia 1866–1895 (druhopisy)](https://www.familysearch.org/platform/records/waypoints/9PQD-VZ7:107654301,112073701,149418302,149444001?cc=1554443)
+
+## 🔍 FS film Klenov — sweep krstov okolo 1861 (browser, 22.7.2026)
+
+**Cieľ: krst Ondreja Rusinka *1861 (hrob Bajerov 1861–1936). Výsledok: v klenovskej knihe krstov NIE JE.**
+
+- **Štruktúra filmu DGS 4406750 (654 obr.):** obr. 1–125 = ev. Kladzany (iná farnosť, ten istý kotúč); **obr. ~128+ = GK Klenov Inv. č. 434 (krsty+sobáše+úmrtia 1825–1879)**; ďalej Inv. 435 (1880–98) a Inv. 436 (druhopisy 1864–95). Kalibrácia krstov: 1825≈obr. 128 · 1854=180 · jún 1858=193 · **1861=200–203** · 1862 od 203.
+- **Prečesané: celý rok 1861 (zápisy 1–40) + koniec 1860? nie + začiatok 1862 (1–4).** Žiadny krstený Rusinko. Krstení sú z Klembárku, **Bujaku**, Kvačian, **Berki (Rokycany!)**, Bajora, Izsépu — kniha pokrýva celý náš región.
+- ⭐ **Rusinkovci vo farnosti SÚ — ako krstní rodičia: „Stephanus Ruszinko" + Anna Krehely, krstní rodičia zápisu č. 29/1861 (september, dieťa Marhevsky × Madik, Kvačany).** → dospelý Štefan Rusinko žil ~1861 vo farnosti (Kvačany?) — kandidát na Ondrejovho otca/strýka/brata.
+- Ďalšie zaujímavé priezviská v knihe 1861: Dolinský (Kvačany — otcova stopa!), Szemanits/Seman, **Szabol** (zápis č. 23/1861: matka „Maria Szabol", Bujak — fejerčákovský prímenok!), Kollár, Liba, Krehely, Popadič, Baran.
+- **Dôsledky:** (a) rok na hrobe môže byť nepresný → dokončiť sweep 1860 a 1862–63 (obr. ~197–205); (b) Ondrej sa mohol narodiť v INEJ farnosti (RK Bajerov? — pochovaný na bajerovskom cintoríne; alebo iná GK farnosť); (c) meno v zápise môže byť latinsky „Andreas" s prímenom — pri sweepe čítať aj matky/priezviská.
+- **Ďalšie kroky vo filme:** dokončiť 1860+1862–63; **sobáše Klenov 1825–79** (sobáš Ondrejových rodičov / Štefana R.); úmrtia; potom Inv. 436 druhopisy (dvojitá šanca na čitateľnosť). Viewer: familysearch.org/search/film/004406750, obraz X = URL param ?i=X-1.
+
+### ⭐⭐ POKRAČOVANIE SWEEPU (22.7.2026 večer) — RUSINKOVSKÁ DOMÁCNOSŤ V BUJAKOVE NÁJDENÁ!
+
+- **Prečesané roky: 1860 (od marca), 1861 (celý), 1862 (celý), 1863 (jan–júl)** — obrazy 198–205.
+- ⭐⭐ **JEDINÝ rusinkovský krst: GEORGIUS (Juraj), krst ~júl 1862 — otec MICHAEL RUSZINKO, matka MARIA GUMAN, gr. kat. coloni, BUJAK č. 18** (obraz 204, ľavá strana, zápis č. 18/1862; krstní rodičia Michael Onda & Anna Lukats). → **Michal Rusinko ⚭ Mária Gumanová = rusinkovská rodina v Bujakove — presne v obci, kde sa 1898 narodil pradedo Ján!** Kandidáti na Ondrejových rodičov.
+- **Ondrej *„1861" (hrob) sa v rokoch 1860–63 nenarodil** → rok na náhrobku je zrejme nepresný. Najpravdepodobnejšie je Ondrej starší syn toho istého páru → **ďalší sweep: krsty ~1855–1859** (obrazy ~194–198) a **druhopisy 1864+** (ďalšie deti). Alternatíva: overiť sobáš Michal × Guman v sobášoch 1825–79.
+- **Gumanovci** sú v knihe hustí (Bujak 3, Bajor 13...) — miestny rod; aj zápis „Joanes Guman × Anna Kolar, Bujak 3" (1863). Sedí s krstom Georgiusa.
+- Ďalší Andreasovia 1860–63: Hricz, Liba (2×), Krehely, Dolinszky, Kollár — žiadny náš.
+
+
