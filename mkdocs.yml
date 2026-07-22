@@ -5,8 +5,6 @@ theme:
   language: sk
   icon:
     logo: material/family-tree
-  icon:
-    logo: material/family-tree
   font:
     text: Source Sans 3
     code: Roboto Mono
@@ -22,8 +20,6 @@ theme:
     - navigation.top
     - search.suggest
     - content.tabs.link
-extra_css:
-  - stylesheets/extra.css
 extra_css:
   - stylesheets/extra.css
 plugins:
