@@ -1,5 +1,7 @@
 # Rodokmeň
 
+🌐 **Živý strom na FamilySearch:** [rodokmeň Veroniky (PMQS-SVF)](https://www.familysearch.org/en/tree/pedigree/portrait/PMQS-SVF) — priebežne dopĺňaný o nové objavy (zobrazenie vyžaduje bezplatné FS konto)
+
 Legenda: 🟢 doložené záznamom · 🟡 v strome FS, bez dokladu · 🔴 hypotéza
 
 ## 🧭 Kto je kto — legenda vzťahov (priama línia od Veroniky)

@@ -10,10 +10,10 @@ theme:
     code: Roboto Mono
   palette:
     - scheme: default
-      primary: brown
+      primary: blue grey
       toggle: {icon: material/brightness-7, name: Tmavý režim}
     - scheme: slate
-      primary: brown
+      primary: blue grey
       toggle: {icon: material/brightness-4, name: Svetlý režim}
   features:
     - navigation.instant
@@ -21,7 +21,7 @@ theme:
     - search.suggest
     - content.tabs.link
 extra_css:
-  - stylesheets/extra.css?v=3
+  - stylesheets/extra.css?v=4
 plugins:
   - search:
       lang: sk

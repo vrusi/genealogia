@@ -1,14 +1,14 @@
 :root {
-  --md-primary-fg-color: #795548;
-  --md-primary-fg-color--light: #a1887f;
-  --md-primary-fg-color--dark: #4e342e;
-  --md-accent-fg-color: #d84315;
+  --md-primary-fg-color: #455a64;
+  --md-primary-fg-color--light: #78909c;
+  --md-primary-fg-color--dark: #263238;
+  --md-accent-fg-color: #c07b4d;
 }
 
 /* Karty — farebné akcenty podľa vetiev (farby migračnej mapy) */
 .md-typeset .grid.cards > ul > li {
   border-radius: 10px;
-  border-top: 4px solid #a1887f;
+  border-top: 4px solid #90a4ae;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
@@ -26,7 +26,7 @@
 /* Pásik faktov na úvode */
 .fakt-pas { display: flex; flex-wrap: wrap; gap: 0.5em; margin: 1.2em 0; }
 .fakt-pas span {
-  background: linear-gradient(135deg, #5d4037, #8d6e63);
+  background: linear-gradient(135deg, #37474f, #607d8b);
   color: #ffffff;
   padding: 0.35em 0.9em;
   border-radius: 999px;
@@ -41,7 +41,7 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 .md-typeset table:not([class]) th {
-  background: #5d4037;
+  background: #455a64;
   color: #ffffff;
 }
 
