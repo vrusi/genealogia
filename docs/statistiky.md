@@ -38,8 +38,8 @@ Ličko a Lorenowicz sú v poznámkach jedna „vetva" (spája ich Irena), ale po
 | Anna Dzurendová po Jozefovi Hanisovi (†1929) | Anna | 40+ (nikdy sa nevydala?) |
 | Marta Kočišová (†1982) po Jozefovi Hajmanovi (†1977) | Marta | 5 |
 | Helena (†1994) po Rudolfovi (†1991) | Helena | 3 |
-| Ján Rusinko (†1980) po Anne (†1967) | **Ján** | 13 — vzácny prípad, keď prežil muž |
-| dedo Ján (†2006) po babke Anne (†2000) | **dedo Ján** | 6 — druhý taký prípad |
+| Ján Rusinko (†1980) po Anne (†1967) | Ján | 13 — vzácny prípad, keď prežil muž |
+| dedo Ján (†2006) po babke Anne (†2000) | dedo Ján | 6 — druhý taký prípad |
 
 Vzorec sedí s demografiou: takmer vždy prežila žena — ale rusinkovskí muži sú výnimka (dlhovekosť).
 
