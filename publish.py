@@ -79,6 +79,8 @@ def main():
     print("OK landing -> index.md")
     shutil.copytree(Path(__file__).parent / "web-assets", DOCS / "stylesheets")
     print("OK stylesheets/")
+    shutil.copytree(Path(__file__).parent / "web-assets", DOCS / "stylesheets")
+    print("OK stylesheets/")
     # kontrola, že nič citlivé nepretieklo
     leaked = []
     for f in DOCS.glob("*.md"):

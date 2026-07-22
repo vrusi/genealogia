@@ -5,21 +5,25 @@ theme:
   language: sk
   icon:
     logo: material/family-tree
+  icon:
+    logo: material/family-tree
   font:
     text: Source Sans 3
     code: Roboto Mono
   palette:
     - scheme: default
-      primary: brown
+      primary: teal
       toggle: {icon: material/brightness-7, name: Tmavý režim}
     - scheme: slate
-      primary: brown
+      primary: teal
       toggle: {icon: material/brightness-4, name: Svetlý režim}
   features:
     - navigation.instant
     - navigation.top
     - search.suggest
     - content.tabs.link
+extra_css:
+  - stylesheets/extra.css
 extra_css:
   - stylesheets/extra.css
 plugins:
