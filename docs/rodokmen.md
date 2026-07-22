@@ -58,7 +58,7 @@ graph TD
     PF["🟢 Peter Fejerčák<br>*10.7.1860 Janov<br>⚭ 19.2.1884 Bajerov"]
     MG["🟢 Mária Guľasová<br>*18.8.1861 Rokycany"]
     MRG["🟢 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov (kandidáti 3× prastarí)<br>deti: Ondrej *1857, Ján *1859, Juraj *1862<br>krsty GK Klenov, film 004406750"]
-    OR["🟡 Ondrej Rusinko<br>*9.2.1857 Bujakov č. 15 (krst doložený!)<br>†1936, hrob Bajerov (náhrobok „1861" nepresný)<br>hypotéza: otec Jána 1898"]
+    OR["🟡 Ondrej Rusinko<br>*9.2.1857 Bujakov č. 15 (krst doložený!)<br>†1936, hrob Bajerov (náhrobok „1861“ nepresný)<br>hypotéza: otec Jána 1898"]
     MRG --> OR
   end
   subgraph gen3["~1895 — pradedovia"]
