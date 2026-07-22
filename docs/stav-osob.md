@@ -17,7 +17,7 @@ Legenda: ✅ prebraté (online vyčerpané) · 🔍 otvorené stopy · 📄 čak
 | **5. dieťa** (†pred 1930) | 📄 | GK matrika Klenov / Bzenov |
 | Štefan *28.9.1925 †1.2.2015 (dožil sa ~90 r.) BA + Emília *1925 †2015 (dožila sa ~90 r.) | ✅📄 | Emíliino rodné meno: Marianum (parte/nájomca), potomkovia |
 | Andrej *1927 †2017 (dožil sa ~90 r.) + Mária rod. Holmáňová *1934 †2024 (dožila sa ~90 r.) | ✅📄 | parte (ERA/obec Rokycany); „Holmáňová" = 0 nositeľov v SR → sobášny zápis ~50. roky = pravé meno |
-| Ondrej Rusinko 1861–1936 (dožil sa ~75 r.) (hypotéza otca Jána 1898) | 🔍 | ❌ **krst 1860–63 v Klenove NIE JE (sweep 22.7.2026)** — rok hrobu nepresný?; ⭐ **nová stopa: MICHAL RUSZINKO ⚭ MÁRIA GUMAN, Bujak č. 18 — syn Georgius *1862** (film obr. 204) = kandidáti na Ondrejových rodičov → sweep krstov 1855–59 + druhopisy 1864+; repatriačný spis (ŠA PO, čaká sa) |
+| Ondrej Rusinko ***9.2.1857 Bujakov** †1936 (dožil sa ~79 r.) (hypotéza otca Jána 1898) | ✅📄 | ⭐⭐⭐ **KRST NÁJDENÝ 22.7.2026** (Klenov, film obr. 186): *9.2./krst 10.2.1857, Bujakov 15, **rodičia MICHAL RUSINKO & MÁRIA GUMANOVÁ** (= kandidáti 3× prastarí!); krstní Sedlák+Szemanits; marginálie „1894" (výpis k sobášu?); rok hrobu „1861" nepresný; súrodenci Ján *1859, Georgius *1862; do FS až po potvrdení väzby na Jána 1898; repatriačný spis (ŠA PO, čaká sa) |
 | Veronika Mrúzová rod. Rusinková *~1919 †1978 Bzenov (dožila sa ~59 r.) | 🔍 | nová pravdepodobná príbuzná — kto bola? |
 
 ## Vetva Fejerčák–Guľas

@@ -104,7 +104,15 @@ Register fondu *Československé repatriačné stredisko v Prešove* (ŠA Prešo
 - **Dôsledky:** (a) rok na hrobe môže byť nepresný → dokončiť sweep 1860 a 1862–63 (obr. ~197–205); (b) Ondrej sa mohol narodiť v INEJ farnosti (RK Bajerov? — pochovaný na bajerovskom cintoríne; alebo iná GK farnosť); (c) meno v zápise môže byť latinsky „Andreas" s prímenom — pri sweepe čítať aj matky/priezviská.
 - **Ďalšie kroky vo filme:** dokončiť 1860+1862–63; **sobáše Klenov 1825–79** (sobáš Ondrejových rodičov / Štefana R.); úmrtia; potom Inv. 436 druhopisy (dvojitá šanca na čitateľnosť). Viewer: familysearch.org/search/film/004406750, obraz X = URL param ?i=X-1.
 
-### ⭐⭐ POKRAČOVANIE SWEEPU (22.7.2026 večer) — RUSINKOVSKÁ DOMÁCNOSŤ V BUJAKOVE NÁJDENÁ!
+### ⭐⭐ POKRAČOVANIE SWEEPU (22.7.2026 večer, 2. kolo) — UŽ TRI RUSINKOVSKÉ ZÁZNAMY
+
+- ⭐⭐ **Joannes (Ján) Ruszinko, *3.7./krst 6.7.1859 — otec MICHAL RUSZINKO, matka MÁRIA GUMAN, Bujakov č. 19** (obraz 196, zápis č. 12/1859) — starší brat Georgiusa *1862 (Bujakov 18/19 = tá istá domácnosť).
+- ⭐ **Mária Rusinková — slobodná matka, Kvačany č. 36**: dcéra Helena, krst január 1859, otec neznámy (obraz 195, zápis č. 2/1859). Tretí dospelý Rusinko vo farnosti (popri Michalovi a Štefanovi-krstnom).
+- **Súhrn rusinkovských osôb vo farnosti ~1858–62: Michal (Bujakov 18/19, ⚭ Mária Guman; deti Ján *1859, Georgius *1862), Mária (Kvačany 36), Štefan (krstný otec 1861).**
+- **Prečesané kompletne: 1858 (od februára), 1859, 1860 (od marca), 1861, 1862, 1863 (do júla).** Krst Andreasa/Ondreja Rusinka v týchto rokoch NIE JE → Ondrej bude starší: hľadať **1855–57 + január 1858** (obrazy ~186–190; pozor: obrazy 191 a 192 sú duplicitné zábery tej istej strany).
+- Bonus: „Anna Fejercsák" ako matka v Kvačanoch 13 (júl 1858) — fejerčákovská stopa aj v klenovskej knihe.
+
+### ⭐⭐ POKRAČOVANIE SWEEPU (22.7.2026 večer, 1. kolo) — RUSINKOVSKÁ DOMÁCNOSŤ V BUJAKOVE NÁJDENÁ!
 
 - **Prečesané roky: 1860 (od marca), 1861 (celý), 1862 (celý), 1863 (jan–júl)** — obrazy 198–205.
 - ⭐⭐ **JEDINÝ rusinkovský krst: GEORGIUS (Juraj), krst ~júl 1862 — otec MICHAEL RUSZINKO, matka MARIA GUMAN, gr. kat. coloni, BUJAK č. 18** (obraz 204, ľavá strana, zápis č. 18/1862; krstní rodičia Michael Onda & Anna Lukats). → **Michal Rusinko ⚭ Mária Gumanová = rusinkovská rodina v Bujakove — presne v obci, kde sa 1898 narodil pradedo Ján!** Kandidáti na Ondrejových rodičov.
@@ -112,4 +120,16 @@ Register fondu *Československé repatriačné stredisko v Prešove* (ŠA Prešo
 - **Gumanovci** sú v knihe hustí (Bujak 3, Bajor 13...) — miestny rod; aj zápis „Joanes Guman × Anna Kolar, Bujak 3" (1863). Sedí s krstom Georgiusa.
 - Ďalší Andreasovia 1860–63: Hricz, Liba (2×), Krehely, Dolinszky, Kollár — žiadny náš.
 
+## ⭐⭐⭐ KRST ONDREJA NÁJDENÝ (22.7.2026, 3. kolo sweepu) — NOVÁ GENERÁCIA!
+
+**Klenov GK, krsty — Anno 1857, zápis č. 2 (film 004406750, obraz 186, ark:/61903/3:1:S3HY-6FQ9-H7K):**
+
+- **ANDREAS (Ondrej), *9.2.1857, krst 10.2.1857 — otec MICHAL RUSINKO (Michaël Ruszinko), matka MÁRIA GUMANOVÁ (Maria Guman), gréckokatolícki roľníci (coloni), BUJAKOV č. 15**
+- Krstní rodičia: Andreas Sedlák & Barbara Szemanits, Bujakov
+- ⭐ **Ceruzková marginálna poznámka „1894"** pri zázname — zrejme rok, keď sa zo zápisu žiadal výpis (kandidát: k sobášu Ondreja ~1894 → prvé dieťa Ján *1898 by sedelo!)
+- **Identifikácia s Ondrejom z bajerovského hrobu (1861–1936):** jediný Andreas Rusinko v knihe za roky 1855?–1863 (kompletne prečesané 1857–1863); rok na náhrobku „1861" je teda nepresný o 4 roky (†1936 = dožil ~79, nie 75). Vysoká istota, ale formálne hypotéza, kým krst Jána 1898 nepotvrdí otca.
+- **Doložené deti Michala a Márie: Andreas *9.2.1857 (Bujakov 15), Ján *3.7.1859 (Bujakov 19), Georgius *~7/1862 (Bujakov 18).** Čísla domov 15/18/19 — želiarska rodina sa sťahovala po dedine, alebo číslovanie plávalo.
+- **→ MICHAL RUSINKO & MÁRIA GUMANOVÁ = kandidáti na 3× prastarých rodičov** (rovnaká generačná úroveň ako János Hajman & Anna Huterová). Gumanovci = miestny rod (Bujakov 3, Bajerov 13, Izsép...).
+- ❗ Do FS NEZAPISOVAŤ, kým krst Jána *1898 (fara Klenov) nepotvrdí väzbu Ondrej→Ján. Potom pripnúť všetko naraz.
+- Ďalšie kroky: (1) sobáš Michal × Mária Gumanová — sobášna sekcia knihy (1825–79, za krstami ~obraz 230+?) alebo skoršie krsty (prvé dieťa?) v 1850–56 (obrazy ~178–186); (2) úmrtia Michala/Márie v sekcii úmrtí; (3) druhopisy 1864+ (mladšie deti); (4) krst Jána 1898 — o. Sekera Mikluš (odpoveď čakáme).
 

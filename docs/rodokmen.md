@@ -26,9 +26,10 @@ Legenda: 🟢 doložené záznamom · 🟡 v strome FS, bez dokladu · 🔴 hypo
 - Jozef Hanis ~1894–1929 & Anna rod. Dzurendová *1900 — *prastarí, otcova strana (Hanis)*
 - Rudolf Hajman ~1916?–1991 & Helena rod. Škodiová 1919–1994 (dožila sa ~75 r.) — *prastarí, mamina strana (Hajman)*
 - rodičia Jozefa Lička — *neznámi — hľadať v matrike Valaská (rodný list Jozefa *1942), mamina strana (Ličko)*
+- Michal Rusinko & Mária rod. Gumanová (Bujakov, ~*1820–35?) — *kandidáti na 3× prastarých, otcova strana (rodičia Ondreja *1857); doložení krstami detí 1857–1862, GK Klenov*
 
 **Praprastarí rodičia (4) — „2× pra":**
-- Ondrej Rusinko? 1861–1936 (dožil sa ~75 r.) (hypotéza) — *prapradedo, otec/Rusinko*
+- Ondrej Rusinko *9.2.1857 Bujakov 15 †1936 (dožil sa ~79 r.) (hypotéza otcovstva Jána 1898; krst doložený 22.7.2026) — *prapradedo, otec/Rusinko; rodičia Michal Rusinko & Mária Gumanová, bratia Ján *1859 a Juraj *1862*
 - Peter Fejerčák 1860 & Mária rod. Guľasová 1861 — *praprastarí, otec/Fejerčák*
 - Andrej Dzurenda *1870 & Alžbeta rod. Šoltés — *praprastarí, otec/Dzurenda*
 - Ferenc Hajman 1873 & Alžbeta rod. Suver *1876 Mokrance — *praprastarí, mama/Hajman*
@@ -56,7 +57,9 @@ graph TD
   subgraph gen4["~1860 (4. generácia)"]
     PF["🟢 Peter Fejerčák<br>*10.7.1860 Janov<br>⚭ 19.2.1884 Bajerov"]
     MG["🟢 Mária Guľasová<br>*18.8.1861 Rokycany"]
-    OR["🔴 Ondrej Rusinko?<br>1861–1936, hrob Bajerov"]
+    MRG["🟢 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov (kandidáti 3× prastarí)<br>deti: Ondrej *1857, Ján *1859, Juraj *1862<br>krsty GK Klenov, film 004406750"]
+    OR["🟡 Ondrej Rusinko<br>*9.2.1857 Bujakov č. 15 (krst doložený!)<br>†1936, hrob Bajerov (náhrobok „1861" nepresný)<br>hypotéza: otec Jána 1898"]
+    MRG --> OR
   end
   subgraph gen3["~1895 — pradedovia"]
     JR98["🟢 Ján Rusinko<br>*27.4.1898 Brežany (vtedy Bujakov), gr.kat.<br>†28.2.1980, hrob Rokycany A/33"]

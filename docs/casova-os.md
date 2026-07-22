@@ -10,8 +10,10 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené 14.7.
 - **1822–23** — index GK farnosti Klenov (filiálka Bajerov): vedľa seba **Gula/Gulyas, Seman aj Ruszinko**
 - **1834** — narodil sa **Juraj Guľas(ko)** (Jakubovany) aj **Alžbeta Semanová**
 - ~1830te — narodili sa **Ján Fejerčák** a **Mária Fedorová** (Janov?)
+- **9.2.1857** — narodil sa **Ondrej Rusinko** v Bujakove č. 15 (krst 10.2., GK Klenov) — rodičia **Michal Rusinko a Mária Gumanová** ⭐ (krst nájdený 22.7.2026; náhrobok „1861" bol nepresný)
+- **3.7.1859** — narodil sa **Ján Rusinko**, Ondrejov brat (Bujakov č. 19); tretí brat **Juraj** nasledoval v júli **1862** (Bujakov č. 18)
 - **10.7.1860** — narodil sa **Peter Fejerčák** v Janove (krst 15.7. v Ľubovci)
-- **1861** — narodil sa **Ondrej Rusinko** (🔴 hypotetický otec Jána 1898); **18.8.1861** narodená **Mária Guľasová** v Rokycanoch
+- **18.8.1861** — narodená **Mária Guľasová** v Rokycanoch
 - **16.11.1866** — vo veku 32 rokov zomrel **Juraj Guľas** (Rokycany, pochovaný na druhý deň); Alžbeta Semanová ovdovela ako 32-ročná
 - **1869** — narodila sa **Mária Hajmanová** (Ferencova sestra) v Szőlősgyöröku; ⚭ 17.11.1906 András Lachmanek (rodina ostala v Somogy)
 - **31.7.1873** — narodil sa **Ferenc Hajman** v **Szőlőskislaku č.?** (Somogyská župa, pri Balatone), krst 2.8. Szőlősgyörök — praprastarý otec; rodičia **János Hajman (želiar) & Anna Huterová = 3× prastarí rodičia** ✅ matrika s. 120/71, sken v prílohách
@@ -63,7 +65,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené 14.7.
 - **1.–2.12.1930** — **sčítanie ľudu**: zachytené domácnosti Rusinkovcov (Rokycany 20), Hanisových (Žipov 57), Jozefa Hajmana (Skladná 47) aj vdovy Alžbety (D. Licharda 37)
 - **23.7.1932** — „Hajman János, kassai szűcssegéd" v novinách (kožušník, aj turista); **29.9.1932** — úrady „vyšetrili" národnosť Hajmanovcov (maďarská → slovenská)
 - **17.7.1934** — narodila sa **Mária Holmáňová**
-- **1936** — zomrel **Ondrej Rusinko *1861** (hrob Bajerov — liatinový kríž; 🔴 hypotetický otec Jána Rusinka *1898) (dožil sa ~75 r.)
+- **1936** — zomrel **Ondrej Rusinko *9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; hypotetický otec Jána Rusinka *1898) (dožil sa ~79 r.)
 
 ## Vojna a povojnové roky
 
