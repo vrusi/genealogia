@@ -77,6 +77,8 @@ def main():
     print("OK mapa-rodokmena wrapper")
     shutil.copy(Path(__file__).parent / "landing.md", DOCS / "index.md")
     print("OK landing -> index.md")
+    shutil.copytree(Path(__file__).parent / "web-assets", DOCS / "stylesheets")
+    print("OK stylesheets/")
     # kontrola, že nič citlivé nepretieklo
     leaked = []
     for f in DOCS.glob("*.md"):

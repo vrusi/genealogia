@@ -3,6 +3,11 @@ site_url: https://vrusi.github.io/genealogia/
 theme:
   name: material
   language: sk
+  icon:
+    logo: material/family-tree
+  font:
+    text: Source Sans 3
+    code: Roboto Mono
   palette:
     - scheme: default
       primary: brown
@@ -15,6 +20,8 @@ theme:
     - navigation.top
     - search.suggest
     - content.tabs.link
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - search:
       lang: sk

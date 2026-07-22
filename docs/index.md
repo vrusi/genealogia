@@ -2,7 +2,12 @@
 
 **Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Škoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií z troch krajín, ktoré sa všetky zbehli v Košiciach.
 
-**6 doložených generácií** · **120+ osôb** · **najstarší záznam: Joannes Rusinko, Klenov 1715** · **5 krajín: 🇸🇰 🇭🇺 🇵🇱 🇨🇦 🇺🇸**
+<div class="fakt-pas">
+<span>🌳 6 doložených generácií</span>
+<span>👥 120+ osôb</span>
+<span>📜 najstarší záznam: 1715</span>
+<span>🌍 🇸🇰 🇭🇺 🇵🇱 🇨🇿 🇨🇦 🇺🇸</span>
+</div>
 
 ---
 
