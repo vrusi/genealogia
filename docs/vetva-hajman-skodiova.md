@@ -243,3 +243,18 @@ Opakujúci sa kolegovia (krížová kontrola pri čítaní plných textov): Zsá
 - ❌ **Rudolf ml. narodenie 1930–44 v KE NIE JE** → pravdepodobne ***1945–50** (mladší než Irena!) — požiadať SM o roky 1945–50, alebo sa narodil mimo KE. Mladší ročník by sedel aj s emigráciou v 60. rokoch ako ~20-ročný.
 - ⚠️ SM dôrazne: matriky nerobia bádateľské služby — žiadať vždy s konkrétnymi dátumami a preukázaným vzťahom.
 
+## 🇭🇺 MNL Somogy odpovedal (23.7.2026): Anna Huterová †1879!
+
+Archivárka Herczeg Orsolya rešerš odmietla, ale prezradila: „Hutera Anna halotti bejegyzése — felekezeti RK anyakönyv, 1879" → **3× prababka Anna Huterová zomrela 1879 v Szőlősgyöröku** (RK matrika; dohľadateľné cez FS vyhľadávanie po prihlásení). János Hajman: štátne matriky Somogy po 1895 zadarmo — adatbazisokonline.mnl.gov.hu (Szőlősgyörök halotti 1895–1901: imgview/allami-anyakonyvek/7CE0CE2F305F40EAFE6FD75E8D65DB71). Ochranné lehoty HU: narodenia do 1915, sobáše do 1939, úmrtia všetky. Anna †1879 = pri Ferencovom odchode do Kassa (~1900) už matka nežila.
+
+## ⭐⭐⭐ FS index prielom (23.7.2026): sobáš 1861, Annino úmrtie 1879, traja noví synovia!
+
+Vyhľadanie „Anna Hutera + Szőlősgyörök" (kolekcia **Hungary, Church Books, 1624-1950** — INÁ než 1636–1895, preto sme to skôr nevideli!):
+
+1. ⭐⭐ **SOBÁŠ NÁJDENÝ: 10.2.1861, Szőlősgyörök — Joannes HEIMANN × Anna Hutera** (nevesta *~1838, **otec Franciscus HUTERA = 4× pradedo!**). Náš sweep 1865–73 ho minul, lebo bol skôr (1861) a pod pravopisom „Heimann" (nový variant č. 6!). Kandidát otca Gáspár padá — **Annin otec je FRANTIŠEK Hutera**.
+2. ⭐ **ÚMRTIE: Anna Huterová †7.4.1879, pohreb 8.4.1879, Szőlősgyörök** (nar. ~1841 podľa zápisu; vek ~38–41). Ferenc (*1873) osirel v 5 rokoch. Sedí s tým, že do Kassa 1900 išiel bez matky.
+3. ⭐ **PRAVDEPODOBNÍ NOVÍ SYNOVIA (⚠️ zatiaľ inferencia z indexu, NIE doložené): Lajos a József** („Heiman János × Hutera Anna") **+ Pál** (pod „Homon Janos × Hutera Anna"). Identifikácia stojí na: rovnaký pár menami v tej istej malej farnosti + známa reťaz komolenín (Hajman=Halman=Homon=Heiman). **Rozhodnú detaily krstov (dátum, bydlisko Kislak?, číslo domu)** — kým nesedia, nezapisovať do FS ani na web. Deti: isté Mária *1869 + Ferenc *1873 (+ Anna *1876?), pravdepodobné Pál, Lajos, József.
+4. **Máriin civilný sobáš** — index „Hajman Lachmanek Maria", Hutera Anna ako matka nevesty (Hungary Civil Registration 1895–1980) — potvrdenie sobáša 1906 z civilnej matriky.
+5. TODO: otvoriť detaily záznamov (ark ID + obrazy) — sobáš 1861 uvedie aj JÁNOSOVÝCH rodičov (= druhá polovica 4× prastarých); krsty Lajosa/Józsefa/Pála = roky; Annino úmrtie = presný vek → rok narodenia; krst Anny ~1838 (otec František) v knihe Szőlősgyörök.
+6. Pravopisné sito Hajman rozšíriť: **Hajman = Hajmán = Haiman = Halman = Homon = Heiman = Heimann** (7 podôb).
+

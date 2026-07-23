@@ -13,9 +13,11 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené 14.7.
 - **9.2.1857** — narodil sa **Ondrej Rusinko** v Bujakove č. 15 (krst 10.2., GK Klenov) — rodičia **Michal Rusinko a Mária Gumanová** ⭐ (krst nájdený 22.7.2026; náhrobok „1861" bol nepresný)
 - **3.7.1859** — narodil sa **Ján Rusinko**, Ondrejov brat (Bujakov č. 19); tretí brat **Juraj** nasledoval v júli **1862** (Bujakov č. 18)
 - **10.7.1860** — narodil sa **Peter Fejerčák** v Janove (krst 15.7. v Ľubovci)
+- **10.2.1861** — sobáš **János Hajman × Anna Huterová** v Szőlősgyöröku (nevesta ~23-ročná, dcéra Františka Huteru) ⭐
 - **18.8.1861** — narodená **Mária Guľasová** v Rokycanoch
 - **16.11.1866** — vo veku 32 rokov zomrel **Juraj Guľas** (Rokycany, pochovaný na druhý deň); Alžbeta Semanová ovdovela ako 32-ročná
 - **1869** — narodila sa **Mária Hajmanová** (Ferencova sestra) v Szőlősgyöröku; ⚭ 17.11.1906 András Lachmanek (rodina ostala v Somogy)
+- **7.4.1879** — zomrela **Anna Huterová** (~38–41 r.), Szőlősgyörök — deti (najmenej Mária a 5-ročný Ferenc, možno až šesť) osireli ⭐
 - **31.7.1873** — narodil sa **Ferenc Hajman** v **Szőlőskislaku č.?** (Somogyská župa, pri Balatone), krst 2.8. Szőlősgyörök — praprastarý otec; rodičia **János Hajman (želiar) & Anna Huterová = 3× prastarí rodičia** ✅ matrika s. 120/71, sken v prílohách
 - **6.3.1876** — narodila sa **Alžbeta Suverová** v **MOKRANCIACH č. 10** (maď. Makranc; Abov, 25 km od Košíc), krst 7.3.1876 Moldava (Szepsi) — praprababka Hajman; **nemanželská dcéra slúžky Erzsébet Suverovej (3× prababka!)** ✅ matrika s. 161/24, sken v prílohách
 - **23.11.1874** — narodil sa **Ján Dzuriček st.** v Bajerove (do Žipova ako nemluvňa)

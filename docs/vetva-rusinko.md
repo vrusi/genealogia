@@ -133,3 +133,14 @@ Register fondu *Československé repatriačné stredisko v Prešove* (ŠA Prešo
 - ❗ Do FS NEZAPISOVAŤ, kým krst Jána *1898 (fara Klenov) nepotvrdí väzbu Ondrej→Ján. Potom pripnúť všetko naraz.
 - Ďalšie kroky: (1) sobáš Michal × Mária Gumanová — sobášna sekcia knihy (1825–79, za krstami ~obraz 230+?) alebo skoršie krsty (prvé dieťa?) v 1850–56 (obrazy ~178–186); (2) úmrtia Michala/Márie v sekcii úmrtí; (3) druhopisy 1864+ (mladšie deti); (4) krst Jána 1898 — o. Sekera Mikluš (odpoveď čakáme).
 
+### ⚠️ Obmedzenie filmu + náhradné cesty (23.7.2026)
+
+- **FS film 004406750 je online voľne prístupný len po obraz ~209** — od ~210 „Image Restricted" (prístupné len vo **FamilySearch centre**; v Prahe FS centrum existuje — dá sa tam dočítať zvyšok: koniec krstov 1863–79, sobáše, úmrtia, Inv. 435 s manželstvami 1880–98, druhopisy). Šťastie: krst Ondreja (obr. 186) bol tesne pred hranicou.
+- ✍️ **Draft pre ŠA Prešov v Mail Drafts (23.7.):** vyhľadanie v origináloch kníh Klenov — (1) **sobáš Ondreja ~1894** (Inv. 435 → meno nevesty = matka Jána 1898!), (2) **sobáš Michal × Mária Gumanová ~1850–56** (Inv. 434 → ich rodičia = 7. generácia), (3) úmrtia Michala a Márie.
+- 💡 **Sčítanie 1869 Bujakov (Sárosbuják)** — šarišské menné hárky: domácnosť Michala Rusinka by dala veky celej rodiny + ďalšie deti. Poosch.sk Šariš nepokrýva → FS kolekcia „Slovakia Census 1869" (browse podľa obcí) — TODO ďalšie sedenie.
+
+### 🇭🇺 Bonus z MNL Somogy (23.7.2026)
+
+- ⭐ **Anna Huterová (3× prababka) zomrela 1879, Szőlősgyörök** — prezradila archivárka (RK matrika; overiť cez FS search po prihlásení).
+- **Úmrtie Jánosa Hajmana** (ak po 1895): štátne matriky Somogy zadarmo online — adatbazisokonline.mnl.gov.hu → Szőlősgyörök halotti 1895–1901 — TODO listovať.
+

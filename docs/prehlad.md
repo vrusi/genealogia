@@ -2,79 +2,63 @@
 
 > Dlhodobý projekt. Založené 9. 7. 2026. FamilySearch účet: V7180 (osoba `PMQS-SVF`).
 > Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) · [Vetva Hanis](vetva-hanis.md) · [Vetva Ličko](vetva-licko.md) · [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md)
-> Strom: [Rodokmeň](rodokmen.md) · Úlohy: Korešpondencia a úlohy · Register osôb: [Stav osôb](stav-osob.md) · Časová os: [Časová os](casova-os.md)
-> 🌐 **Verejná stránka pre rodinu: https://vrusi.github.io/genealogia/** (repo `vrusi/genealogia`; aktualizácia: v `~/Documents/genealogia-web` spustiť `python3 publish.py && git add -A && git commit -m update && git push` — publikuje sa BEZ Draftov emailov, Korešpondencie a DNA matchov a bez kontaktov žijúcich osôb)
+> Strom: [Rodokmeň](rodokmen.md) · Úlohy: Korešpondencia a úlohy · Register osôb: [Stav osôb](stav-osob.md) · Časová os: [Časová os](casova-os.md) · Pracovné poznámky: Výskumný denník
+> 🌐 **Verejná stránka pre rodinu: https://vrusi.github.io/genealogia/** (repo `vrusi/genealogia`; aktualizácia: v `~/Documents/genealogia-web` spustiť `python3 publish.py && git add -A && git commit -m update && git push` — publikuje sa BEZ Draftov emailov, Korešpondencie, DNA matchov a Výskumného denníka, bez kontaktov žijúcich osôb)
 
-## Stav otvorených otázok
+## Otvorené otázky
 
-| Otázka | Stav | Kľúčový ďalší krok |
+| Otázka | Stav | Ďalší krok |
 |---|---|---|
-| Je Ján Rusinko (1923) syn Jána Rusinka (1898)? | ✅ **DOLOŽENÉ** — sčítací hárok 1930 (Rokycany 20) zapisuje deda ako syna v domácnosti Jána 1898 a Anny (od NagyLukasa 13.7.2026) | — (hotové; príp. krst deda z GK matriky) |
-| Vierovyznanie Rusinkovcov (RK/GK)? | ✅ **GRÉCKOKATOLÍCKA** (hárok 1930); GK farnosť = **KLENOV** (Klembark) — filiálky Brežany, Rokycany, Bajerov, Kvačany, Žipov | FS filmy Klenov 1825–1897: **DGS 4406750/4406751**; po 1897: fara Klenov |
-| Kde je „Bujakov"? | ✅ **VYRIEŠENÉ: Bujakov = BREŽANY** (názov do 1956; maď. Sárosbuják), 4 km od Rokycian, GK obec s dreveným chrámom 1727 | krst 1898: fara Klenov / civilná matrika obvod **Svinia** (ŠA PO) |
-| Rodné meno manželky Jána (1898) | ✅ **Anna Fejerčáková**, doložená krstom 1895 aj **spoločným hrobom** (Rokycany A/33, †6.1.1967) | — (overiť ešte sobášom 1919) |
-| Rodičia Anny Hanisovej (1928, Žipov) | ✅ **VYRIEŠENÉ 19.7.2026 (Arcibiskupský archív KE):** otec **JOZEF HANIS †11.1.1929, 34 r. (*~1894/95)**; matka **Anna rod. DZURENDOVÁ *24.11.1900**, jej rodičia **Andrej Dzurenda & Alžbeta rod. Šoltésová**, Žipov 18. Žipov patril pod **BAJEROV** (nie Radačov!) | fara Bajerov: sobáš 1918–27 → **Jozefovi rodičia** + odkiaľ bol |
-| Kto je Rudolfov otec (Hajman)? | ✅ **VYRIEŠENÉ 13.7.2026**: brat-kožušník Ján *1913 (potvrdila mama) ukotvil Rudolfa do domácnosti na Lichardovej → rodičia = **Ferenc Hajman (†1927?) a Alžbeta rod. Schurer *1873** — nová generácia; bratia Jozef *1898 (Budapešť!), František *1900, Ján *1913, Ladislav *1916 | úmrtný zápis Ferenca (KE 1927); hárok Komenského 69 (kde bol Rudolf 1930?) |
-| Jozef Ličko — dátumy, rodičia | ⭐ **RODÁK Z VALASKEJ (okr. Brezno)! *1942** — matrika Jasov 22.7.2026 (v Jasove sa 1923–49 nikto Ličko nenarodil; obyvateľ Jozef Ličko *1942 Valaská) + mama: „rok by sedel"; v Jasove len býval; **majster VSS**, †**1981+** na rakovinu; Ličko = domáce horehronské priezvisko (Brezno 1656, Beňuš 1790, uhliar Ličko na Piesku/Valaská) — [Vetva Ličko](vetva-licko.md) | ⭐ **rodný list z matriky VALASKÁ** (✍️ draft odoslateľný) → presný dátum + RODIČIA; potom RK matriky Valaská/Brezno (ŠA BB/FS); hrob Valaská E/100 (Miroslav *~1927 = brat?) |
-| Helena Škodiová — pravopis, pôvod | 🔶 *1919 †1994 (hrob sk. 1 + evidencia); **úmrtie eviduje MÚ KE-ZÁPAD** (SM 22.7.2026), Katarínino úmrtie nevie evidovať nikto (SM ❌); ❗ **sobáš Rudolf×Helena 1938–44 v KE NIE JE** → brali sa inde (jej rodisko? Poľsko?) alebo skôr; „Poľsko" platí (pamäť rodiny) | ✉️ **žiadosti: KE-Západ (Helena) + KE-Juh (Rudolf, Irena, Katarína)** — drafty 22.7.; rodný list Ireny cez CISMA/slovensko.sk |
-| Repatriačný spis Ondreja Rusinka (Rokycany, 1946) | ✅ **tlačivo so 4 spismi odoslané 21.7.2026** (Ondrej 105513, Fejerčák Andrej 105727 *23.10.1908 Bajerov, Jozef 105713, Juraj 105871); digitálne kópie A4 | ⏳ čaká sa na platobné údaje a skeny |
+| Otec Jána Rusinka (*1898) | 🔶 hlavný kandidát **Ondrej Rusinko *9.2.1857 Bujakov** (syn Michala a Márie Gumanovej), †1936 Bajerov | krst Jána 1898 (fara Klenov — odpoveď čakáme) potvrdí otca menom |
+| Rodičia Jozefa Lička (*1942 Valaská) | 🔶 rod Ličko je vo Valaskej/na Horehroní doložený od 17. stor. | rodný list z matriky Valaská (žiadosť odoslaná 22.7.) |
+| Pôvod Heleny Škodiovej (*1919) a rodné meno Kataríny Škodovej | 🔶 rodinná pamäť hovorí o Poľsku; alternatíva: rod Škody JV od Košíc | úmrtné listy: Helena (MÚ KE-Západ), Katarína (MÚ KE-Juh) — žiadosti odoslané 22.7. |
+| Sobáš Rudolf Hajman × Helena Škodiová | 🔶 v Košiciach 1938–44 nebol → inde alebo skôr | vyplynie z úmrtných listov / Irenin rodný list |
+| Osud Rudolfa Hajmana ml. (Kanada) | 🔶 kandidát „Rudolph Hajman", Montreal; rok narodenia neznámy (*~1945–50?) | rok narodenia z matriky KE → potom Library and Archives Canada + ÚPN/ABS |
+| Rodičia Jozefa Hanisa (†1929) | 🔶 zomrel 34-ročný, pôvod nejasný | fara Bajerov: sobáš 1918–27 + krst ~1894/95 |
+| Úmrtia Ferenca Hajmana a Alžbety Suverovej | ❓ Ferenc po 1915, Alžbeta po 1930 (obaja KE?) | zúžiť roky (cintorín, tlač), potom matrika |
+| Piate dieťa Jána a Anny Rusinkovcov (†pred 1930) | ❓ | fara Klenov |
+| Osud Márie Rusinkovej (*1921) a sestry Anny (*po 1930) | ❓ | hárok 1940 (SNA), obec Rokycany, rodina |
+| 🧬 ~3 % Ashkenazi DNA | ❓ kandidátske línie: Katarínino rodné meno, rodičia Ferenca/Alžbety, Ličkovci | vyplynie z matrík |
 
-## Najdôležitejšie zistenia (júl 2026)
+## Doložený stav po vetvách
 
-0. ⭐⭐ **Sčítací hárok 1930 (Rokycany, dom 20) — od NagyLukasa 13.7.2026** [Slovakiana](https://slovakiana.sk/kulturne-objekty/cair-ko1eogt): (a) **dedo Ján 1923 doložený ako syn Jána 1898 a Anny** → jadro Rusinko otázky vyriešené; (b) **rodina GRÉCKOKATOLÍCKA** → preto v RK Bajerove niet krstov, hľadať v GK farnostiach; (c) sobáš **3.6.1919** potvrdený; (d) **Bujakov = pôvodná obec**, do Rokycian sa presťahovali **25.5.1922**; (e) Anna mala **5 detí, 1 zomrelo** (neznáme 5. dieťa). → [Vetva Rusinko](vetva-rusinko.md)
-1. ~~**Farnosť rodiny = RK Bajerov**~~ — platí len pre vetvu **Fejerčák–Guľas** (RK, doložené). **Rusinkovci sú GRÉCKOKATOLÍCKI** (hárok 1930) → iná farnosť! Rokycany boli RK filiálka Bajerova, ale GK obyvatelia patrili pod GK farnosť.
-2. **FamilySearch má z Bajerova len RK knihy do ~1896/97.** Krst Jána (1898), sobáš 3.6.1919, narodenia 1921–1928 a udalosti Hanisovcov 1928–29 na FS **nie sú** — treba GK matriky / matričný úrad / ŠA Prešov.
-3. **Kto je NagyLukas — VYRIEŠENÉ (13.7.2026):** **Lukáš Nagy, žije v Žipove; mapuje okolité cintoríny a robí rodokmene ľudí z okolitých obcí.** Dátumy berie z náhrobkov, rodinné vzťahy a dátumy sobášov **zo sčítacích hárkov 1930 a 1940**. → **nie je (nutne) príbuzný**, ale jeho dáta sú DOLOŽENÉ (hárky), nie vymyslené. Pozná Rusinkovcov aj Hanisovcov, lebo mapuje celý región. (Tým padá hypotéza „NagyLukas = Dzuriček/príbuzný"; hľadanie Dzuričekovcov ostáva pre živých príbuzných.)
-4. **Ondrej Rusinko (1861–1936), pochovaný v Bajerove** — kandidát na otca Jána (1898). Stále len hrob, žiadny doklad; hárok 1930 menuje len Jánovo rodisko (Bujakov), nie rodičov. ⚠️ Ondrej má hrob v Bajerove, ale naša rodina bola GK — preveriť, či Ondrej vôbec bol GK.
-5. **Repatriačný register 1946** (ŠA Prešov): *Rusinko Ondrej, Rokycany, reg. č. 105513, škatuľa 3* (str. 24) — vek by sedel na Andreja (*1927), brata deda. Aj *Rusinko Ján, Veľký Šariš, šk. 5* (str. 40, neisté).
+### Rusinko (Šariš — Bujakov/Brežany, Rokycany; gréckokatolíci, farnosť Klenov)
 
-## Webový prieskum 9.7.2026 (5 vetiev, detaily vo vetvách)
+- **Dedo Ján (1923–2006)** je syn **Jána Rusinka (*27.4.1898 Bujakov, †28.2.1980)** a **Anny rod. Fejerčákovej (*19.10.1895, †6.1.1967)** — doložené sčítacím hárkom 1930; sobáš 3.6.1919; do Rokycian (dom 20, dnes 22) sa presťahovali 25.5.1922. Deti: Mária *1921, Ján *1923, Štefan *1925 (BA), Andrej *1927 (+1 zomrelo v detstve).
+- **Ondrej Rusinko *9.2.1857 Bujakov č. 15, †1936 Bajerov** — hlavný kandidát na Jánovho otca; jeho rodičia **Michal Rusinko a Mária Gumanová** (želiari, Bujakov), bratia Ján *1859 a Juraj *1862. Krst doložený na filme (004406750, obr. 186).
+- Najstarší doložený nositeľ mena: **Joannes Rusinko, daňový súpis Klenov 1715** (overené na origináli).
 
-6. **Hroby s presnými dátumami**: Ján Rusinko ***27.4.1898 †28.2.1980** (dožil sa ~82 r.) + Anna rod. Fejerčáková **†6.1.1967** (Rokycany A/33, pohrebiskasr.sk); dedo Ján **†4.4.2006** + Anna (Verejný cintorín KE, sk. 18/20, GIS); Štefan ***28.9.1925 †1.2.2015** (dožil sa ~90 r.) + Emília (Vrakuňa 11/302, Marianum). → [Vetva Rusinko](vetva-rusinko.md)
-7. **Košice, hrob sk. 1 (ID 8596): Rudolf Hajman + Helena Hajmanová + Katarína Škodová** — pravdepodobne pradedovia; Rudolf v tlači 1939–41 ako tajomník kominárskeho spolku; „Hajman János, kožušnícky pomocník 1932" sedí s bratom kožušníkom. → [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md)
-8. ~~Irena pochovaná ako Ličková (1MUZEUM 2/12)~~ — **vyvrátené rodinou 10.7.2026**: Irena ⚭2 Peter Lorenowicz/Lorenovicz (žije, mamin adoptívny otec; rodina z Chomutova, otec vo VSŽ), zomrela ako **Lorenowiczová**, kremácia + rozptyl → hrob nemá. Jozef Ličko †~1973–76 → kandidát †2006 vylúčený, hlavný kandidát hrobka sk. 8, 0VR/30. → [Vetva Ličko](vetva-licko.md), [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md)
-9. **Žipov = Sárosizsép** (nie „Zsipó"!); klaster Hanisovcov dnes: Prešov/Solivar. → [Vetva Hanis](vetva-hanis.md)
-10. Užitočné nástroje: **WFS služba košického cintorínskeho GIS** (`gisplan.kosice.sk/services/mapserver/local/pahrb-kosice-pg/zemreli/gservice`, filter `CQL_FILTER=ZEMRELY_RE LIKE '…%'`), pohrebiskasr.sk, hrobovemiesta.marianum.sk, cintoriny.sk API (POST `api/htmlSearch.php`), 1869 sčítanie cez poosch.sk.
+### Fejerčák–Guľas (Šariš — Janov, Rokycany; rímskokatolíci, farnosť Bajerov)
 
-## Novinky 13.–14.7.2026 (druhá vlna prieskumu)
+- **Peter Fejerčák (*10.7.1860 Janov)** ⚭ 19.2.1884 **Mária Guľasová (*18.8.1861 Rokycany)**; jeho rodičia Ján Fejerčák a Mária Fedorová (~1830). Rodové prímená: Fejerčák-„Szabol", Guľas-„Seman".
+- **Juraj Guľas (1834–†16.11.1866, 32 r.)** a Alžbeta Semanová (*1834) — Mária osirela ako 5-ročná, matka ovdovela 32-ročná.
 
-11. **Hajman vetva kompletne prekreslená**: rodičia Rudolfa = **Ferenc Hajman a Alžbeta rod. Schurer *1873** (potvrdené cez brata-kožušníka Jána *1913; ~~†1927 nehoda~~ vyvrátené — Brno/Domašov, iný menovec); 5 bratov; rodinný dom Lichardova 30; **Magda ⚭ Ginelli → MUDr. Tibor Ginelli** (žijúci; odrodil Veroniku); strýko **MUDr. Tibor Hajman — chirurg**, 1. vedúci protetiky KE 1964. Všetko vo FS (19 osôb vetvy).
-12. **Hanis — otcov rod pravdepodobne z Radačova** (Žipov = filiálka RK farnosti Radačov → matriky Radačov = jeho MENO); 1940: Alžbeta v službe v Prešove.
-13. **1940 hárky nájdené** (Rokycany dom 22 — nová **sestra Anna** *po 1930!; Žipov 57; Floriánova 7) — neredigované kópie: žiadosť na SNA (draft hotový).
-14. ✅ **Joannes Rusinko 1715 overený na origináli** (MNL N 78, Sáros t. 6, s. 271, „Loco Klembark") — sken v prílohách.
-15. **12 draftov emailov** pripravených: Drafty emailov; email cintorínu KE odoslaný 14.7.
-16. FS: miesta štandardizované (výkričníky zhasnuté); register osôb: [Stav osôb](stav-osob.md); časová os: [Časová os](casova-os.md); zamestnania: [Zamestnania v rodine](zamestnania.md).
-17. ⭐ **Sobáš Ferenc Hajman × Alžbeta Schurer nájdený: Budapešť ~jan 1900, obaja rímskokatolíci** (3 denníky 21.1.1900); dom Pipa 16 má schurerovskú predhistóriu (kúpa 1898 „Parohács Jánosné rod. Schurer"); synovia *1898 legitimizovaní sobášom → ďalší krok: zápisy z FS kolekcie 1452460 (zadarmo s účtom).
-19. ⭐⭐ **JOZEFOV RODNÝ ZÁPIS STIAHNUTÝ (Budapešť 2496/VIII, 14.7.2026):** nemanželský syn **„Suver Erzsébet", slúžky z MOKRANIEC (maď. Makranc, Abov!), 22 r.**; otcovstvo uznal **Ferenc Hajman zo Szőlőskislaku (Somogy!), stolársky pomocník**, pred košickým matrikárom 1904; **sobáš presne 4.2.1900, Bp VI. obvod**; (~~†1950 Budapešť~~ ❌ zle priradená okrajová poznámka — patrila susednému zápisu; Jozef †1977 KE podľa hrobky). Detail: [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md); obraz v prílohách. ✅ Záznam pripnutý v FS k Ferencovi, Alžbete aj Jozefovi (Source Linker 15.7.2026, overené API).
-22. ⭐⭐ **KRST FERENCA NÁJDENÝ (15.7.2026): *31.7.1873 Szőlőskislak (Kis-lak), krst 2.8. Szőlősgyörök** — rodičia **János Hajman (želiar) & Anna Huterová = 3× prastarí rodičia, NOVÁ GENERÁCIA**; sestra Mária *1869 sa 1906 vydala za Lachmaneka (rodina ostala v Somogy). ✅ FS aktualizované; sken v prílohách. Detail: [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md).
-21. ⭐⭐ **KRST PRAPRABABKY NÁJDENÝ (15.7.2026): Alžbeta Suverová *6.3.1876 Makranc č. 10** (krst 7.3. Moldava/Szepsi; nemanželská dcéra **slúžky Erzsébet Suverovej = 3× prababka, NOVÁ GENERÁCIA**; v FS indexe ako „Suvet"). Vzorec matka-slúžka/nemanželské dieťa sa opakuje do Budapešti. Parohács-hypotéza ožila: kupkyňa Pipa 16 (1898) mohla byť matka. ✅ FS aktualizované; sken v prílohách. Detail: [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md).
-20. ⭐ **NÁHROBKY z GIS KE prečítané (15.7.2026)** — dátumy celej generácie: hrobka 7B: **Jozef 1898–1977 (dožil sa ~79 r.) ⚭ Marta rod. KOČIŠOVÁ 1902–1982 (dožila sa ~80 r.); MUDr. Tibor 1926–1988 (dožil sa ~62 r.) ⚭ Mária rod. Majáková 1942–2009 (dožila sa ~67 r.)**; sk. 1: Rudolf (*1916? †1991), Helena *1919 †1994 (dožila sa ~75 r.), **NOVÁ sestra(?) Anna Schullerová rod. Hajman 1903–1970** (dožila sa ~67 r.), Katarína Škodová 1897–1985 (dožila sa ~88 r.); 1MÚZEUM 1A/2: **Ján kožušník 1913–~1992 (dožil sa ~79 r.) ⚭ Alžbeta *1922**; Ginelliovci: **Magdin manžel = huslista FERDINAND Ginelli 1913–1989** (dožil sa ~76 r.) (nie Jozef — ten bol svokor, 1880–1944 (dožil sa ~64 r.)). 4 fotky hrobov v prílohách. ✅ **Zapísané do FS 15.7.2026:** Rudolf †1991 + pohreb 27.9.1991; Helena *1919 †1994 (dožila sa ~75 r.) + pohreb 11.4.1994; Jozef †1977 KE + hrobka 7B; Marta → rod. Kočišová, †1982; Tibor †1988; Ján †~1992; babka Anna †2000 + pohreb 10.2.2000 (`GYM2-LCP`); Ferenc *~1873 Szőlőskislak; Alžbeta *~1875 Makranc + AKA „Erzsébet Suver"; sobáš 4.2.1900 Budapešť (vzťah `9ZCF-R38`); `PXWS-GXF` premenovaný Jozef→Ferdinand Ginelli 1913–1989 (dožil sa ~76 r.).
-18. ✅ **CINTORÍN KE ODPOVEDAL (15.7.2026):** Rudolf Hajman pohreb **27.9.1991**, Helena **11.4.1994**, Katarína Škodová urna 4.6.1985 (všetci sk. 1; nájomkyňa Irena); **babka Anna Rusinková pohreb 10.2.2000** (hrob 18-12-20); hrobka 7B: v evidencii len Mária Hajmanová *25.3.1942 †14.4.2009; Ličkovci (0VR/30): Etela Lischková urna 2002 — nová osoba; Ginelliovci bez dátumov → GIS foto pomníkov. Detaily: Korešpondencia a úlohy.
-18b. 🧬 **DNA matche prezreté** (DNA matche (Ancestry)): najsilnejší cluster = **Guľasovci** (joannoster 63 cM…), druhý = **Rusinkovci** (Lazicki 99 cM + Goodson 51 cM s Rusinkom v strome); top match **Joyce Chasse 104 cM bez stromu** → napísať správu; žiadny top match nemá Ashkenazi → židovská stopa ostáva v mestských líniách (Hajman/Schurer/Škodová/Ličko).
+### Hanis + Dzurenda (Šariš — Žipov; rímskokatolíci, farnosť Bajerov)
 
-## Novinky 21.–22.7.2026 (vlna žiadostí + prielom Ličko)
+- **Jozef Hanis (†11.1.1929, 34-ročný)** ⚭ **Anna Dzurendová (*24.11.1900 Žipov)**; jej rodičia **Andrej Dzurenda (*11.11.1870) a Alžbeta rod. Šoltésová**, Žipov 18. Dcéry: Alžbeta *1924 (1940 v službe v Prešove), Mária *1926 (⚭ Dzuriček), **babka Anna *4.12.1928 (†2000)**.
 
-23. ✉️ **Veľká vlna žiadostí 21.7.2026** — odoslané: tlačivo ŠA Prešov (4 repatriačné spisy), matrika KE-SM (4+3 výpisy škodovskej vetvy), redakcia Korzár (parte deda), matrika Jasov (Jozef Ličko); drafty pripravené: MNL Kaposvár (úmrtia János+Anna, maďarsky) a ŠA Košice (pozemková kniha vl. 4720 — test Parohács). Detaily: Korešpondencia a úlohy, Drafty emailov.
-24. ⭐⭐ **JOZEF LIČKO JE RODÁK Z VALASKEJ (*1942, okr. Brezno)** — matrika Jasov 22.7.2026: v Jasove sa 1923–49 žiadny Ličko nenarodil, ale obyvateľ Jasova Jozef Ličko *1942 vo Valaskej; ✅ mama: „môže byť, rok by sedel". Rešerš Horehronia (agent): **Ličko = starousadlícke priezvisko** — Brezno 1656, Beňuš od 1790 (meno od osady **Lično** pri Beňuši!), „uhliar Ličko" na **Piesku (Valaská)** v 19. stor., klinčiari/uhliari v železiarskom komplexe Hronec–Podbrezová → železiarska kontinuita s VSS! Kandidát na brata: **Miroslav Ličko *~1927 †1985, hrob Valaská E/100** (nájomníčka Kurtyová †2024 = žijúca línia); teta? Anna Šáriková rod. Ličková *~1900. Žijúci: Alena Ličková (Valaská), Ličkovci Ráztoka, 2× Ličková MsÚ Brezno. → rodný list z Valaskej = rodičia. Detaily: [Vetva Ličko](vetva-licko.md).
-25. ⭐ **Matrika KE-SM odpovedala (22.7.2026) — kompletný routing výpisov**: Helena úmrtie → **KE-Západ**; Rudolf st. + Irena úmrtia → **KE-Juh**; Irena narodenie → v **CISMA** (výpis vydá ktorýkoľvek úrad / slovensko.sk!). ❌ Katarína: SM neeviduje a nevie kto (→ pribalená do žiadosti na Juh). ❌ **Sobáš Rudolf×Helena 1938–44 v KE nie je** → sobáš inde/inokedy — nepriamo potvrdzuje, že Helena nebola Košičanka. ❌ **Rudolf ml. sa 1930–44 v KE nenarodil** → asi *1945–50 (mladší než Irena!) alebo mimo KE. Drafty na Západ a Juh hotové 22.7.
-26. ⭐⭐ **RUSINKOVSKÁ DOMÁCNOSŤ V BUJAKOVE NÁJDENÁ (22.7.2026, FS film Klenov):** v krstoch GK farnosti Klenov objavený **Georgius Ruszinko, krst ~júl 1862 — rodičia MICHAL RUSZINKO a MÁRIA GUMANOVÁ, želiari, Bujakov č. 18** — prvý doložený rusinkovský pár v obci pradeda Jána (*1898 Bujakov). Ondrejov krst „1861" v knihe nie je (prečesané 1860–63 kompletne) → rok na náhrobku je zrejme nepresný; Michal × Guman = kandidáti na jeho rodičov. Vo farnosti aj **Stephanus Ruszinko** (krstný otec 1861). Ďalej: krsty 1855–59 + druhopisy 1864+. Detaily: [Vetva Rusinko](vetva-rusinko.md).
-27. ⭐⭐⭐ **KRST ONDREJA RUSINKA NÁJDENÝ (22.7.2026 večer, FS film Klenov): *9.2.1857, Bujakov č. 15 — rodičia MICHAL RUSINKO a MÁRIA GUMANOVÁ** = kandidáti na 3× prastarých rodičov! Rok na bajerovskom náhrobku („1861") bol nepresný o 4 roky. Súrodenci: Ján *1859 a Juraj *1862 (tá istá rodina, Bujakov 15/18/19). Marginálna poznámka „1894" pri krste = zrejme výpis k sobášu (prvé dieťa Ján *1898!). Citácia: film 004406750, obraz 186. Definitívne potvrdí krst Jána 1898 (fara Klenov). Detaily: [Vetva Rusinko](vetva-rusinko.md).
+### Ličko (Horehronie — Valaská) + Lorenowicz (Halič → Chomutov → Košice)
 
-## Ako sme hľadali (technické poznámky)
+- **Jozef Ličko (*1942 Valaská, †~1981–83 Košice)** — majster VSS, futbalový rozhodca; ⚭ Irena Hajmanová, dcéry Zdena *1966 a **mama Marta *1970**. Rod Ličko je na Horehroní doložený od 1656 (Brezno), meno pochádza od osady Lično pri Beňuši; Ličkovci boli uhliari a klinčiari železiarskeho komplexu Hronec–Podbrezová.
+- **Dedo Peter Lorenowicz** (*Chomutov, žije) — Irenin druhý manžel, mamu a Zdenu si osvojil a vychoval; žije v rodinnom dome na Lichardovej 30. Rod Lorenowicz pochádza z okolia Przemyśla (GK farnosť Zamiechów), do Košíc prišli za prácou vo VSŽ.
 
-- FamilySearch API (session token z prehliadača) — vyhľadávanie `/service/search/hr/v2/personas`, strom `/platform/tree/...`. Vyhľadávanie je **rankované, nie filtrované** — dátumové filtre len ovplyvňujú skóre.
-- Maďarské dobové tvary (záznamy do 1918): Rusinko→**Ruszinkó**, Ličko→**Licskó**, Škoda/Škodi→**Skodi**, Fejerčák→**Fejercsak/Fejércsak…**, Guľas→**Gulyasz(kó)**; miesta: Rokycany=**Berki**, Košice=**Kassa**, Medzev=**Mecenzéf**, **Žipov=Sárosizsép** (staršie Izsép — ❗nie „Zsipó"), Bajerov=**Bajor**, župa=**Sáros/Abaúj-Torna**.
-- Kolekcia „Slovakia, Church and Synagogue Books, 1592–1935" = FS collection **1554443**.
+### Hajman + Suver (Somogy/Abov → Budapešť → Košice; rímskokatolíci)
 
-## Návrhy na doplnenie do FamilySearch (zatiaľ NEZAPÍSANÉ)
+- **Rudolf Hajman (*~1916, †1991)** — kominár, funkcionár kominárskeho spolku (tlač 1939–41); ⚭ **Helena rod. Škodiová (1919–1994)**; dcéra **Irena (*16.11.1944 Košice, †20.4.2015)**, syn Rudolf ml. (Kanada). Rodinný dom Lichardova 30.
+- Rudolfovi rodičia: **Ferenc Hajman (*31.7.1873 Szőlőskislak, Somogy)** — stolár, do Kassa ~1900 — a **Alžbeta rod. Suverová (*6.3.1876 Mokrance, Abov)** — sobáš **4.2.1900 Budapešť**; syn Jozef *9.5.1898 Budapešť (nemanželský, legitimizovaný). Rudolfovi bratia: Jozef *1898 (†1977), František *1900, Ján *1913 (kožušník, †~1992), Ladislav *1916 (hudobník rozhlasového orchestra).
+- Ferencovi rodičia: **János Hajman (želiar) ⚭ 10.2.1861 Anna Huterová (*~1838, †7.4.1879 Szőlősgyörök)**; jej otec **František Hutera**. Deti: Mária *1869 (⚭ 1906 Lachmanek), Ferenc *1873 (+ pravdepodobne Anna, Pál, Lajos, József — overuje sa).
+- Alžbetina matka: **Erzsébet Suverová** — slúžka z Mokraniec č. 10; nemanželské deti Alžbeta *1876 a János *1884. Šuverovci žijú v Mokranciach dodnes.
+- Širšia rodina v KE: Magda Hajmanová ⚭ **Ferdinand Ginelli** (huslista, prof. konzervatória) → syn **MUDr. Tibor Ginelli** (gynekológ, odrodil Veroniku aj brata); **MUDr. Tibor Hajman** — chirurg, 1. vedúci protetiky KE (1964); Anna Schullerová rod. Hajman (1903–1970).
 
-Do zdieľaného stromu zapisovať len fakty, nie hypotézy:
+### Škoda (Košice/Abov?)
 
-- [x] ~~Anna Hanisová: miesto narodenia Žipov~~ — už tam bolo, vrátane presného dátumu **\*4.12.1928** (nová info pre nás!)
-- [x] Jozef Ličko (`PMQS-RZ4`): poznámka o Medzeve — zapísané 9.7.2026
-- [x] Rudolf Hajman (`PMQ3-4D3`): poznámka o národnosti a Košiciach — zapísané 9.7.2026
-- [ ] Po odpovedi archívu: repatriačný spis ako zdroj (ak sa potvrdí Andrej/Ondrej)
-- [x] **Hroby — zapísané do FS 9.7.2026** (cez API, s citáciami): Burial fakty + zdroje `W8XQ-BM6` (Pohrebiská SR Rokycany → `PQ3W-GXN` + `P3GG-4Y2`), `W8XQ-BMK` (GIS Košice → `PMQS-J35`, aj dátum úmrtia †4.4.2006), `W8XQ-BMR` (Marianum Vrakuňa → `PQ34-7LM`, spresnené hrobové miesto). Ján 1898 má týmto svoj **prvý zdroj vôbec**. Pozn.: strom už mal presné dátumy *27.4.1898/†28.2.1980 (NagyLukas) — hrob ich nezávisle potvrdil.
-- [x] ✅ **Zapísané do FS 14.7.2026:** rodina Jozefa Hajmana — manželka Marta `PXWS-XHJ` (sobáš 18.11.1922), deti Magda-Ginelliová `PXW3-MQY` (†16.11.2006, hrob sk. 91), MUDr. Tibor Hajman `PXWS-257` (chirurg, hrobka 7B), Marta ml. `PXWS-FY9` (ako žijúca — úmrtie nedoložené); Ginelliovci: Jozef `PXWS-GXF` ⚭ Magda, syn **MUDr. Tibor Ginelli `PXWS-JNS`** (žijúci, súkromný záznam); zdroje `W82X-KLT` + hrob `W8L3-21W`
-- ❌ Hrob Hajman+Škodová (sk. 1 KE) — do FS nezapisovať, kým evidencia cintorína nepotvrdí dátumy/identitu
-- ❌ Ondrej Rusinko 1861–1936 — nepridávať, kým nie je doklad o vzťahu
+- **Katarína Škodová (1897–†1985)** — matka Heleny; priezvisko po manželovi, **rodné meno zatiaľ neznáme** (kľúč k poľskej stope). **Helena (1919–1994)** — vydatá Hajmanová. Obe pochované v hrobe sk. 1 na Verejnom cintoríne KE spolu s Rudolfom.
+
+### 🧬 DNA (Ancestry)
+
+- Najsilnejšie clustre: **Guľasovci** (joannoster 63 cM…) a **Rusinkovci** (Lazicki 99 cM, Goodson 51 cM); top match Joyce Chasse 104 cM bez stromu. ~3 % Ashkenazi zostáva nepriradené — detaily: DNA matche (Ancestry).
+
+## Hlavné pramene
+
+- Sčítacie hárky 1930 a 1940 (Slovakiana/SNA), cirkevné matriky na FamilySearch (filmy Klenov, Szőlősgyörök, Moldava), civilné matriky (CISMA/matričné úrady), evidencie cintorínov (GIS KE, virtualnycintorin.sk), dobová tlač (Arcanum/Hungaricana), archívy (ŠA Prešov, ŠA Košice, Arcibiskupský archív KE, MNL), rodinná pamäť (mama, Peter, Viktor).
+- Skeny kľúčových dokumentov: priečinok `prilohy/`. Ako sme hľadali a čo sa nepotvrdilo: Výskumný denník.
