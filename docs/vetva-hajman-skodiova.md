@@ -2,7 +2,7 @@
 
 Súvisí: [Vetva Ličko](vetva-licko.md) · [Prehľad](prehlad.md) · Výskumný denník
 
-Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo 1900: Ferenc zo somogyskej dediny Szőlőskislak (JZ Maďarsko, pri Balatonboglári), jeho žena **Alžbeta Suverová** z Mokraniec pri Moldave nad Bodvou (25 km od Košíc). Spoznali sa v Budapešti — ona slúžka, on stolársky pomocník — a po svadbe 1900 sa usadili v Košiciach, v kraji jej rodiny. Vyrástol z nich remeselnícky klan (kominár, kožušník, hudobník, lekár…) okolo ulíc Lichardova a Skladná. **Škodovci** sú rodina Ireninej matky Heleny; podľa rodinnej pamäti s poľským pôvodom (hypotéza, overuje sa).
+Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo 1900: Ferenc zo somogyskej dediny Szőlőskislak (JZ Maďarsko, pri Balatonboglári) — a jeho rodičia sa do Somogy prisťahovali **z Poľska** (sobášny zápis 1861 aj úmrtný zápis 1879 uvádzajú pôvod „Raicza, Lengyelhon" = Poľsko). Ferencova žena **Alžbeta Suverová** bola z Mokraniec pri Moldave nad Bodvou (25 km od Košíc). Spoznali sa v Budapešti — ona slúžka, on stolársky pomocník — a po svadbe 1900 sa usadili v Košiciach, v kraji jej rodiny. Vyrástol z nich remeselnícky klan (kominár, kožušník, hudobník, lekár…) okolo ulíc Lichardova a Skladná. **Škodovci** sú rodina Ireninej matky Heleny; podľa rodinnej pamäti s poľským pôvodom (hypotéza, overuje sa).
 
 ## Rodová línia
 
@@ -12,16 +12,18 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo 1900: Feren
 - **Praprababka Katarína Škodová** — 1897–1985 (~88 r.), Helenina matka, pochovaná v tom istom hrobe sk. 1 (trojgeneračný hrob). „Škodová" je priezvisko po manželovi (Škoda/Škody) — **jej rodné meno nepoznáme**; je kandidátkou na nositeľku poľskej stopy. Spopolnená 8.4.1985, **urna uložená 4.6.1985 do rodinného hrobu sk. 1** (potvrdené evidenciou SMSZ 15.7.2026).
 - **Irenin brat Rudolf ml.** — emigroval do Kanady (pravdepodobne 50.–60. roky, možno útek z ČSSR); podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus (neoverené). V košických knihách narodení 1930–44 nie je → pravdepodobne ***1945–50** (mladší než Irena), alebo sa narodil mimo Košíc. V montrealskom telefónnom zozname figuruje „Rudolph Hajman" — silný kandidát, ale zhoda mena nie je dôkaz identity; detaily v Denníku, o prípadnom oslovení rozhodne rodina.
 - **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc *31.7.1873 Szőlőskislak, krst 2.8.1873 Szőlősgyörök; stolársky pomocník (asztalos segéd); úmrtie neznáme (dom bol už 1915 písaný na manželku — možno vtedy vdovu; v sčítaní 1930 je vdova určite). Alžbeta *6.3.1876 Mokrance (Makranc č. 10), krst 7.3.1876 Moldava nad Bodvou; †po 12/1930. Sobáš **4.2.1900 Budapešť** (civilne, VI. obvod). Civilné matriky píšu priezvisko dôsledne **Suver** (pozemková evidencia „Schurer"; košické záznamy ho plietli aj so „Schuller"). FS: Ferenc `PX7K-3LY` ⚭ Alžbeta `PX7K-M17` (vzťah `9ZCF-R38`).
-- **3× prastarí rodičia (Somogy): János Hajman a Anna rod. Huterová.** János — želiar (zsellér), bydlisko Kislak. Sobáš **10.2.1861 Szőlősgyörök** (v zápise „Joannes Heimann"; nevesta *~1838). Anna **†7.4.1879 Szőlősgyörök** (pohreb 8.4.; podľa zápisu nar. ~1841) — Ferenc osirel ako 5-ročný, do Košíc odišiel už bez matky. FS: János `LHW1-JPX`, Anna `LHW1-JPF`.
+- **3× prastarí rodičia: János Hajman a Anna rod. Huterová — prisťahovalci z Poľska.** Obaja sa narodili v „**Raicza, Lengyelhon**" (Poľsko; kandidát: Rajcza pri Żywci, Halič) — János *~1836, Anna *~1838–41. V 1861 obaja slúžili ako nádenníci (mercenarius/mercenaria) v osade **Csehi**; sobáš **10.2.1861 Szőlősgyörök** (zápis č. 32, sobášil kooperátor Paulus Szmodis, svedkovia Franciscus Beke a Joannes Aranyas). Neskôr János želiar (zsellér) v Kislaku. Anna **†7.4.1879 v Kislaku pri pôrode** („szülés következtében", zaopatrená; pohreb 8.4. Kislak) — Ferenc osirel ako 5-ročný, do Košíc odišiel už bez matky. FS: János `LHW1-JPX`, Anna `LHW1-JPF`.
+- **4× prastarí rodičia (zo sobášneho zápisu 1861): František (Franciscus) Heiman** — Jánosov otec — a **František (Franciscus) Hutera** — Annin otec. Obe rodiny teda podľa matriky pochádzali z Poľska; mená matiek zápis neuvádza.
 - **3× prababka (Mokrance): Erzsébet Suver** — slúžka v Makranci č. 10, slobodná matka Alžbety (1876) a pravdepodobne aj Jánosa (krst 17.10.1884 Szepsi, tiež nemanželský). Kandidátka na jej identitu: Erzsébet Suver, krst 1845 Moldava, rodičia **Jozef Suver & Erzsébet Répásová** — jediná z indexu, ktorej vek sedí na oba pôrody; overuje sa. (Ak platí, jej brat István *1851 mal deti s Annou Hanzokovou — synovci.)
-- **4× pradedo: František (Franciscus) Hutera** — Annin otec podľa sobášneho zápisu 1861. Hutera/Huterka je v Szőlősgyöröku miestne meno. Jánosových rodičov (druhú polovicu 4× prastarých) uvedie obraz sobáša 1861 — na dohľadanie.
 
 ## Deti Jánosa a Anny (Szőlősgyörök)
 
 - **Mária**, krst 1869 — ⚭ 17.11.1906 **András Lachmanek** (*1874; jeho rodičia Jakab Lachmanek & Zsuzsanna Bárány; sobášny záznam ark 1:1:6JBQ-2VLF, potvrdený aj civilnou matrikou s matkou Hutera Anna). Potomkovia = Lachmanekovci; rodina teda v kraji ostala aj po Ferencovom odchode. FS `LHW1-JPD`.
 - **Ferenc** *1873 — náš predok (krstní rodičia Molnár Ferenc & Bolla Juli).
 - **Pravdepodobní ďalší synovia: Lajos, József a Pál** — z FS indexu (rodičia „Heiman/Homon János × Hutera Anna" v tej istej malej farnosti); **overuje sa** — kým detaily krstov (dátum, bydlisko, číslo domu) nepotvrdia identifikáciu, nezapisovať do FS ani na web.
-- Možná dcéra **Anna**, krst 1876 (matka zapísaná „Katona Anna" — druhá manželka Jánosa?) a možná dcéra **Rozália** (*~1865–68; vo vestníku Somogy 1906 ako matka nezvestného branca Vámosa Mártona *1883–85) — obe neoverené.
+- **Rozália (Rozi)** *~1861 — doložená dcéra Jánosa (FS index): **⚭ 22.1.1882 Szőlősgyörök** (meno ženícha v indexe skomolené, overiť obraz). Zrejme tá istá Rozália, ktorú vestník Somogy 1906 uvádza ako matku branca Vámosa Mártona.
+- Ďalší kandidáti z indexov (overiť obrazy): **Lajos**, krst **1864 Lengyeltóti** (otec Haiman Janus; matka v indexe skomolená); starší **Ferentz**, krst **1867 Szőlősgyörök** (rodičia Haiman Janos & Huttera Anna) — zrejme zomrel v detstve, meno v 1873 použité znova; možná dcéra **Anna**, krst 1876 (matka zapísaná „Katona Anna"?).
+- **Dieťa z apríla 1879** — Anna zomrela 7.4.1879 pri pôrode → tesne predtým sa muselo narodiť dieťa; dohľadať krst (a pravdepodobne skoré úmrtie) v matrike Szőlősgyörök 4/1879.
 
 ## Rodina Ferenca a Alžbety v Košiciach
 
@@ -81,9 +83,20 @@ RK matrika krstov, s. 161, r. 24 — ark 1:1:KHHP-NSS, film 4948187, obraz 229 (
 
 Civilný sobáš pred matrikárom VI. obvodu (dátum z okrajovej poznámky Jozefovho zápisu; obraz zápisu zatiaľ nedohľadaný — FS kolekcia „Hungary, Civil Registration, 1895–1980", č. 1452460; duplikáty BFL, fond XXXIII.1.a, eleveltar.hu). Oznámenie páru vyšlo už **21.1.1900** v rubrike civilnej matriky troch budapeštianskych denníkov (Magyar Nemzet, Magyar Hírlap, Pesti Napló) — zrejme ohlášky: „Hajmán Ferencz **rk.** — Schurer/Suver Erzsébet **rk.**" → priamy dobový doklad, že obaja boli rímskokatolíci. Obraz zápisu uvedie stav nevesty a jej matku → rozhodne Parohács-hypotézu.
 
-### Sobáš 1861 a Annino úmrtie 1879 (FS index, 23.7.2026)
+### Sobáš 10.2.1861 — Szőlősgyörök (obraz zápisu nájdený)
 
-Kolekcia Hungary, Church Books 1624–1950: **sobáš 10.2.1861 Szőlősgyörök — Joannes Heimann × Anna Hutera** (nevesta *~1838, otec Franciscus Hutera); **úmrtie Anna Huterová †7.4.1879, pohreb 8.4.1879, Szőlősgyörök**. Annino úmrtie 1879 nezávisle potvrdila aj odpoveď MNL Somogy (23.7.2026). Obrazy zápisov na dohľadanie — sobáš uvedie aj Jánosových rodičov.
+RK sobášna kniha Szőlősgyörök 1857–1895, zápis č. 32 — [ark 1:1:6N3H-KBMM](https://www.familysearch.org/ark:/61903/1:1:6N3H-KBMM), obraz: film 004610748 (item 4), obraz 21/134:
+
+- **Joannes Heimann**, 25 r. (*~1836), rím.kat., slobodný, mercenarius; pôvod „**Raitz, lengyel hon**" (Raicza, Poľsko); bydlisko **Csehi**; otec **Franciscus Heiman**.
+- **Anna Hutera**, 23 r. (*~1838), rím.kat., slobodná, mercenaria; pôvod „**Raitz, lengyel hon**"; bydlisko **Csehi**; otec **Franciscus Hutera**.
+- Svedkovia Franciscus Beke a Joannes Aranyas; sobášil kooperátor Paulus Szmodis; promulgati (ohlásení). V ten istý deň sa sobášil aj pár Michael Szabó × Rozalia Fodor z Lengyeltóti.
+
+### Annino úmrtie 7.4.1879 — Kislak (obraz zápisu nájdený)
+
+RK úmrtná kniha Szőlősgyörök 1865–1895 — [ark 1:1:6N33-3JCX](https://www.familysearch.org/ark:/61903/1:1:6N33-3JCX), obraz: film 004610748 (item 5), obraz 94/204:
+
+- „Hutera Anna, r.k. zsellérnő, **Heiman János neje** (manželka), narodená **Raiczán, Lengyelhon**, zomrela **v Kislaku**, **38 rokov** (*~1841), príčina: **szülés következtében** (v dôsledku pôrodu), zaopatrená sviatosťami; pohreb 8.4.1879 Kislak, pochoval plébános."
+- Úmrtie nezávisle potvrdila aj odpoveď MNL Somogy (23.7.2026).
 
 ### Sčítacie hárky Košice 1930
 
@@ -126,7 +139,7 @@ Irena hrob nemá (kremácia, rozptyl). Staré záznamy v cintorínskej DB sú be
 
 ## 🧬 DNA
 
-Veronikin test: **~3 % Ashkenazi Jewish** ≈ jeden predok 4–6 generácií dozadu. Civilný sobáš 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov → prípadný židovský predok by bol o 1–2 generácie vyššie (rodičia Ferenca/Alžbety), alebo v líniách Škodová (rodné meno Kataríny?) či Ličko; šarišské dedinské línie (GK/RK doložené) sú nepravdepodobné. Top DNA matche na Ancestry (DNA matche (Ancestry)) Ashkenazi podiel nemajú → stopa nejde cez „americké" clustre Guľas/Rusinko, čo mestskú vetvu skôr posilňuje. V tomto svetle: podanie o Rudolfovi ml. a Izraeli mohlo odrážať reálny nárok podľa zákona o návrate. Jednorazovo skontrolovať JewishGen Hungary DB (obsahuje Kassa Chevra Kadisha 1908–24) na Hajman/Suver.
+Veronikin test: **~3 % Ashkenazi Jewish** ≈ jeden predok 4–6 generácií dozadu. Civilný sobáš 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov → prípadný židovský predok by bol o 1–2 generácie vyššie (rodičia Ferenca/Alžbety), alebo v líniách Škodová (rodné meno Kataríny?) či Ličko; šarišské dedinské línie (GK/RK doložené) sú nepravdepodobné. **Nový kandidát: poľská línia Heiman/Hutera z Rajcze** — nemecky znejúce meno Heimann v Haliči + migrácia sedia na aškenázsku stopu lepšie než čokoľvek doteraz (overiť v poľských matrikách). Top DNA matche na Ancestry (DNA matche (Ancestry)) Ashkenazi podiel nemajú → stopa nejde cez „americké" clustre Guľas/Rusinko, čo mestskú vetvu skôr posilňuje. V tomto svetle: podanie o Rudolfovi ml. a Izraeli mohlo odrážať reálny nárok podľa zákona o návrate. Jednorazovo skontrolovať JewishGen Hungary DB (obsahuje Kassa Chevra Kadisha 1908–24) na Hajman/Suver.
 
 ## 📷 Kde hľadať tváre
 
@@ -159,8 +172,10 @@ Veronikin test: **~3 % Ashkenazi Jewish** ≈ jeden predok 4–6 generácií doz
 - **Rodné meno Kataríny Škodovej:** kremačný záznam SMSZ 1985 (uvádza miesto úmrtia a matriku) + Helenin úmrtný list (rodičia).
 - **Sobáš Rudolf × Helena:** nie je v KE-SM 1938–44 → skúsiť 1935–38 alebo Helenino rodisko; nepriamo posilňuje, že Helena nebola košická rodáčka.
 - **Ferencovo a Alžbetino úmrtie:** úmrtné matriky KE (Ferenc †?~1915–?, Alžbeta †po 1930).
-- **Synovia Lajos/József/Pál:** otvoriť detaily krstov (dátum, bydlisko Kislak?, číslo domu) — až potom zapísať do FS.
-- **Obraz sobáša 10.2.1861** → Jánosovi rodičia; **krst Anny ~1838** (otec František; film 600644); **Jánosovo úmrtie** (štátne matriky Szőlősgyörök po 1895, online zadarmo).
+- **Poľská stopa Heiman + Hutera:** nájsť „Raicza/Raitz" — hlavný kandidát **Rajcza (okres Żywiec, Halič)**; Geneteka/FS: krsty János Heiman ~1836 a Anna Hutera ~1838–41, sobáše Franciscus Heiman a Franciscus Hutera ~1830te. Prečo prišli do Somogy a či prišli spolu s ďalšími rodinami (Huterovci v Látrány: Gaspar Hutera & Ana Janothka, syn Joannes krst 1857 — poľsky znejúce meno Janothka!).
+- **Krst dieťaťa ~4/1879** (Annin posledný pôrod) + jeho osud.
+- **Overiť obrazy krstov:** Lajos 1864 Lengyeltóti, Ferentz 1867, Anna 1876; **obraz sobáša Rozi 22.1.1882** (meno ženícha!); krsty József a Pál (indexy „Heiman/Homon János × Hutera Anna").
+- **Jánosovo úmrtie** (štátne matriky Szőlősgyörök po 1895, adatbazisokonline zadarmo).
 - **Erzsébet Suver st.:** potvrdiť kandidátku *1845 (Jozef Suver & Erzsébet Répásová); pravdepodobný ďalší syn János Suver *1884.
 - **Šuverovci žijú v Mokranciach a Moldave dodnes** (JÚĽŠ 1995: Šuver 34× v SR, epicentrum Mokrance 7×, Moldava 7×; v tlači 20. stor. Suver János 1934, Suver István 1935, JRD 1954, Weiszer Józsefné Suver Erzsébet 2006) — vzdialení bratranci na dosah, kandidáti aj na DNA porovnanie.
 - **Rozália Hajmanová a syn Vámos Márton** (vestník Somogy 1906/5) — overiť obraz strany 61 (obec narodenia syna) + krst Vámosa Mártona a sobáš/krst Rozálie (matriky Szőlősgyörök/Gamás).

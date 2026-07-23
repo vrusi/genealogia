@@ -18,7 +18,8 @@
 | Úmrtia Ferenca Hajmana a Alžbety Suverovej | ❓ Ferenc po 1915, Alžbeta po 1930 (obaja KE?) | zúžiť roky (cintorín, tlač), potom matrika |
 | Piate dieťa Jána a Anny Rusinkovcov (†pred 1930) | ❓ | fara Klenov |
 | Osud Márie Rusinkovej (*1921) a sestry Anny (*po 1930) | ❓ | hárok 1940 (SNA), obec Rokycany, rodina |
-| 🧬 ~3 % Ashkenazi DNA | ❓ kandidátske línie: Katarínino rodné meno, rodičia Ferenca/Alžbety, Ličkovci | vyplynie z matrík |
+| 🧬 ~3 % Ashkenazi DNA | ❓ kandidátske línie: **poľskí Heimanovci/Huterovci z Rajcze (nové!)**, Katarínino rodné meno, Alžbetina rodina, Ličkovci | poľské matriky (Geneteka) |
+| Pôvod Heimanovcov a Huterovcov v Poľsku | 🔶 sobáš 1861 aj úmrtie 1879: „Raicza, Lengyelhon" — kandidát Rajcza pri Żywci | Geneteka/FS: krsty ~1836/1838, rodiny Franciscus Heiman a Franciscus Hutera |
 
 ## Doložený stav po vetvách
 
@@ -46,7 +47,7 @@
 
 - **Rudolf Hajman (*~1916, †1991)** — kominár, funkcionár kominárskeho spolku (tlač 1939–41); ⚭ **Helena rod. Škodiová (1919–1994)**; dcéra **Irena (*16.11.1944 Košice, †20.4.2015)**, syn Rudolf ml. (Kanada). Rodinný dom Lichardova 30.
 - Rudolfovi rodičia: **Ferenc Hajman (*31.7.1873 Szőlőskislak, Somogy)** — stolár, do Kassa ~1900 — a **Alžbeta rod. Suverová (*6.3.1876 Mokrance, Abov)** — sobáš **4.2.1900 Budapešť**; syn Jozef *9.5.1898 Budapešť (nemanželský, legitimizovaný). Rudolfovi bratia: Jozef *1898 (†1977), František *1900, Ján *1913 (kožušník, †~1992), Ladislav *1916 (hudobník rozhlasového orchestra).
-- Ferencovi rodičia: **János Hajman (želiar) ⚭ 10.2.1861 Anna Huterová (*~1838, †7.4.1879 Szőlősgyörök)**; jej otec **František Hutera**. Deti: Mária *1869 (⚭ 1906 Lachmanek), Ferenc *1873 (+ pravdepodobne Anna, Pál, Lajos, József — overuje sa).
+- Ferencovi rodičia: **János Hajman (*~1836) ⚭ 10.2.1861 Anna Huterová (*~1838–41, †7.4.1879 Kislak — pri pôrode)** — obaja **prisťahovalci z Poľska** („Raicza, Lengyelhon" v sobášnom aj úmrtnom zápise; kandidát Rajcza pri Żywci). Ich otcovia (4× prastarí): **František Heiman** a **František Hutera**. Deti: Rozália *~1861 (⚭ 1882), Mária *1869 (⚭ 1906 Lachmanek), Ferenc *1873 (+ kandidáti Lajos *1864, Ferentz *1867 †mladý?, Anna *1876, József, Pál — overujú sa; + dieťa z pôrodu 4/1879).
 - Alžbetina matka: **Erzsébet Suverová** — slúžka z Mokraniec č. 10; nemanželské deti Alžbeta *1876 a János *1884. Šuverovci žijú v Mokranciach dodnes.
 - Širšia rodina v KE: Magda Hajmanová ⚭ **Ferdinand Ginelli** (huslista, prof. konzervatória) → syn **MUDr. Tibor Ginelli** (gynekológ, odrodil Veroniku aj brata); **MUDr. Tibor Hajman** — chirurg, 1. vedúci protetiky KE (1964); Anna Schullerová rod. Hajman (1903–1970).
 
