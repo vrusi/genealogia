@@ -30,7 +30,7 @@ Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · zostavené 16.
 | János Hajman (3× pradedo) | dolož. 1869–76 | **želiar (zsellér)** | matrika Szőlősgyörök 1873 |
 | Erzsébet Suver (3× prababka) | dolož. 1876–84 | **slúžka (szolgáló)**, Makranc 10 | matrika Moldava 1876 |
 | Alžbeta Suverová (praprababka) | 1876–po 1930 | **slúžka (cseléd)**, Budapešť | rodný zápis 2496/VIII (1898) |
-| Ferenc Hajman (prapradedo) | 1873–? | **stolársky pomocník (asztalos segéd)** — KE 1904; ~~železničiar †1927~~ vyvrátené | zápisnica Kassa 1904 |
+| Ferenc Hajman (prapradedo) | 1873–? | **stolársky pomocník (asztalos segéd)** — KE 1904 | zápisnica Kassa 1904 |
 | Rudolf Hajman (pradedo) | ~1916–1991 | **kominár**; odborár: pokladník → tajomník → výkonný tajomník kresť.-soc. spolku kominárov (1939–41) | tlač Jövőnk/Felvidéki Ujság + rodina |
 | Ján Hajman | 1913–~1992 (dožil sa ~79 r.) | **kožušník** (szűcssegéd 1932) | hárok 1930, tlač, rodina |
 | Ladislav Hajman | *1916 | **hudobník + úradník (irodatiszt)**: orchester košického rozhlasu; kapelník v Perecesi 1940–45 | tlač, HOM Évkönyve 1973 |
