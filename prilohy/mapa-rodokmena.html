@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<title>Rodokmeň na mape</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  html,body{margin:0;height:100%;font-family:-apple-system,Segoe UI,sans-serif}
+  #map{height:100%}
+  .legend{background:#fff;padding:10px 14px;border-radius:8px;box-shadow:0 1px 6px rgba(0,0,0,.3);line-height:1.7;font-size:13px}
+  .legend b{font-size:14px}
+  .dot{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:6px;border:1.5px solid #fff;box-shadow:0 0 2px rgba(0,0,0,.6)}
+  .leaflet-popup-content{font-size:13px;line-height:1.45}
+  .leaflet-popup-content b{font-size:14px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+const map = L.map('map').fitBounds([[46.4, 12.9], [50.9, 23.2]]);  // celá stredná Európa: Rajcza, Somogy, Budapešť aj Šariš/Abov
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 18, attribution: '&copy; OpenStreetMap'
+}).addTo(map);
+
+const C = {
+  rusinko:  '#1e6fd9', // modrá
+  fejercak: '#1f9d44', // zelená
+  hanis:    '#e8850c', // oranžová
+  hajman:   '#d62828', // červená
+  skodova:  '#8e44ad', // fialová
+  licko:    '#8b5a2b', // hnedá
+  loren:    '#0e9a94', // tyrkysová
+  diaspora: '#666666', // sivá
+  dna:      '#c2185b'  // ružová — DNA stopy
+};
+
+const pins = [
+  // ===== RUSINKO (modrá) =====
+  {c:'rusinko', lat:48.9190, lon:21.1240, t:'<b>Klenov (Klembark)</b><br>Gréckokatolícka farnosť celej oblasti.<br>• <b>Joannes Rusinko</b> — daňový súpis <b>1715</b> (overený originál)<br>• matriky 1825–1897 (FS filmy)<br>• index 1822–23: Ruszinko, Gulyas aj Seman'},
+  {c:'rusinko', lat:48.9536, lon:21.1500, t:'<b>Brežany (do 1956 Bujakov)</b><br>• <b>Ján Rusinko *27.4.1898</b> — pradedo (gr.kat.)<br>• Mária Rusinková *1921<br>• rodina odtiaľto do Rokycian 25.5.1922'},
+  {c:'rusinko', lat:48.9741, lon:21.1506, t:'<b>Rokycany</b><br>• domov Rusinkovcov od 1922 (dom č. 20, vlastný)<br>• <b>dedo Ján *29.1.1923</b>, Štefan *1925, Andrej *1927<br>• hrob Jána a Anny (A/33), hrob Andreja a Márie'},
+  {c:'rusinko', lat:48.9622, lon:21.1394, t:'<b>Bajerov</b><br>• hrob <b>Ondreja Rusinka 1861–1936</b> (hypotetický otec Jána 1898)<br>• RK farnosť pre Fejerčákovcov<br>• priezvisko Rusinko tu žije dodnes'},
+  {c:'rusinko', lat:48.9660, lon:21.1760, t:'<b>Bzenov</b><br>• Veronika Mrúzová rod. Rusinková (*~1919 †1978) — pravdepodobná príbuzná<br>• dnešný matričný úrad pre celý klaster'},
+
+  // ===== FEJERČÁK–GUĽAS (zelená) =====
+  {c:'fejercak', lat:48.9531, lon:21.1861, t:'<b>Janov (Jánó)</b><br>• <b>Peter Fejerčák *10.7.1860</b> — pra-pradedo<br>• Michael Fejercsák v súpise 1715<br>• zajatec Matej Fejercsák *1894<br>• repatriačné spisy Jozefa a Juraja (1946)'},
+  {c:'fejercak', lat:48.9560, lon:21.1990, t:'<b>Ľubovec</b><br>• krst Petra Fejerčáka 15.7.1860'},
+  {c:'fejercak', lat:48.9860, lon:21.0810, t:'<b>Chminianske Jakubovany?</b><br>• pravdepodobné rodisko <b>Juraja Guľasa *1834</b> (pra-pra-pradedo)<br>• alternatíva: Jakubovany pri Sabinove<br>• RK farnosť Krížovany'},
+  {c:'fejercak', lat:49.0080, lon:21.1970, t:'<b>Malý Šariš</b><br>• dnešný klaster priezviska Guľas (1995: 4 z 14 nositeľov v SR)'},
+
+  // ===== HANIS + DZURIČEK (oranžová) =====
+  {c:'hanis', lat:48.9680, lon:21.1170, t:'<b>Žipov (Sárosizsép)</b><br>• <b>babka Anna Hanisová *4.12.1928</b> + sestry Alžbeta *1924, Mária *1926<br>• matka Anna *23.11.1899 (rodená v Žipove)<br>• otec Hanis †11.1.1929 (meno nepoznáme!)<br>• hrob Márie Dzuričkovej a Jána Dzuričeka<br>• domov Lukáša Nagya (NagyLukas)'},
+  {c:'fejercak', lat:48.9400, lon:21.1710, t:'<b>Radačov (Radatice)</b><br>• RK farnosť pre Janov — matriky Fejerčákovcov pred 1884 (Ján Fejerčák & Mária Fedorová ~1830)'},
+
+  // ===== HAJMAN (červená) =====
+  {c:'hajman', lat:48.7095, lon:21.2500, t:'<b>Košice — Lichardova 30</b><br>• rodinný dom Hajmanovcov ~100 rokov<br>• 1930: vdova <b>Alžbeta rod. Suverová/Schurer *1876 Mokrance</b> + synovia Ján (kožušník †~1992), Ladislav (hudobník)<br>• Rudolf (kominár, †1991) dom dostaval; dnes tu žije dedo Peter'},
+  {c:'hajman', lat:48.7110, lon:21.2530, t:'<b>Košice — Skladná 47</b><br>• dom <b>Jozefa Hajmana (1898 Budapešť – 1977 KE)</b> ⚭ Marta rod. Kočišová (1902–1982)<br>• deti: Magda *1923 (⚭ huslista Ferdinand Ginelli), MUDr. Tibor 1926–1988 (chirurg), Marta *1928<br>• rodinná hrobka 7B „HAJMAN CSALÁD" na Verejnom cintoríne'},
+  {c:'hajman', lat:48.7060, lon:21.2450, t:'<b>Košice — štvrť Tábor (Pipa utca 16)</b><br>• majetok rodiny 1915 (na Alžbetu rod. Schurer)<br>• robotnícka štvrť Huštáky'},
+  {c:'hajman', lat:47.4979, lon:19.0402, t:'<b>Budapešť</b><br>• <b>Jozef Hajman *9.5.1898</b> (pôrodnica univerzity, Bp VIII; zápis 2496/VIII) — nemanželský, legitimizovaný<br>• Alžbeta Suverová tu slúžila (Király u. 90)<br>• ⚭ Ferenc × Alžbeta <b>4.2.1900</b>, Bp VI. obvod (obaja RK)'},
+  {c:'hajman', lat:48.1035, lon:20.7784, t:'<b>Pereces (Miškovec)</b><br>• Ladislav Hajman — kapelník baníckej dychovky 1940–45, potom späť do Košíc'},
+  {c:'hajman', lat:49.5090, lon:19.1080, t:'<b>Rajcza (Poľsko, Żywiecke Beskydy)</b><br>• „Raicza, Lengyelhon" — pôvod <b>Jánosa Hajmana *~1836 aj Anny Huterovej *~1838–41</b> (sobášny + úmrtný zápis)<br>• otcovia: <b>František Heiman a František Hutera</b> — 4× pradedovia<br>• Hutera = miestne goralské Hutyra (Geneteka: Milówka, Cięcina)'},
+  {c:'hajman', lat:46.7160, lon:17.6580, t:'<b>Szőlőskislak (Kislak), Somogy</b><br>• rodisko <b>Ferenca Hajmana *31.7.1873</b> (praprastarý otec)<br>• rodičia: <b>János Hajman & Anna Huterová</b> — 3× prastarí rodičia, prisťahovalci z poľskej Rajcze (⚭ 10.2.1861 Szőlősgyörök)<br>• Anna †7.4.1879 Kislak — pri pôrode<br>• krst 2.8.1873 vo farnosti <b>Szőlősgyörök</b><br>• sestra Mária *1869 ⚭ 1906 András Lachmanek (rodina ostala v Somogy)'},
+  {c:'hajman', lat:48.5990, lon:21.0310, t:'<b>Mokrance (Makranc), Abov</b><br>• rodisko <b>Alžbety Suverovej *6.3.1876</b> (dom č. 10) — praprababka<br>• nemanželská dcéra <b>Erzsébet Suverovej, slúžky</b> — 3× prababka<br>• krst 7.3.1876 vo farnosti Moldava n. B. (Szepsi)<br>• civilné matriky píšu SUVER, košická pozemková kniha Schurer'},
+
+  // ===== ŠKODOVÁ (fialová) =====
+  {c:'skodova', lat:48.6280, lon:21.3280, t:'<b>Nižná Myšľa</b><br>• klaster rodu Škody/Škodyovcov JV od Košíc<br>• hrob Heleny Mészárosovej rod. Škodyovej<br>• krst Helena Skodi 1893 (pristará menovkyňa)'},
+  {c:'skodova', lat:48.5560, lon:21.2580, t:'<b>Seňa</b><br>• Škodyovci — hroby a pozemky (zoznam vlastníkov)<br>• alternatívna vlasť Heleny rod. Škodiovej (poľská stopa možno cez rodné meno jej mamy Kataríny)'},
+
+  // ===== LIČKO (hnedá) =====
+  {c:'licko', lat:48.7960, lon:19.5540, t:'<b>Valaská (okr. Brezno, Horehronie)</b><br>• ⭐ <b>rodisko Jozefa Lička *1942</b> (matrika Jasov + evidencia obce)<br>• Ličkovci = horehronský rod klinčiarov a uhliarov (Beňuš/Lično, doložení od 1656)'},
+  {c:'licko', lat:48.6820, lon:20.9770, t:'<b>Jasov</b><br>• <b>bydlisko rodiny Jozefa Lička</b> („z Jasova" = bydlisko, nie rodisko)<br>• majster VSS, futbalový rozhodca; †~1981–83 na rakovinu<br>• Jozefov brat žije (kontakt cez Viktora)'},
+  {c:'licko', lat:48.7000, lon:20.8930, t:'<b>Medzev (Mecenzéf)</b><br>• pôvodne mylne cielené (rodina bola z Jasova, nie Medzeva)<br>• Anna Prognerová rod. Ličková †1986 (hrob C/109)<br>• Licskó rodiny v matrikách od 1864'},
+  {c:'licko', lat:48.7164, lon:21.2611, t:'<b>Košice — mesto</b><br>• Jozef Ličko ⚭ Irena Hajmanová; mama *1970<br>• hrobka Ličko/Lischko (sk. 8, 0VR/30)'},
+
+  // ===== LORENOWICZ (tyrkysová) =====
+  {c:'loren', lat:50.4605, lon:13.4178, t:'<b>Chomutov (ČR)</b><br>• Lorenowiczovci tu žili pred príchodom do KE (~60te, otec do VSŽ)<br>• Peter, Dmytro *1946, Tatiana'},
+  {c:'loren', lat:49.8500, lon:22.6000, t:'<b>Ciemierzowice / Zamiechów (Poľsko)</b><br>• gréckokatolícky klaster priezviska Lorenowicz 1844–1900<br>• pravdepodobný pôvod rodiny (Nadsiannie); dnes 69 nositeľov v okrese Jarosław'},
+  {c:'loren', lat:48.7250, lon:21.4560, t:'<b>Rozhanovce</b><br>• 2 nositeľky Lorenowiczová (1995) — možná príbuzná vetva'},
+
+  // ===== DIASPÓRA (sivá) =====
+  {c:'diaspora', lat:48.1486, lon:17.1077, t:'<b>Bratislava</b><br>• Štefan Rusinko (1925–2015) + Emília — hrob Vrakuňa 11/302'},
+  {c:'diaspora', lat:48.3705, lon:10.8978, t:'<b>Augsburg (Nemecko)</b><br>• teta Diana (Zdena) Fünfer + Vivien (podľa rodiny)'},
+  {c:'diaspora', lat:50.7663, lon:15.0543, t:'<b>Liberec (ČR)</b><br>• Vítězslav Lorenovicz — jediný nositeľ v ČR, možný príbuzný'},
+  {c:'diaspora', lat:45.4215, lon:-75.6972, t:'<b>Kanada (mesto nepoznáme)</b><br>• Rudolf Hajman ml. — Irenin brat, emigroval v 50.–60. rokoch<br>• neskôr údajne Izrael + konverzia na judaizmus'},
+
+  // ===== DNA STOPY (ružová) =====
+  {c:'dna', lat:48.8420, lon:21.6260, t:'<b>Jasenovce (okr. Vranov n. T.)</b><br>• rodná obec rodiny <b>KARTIS (= Kertis)</b> — najsilnejší DNA match (Joyce Chasse, 104 cM)<br>• manifest 1909: „Jaszenócz", národnosť Slovak<br>• Joseph Kartis *21.3.1886 ⚭ Anna Nameth/Németh *1886 → Roseton NY<br>• spojka k nám zatiaľ neznáma (Hanis? Suver? Zemplín?)'},
+  {c:'dna', lat:41.5820, lon:-73.9740, t:'<b>Roseton / Newburgh, New York</b><br>• slovenská tehliarska kolónia (Jova Brick Works)<br>• rodina Kartis × Nameth od ~1906; 7 detí; hroby Cedar Hill<br>• potomkovia = DNA cluster Chasse–Rollberg (104 + 46 cM)'}
+];
+
+for (const p of pins) {
+  L.circleMarker([p.lat, p.lon], {
+    radius: 9, color: '#fff', weight: 2, fillColor: C[p.c], fillOpacity: 0.95
+  }).addTo(map).bindPopup(p.t, {maxWidth: 300});
+}
+
+// migračné šípky (prerušované čiary)
+const mig = [
+  {a:[48.9536,21.1500], b:[48.9741,21.1506], c:C.rusinko,  t:'Brežany → Rokycany, 25.5.1922'},
+  {a:[47.4979,19.0402], b:[48.7110,21.2530], c:C.hajman,   t:'Budapešť → Košice (~1900)'},
+  {a:[50.4605,13.4178], b:[48.7095,21.2500], c:C.loren,    t:'Chomutov → Košice (~60. roky, VSŽ)'},
+  {a:[49.8500,22.6000], b:[50.4605,13.4178], c:C.loren,    t:'Halič → Chomutov (po 1945?)'},
+  {a:[48.9531,21.1861], b:[48.9741,21.1506], c:C.fejercak, t:'Janov → Rokycany (Peter ⚭ 1884)'},
+  {a:[49.5090,19.1080], b:[46.7160,17.6580], c:C.hajman,   t:'Rajcza (Poľsko) → Somogy (János + Anna, pred 1861)'},
+  {a:[46.7160,17.6580], b:[47.4979,19.0402], c:C.hajman,   t:'Szőlőskislak → Budapešť (Ferenc, ~90. roky 19. stor.)'},
+  {a:[48.5990,21.0310], b:[47.4979,19.0402], c:C.hajman,   t:'Mokrance → Budapešť (Alžbeta do služby, ~90. roky 19. stor.)'},
+  {a:[48.7960,19.5540], b:[48.6820,20.9770], c:C.licko,    t:'Valaská → Jasov (Ličkovci)'},
+  {a:[48.6820,20.9770], b:[48.7164,21.2611], c:C.licko,    t:'Jasov → Košice (Jozef, VSS)'},
+  {a:[48.8420,21.6260], b:[41.5820,-73.9740], c:C.dna,     t:'Jasenovce → Roseton NY (Kartisovci, ~1905–09)'}
+];
+for (const m of mig) {
+  L.polyline([m.a, m.b], {color: m.c, weight: 2, dashArray: '6 6', opacity: 0.7})
+    .addTo(map).bindPopup(m.t);
+}
+
+// legenda
+const legend = L.control({position:'topright'});
+legend.onAdd = () => {
+  const d = L.DomUtil.create('div','legend');
+  d.innerHTML = `<b>Rodokmeň na mape</b><br>
+  <span class="dot" style="background:${C.rusinko}"></span>Rusinko (Klenov–Brežany–Rokycany)<br>
+  <span class="dot" style="background:${C.fejercak}"></span>Fejerčák–Guľas (Janov, Jakubovany)<br>
+  <span class="dot" style="background:${C.hanis}"></span>Hanis + Dzuriček (Žipov, Radačov)<br>
+  <span class="dot" style="background:${C.hajman}"></span>Hajman–Suver (Somogy+Abov→Budapešť→KE)<br>
+  <span class="dot" style="background:${C.skodova}"></span>Škodová (JV od Košíc)<br>
+  <span class="dot" style="background:${C.licko}"></span>Ličko (Medzev, Košice)<br>
+  <span class="dot" style="background:${C.loren}"></span>Lorenowicz (Halič→Chomutov→KE)<br>
+  <span class="dot" style="background:${C.diaspora}"></span>diaspóra (BA, DE, CA…)<br>
+  <span class="dot" style="background:${C.dna}"></span>DNA stopa (Kartis: Jasenovce→Roseton NY)<br>
+  <small>Prerušované čiary = sťahovania.<br>Oddiaľ pre Budapešť, Somogy, Poľsko, USA.<br>Polohy pinov v obciach sú približné.</small>`;
+  return d;
+};
+legend.addTo(map);
+</script>
+</body>
+</html>
