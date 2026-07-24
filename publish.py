@@ -69,10 +69,13 @@ def main():
     shutil.copytree(VAULT / "prilohy", DOCS / "prilohy")
     print("OK prilohy/")
     # wrapper pre interaktívnu mapu rodokmeňa (samostatný HTML v prílohách)
+    # cache-buster z obsahu súboru — po každej zmene mapy sa iframe načíta nanovo
+    import hashlib
+    vh = hashlib.md5((VAULT / "prilohy" / "mapa-rodokmena.html").read_bytes()).hexdigest()[:8]
     (DOCS / "mapa-rodokmena.md").write_text(
         "# Mapa rodokmeňa\n\n"
-        "[Otvoriť na celú obrazovku](prilohy/mapa-rodokmena.html){target=_blank}\n\n"
-        '<iframe src="../prilohy/mapa-rodokmena.html" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
+        f"[Otvoriť na celú obrazovku](prilohy/mapa-rodokmena.html?v={vh}){{target=_blank}}\n\n"
+        f'<iframe src="../prilohy/mapa-rodokmena.html?v={vh}" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
         encoding="utf-8")
     print("OK mapa-rodokmena wrapper")
     shutil.copy(Path(__file__).parent / "landing.md", DOCS / "index.md")
