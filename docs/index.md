@@ -1,9 +1,9 @@
 # Príbeh našej rodiny
 
-**Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Škoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií z troch krajín, ktoré sa všetky zbehli v Košiciach.
+**Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Škoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií zo štyroch krajín, ktoré sa všetky zbehli v Košiciach.
 
 <div class="fakt-pas">
-<span>🌳 6 doložených generácií</span>
+<span>🌳 7 doložených generácií</span>
 <span>👥 120+ osôb</span>
 <span>📜 najstarší záznam: 1715</span>
 <span>🌍 🇸🇰 🇭🇺 🇵🇱 🇨🇿 🇨🇦 🇺🇸</span>
@@ -21,7 +21,11 @@
 
 -   🇭🇺 **Slúžka Erzsébet z Mokraniec**
 
-    Naša 3× prababka slúžila v Budapešti, kde sa jej 1898 narodil nemanželský syn. Otec — stolár Ferenc od Balatonu — ho o šesť rokov prišiel uznať pred košického matrikára. [→ celý príbeh](vetva-hajman-skodiova.md#jozefov-rodny-zapis-ziskany-fs-1472026-prelomovy-dokument)
+    Naša 3× prababka slúžila v Budapešti, kde sa jej 1898 narodil nemanželský syn. Otec — stolár Ferenc od Balatonu — ho o šesť rokov prišiel uznať pred košického matrikára. [→ celý príbeh](vetva-hajman-skodiova.md#rodny-zapis-jozefa-budapest-1898)
+
+-   🏔️ **Z goralskej Rajcze k Balatonu**
+
+    Sobášny zápis z roku 1861 prezradil, že János Hajman aj jeho nevesta Anna Huterová prišli do maďarského Somogy z poľskej Rajcze pod Beskydami — obaja ako nádenníci, deti Františka Heimana a Františka Huteru. Anna zomrela pri pôrode; osirelý Ferenc sa neskôr vydal do Budapešti a Košíc. [→ objav](vetva-hajman-skodiova.md)
 
 -   🍁 **Stratený brat Rudolf**
 
@@ -33,7 +37,7 @@
 
 -   🕵️ **Záhada Kataríny Škodovej**
 
-    Prežila päť štátov bez jediného sťahovania — a jej rodné meno stále nepoznáme. Práve oň sa hrá o poľskú stopu rodiny. [→ vetva Škodiová](vetva-hajman-skodiova.md)
+    Prežila päť štátov bez jediného sťahovania — a jej rodné meno stále nepoznáme. Práve oň sa hrá o druhú poľskú stopu rodiny. [→ vetva Škodiová](vetva-hajman-skodiova.md)
 
 -   🧡 **Dedo Peter**
 

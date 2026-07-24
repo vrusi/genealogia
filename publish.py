@@ -87,6 +87,49 @@ def main():
             if needle in t:
                 leaked.append((f.name, needle))
     print("LEAK CHECK:", leaked if leaked else "clean")
+    consistency_checks()
+
+def consistency_checks():
+    """Kontroly, že sa pri update nezabudlo na nič — spúšťa sa pri každom publish."""
+    import unicodedata
+    warn = []
+    # 1) pozostatky procesných poznámok v čitateľských súboroch
+    STALE = ["~~", "predtým chybne", "chybne \u201e", "HYPOTÉZA VYVRÁTENÁ", "vyvrátené 1", "5× prastarí", "5x prastarí"]
+    for f in sorted(DOCS.glob("*.md")):
+        t = f.read_text(encoding="utf-8")
+        for pat in STALE:
+            if pat in t:
+                warn.append(f"{f.name}: pozostatok iterácie '{pat}'")
+    # 2) mŕtve interné kotvy (slug.md#kotva musí existovať ako nadpis)
+    def slugify(h):
+        h = unicodedata.normalize("NFKD", h).encode("ascii", "ignore").decode()
+        h = re.sub(r"[^\w\s-]", "", h).strip().lower()
+        return re.sub(r"[\s]+", "-", h)
+    anchors = {}
+    for f in DOCS.glob("*.md"):
+        anchors[f.name] = {slugify(m.group(1)) for m in re.finditer(r"^#+\s+(.*)$", f.read_text(encoding="utf-8"), re.M)}
+    for f in sorted(DOCS.glob("*.md")):
+        for m in re.finditer(r"\]\(([a-z0-9-]+\.md)#([^)\s]+)\)", f.read_text(encoding="utf-8")):
+            tgt, a = m.group(1), m.group(2)
+            if tgt in anchors and a not in anchors[tgt]:
+                warn.append(f"{f.name}: mŕtva kotva → {tgt}#{a}")
+    # 3) vault súbor, ktorý nie je publikovaný ani vedome vylúčený
+    EXCLUDED = {"Drafty emailov", "Korešpondencia a úlohy", "DNA matche (Ancestry)", "Výskumný denník"}
+    for f in sorted(VAULT.glob("*.md")):
+        if f.stem not in FILES and f.stem not in EXCLUDED:
+            warn.append(f"vault: '{f.name}' nie je vo FILES ani vo vylúčených — pridať alebo vylúčiť")
+    # 4) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
+    import os
+    vault_newest = max(os.path.getmtime(f) for f in VAULT.glob("*.md"))
+    for wo in [Path(__file__).parent / "landing.md", VAULT / "prilohy" / "mapa-rodokmena.html"]:
+        if os.path.getmtime(wo) < vault_newest - 3 * 86400:
+            warn.append(f"web-only '{wo.name}' je o 3+ dní starší než najnovší vault súbor — prejsť, či nezaostal za novými faktami (fakt-pas, karty, kotvy, markery mapy)")
+    if warn:
+        print("KONTROLY: ⚠️")
+        for w in warn:
+            print("  -", w)
+    else:
+        print("KONTROLY: OK (pozostatky, kotvy, pokrytie, web-only čerstvosť)")
 
 if __name__ == "__main__":
     main()
