@@ -1,12 +1,12 @@
 # Mapa migrácií rodiny
 
-Súvisí: [Prehľad](prehlad.md) · [Štatistiky](statistiky.md) · Interaktívna mapa presunov jednotlivých vetiev (farebne). Súradnice sú približné (obec, nie dom). Zostavené 22.7.2026.
+Súvisí: [Prehľad](prehlad.md) · [Štatistiky](statistiky.md) · Interaktívna mapa presunov jednotlivých vetiev (farebne). Súradnice sú približné (obec, nie dom).
 
 <div id="mapa-migracie" style="height: 560px; border-radius: 8px; margin: 1em 0;"></div>
 
-**Legenda:** 🟤 Hajman (Somogy→Budapešť→Košice) · 🟠 Suver (Mokrance→Budapešť→Košice) · 🔵 Ličko (Valaská→Jasov→Košice) · 🟢 Rusinko (Brežany→Rokycany→Košice) · 🟡 Hanis (Žipov→Košice) · 🔴 Lorenowicz (Halič→Chomutov→Košice) · 🟣 emigrácie (Montreal, USA, Nemecko, Bratislava)
+**Legenda:** 🟤 Hajman + Hutera (Poľsko→Somogy→Budapešť→Košice) · 🟠 Suver (Mokrance→Budapešť→Košice) · 🔵 Ličko (Valaská→Jasov→Košice) · 🟢 Rusinko (Brežany→Rokycany→Košice) · 🟡 Hanis (Žipov→Košice) · 🔴 Lorenowicz (Halič→Chomutov→Košice) · 🟣 emigrácie (Montreal, USA, Nemecko, Bratislava)
 
-Všetkých šesť línií sa zbieha v **Košiciach** — mesto pritiahlo rodinu z troch štátov a piatich regiónov v priebehu ~80 rokov (1900–1980), takmer vždy **za prácou** (železnica, železiarne VSS/VSŽ, remeslá).
+Všetkých šesť línií sa zbieha v **Košiciach** — mesto pritiahlo rodinu zo štyroch dnešných štátov (Poľsko, Maďarsko, Česko, Slovensko) v priebehu troch generácií, takmer vždy **za prácou** (železnica, železiarne VSS/VSŽ, remeslá). Najdlhšia cesta: goralská Rajcza → balatonské Somogy → Budapešť → Košice.
 
 ## Košická mikromapa (kde rodina bývala)
 
@@ -19,7 +19,7 @@ Hajmanovský klan býval v 30. rokoch **v jednom bloku**: matka Alžbeta so slob
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var KE = [48.716, 21.256];
-  var map = L.map('mapa-migracie').setView([48.5, 18.5], 5);
+  var map = L.map('mapa-migracie').setView([48.7, 18.8], 5);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '&copy; OpenStreetMap'}).addTo(map);
 
   function route(points, color, label) {
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
 
-  route([[46.75, 17.72], [47.50, 19.04], KE], '#8d6e63', 'Hajman: Szőlőskislak (Somogy) → Budapešť (1898) → Košice (1900)');
+  route([[49.509, 19.108], [46.75, 17.72], [47.50, 19.04], KE], '#8d6e63', 'Hajman + Hutera: Rajcza (Poľsko, pred 1861) → Szőlőskislak (Somogy) → Budapešť (1898) → Košice (1900)');
   route([[48.62, 21.03], [47.50, 19.04], KE], '#ef6c00', 'Suver: Mokrance → Budapešť (služba, 1898) → Košice (1900)');
   route([[48.79, 19.55], [48.68, 20.97], KE], '#1565c0', 'Ličko: Valaská (*1942) → Jasov → Košice (VSS)');
   route([[49.03, 21.12], [48.98, 21.10], KE], '#2e7d32', 'Rusinko: Brežany/Bujakov → Rokycany (1922) → Košice (dedo)');

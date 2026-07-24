@@ -6,7 +6,7 @@ Legenda: 🟢 doložené záznamom · 🟡 v strome FS, bez dokladu · 🔴 hypo
 
 ## 🧭 Kto je kto — legenda vzťahov (priama línia od Veroniky)
 
-> Formát: **Vydaté meno rod. rodné** — vzťah (strana) · dátumy. Počet „pra" = počet generácií nad starými rodičmi (stará mama = 0 pra; prababka/pradedo = 1 pra; praprababka = 2 pra; 3×, 4×…). Táto legenda opravuje staršie pomýlené počty (napr. János Hajman bol chybne „5×", správne **3×**).
+> Formát: **Vydaté meno rod. rodné** — vzťah (strana) · dátumy. Počet „pra" = počet generácií nad starými rodičmi (stará mama = 0 pra; prababka/pradedo = 1 pra; praprababka = 2 pra; 3×, 4×…).
 
 **Ja (0):** Veronika Rusinková *1997
 
@@ -19,7 +19,7 @@ Legenda: 🟢 doložené záznamom · 🟡 v strome FS, bez dokladu · 🔴 hypo
 - Anna Rusinková rod. Hanisová 1928–2000 (dožila sa ~72 r.) — **stará mama (otcova strana)**
 - Jozef Ličko *1942 Valaská (okr. Brezno) †1981+ — **starý otec (mamina strana)**
 - Peter Lorenowicz *Chomutov, žije — **starý otec (mamina strana)**: Irenin druhý manžel; po smrti Jozefa Lička si mamu a Zdenu osvojil a vychoval; žije v rodinnom dome na Lichardovej 30
-- Irena rod. Hajmanová 1944–2015 (dožila sa ~71 r.) — **stará mama (mamina strana)**
+- Irena rod. Hajmanová 1944–2015 (dožila sa ~70 r.) — **stará mama (mamina strana)**
 
 **Prastarí rodičia (3) — „1× pra":**
 - Ján Rusinko 1898–1980 (dožil sa ~82 r.) & Anna rod. Fejerčáková 1895–1967 (dožila sa ~72 r.) — *prastarí, otcova strana (Rusinko)*
@@ -39,8 +39,11 @@ Legenda: 🟢 doložené záznamom · 🟡 v strome FS, bez dokladu · 🔴 hypo
 **3× prastarí (5) — „3× pra":**
 - Juraj Guľas 1834–1866 (dožil sa ~32 r.) & Alžbeta rod. Semanová *1834 — *otec/Guľas*
 - Ján Fejerčák & Mária rod. Fedorová (~1830) — *otec/Fejerčák*
-- **János Hajman** (želiar) & **Anna rod. Huterová**, Szőlőskislak — *mama/Hajman* ⚠️ (predtým chybne „5×")
-- **Erzsébet Suver** (slúžka, Mokrance) *~1845 — *mama/Suver* ⚠️ (predtým chybne „4×"; je to matka Alžbety Suverovej *1876 → 3×, nie 4×)
+- **János Hajman** *~1836 & **Anna rod. Huterová** *~1838–41 †1879 — *mama/Hajman*; obaja prisťahovalci z **Rajcze (Poľsko)**, od 1861 Szőlőskislak
+- **Erzsébet Suver** (slúžka, Mokrance) *~1845 — *mama/Suver* (matka Alžbety Suverovej *1876)
+
+**4× prastarí (6) — „4× pra":**
+- **František (Franciscus) Heiman** — Jánosov otec — a **František (Franciscus) Hutera** — Annin otec; obaja zrejme Rajcza (Poľsko) — *mama/Hajman*, doložení sobášnym zápisom 1861
 
 **Najhlbší doložený predok:** Joannes Rusinko, daňový súpis Klenov **1715** (otcova strana) — ~9–10 generácií nad Veronikou.
 
@@ -92,13 +95,16 @@ graph TD
 
 ```mermaid
 graph TD
+  subgraph mgen5["~1836 — 3× prastarí"]
+    JHAH["🟢 János Hajman *~1836 ⚭ 10.2.1861 Anna Huterová *~1838–41<br>obaja z Rajcze (Poľsko) → nádenníci v Somogy<br>otcovia: František Heiman a František Hutera<br>Anna †7.4.1879 Kislak (pri pôrode)"]
+  end
   subgraph mgen4["staršia generácia — praprastarí"]
     FH["🟢 Ferenc Hajman<br>*31.7.1873 Szőlőskislak (Somogy)<br>stolár; do Kassa ~1900"]
     ASch["🟢 Alžbeta rod. Suver (Schurer)<br>*6.3.1876 Mokrance<br>⚭ 4.2.1900 Budapešť; 1930 vdova, Lichardova 37"]
     KS["🟡 Katarína Škodová<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
   end
   subgraph mgen3["~1895–1920 — pradedovia"]
-    LX["🔴 rodičia Jozefa Lička<br>Jasov (neznámi)"]
+    LX["🔴 rodičia Jozefa Lička<br>neznámi — dá ich matrika Valaská"]
     RH["🟢 Rudolf Hajman<br>kominár · ~1916?–1991<br>hrob VC Košice sk. 1"]
     HS["🟢 Helena rod. Škodiová<br>1919–1994 · hrob VC sk. 1<br>(poľský pôvod?)"]
   end
@@ -110,6 +116,7 @@ graph TD
   ML["Marta *16.1.1970 — mama<br>nar. Ličková → adopt. Lorenowiczová → vyd. Rusinková"]
   ZD["Zdena *1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer (dcéra Vivien, ~Augsburg)"]
 
+  JHAH --> FH
   FH -->|hárok 1930 + rodina| RH
   ASch --> RH
   KS -->|matka| HS
@@ -151,7 +158,7 @@ graph TD
 
 ```mermaid
 graph TD
-  FH["Ferenc Hajman<br>Kassa od ~1875"] --- ASch["Alžbeta rod. Schurer *1873"]
+  FH["Ferenc Hajman *1873 Szőlőskislak<br>v Kassa od ~1900"] --- ASch["Alžbeta rod. Suver *1876 Mokrance"]
   FH --> J98["🟢 Jozef *9.5.1898 BUDAPEŠŤ<br>majiteľ domu Skladná 47<br>⚭ Marta; deti Magda, Tibor, Marta<br>= hrobka 7B, Verejný cintorín"]
   FH --> F00["🟢 František *3.12.1900<br>⚭ Anna *1903 (sobáš 1924)"]
   FH --> RH2["RUDOLF — kominár<br>= prastarý otec<br>tajomník kominárskeho spolku 1939–41<br>dostaval dom Lichardova 30"]
