@@ -6,7 +6,7 @@ Gréckokatolícka rodina zo šarišskej dediny **Bujakov** (dnes Brežany; názo
 
 ## Rodová línia
 
-- **Dedo Ján Rusinko** — *29.1.1923 Rokycany, †4.4.2006 Košice (~83 r.). Príčina úmrtia: rakovina pľúc a prostaty (rodinný zošit). Hrob: Verejný cintorín KE, sk. 18, hrob 20 (s babkou Annou). FS `PMQS-J35`.
+- **Dedo Ján Rusinko** — *29.1.1923 Rokycany, †4.4.2006 Košice (~83 r.). Príčina úmrtia: rakovina pľúc a prostaty (rodinný zošit). **Pohreb 7.4.2006 o 12.00 na verejnom cintoríne** — doložené oznámeniami v denníku Korzár zo 6. a 7.4.2006 (rubrika Pohreby, „Jánom RUSINKOM, 83-ročným"; skeny strán v prílohách: ![](prilohy/pohrebne-oznamenie-2006-korzar-6-4-jan-rusinko.jpg), ![](prilohy/pohrebne-oznamenie-2006-korzar-7-4-jan-rusinko.jpg); originály PDF tamtiež). Hrob: Verejný cintorín KE, sk. 18, hrob 20 (s babkou Annou). FS `PMQS-J35`.
 - **Pradedo Ján Rusinko** — *27.4.1898 Bujakov, †28.2.1980 (~82 r.) — nádenník. ⚭ **3.6.1919 Anna Fejerčáková** (*19.10.1895 Rokycany, †6.1.1967, ~72 r.). Rodina sa **25.5.1922 presťahovala z Bujakova do Rokycian** (dom č. 20, od ~1940 č. 22). Spoločný hrob: Rokycany A/33 (foto v prílohách). Väzba dedo→pradedo doložená sčítacím hárkom 1930.
 - **Deti Jána a Anny:** Mária *10.9.1921 Bujakov (osud neznámy), **Ján *1923 (dedo)**, Štefan *28.9.1925 (†1.2.2015 Bratislava, ~90 r.; ⚭ Emília *1925 †2015 — hrob Vrakuňa 11/302), Andrej *5.9.1927 (†5.11.2017, ~90 r.; ⚭ Mária „Holmáňová" *1934 †2024 — hrob Rokycany), **piate dieťa zomrelo v detstve** (~1919–30, meno nepoznáme) a **sestra Anna** narodená po 12/1930 (vieme o nej len z hárku 1940).
 - **Prapradedo (hypotéza): Ondrej Rusinko** — ***9.2.1857 Bujakov č. 15, krst 10.2.1857 GK Klenov**, †1936, pochovaný v Bajerove (liatinový kríž s nepresným rokom „*1861"; ~2006 pri hrobe čerstvé kvety). Krstní rodičia Andreas Sedlák a Barbara Szemanits. Pri krstnom zápise ceruzková poznámka „1894" — zrejme rok vydania výpisu (kandidát: k jeho sobášu; prvé dieťa Ján *1898 by sedelo). Otcovstvo Jána 1898 definitívne potvrdí Jánov krst (fara Klenov). Citácia: film 004406750, obraz 186, ark 3:1:S3HY-6FQ9-H7K.
@@ -35,7 +35,7 @@ Hárok dokladá: synovstvo deda, **gréckokatolícke vierovyznanie celej domácn
 | Kto | Dátumy | Hrob |
 |---|---|---|
 | Ján Rusinko + Anna rod. Fejerčáková | 1898–1980; 1895–1967 | Rokycany A/33 |
-| dedo Ján + babka Anna | 1923–2006; 1928–2000 (pohreb 10.2.2000) | KE Verejný cintorín 18-12-20 |
+| dedo Ján + babka Anna | 1923–2006 (pohreb 7.4.2006); 1928–2000 (pohreb 10.2.2000) | KE Verejný cintorín 18-12-20 |
 | Štefan + Emília | 1925–2015; 1925–2015 | BA Vrakuňa 11/302 |
 | Andrej + Mária | 1927–2017; 1934–2024 | Rokycany |
 | Ondrej Rusinko | „1861"–1936 (správne *1857) | Bajerov, liatinový kríž |

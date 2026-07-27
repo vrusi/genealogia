@@ -115,7 +115,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **10.2.2000** — pohreb **babky Anny Rusinkovej rod. Hanisovej** (71 r.) — do hrobu KE 18-12-20, kde neskôr aj dedo (evidencia cintorína)
 - **~2000** — zomrela Mária Lorenoviczová (Petrova matka)
 - **8.7.2002** — do hrobky Ličkovcov (sk. 8, 0VR/30) uložená urna **Etely Lischkovej** (83 r., *~1918/19) — nová osoba, vzťah k Jozefovi? (evidencia cintorína: „všetci Ličkovci sú uložení v urnách")
-- **4.4.2006** — zomrel **dedo Ján Rusinko** (83 r., hrob KE sk. 18/20); **16.11.2006** zomrela **Magdaléna Ginelliová rod. Hajmanová** (83 r.)
+- **4.4.2006** — zomrel **dedo Ján Rusinko** (83 r., pohreb 7.4. o 12.00, hrob KE sk. 18/20; oznámenia v Korzári 6. a 7.4. — skeny v prílohách); **16.11.2006** zomrela **Magdaléna Ginelliová rod. Hajmanová** (83 r.)
 - **14.4.2009** — zomrela **Mária Hajmanová *25.3.1942** (hrobka 7B) (dožila sa ~67 r.; dátumy z evidencie cintorína)
 - **1.2.2015** — zomrel **Štefan Rusinko** (89 r., Vrakuňa); **20.4.2015** zomrela **babka Irena** (70 r., ako Lorenowiczová; rozptyl); **5.5.2015** zomrela Emília Rusinková
 - **15.12.2016** — zomrela **Mária Ginelliová *25.3.1950** (kurátorka Východoslovenského múzea; hrob sk. 91)
