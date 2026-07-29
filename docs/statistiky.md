@@ -72,18 +72,57 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 
 ## Krstné mená naprieč stromom
 
+**Úplný zoznam: 36 rôznych krstných mien na ~105 pomenovaných osobách** (pokrvní príbuzní, ich manželia a deti zo všetkých vetiev; zo 120+ osôb v poznámkach je zvyšok menovcov, nedoložených kandidátov a osôb, ktorých meno zatiaľ nepoznáme). Uvádzané sú aj mená s jediným nositeľom. Otáznik = osoba, ktorej príbuzenský vzťah sa ešte overuje. Maďarské a latinské podoby toho istého mena sú zlúčené (Ján = János = Joannes, Ondrej = András = Andrej, František = Ferenc = Franciscus).
+
+### Mená s viacerými nositeľmi
+
 | Meno | Počet | Nositelia |
 |---|---|---|
-| **Ján/János** | 7+ | Rusinko 1898, dedo 1923, Hajman kožušník 1913, Dzuriček, János Hajman (3× pradedo), János Suver 1884, Ján Fejerčák |
-| **Anna** | 7 | Fejerčáková 1895, babka 1928, Dzurendová 1900, Huterová (3× prababka), Schullerová 1903, Hovanecz, sestra Anna *po 1930 |
-| **Jozef** | 5 | Hanis †1929, Ličko 1942, Hajman 1898, Ginelli 1880, Suver? |
-| **Mária** | 5+ | Guľasová 1861, Dzuričková 1926, Holmáňová 1934, Majáková 1942, Ginelliová 1950, Hajmanová 1869 |
-| **Alžbeta** | 4 | Suverová 1876, Šoltésová, Hanisová 1924, Hajmanová 1922 |
-| Rudolf | 2 | otec → syn (Kanada) — priame dedenie mena |
-| Tibor | 2 | strýko chirurg → synovec gynekológ — dedenie cez krstné meno |
-| Helena | 2 | Škodiová 1919, Hajmanová (Rudolfova švagriná?) |
+| **Anna** | 14 | Fejerčáková 1895 (prababka), babka Anna Hanisová 1928, Dzurendová 1900, Huterová (3× prababka), Schullerová r. Hajman 1903, Anna *1903 ⚭ František Hajman, sestra Anna Rusinková *po 1930, Anna Hajmanová (krst 1876)?, Anna Fejerčáková *1877 (Petrova sestra), Hovanecz(?) ⚭ Ginelli, Jakubiková ⚭ Ondrej Fejerčák 1872, Hanzoková ⚭ István Suver?, Prognerová r. Ličková †1986?, Šáriková r. Ličková ~1900? |
+| **Mária** | 13 | Guľasová 1861, Fedorová (~1830), Gumanová (Ondrejova matka), Rusinková 1921, „Holmáňová" 1934, Hanisová-Dzuričková 1926, Mária ⚭ Ján Dzuriček st., Hajmanová 1869 (⚭ Lachmanek), Majáková 1942, Ginelliová 1950, Lorenoviczová †~2000, Fejerčáková *1858, Fejerčáková *1894 |
+| **Ján / János / Joannes** | 12 | Rusinko 1898, dedo Ján 1923, Ján Rusinko *1859 (Ondrejov brat), **Joannes Rusinko 1715** (najhlbší predok), Ján Fejerčák (3× pradedo), Fejerčák *1866, Fejerčák *1884, Dzuriček 1917, Dzuriček st. *1874, János Hajman ~1836 (3× pradedo), Ján Hajman 1913 (kožušník), János Suver 1884 |
+| **Jozef / József** | 8 | otec Jozef Rusinko 1968, Hanis †1929, Hajman 1898, Ličko 1942, Ginelli 1880, József Hajman (syn Jánosa)?, Jozef Suver (Erzsébetin otec)?, Fejerčák z Janova (repatriácia 1946)? |
+| **Alžbeta / Erzsébet** | 8 | Suverová 1876, Semanová 1834, Šoltésová, Hanisová 1924, Alžbeta *1922 ⚭ Ján Hajman, Erzsébet Suver st. ~1845 (3× prababka), Répásová (4× prababka)?, Fejerčáková-Brecová 1908? |
+| **Ondrej / Andrej / András** | 7 | Ondrej Rusinko 1857 (2× pradedo), Andrej Rusinko 1927, Andrej Dzurenda 1870 (2× pradedo), Ondrej Fejerčák *1868 (†1870), Ondrej Fejerčák *1872, Ondrej/András Fejerčák *1886–87 (Petrov syn, †v detstve), András Lachmanek 1874 |
+| **František / Ferenc** | 5 | Ferenc Hajman 1873 (2× pradedo), František Hajman 1900, **František Heiman** (4× pradedo), **František Hutera** (4× pradedo), Ferentz *1867 (†v detstve — meno použité znova pre Ferenca 1873) |
+| **Juraj / György** | 3 | Guľas 1834 (3× pradedo), Juraj Rusinko *1862, Fejerčák z Janova (repatriácia)? |
+| **Marta** | 3 | mama Marta 1970, Kočišová 1902, Marta Hajmanová ml. 1928 |
+| **Peter** | 2 | Fejerčák 1860 (2× pradedo), dedo Peter Lorenowicz |
+| **Rudolf** | 2 | pradedo Rudolf Hajman + Rudolf ml. (Kanada) — priame dedenie mena |
+| **Tibor** | 2 | MUDr. Tibor Hajman (chirurg) + MUDr. Tibor Ginelli (gynekológ) — dedenie cez krstné meno |
+| **Veronika** | 2 | Veronika Rusinková 1997, Veronika Mrúzová r. Rusinková ~1919? |
+| **Magda / Magdaléna** | 2 | Magda Hajmanová-Ginelliová 1923, Magdaléna z hrobu sk. 15? |
 
-Dedenie mien je doložené 2×: **Rudolf → Rudolf ml.** a **Tibor Hajman → Tibor Ginelli**. Ženská línia Veroniky mená naopak nikdy neopakuje: Katarína → Helena → Irena → Marta → Veronika — päť generácií, päť rôznych mien.
+### Mená s jediným nositeľom (22)
+
+| Meno | Nositeľ |
+|---|---|
+| Michal | Michal Rusinko (Ondrejov otec, Bujakov) |
+| Štefan | Štefan Rusinko 1925 (dedov brat) |
+| Emília | Emília Rusinková 1925 (Štefanova manželka) |
+| Adam | Adam Fejerčák *1892 (Annin brat) |
+| Katarína | Katarína Škodová 1897 (2× prababka) |
+| Helena | Helena rod. Škodiová 1919 (prababka) |
+| Irena | babka Irena Hajmanová 1944 |
+| Ladislav | Ladislav Hajman 1916 (hudobník) |
+| Rozália | Rozália Hajmanová ~1861 (Ferencova sestra) |
+| Lajos | Lajos Hajman, krst 1864 Lengyeltóti? |
+| Pál | Pál Hajman (syn Jánosa)? |
+| Leopold | Leopold Hajman *1913 (vzťah k rodine sa overuje)? |
+| Ferdinand | Ferdinand Ginelli 1913 (huslista, Magdin manžel) |
+| Zita | Zita Kulčárová (v evidencii hrobu Jána Hajmana — dcéra?)? |
+| Etela | Etela Lischková ~1918/19 (hrobka 0VR/30)? |
+| Štefánia | Štefánia Ličková (tá istá hrobka)? |
+| Viktor | Viktor Ličko (mamin nevlastný brat) |
+| Dmytro | Dmytro Lorenovicz 1946 (Petrov brat) |
+| Tatiana | Tatiana vyd. Elleder (Petrova sestra) |
+| Vítězslav | Vítězslav Lorenowicz (ďalší Petrov súrodenec?)? |
+| Zdena / Diana | mamina sestra Zdena Ličková 1966 → Diana Fünfer (jedna osoba, dve mená) |
+| Vivien | Vivien Fünfer (Dianina dcéra) |
+
+**Čo z toho vidno:** päť najčastejších mien (Anna, Mária, Ján, Jozef, Alžbeta) pokrýva **55 zo 105 osôb — viac než polovicu rodiny**. Do konca 19. storočia sa v podstate používalo len asi osem mien; pestrosť (Ferdinand, Ladislav, Tibor, Etela, Dmytro, Vivien) prichádza až s 20. storočím a s mestom. Dedenie mien je doložené 2×: **Rudolf → Rudolf ml.** a **Tibor Hajman → Tibor Ginelli**; k tomu jeden smutný prípad recyklácie — **Ferentz *1867 zomrel v detstve a meno dostal Ferenc *1873**. Ženská línia Veroniky mená naopak nikdy neopakuje: Katarína → Helena → Irena → Marta → Veronika — päť generácií, päť rôznych mien.
+
+*Nezapočítaní: menovci a paralelné vetvy, u ktorých je príbuzenstvo vyvrátené alebo nedoložené (Matej Fejercsák *1894 a jeho rodičia András × Anna Sáriszki; kandidátske rodiny Skodi; horehronskí Ličkovci z cintorínov — Miroslav, Marcela, Vladimír, Alena…), ďalej svedkovia a kňazi z matrík (Franciscus Beke, Joannes Aranyas, Paulus Szmodis, Molnár Ferenc, Bolla Juli, Valyko János) a svokrovci vydatých pratiet (Jakab Lachmanek, Zsuzsanna Bárány). Bez mena zatiaľ: piate dieťa Jána a Anny Rusinkovcov († pred 1930), dieťa Anny Huterovej z pôrodu 4/1879 a rodičia Jozefa Hanisa aj Jozefa Lička.*
 
 ## Nemanželské deti (línia Suver)
 
