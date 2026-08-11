@@ -184,3 +184,24 @@ Praktický dôsledok: pri každom hľadaní v indexoch treba sito na všetky var
 | Lorenowicz (pôvod) | gréckokatolícke | Zamiechów pri Przemyśli |
 
 Manželstvo dedo Ján (GK) × babka Anna (RK) bolo konfesionálne zmiešané — bežné, ale určovalo, kde sa krstili deti. 🧬 DNA ~3 % Ashkenazi zostáva nepriradené — kandidáti: rodné meno Kataríny, rodičia Ferenca/Alžbety, Ličkovci.
+
+## Povolania — z čoho rodina žila
+
+Doložené povolanie máme u **26 osôb** naprieč šiestimi vetvami a tromi storočiami (podrobný rozpis po vetvách je v [Zamestnania v rodine](zamestnania.md)).
+
+| Okruh | Osôb | Kto |
+|---|---|---|
+| **Remeslá** | 5 | stolár Ferenc, kominár Rudolf, kožušník Ján, učeň-stolár Leopold, horehronskí uhliari a klinčiari Ličkovci |
+| **Pôda a nádenníctvo** | 4 | gazda Joannes Rusinko (1715), nádenník Ján Rusinko, nádenníčka Anna Dzurendová, želiar János Hajman |
+| **Priemysel a robota v závode** | 4 | majster VSS Jozef Ličko, robotník VSŽ (otec Petra), tehliar Joseph Kartis, oceliar Michael Kertis |
+| **Služba** | 3 | Erzsébet Suver, jej dcéra Alžbeta, Alžbeta Hanisová — **všetko ženy** |
+| **Vzdelané profesie** | 3 | chirurg Tibor Hajman, gynekológ Tibor Ginelli, kurátorka Mária Ginelliová |
+| **Hudba** | 2 | huslista a profesor konzervatória Ferdinand Ginelli, rozhlasový hudobník Ladislav Hajman |
+| **Cirkev** (vzťah nedoložený) | 2 | GK kňaz Ján Fejerčák †1846, jáhen Vítězslav Lorenovicz |
+| Ostatné | 3 | hostinský Licskó János; vojaci Matej a Ján Fejercsákovci (vojna, nie povolanie) |
+
+- ⭐ **Tri generácie od bezzemka k inteligencii** — najstrmší oblúk má vetva Hajman: želiar a slúžka (~1870) → stolársky pomocník, ktorý odišiel za prácou do Budapešti (1898) → košickí remeselníci s vlastným domom (1915) → **lekár, profesor konzervatória, kurátorka múzea** (1960-te). Štyri generácie, štyri sociálne poschodia.
+- **Ženská práca = služba.** Všetky tri doložené ženské zamestnania pred rokom 1950 sú „slúžka" alebo „v službe". Prvá doložená žena s kvalifikovanou profesiou je až **Mária Ginelliová** (*1950, kurátorka Východoslovenského múzea) — teda o generáciu neskôr než muži.
+- **Remeslo išlo za železom.** Ličkovci pálili uhlie pre hrončiansko-podbrezovský komplex v 19. storočí; Jozef *1942 skončil ako majster vo VSS Košice. Rovnaký motív priviedol do Košíc aj Lorenowiczovcov z Chomutova (VSŽ) — dve nezávislé vetvy, ten istý magnet.
+- **Mesto verzus dedina.** Šarišské vetvy (Rusinko, Hanis) boli okolo 1930 bezzemkovia bez remesla; košická vetva mala v jednej generácii kominára, kožušníka, stolárov aj hudobníka. Rozdiel nie je v schopnostiach, ale v tom, kam sa rodina dostala.
+- **Medzery.** Bez známeho povolania sú stále dedo Ján ⭐, babka Anna ⭐, Irena, Peter Lorenowicz, Helena a Katarína Škodové, Jozef Hanis, Jozef Hajman a celá staršia vetva Fejerčák–Guľas — čísla vyššie preto podceňujú roľnícku časť rodiny.
