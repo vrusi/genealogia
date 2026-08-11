@@ -19,7 +19,7 @@ Kľúčová oprava: **Žipov nepatril pod Radačov, ale pod farnosť BAJEROV** (
 - Jej matka **Anna rod. Dzurendová** ***24.11.1900** Žipov (`GYM2-WVL`), rodičia Andrej Dzurenda & Alžbeta Šoltésová.
 - **Sestry Anny (podľa FS, NagyLukas 8/2024):** Alžbeta Hanisová *3.6.1924 Žipov (`GYM2-D3W`), Mária Hanisová *22.1.1926 (`GYMS-9YH`) — spýtať sa rodiny na tety a ich potomkov!
 - ⭐ **Mária — doložená náhrobkom (fotografia 10.7.2026):** „Mária Dzuričková rod. Hanisová *22.I.1926 †20.X.1971" + manžel **Ján Dzuriček *4.V.1917 †17.II.1989** (dožil sa ~72 r.) (do FS pridaný 10.7.2026 ako `PXS2-M43`, sobáš = vzťah `9ZHL-SLQ`, zdroj = náhrobok `W8FC-FF6`). Cintorín takmer isto **Žipov** (v pozadí hrob Jána Dzurendu *1913 — Durenda je žipovské priezvisko už v súpise 1715). Foto: ![](prilohy/hrob-maria-dzurickova-rod-hanisova-1926-1971-zipov.jpeg)
-  → **Dzuričekovci** = potomkovia tejto vetvy sú mamine sesternice/bratranci 2. stupňa — kandidáti na NagyLukasa; hľadať Dzuriček v Žipove/Prešove.
+  → **Dzuričekovci** = potomkovia tejto vetvy sú **otcovi bratranci a sesternice** (Mária bola sestra babky Anny, teda otcova teta); pre mňa bratranci/sesternice z druhého kolena — kandidáti na NagyLukasa; hľadať Dzuriček v Žipove/Prešove.
 - Nič z toho nie je doložené záznamom (0 zdrojov na FS). **NagyLukas pozná aj Hanisovcov** — ďalší dôkaz, že je blízky príbuzný (potomok niektorej zo sestier?).
 
 ## Zistené stopy

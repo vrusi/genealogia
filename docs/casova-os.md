@@ -34,7 +34,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **27.4.1898** (hárok uvádza 25.4.) — narodil sa **Ján Rusinko** v **Brežanoch (vtedy Bujakov)** — gréckokatolík
 - **9.5.1898** — narodil sa **Jozef Hajman** v **Budapešti** (pôrodnica kráľ. univerzity, Bp VIII.; zápis 2496/VIII) — nemanželský syn slúžky Alžbety Suverovej; otcovstvo Ferenc uznal 1904 pred košickým matrikárom ✅ originál v prílohách
 - **6.10.1898** — dom Pipa u. 16 v Kassa (vložka 4720) kupuje „Parohács Jánosné rod. Schurer Erzsébet" — hypotéza: Alžbetina matka Erzsébet Suverová, medzičasom vydatá (test vo [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md))
-- **4.2.1900** — ⚭ **Ferenc Hajman × Alžbeta Suver**, civilne v **Budapešti (VI. obvod)** — obaja **rímskokatolíci**; deti legitimizované (okrajová poznámka 15.9.1904 + rubriky v denníkoch 21.1.1900 = ohlášky)
+- **4.2.1900** — ⚭ **Ferenc Hajman × Alžbeta Suver**, civilne v **Budapešti (VI. obvod)**, zápis č. 25 — obaja **rímskokatolíci**, obaja bývali na Sziget u. 16; deti legitimizované (okrajová poznámka 15.9.1904 + rubriky v denníkoch 21.1.1900 = ohlášky). ✅ **Sken zápisu z BFL (30.7.2026)**: Ferencovi rodičia **† János Hajman a Anna Hutera**, Alžbetina matka **Erzsébet Suver** (otec neuvedený → nemanželské dieťa; matka v 1900 podľa zápisu **žila**)
 - **1900** — Alžbeta Schurer prichádza z Uhorska do Košíc; **3.12.1900** narodený **František Hajman**
 - **24.11.1900** — narodila sa **Anna Dzurendová** (Hanisová matka) v Žipove č. 18, rodičom **Andrejovi Dzurendovi a Alžbete rod. Šoltésovej** (matrika Bajerov)
 - **18.10.1902** — narodila sa **Marta, rod. Kočišová** v Košiciach — budúca manželka **Jozefa Hajmana (*1898 Budapešť)**, matka Magdy, Tibora-chirurga a Marty ml.
@@ -74,11 +74,12 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **11/1938** — Košice pripojené k Maďarsku (Kassa); Tibor Hajman prechádza na štátne Hunfalvyho gymnázium
 - **1939–41** — **Rudolf Hajman (kominár)** v tlači: pokladník → tajomník → **výkonný tajomník kominárskeho odborového spolku** v Kassa
 - **1.12.1940** — sčítanie 1940: Rusinkovci už v dome č. 22 — a v domácnosti **neznáma sestra Anna** (*po 1930!); Hanisové stále v dome 57, **Alžbeta (16) v službe v Prešove** na Floriánovej 7
-- **1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ (presný dátum dá rodný list z Valaskej)
+- **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — dátum potvrdila matrika Valaská (3.8.2026); rodičia budú v rodnom liste
 - **16.11.1944** — narodila sa **Irena Hajmanová** v Košiciach (vtedy Kassa) ⭐
+- **12/1944 – 2/1945** — **odvlečenie mužov z okolia Prešova na kopanie zákopov v Medzeve**: 17-ročný **Andrej Rusinko** (dedov brat) 8.12.1944 – 8.2.1945; **Fejerčákovci** Andrej z Bajerova, Jozef a Juraj z Janova (5–6 týždňov, bez odmeny). Doložené repatriačnými dotazníkmi 1946 ✅
 - **19.1.1945** — oslobodenie Rokycian; **1945** — hudobník Ladislav Hajman sa vracia z Perecesa do Košíc
 - **~1945–50** — narodil sa **Rudolf Hajman ml.** (Irenin brat; v košických knihách narodení 1930–44 nie je)
-- **1946** — repatriačný register Prešov: Rusinko Ondrej z Rokycian (= Andrej *1927?), Fejerčákovci z Bajerova a Janova; **20.7.1946** narodený Dmytro Lorenovicz
+- **4.–5.1946** — registrácia na Čs. oblastnom repatriačnom stredisku v Prešove: **Andrej Rusinko z Rokycian** (8.4., reg. 105513 — ✅ potvrdené, že je to dedov brat), **Fejerčákovci** Andrej (17.4.), Jozef (15.4.) a Juraj (13.5.); **20.7.1946** narodený Dmytro Lorenovicz
 - **25.3.1950** — narodila sa **Mária Ginelliová** (dcéra Magdy Hajmanovej a Ferdinanda Ginelliho? → neskôr kurátorka Východoslovenského múzea; †2016)
 - **50.–60. roky** — **Rudolf ml. emigruje do Kanady** (neskôr údajne Izrael + konverzia na judaizmus)
 - **1956** — Bujakov úradne premenovaný na **Brežany**
@@ -103,7 +104,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **1987** — dom Rokycany 20 darovaný Emílii Baranovej r. Dolinskej (rodina? — otvorené)
 - **1988** — zomrel **MUDr. Tibor Hajman** (*1926, chirurg; hrobka 7B — z náhrobku) (dožil sa ~62 r.)
 - **17.2.1989** — zomrel **Ján Dzuriček *1917** (manžel Márie rod. Hanisovej, babkinej sestry; 71 r., hrob Žipov); **1989** zomrel aj **Ferdinand Ginelli** (*1913, huslista — Magdin manžel, z náhrobku sk. 91) (dožil sa ~76 r.)
-- **27.9.1991** — pohreb **Rudolfa Hajmana** (kominár, Irenin otec) — hrob sk. 1 ✅ (evidencia cintorína; † pár dní predtým)
+- **22.9.1991** — zomrel **Rudolf Hajman** (*22.1.1910, kominár, Irenin otec) v Košiciach-Juh vo veku 81 rokov ✅ (matrika KE-Juh, 4.8.2026); **pohreb 27.9.1991**, hrob sk. 1
 - **~1992** — zomrel **Ján Hajman** (*1913, kožušník; hrob sk. 1MÚZEUM 1A/2 s manželkou Alžbetou *1922 — z náhrobku) (dožil sa ~79 r.)
 - **11.4.1994** — pohreb **Heleny Hajmanovej rod. Škodovej** — hrob sk. 1 ✅ (nájomkyňa hrobu: Irena Lorenowiczová, Lichardova 30)
 

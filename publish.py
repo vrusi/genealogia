@@ -80,6 +80,9 @@ def main():
     print("OK mapa-rodokmena wrapper")
     shutil.copy(Path(__file__).parent / "landing.md", DOCS / "index.md")
     print("OK landing -> index.md")
+    # panel stavu žiadostí — web-only, ručne udržiavaný (zdroj: Korešpondencia a úlohy, ktorá sa nepublikuje)
+    shutil.copy(Path(__file__).parent / "stav-vyskumu.md", DOCS / "stav-vyskumu.md")
+    print("OK stav-vyskumu.md")
     shutil.copytree(Path(__file__).parent / "web-assets", DOCS / "stylesheets")
     print("OK stylesheets/")
     # kontrola, že nič citlivé nepretieklo
@@ -124,7 +127,7 @@ def consistency_checks():
     # 4) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
     import os
     vault_newest = max(os.path.getmtime(f) for f in VAULT.glob("*.md"))
-    for wo in [Path(__file__).parent / "landing.md", VAULT / "prilohy" / "mapa-rodokmena.html"]:
+    for wo in [Path(__file__).parent / "landing.md", Path(__file__).parent / "stav-vyskumu.md", VAULT / "prilohy" / "mapa-rodokmena.html"]:
         if os.path.getmtime(wo) < vault_newest - 3 * 86400:
             warn.append(f"web-only '{wo.name}' je o 3+ dní starší než najnovší vault súbor — prejsť, či nezaostal za novými faktami (fakt-pas, karty, kotvy, markery mapy)")
     if warn:

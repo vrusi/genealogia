@@ -7,11 +7,11 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo 1900: Feren
 ## Rodová línia
 
 - **Babka Irena Hajmanová** — *16.11.1944 Košice (vtedy Kassa, Maďarsko), †20.4.2015 Košice (~70 r.). ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz → zomrela ako **Irena Lorenowiczová** (úmrtný zápis aj parte hľadať pod týmto menom). Kremácia, popol rozptýlený — hrob nemá. FS `PMQ3-MPM`; dátumy sa overujú úmrtným listom.
-- **Pradedo Rudolf Hajman** — *1916(?) †1991 (hrob sk. 1; horný riadok náhrobku je na fotke čiastočne odrezaný). **Kominár**, maďarská národnosť. V rokoch 1939–41 funkcionár kresťansko-sociálneho odborového spolku kominárov v Kassa — od radového člena (1939) cez pokladníka (1/1940) a tajomníka (11/1940) po výkonného tajomníka (1941); pramene: Jövőnk 1.4.1939, 27.1.1940, 22.2.1941; Felvidéki Ujság 8.11.1940 a 22.3.1941 (tam písaný aj „**Haiman**"); [vyhľadanie v Arcanum](https://adt.arcanum.com/en/search/results/?query=%22Hajman%20Rudolf%22). Identifikácia cez meno + mesto + remeslo + generáciu je takmer istá. Dostaval rodinný dom **Lichardova 30**. FS `PMQ3-4D3`.
+- **Pradedo Rudolf Hajman** — ***22.1.1910*, †22.9.1991 Košice-Juh (81 r.)** — dátumy aj rodičia potvrdené matrikou **MÚ Košice-Juh (Jana Hajduková, 4.8.2026)**: „Rudolf Hajman nar. 22.1.1910, **syn Františka a Alžbety rod. Šuverovej**". → ✅ **synovstvo Ferenca a Alžbety je tým úradne doložené** a rok narodenia 1916(?) padá; medzi Františkom *1900 a Jánom *1913 sedí presne. (hrob sk. 1; horný riadok náhrobku je na fotke čiastočne odrezaný). **Kominár**, maďarská národnosť. V rokoch 1939–41 funkcionár kresťansko-sociálneho odborového spolku kominárov v Kassa — od radového člena (1939) cez pokladníka (1/1940) a tajomníka (11/1940) po výkonného tajomníka (1941); pramene: Jövőnk 1.4.1939, 27.1.1940, 22.2.1941; Felvidéki Ujság 8.11.1940 a 22.3.1941 (tam písaný aj „**Haiman**"); [vyhľadanie v Arcanum](https://adt.arcanum.com/en/search/results/?query=%22Hajman%20Rudolf%22). Identifikácia cez meno + mesto + remeslo + generáciu je takmer istá. Dostaval rodinný dom **Lichardova 30**. FS `PMQ3-4D3`.
 - **Prababka Helena rod. Škodiová** — *1919 †1994 (~75 r., hrob sk. 1). Hovorila po slovensky, žila v Košiciach. Podľa rodinnej pamäti ona alebo jej rodina pochádzala z Poľska — hypotéza: poľská Geneteka ju nepotvrdila a Škodovci vyzerajú skôr ako miestny abovský rod, takže poľská pamäť sa možno viaže na rodné meno jej matky. Rozhodne úmrtný/rodný zápis. FS `PMQ3-HFX`.
 - **Praprababka Katarína Škodová** — 1897–1985 (~88 r.), Helenina matka, pochovaná v tom istom hrobe sk. 1 (trojgeneračný hrob). „Škodová" je priezvisko po manželovi (Škoda/Škody) — **jej rodné meno nepoznáme**; je kandidátkou na nositeľku poľskej stopy. Spopolnená 8.4.1985, **urna uložená 4.6.1985 do rodinného hrobu sk. 1** (potvrdené evidenciou SMSZ 15.7.2026).
 - **Irenin brat Rudolf ml.** — emigroval do Kanady (pravdepodobne 50.–60. roky, možno útek z ČSSR); podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus (neoverené). V košických knihách narodení 1930–44 nie je → pravdepodobne ***1945–50** (mladší než Irena), alebo sa narodil mimo Košíc. V montrealskom telefónnom zozname figuruje „Rudolph Hajman" — silný kandidát, ale zhoda mena nie je dôkaz identity; detaily v Denníku, o prípadnom oslovení rozhodne rodina.
-- **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc *31.7.1873 Szőlőskislak, krst 2.8.1873 Szőlősgyörök; stolársky pomocník (asztalos segéd); úmrtie neznáme (dom bol už 1915 písaný na manželku — možno vtedy vdovu; v sčítaní 1930 je vdova určite). Alžbeta *6.3.1876 Mokrance (Makranc č. 10), krst 7.3.1876 Moldava nad Bodvou; †po 12/1930. Sobáš **4.2.1900 Budapešť** (civilne, VI. obvod). Civilné matriky píšu priezvisko dôsledne **Suver** (pozemková evidencia „Schurer"; košické záznamy ho plietli aj so „Schuller"). FS: Ferenc `PX7K-3LY` ⚭ Alžbeta `PX7K-M17` (vzťah `9ZCF-R38`).
+- **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc *31.7.1873 Szőlőskislak, krst 2.8.1873 Szőlősgyörök; stolársky pomocník (asztalos segéd); úmrtie neznáme (dom bol už 1915 písaný na manželku — možno vtedy vdovu; v sčítaní 1930 je vdova určite). Alžbeta *6.3.1876 Mokrance (Makranc č. 10), krst 7.3.1876 Moldava nad Bodvou; †po 12/1930. Sobáš **4.2.1900 Budapešť** (civilne, VI. obvod) — ⭐ **sken zápisu doručený 30.7.2026 z BFL**, podrobnosti nižšie. Civilné matriky píšu priezvisko dôsledne **Suver** (pozemková evidencia „Schurer"; košické záznamy ho plietli aj so „Schuller"). FS: Ferenc `PX7K-3LY` ⚭ Alžbeta `PX7K-M17` (vzťah `9ZCF-R38`).
 - **3× prastarí rodičia: János Hajman a Anna rod. Huterová — prisťahovalci z Poľska.** Obaja sa narodili v „**Raicza, Lengyelhon**" (Poľsko; kandidát: Rajcza pri Żywci, Halič) — János *~1836, Anna *~1838–41. V 1861 obaja slúžili ako nádenníci (mercenarius/mercenaria) v osade **Csehi**; sobáš **10.2.1861 Szőlősgyörök** (zápis č. 32, sobášil kooperátor Paulus Szmodis, svedkovia Franciscus Beke a Joannes Aranyas). Neskôr János želiar (zsellér) v Kislaku. Anna **†7.4.1879 v Kislaku pri pôrode** („szülés következtében", zaopatrená; pohreb 8.4. Kislak) — Ferenc osirel ako 5-ročný, do Košíc odišiel už bez matky. FS: János `LHW1-JPX`, Anna `LHW1-JPF`.
 - **4× prastarí rodičia (zo sobášneho zápisu 1861): František (Franciscus) Heiman** — Jánosov otec — a **František (Franciscus) Hutera** — Annin otec. Obe rodiny teda podľa matriky pochádzali z Poľska; mená matiek zápis neuvádza.
 - **3× prababka (Mokrance): Erzsébet Suver** — slúžka v Makranci č. 10, slobodná matka Alžbety (1876) a pravdepodobne aj Jánosa (krst 17.10.1884 Szepsi, tiež nemanželský). Kandidátka na jej identitu: Erzsébet Suver, krst 1845 Moldava, rodičia **Jozef Suver & Erzsébet Répásová** — jediná z indexu, ktorej vek sedí na oba pôrody; overuje sa. (Ak platí, jej brat István *1851 mal deti s Annou Hanzokovou — synovci.)
@@ -51,6 +51,28 @@ V rodinnom dome dnes žije **Peter Lorenowicz** — predtým tam žil s Irenou, 
 - FS: Marta `PXWS-XHJ`, Magda `PXW3-MQY`, Tibor Hajman `PXWS-257`, Marta ml. `PXWS-FY9`, Ferdinand `PXWS-GXF`, Tibor Ginelli `PXWS-JNS` (žijúci).
 
 ## Kľúčové dokumenty
+
+### Sobášny zápis — Budapešť, 4.2.1900 ⭐
+
+Budapest Főváros Levéltára, druhopis sobášnej matriky, sign. **HU_BFL_XV_20_1_XXXIII_1_a_A585_0015**, list 9, **poradové č. 25**. Sken poslal bezplatne archivár **Háber Kornél (30.7.2026)** — bez poplatku a bez formulára, 2 dni od žiadosti.
+
+![](prilohy/sobas-1900-budapest-vi-hajman-suver.jpg)
+
+| | Ženích | Nevesta |
+|---|---|---|
+| Meno | Hajmán Ferencz, *asztalos segéd* (tovariš stolár), r. kat. | Suver Erzsébet, r. kat. |
+| Narodenie | **Szöllős-Kislak, Somogy vm., 30.7.1873** | **Makrancz, Abaúj-Torna vm., 6.3.1876** |
+| Bydlisko | Budapest V., Sziget u. 16 | Budapest V., Sziget u. 16 (**bývali už spolu**) |
+| Rodičia | **† (néhai) Hajmán János** a **Hutera Anna** | **iba „Suver Erzsébet"** — otec neuvedený |
+
+Svedkovia: **Ocsovai Gyula** (Sziget u. 16) a **Pagáro Pál** (Budapest V., Felső rakpart 7). Matrikár Iszer Ernő. Stĺpec dodatočných poznámok je prázdny.
+
+**Čo z toho vyplýva:**
+- Nezávisle potvrdzuje **Jánosa Hajmana × Annu Huterovú** ako Ferencových rodičov (dosiaľ len zo sobáša 1861 a úmrtia 1879) a Ferencov dátum narodenia.
+- „**Néhai**" = nebohý → **János Hajman bol v roku 1900 už mŕtvy**, Anna Huterová †1879. Ferenc teda vstupoval do manželstva ako sirota po oboch rodičoch.
+- **Alžbeta bola nemanželské dieťa** — otec neuvedený, matka **Erzsébet Suver bez „néhai" → v roku 1900 žila**. (Absencia „néhai" je slabší dôkaz než jeho prítomnosť; matrikári ju občas vynechali.)
+- Nevesta nemá uvedený predchádzajúci stav (vdova/rozvedená) → do 1900 slobodná, čo sedí s legitimizáciou syna Jozefa *1898 (okrajová poznámka 1904).
+- **Parohács test — čiastočne áno, nie dôkaz:** matka žila a volala sa Erzsébet Suver, takže hypotéza „Parohács Jánosné szül. Schurer Erzsébet (1898) = Alžbetina matka, ktorá sa vydala za Parohácsa" časovo aj menom sedí. Zápis však priezvisko matkinho manžela neuvádza → definitívne to rozsekne **pkv. 4720** (listina z 15.3.1915), prípadne krstný zápis Moldava 1876.
 
 ### Rodný zápis Jozefa — Budapešť 1898
 
