@@ -29,7 +29,7 @@
 
 -   🍁 **Stratený brat Rudolf**
 
-    Brat babky Ireny emigroval do Kanady; podľa rodinnej povery skončil v Izraeli. V montrealskom telefónnom zozname sme našli „Rudolpha Hajmana"… [→ pátranie](vetva-hajman-skodiova.md)
+    Brat babky Ireny emigroval do Kanady a podľa rodinnej povery skončil v Izraeli. Nevieme o ňom ani to, kedy sa narodil — v košických knihách z rokov 1930 až 1944 nie je. [→ pátranie](vetva-hajman-skodiova.md)
 
 -   ⚒️ **Uhliari od hámra**
 
