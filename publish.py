@@ -21,7 +21,6 @@ FILES = {
     "Vetva Hajman-Škodiová": "vetva-hajman-skodiova",
     "Štatistiky": "statistiky",
     "Mapa migrácií": "mapa-migracii",
-    "Výskum v číslach": "vyskum-v-cislach",
 }
 # NEpublikované: Drafty emailov, Korešpondencia a úlohy, DNA matche (kontakty, stratégia, žijúci matchovia)
 
@@ -120,11 +119,30 @@ def consistency_checks():
             if tgt in anchors and a not in anchors[tgt]:
                 warn.append(f"{f.name}: mŕtva kotva → {tgt}#{a}")
     # 3) vault súbor, ktorý nie je publikovaný ani vedome vylúčený
-    EXCLUDED = {"Drafty emailov", "Korešpondencia a úlohy", "DNA matche (Ancestry)", "Výskumný denník"}
+    EXCLUDED = {"Drafty emailov", "Korešpondencia a úlohy", "DNA matche (Ancestry)", "Výskumný denník", "Výskum v číslach"}
     for f in sorted(VAULT.glob("*.md")):
         if f.stem not in FILES and f.stem not in EXCLUDED:
             warn.append(f"vault: '{f.name}' nie je vo FILES ani vo vylúčených — pridať alebo vylúčiť")
-    # 4) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
+    # 4) clutter: procesné poznámky a nedoložení menovci nepatria na web
+    CLUTTER = {
+        r"`[A-Z0-9]{4}-[A-Z0-9]{3}`": "FamilySearch ID",
+        r"ark:?\s*\d:\d:": "citácia ark",
+        r"\bfilm 0\d{4,}": "číslo filmu",
+        r"\bobr\. \d+": "číslo obrazu",
+        r"\binv\. č\.": "inventárne číslo",
+        r"\bmenovc?(a|i|ov|om)?\b|\bmenovec\b": "menovec s nedoloženým vzťahom",
+        r"vzťah nedolo[žz]en|nedoložen[ýá] vzťah": "nedoložený vzťah",
+        r"dohľadať|prelistovať|treba overiť|\bTODO\b": "pracovný pokyn",
+    }
+    for f in sorted(DOCS.glob("*.md")):
+        t = f.read_text(encoding="utf-8")
+        for pat, label in CLUTTER.items():
+            m = re.search(pat, t)
+            if m:
+                line = t[:m.start()].count("\n") + 1
+                warn.append(f"{f.name}:{line}: clutter ({label}) → patrí do Výskumného denníka: „{t[max(0, m.start()-40):m.end()+40].strip()}“")
+
+    # 5) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
     import os
     vault_newest = max(os.path.getmtime(f) for f in VAULT.glob("*.md"))
     for wo in [Path(__file__).parent / "landing.md", Path(__file__).parent / "stav-vyskumu.md", VAULT / "prilohy" / "mapa-rodokmena.html"]:

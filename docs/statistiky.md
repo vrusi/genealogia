@@ -72,20 +72,20 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 
 ## Krstné mená naprieč stromom
 
-**Úplný zoznam: 36 rôznych krstných mien na 103 pomenovaných osobách** (pokrvní príbuzní, ich manželia a deti zo všetkých vetiev; zo 120+ osôb v poznámkach je zvyšok menovcov, nedoložených kandidátov a osôb, ktorých meno zatiaľ nepoznáme). Pri každej osobe je uvedený jej vzťah k rodine; kde vzťah ešte nie je doložený, je to napísané slovom („pravdepodobný", „možná"). Maďarské a latinské podoby toho istého mena sú zlúčené (Ján = János = Joannes, Ondrej = András = Andrej, František = Ferenc = Franciscus).
+**Úplný zoznam: 36 rôznych krstných mien na 103 pomenovaných osobách** — pokrvní príbuzní, ich manželia a deti zo všetkých vetiev. Pri každej osobe je uvedený jej vzťah k rodine. Maďarské a latinské podoby toho istého mena sú zlúčené (Ján = János = Joannes, Ondrej = András = Andrej, František = Ferenc = Franciscus).
 
 ### Mená s viacerými nositeľmi
 
 | Meno | Počet | Nositelia |
 |---|---|---|
-| **Anna** | 13 | prababka Anna Fejerčáková 1895 · babka Anna Hanisová 1928 · prababka Anna Dzurendová 1900 · 3× prababka Anna Huterová · Rudolfova sestra Anna Schullerová 1903 · Anna 1903, manželka Rudolfovho brata Františka · dedova sestra Anna Rusinková *po 1930 · Anna Fejerčáková *1877, sestra pradeda Petra · Anna Hajmanová *1876, pravdepodobná Ferencova sestra · Anna Hovanecz, matka Ferdinanda Ginelliho · Anna Jakubiková, manželka Petrovho brata Ondreja · Anna Hanzoková, manželka pravdepodobného Erzsébetinho brata Istvána Suvera · Anna Prognerová r. Ličková †1986, možná Jozefova teta |
-| **Mária** | 13 | 2× prababka Mária Guľasová 1861 · 3× prababka Mária Fedorová · Ondrejova matka Mária Gumanová · dedova sestra Mária Rusinková 1921 · Mária „Holmáňová" 1934, manželka dedovho brata Andreja · babkina sestra Mária Dzuričková 1926 · Mária, manželka Jána Dzuričeka st. · Ferencova sestra Mária Hajmanová 1869 · Mária Majáková 1942, manželka MUDr. Tibora Hajmana · Mária Ginelliová 1950, Magdina dcéra · Mária Lorenoviczová, matka deda Petra · Mária Fejerčáková *1858, sestra pradeda Petra · Mária Fejerčáková *1894, Petrova neter |
-| **Ján / János / Joannes** | 12 | pradedo Ján Rusinko 1898 · dedo Ján Rusinko 1923 · Ondrejov brat Ján Rusinko *1859 · **Joannes Rusinko 1715, najhlbší doložený predok** · 3× pradedo Ján Fejerčák · Petrov brat Ján Fejerčák *1866 · Petrov syn Ján Fejerčák *1884 · Ján Dzuriček 1917, manžel babkinej sestry Márie · jeho otec Ján Dzuriček st. *1874 · 3× pradedo János Hajman ~1836 · Rudolfov brat Ján Hajman 1913, kožušník · János Suver 1884, pravdepodobný brat prababky Alžbety |
+| **Anna** | 13 | prababka Anna Fejerčáková 1895 · babka Anna Hanisová 1928 · prababka Anna Dzurendová 1900 · 3× prababka Anna Huterová · Rudolfova sestra Anna Schullerová 1903 · Anna 1903, manželka Rudolfovho brata Františka · dedova sestra Anna Rusinková *po 1930 · Anna Fejerčáková \*1877, sestra pradeda Petra · Anna Hajmanová \*1876, pravdepodobná Ferencova sestra · Anna Hovanecz, matka Ferdinanda Ginelliho · Anna Jakubiková, manželka Petrovho brata Ondreja · Anna Hanzoková, manželka pravdepodobného Erzsébetinho brata Istvána Suvera · Anna Prognerová r. Ličková †1986, možná Jozefova teta |
+| **Mária** | 13 | 2× prababka Mária Guľasová 1861 · 3× prababka Mária Fedorová · Ondrejova matka Mária Gumanová · dedova sestra Mária Rusinková 1921 · Mária „Holmáňová" 1934, manželka dedovho brata Andreja · babkina sestra Mária Dzuričková 1926 · Mária, manželka Jána Dzuričeka st. · Ferencova sestra Mária Hajmanová 1869 · Mária Majáková 1942, manželka MUDr. Tibora Hajmana · Mária Ginelliová 1950, Magdina dcéra · Mária Lorenoviczová, matka deda Petra · Mária Fejerčáková \*1858, sestra pradeda Petra · Mária Fejerčáková \*1894, Petrova neter |
+| **Ján / János / Joannes** | 12 | pradedo Ján Rusinko 1898 · dedo Ján Rusinko 1923 · Ondrejov brat Ján Rusinko \*1859 · **Joannes Rusinko 1715, najhlbší doložený predok** · 3× pradedo Ján Fejerčák · Petrov brat Ján Fejerčák \*1866 · Petrov syn Ján Fejerčák \*1884 · Ján Dzuriček 1917, manžel babkinej sestry Márie · jeho otec Ján Dzuriček st. \*1874 · 3× pradedo János Hajman ~1836 · Rudolfov brat Ján Hajman 1913, kožušník · János Suver 1884, pravdepodobný brat prababky Alžbety |
 | **Jozef / József** | 8 | otec Jozef Rusinko 1968 · pradedo Jozef Hanis †1929 · Rudolfov brat Jozef Hajman 1898 · dedo Jozef Ličko 1942 · József Ginelli 1880, otec Ferdinanda · József Hajman, pravdepodobný Ferencov brat · Jozef Suver, pravdepodobný otec 3× prababky Erzsébet · Jozef Fejerčák z Janova, vzdialená vetva |
-| **Alžbeta / Erzsébet** | 8 | 2× prababka Alžbeta Suverová 1876 · 3× prababka Alžbeta Semanová 1834 · 2× prababka Alžbeta Šoltésová · babkina sestra Alžbeta Hanisová 1924 · Alžbeta *1922, manželka Rudolfovho brata Jána · 3× prababka Erzsébet Suver st. ~1845 · Erzsébet Répásová, pravdepodobná 4× prababka · Alžbeta Fejerčáková-Brecová 1908, možná Annina sestra alebo neter |
-| **Ondrej / Andrej / András** | 7 | 2× pradedo Ondrej Rusinko 1857 · dedov brat Andrej Rusinko 1927 · 2× pradedo Andrej Dzurenda 1870 · Petrov brat Ondrej Fejerčák *1868 (†1870 ako dieťa) · Petrov brat Ondrej Fejerčák *1872 · Petrov syn András Fejerčák *1886 (†1887 ako dieťa) · András Lachmanek 1874, manžel Ferencovej sestry Márie |
-| **František / Ferenc** | 5 | 2× pradedo Ferenc Hajman 1873 · Rudolfov brat František Hajman 1900 · 4× pradedo František Heiman · 4× pradedo František Hutera · Ferentz *1867, starší brat, ktorý zomrel v detstve — jeho meno dostal Ferenc *1873 |
-| **Juraj / György** | 3 | 3× pradedo Juraj Guľas 1834 · Ondrejov brat Juraj Rusinko *1862 · Juraj Fejerčák z Janova, vzdialená vetva |
+| **Alžbeta / Erzsébet** | 8 | 2× prababka Alžbeta Suverová 1876 · 3× prababka Alžbeta Semanová 1834 · 2× prababka Alžbeta Šoltésová · babkina sestra Alžbeta Hanisová 1924 · Alžbeta \*1922, manželka Rudolfovho brata Jána · 3× prababka Erzsébet Suver st. ~1845 · Erzsébet Répásová, pravdepodobná 4× prababka · Alžbeta Fejerčáková-Brecová 1908, možná Annina sestra alebo neter |
+| **Ondrej / Andrej / András** | 7 | 2× pradedo Ondrej Rusinko 1857 · dedov brat Andrej Rusinko 1927 · 2× pradedo Andrej Dzurenda 1870 · Petrov brat Ondrej Fejerčák \*1868 (†1870 ako dieťa) · Petrov brat Ondrej Fejerčák \*1872 · Petrov syn András Fejerčák \*1886 (†1887 ako dieťa) · András Lachmanek 1874, manžel Ferencovej sestry Márie |
+| **František / Ferenc** | 5 | 2× pradedo Ferenc Hajman 1873 · Rudolfov brat František Hajman 1900 · 4× pradedo František Heiman · 4× pradedo František Hutera · Ferentz \*1867, starší brat, ktorý zomrel v detstve — jeho meno dostal Ferenc \*1873 |
+| **Juraj / György** | 3 | 3× pradedo Juraj Guľas 1834 · Ondrejov brat Juraj Rusinko \*1862 · Juraj Fejerčák z Janova, vzdialená vetva |
 | **Marta** | 3 | mama Marta 1970 · Marta Kočišová 1902, manželka Rudolfovho brata Jozefa · ich dcéra Marta Hajmanová 1928 |
 | **Peter** | 2 | 2× pradedo Peter Fejerčák 1860 · dedo Peter Lorenowicz |
 | **Rudolf** | 2 | pradedo Rudolf Hajman · jeho syn Rudolf ml. (Kanada) — priame dedenie mena |
@@ -96,19 +96,18 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 
 | Meno | Kto to je |
 |---|---|
-| Michal | Michal Rusinko — Ondrejov otec, kandidát na 3× pradeda |
+| Michal | Michal Rusinko — Ondrejov otec, 3× pradedo |
 | Štefan | Štefan Rusinko 1925 — dedov brat |
 | Emília | Emília Rusinková 1925 — Štefanova manželka |
-| Adam | Adam Fejerčák *1892 — brat prababky Anny |
+| Adam | Adam Fejerčák \*1892 — brat prababky Anny |
 | Katarína | Katarína Škodová 1897 — Helenina matka, 2× prababka |
 | Helena | Helena rod. Škodiová 1919 — prababka |
 | Irena | Irena Hajmanová 1944 — babka |
 | Ladislav | Ladislav Hajman 1916 — Rudolfov brat, hudobník |
 | Magda | Magda Hajmanová-Ginelliová 1923 — dcéra Rudolfovho brata Jozefa |
 | Rozália | Rozália Hajmanová ~1861 — Ferencova sestra |
-| Lajos | Lajos Hajman *1864 — pravdepodobný Ferencov brat |
+| Lajos | Lajos Hajman \*1864 — pravdepodobný Ferencov brat |
 | Pál | Pál Hajman — pravdepodobný Ferencov brat |
-| Leopold | Leopold Hajman *1913 — Košičan rovnakého mena, príbuzenstvo zatiaľ nedoložené |
 | Ferdinand | Ferdinand Ginelli 1913 — Magdin manžel, huslista |
 | Zita | Zita Kulčárová — pravdepodobná dcéra Rudolfovho brata Jána |
 | Etela | Etela Lischková ~1918/19 — možná príbuzná deda Jozefa Lička |
@@ -120,13 +119,13 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 | Zdena / Diana | mamina sestra Zdena Ličková 1966, neskôr Diana Fünfer — jedna osoba, dve mená |
 | Vivien | Vivien Fünfer — Dianina dcéra |
 
-**Čo z toho vidno:** päť najčastejších mien (Anna, Mária, Ján, Jozef, Alžbeta) pokrýva **54 zo 103 osôb — viac než polovicu rodiny**. Do konca 19. storočia sa v podstate používalo len asi osem mien; pestrosť (Ferdinand, Ladislav, Tibor, Etela, Dmytro, Vivien) prichádza až s 20. storočím a s mestom. Dedenie mien je doložené 2×: **Rudolf → Rudolf ml.** a **Tibor Hajman → Tibor Ginelli**; k tomu jeden smutný prípad recyklácie — **Ferentz *1867 zomrel v detstve a meno dostal Ferenc *1873**. Ženská línia Veroniky mená naopak nikdy neopakuje: Katarína → Helena → Irena → Marta → Veronika — päť generácií, päť rôznych mien.
+**Čo z toho vidno:** päť najčastejších mien (Anna, Mária, Ján, Jozef, Alžbeta) pokrýva **54 zo 103 osôb — viac než polovicu rodiny**. Do konca 19. storočia sa v podstate používalo len asi osem mien; pestrosť (Ferdinand, Ladislav, Tibor, Etela, Dmytro, Vivien) prichádza až s 20. storočím a s mestom. Dedenie mien je doložené 2×: **Rudolf → Rudolf ml.** a **Tibor Hajman → Tibor Ginelli**; k tomu jeden smutný prípad recyklácie — **Ferentz \*1867 zomrel v detstve a meno dostal Ferenc \*1873**. Ženská línia Veroniky mená naopak nikdy neopakuje: Katarína → Helena → Irena → Marta → Veronika — päť generácií, päť rôznych mien.
 
-*Nezapočítaní: menovci a paralelné vetvy, u ktorých je príbuzenstvo vyvrátené alebo nedoložené (Matej Fejercsák *1894 a jeho rodičia András × Anna Sáriszki; kandidátske rodiny Skodi; osoby známe len z cintorínskej evidencie bez doloženého vzťahu — horehronskí Ličkovci Miroslav, Marcela, Vladimír a Alena, Anna Šáriková r. Ličková, Magdaléna z hrobu sk. 15), ďalej svedkovia a kňazi z matrík (Franciscus Beke, Joannes Aranyas, Paulus Szmodis, Molnár Ferenc, Bolla Juli, Valyko János) a svokrovci vydatých pratiet (Jakab Lachmanek, Zsuzsanna Bárány). Bez mena zatiaľ: piate dieťa Jána a Anny Rusinkovcov († pred 1930), dieťa Anny Huterovej z pôrodu 4/1879 a rodičia Jozefa Hanisa aj Jozefa Lička.*
+*Nezapočítané sú osoby, ktorých meno zatiaľ nepoznáme: piate dieťa Jána a Anny Rusinkovcov († pred 1930), dieťa Anny Huterovej z pôrodu roku 1879 a rodičia Jozefa Hanisa aj Jozefa Lička.*
 
 ## Nemanželské deti (línia Suver)
 
-Doložené v matrikách: **3 nemanželské narodenia v dvoch generáciách tej istej ženskej línie** — Alžbeta Suverová (*1876, matka slúžka v Mokranciach), jej brat(?) János (*1884, tá istá matka) a Jozef Hajman (*1898 Budapešť, matka Alžbeta slúžka; legitimizovaný sobášom 1900). Vzorec „slúžka → nemanželské dieťa" sa opakoval matka → dcéra. V dobovom Uhorsku bolo nemanželských ~7–10 % narodení — u Suverovcov to nebola anomália jednotlivca, ale sociálna pasca chudoby.
+Doložené v matrikách: **3 nemanželské narodenia v dvoch generáciách tej istej ženskej línie** — Alžbeta Suverová (\*1876, matka slúžka v Mokranciach), jej brat(?) János (\*1884, tá istá matka) a Jozef Hajman (\*1898 Budapešť, matka Alžbeta slúžka; legitimizovaný sobášom 1900). Vzorec „slúžka → nemanželské dieťa" sa opakoval matka → dcéra. V dobovom Uhorsku bolo nemanželských ~7–10 % narodení — u Suverovcov to nebola anomália jednotlivca, ale sociálna pasca chudoby.
 
 ## Krst koľko dní po narodení
 
@@ -149,7 +148,7 @@ V 19. storočí sa krstilo okamžite — novorodenecká úmrtnosť bola taká vy
 | Helena Škodiová (1919–1994) | — | 1 | 19 | 25 | 29 | 49 | 70 |
 | dedo Ján (1923–2006) | — | — | 15 | 21 | 25 | 45 | 66 |
 | Irena (1944–2015) | — | — | — | 0 | 4 | 24 | 45 |
-| Marta (*1970) | — | — | — | — | — | — | 19 |
+| Marta (\*1970) | — | — | — | — | — | — | 19 |
 
 **Katarína Škodová prežila celý „krátky vek extrémov" na jednom mieste**: narodila sa v Rakúsko-Uhorsku, žila v ČSR, Maďarskom kráľovstve (anexia), ČSR, ČSSR — päť štátov bez jediného sťahovania. Irena sa narodila v novembri 1944 — **priamo do frontového mesta** (Košice oslobodené v januári 1945).
 
@@ -183,25 +182,23 @@ Praktický dôsledok: pri každom hľadaní v indexoch treba sito na všetky var
 | Ličko | rímskokatolícke? | Valaská/Brezno (overí rodný list) |
 | Lorenowicz (pôvod) | gréckokatolícke | Zamiechów pri Przemyśli |
 
-Manželstvo dedo Ján (GK) × babka Anna (RK) bolo konfesionálne zmiešané — bežné, ale určovalo, kde sa krstili deti. 🧬 DNA ~3 % Ashkenazi zostáva nepriradené — kandidáti: rodné meno Kataríny, rodičia Ferenca/Alžbety, Ličkovci.
+Manželstvo dedo Ján (GK) × babka Anna (RK) bolo konfesionálne zmiešané — bežné, ale určovalo, kde sa krstili deti. Približne tri percentá aškenázskeho pôvodu v DNA zostávajú nepriradené — najpravdepodobnejšie sa viažu na rodné meno Kataríny Škodovej alebo na poľských predkov Ferenca.
 
 ## Povolania — z čoho rodina žila
 
-Doložené povolanie máme u **26 osôb** naprieč šiestimi vetvami a tromi storočiami (podrobný rozpis po vetvách je v [Zamestnania v rodine](zamestnania.md)).
+Doložené povolanie máme u **18 príbuzných** naprieč šiestimi vetvami a tromi storočiami (podrobný rozpis po vetvách je v [Zamestnania v rodine](zamestnania.md)).
 
 | Okruh | Osôb | Kto |
 |---|---|---|
-| **Remeslá** | 5 | stolár Ferenc, kominár Rudolf, kožušník Ján, učeň-stolár Leopold, horehronskí uhliari a klinčiari Ličkovci |
+| **Remeslá** | 4 | stolár Ferenc, kominár Rudolf, kožušník Ján, horehronskí uhliari a klinčiari Ličkovci |
 | **Pôda a nádenníctvo** | 4 | gazda Joannes Rusinko (1715), nádenník Ján Rusinko, nádenníčka Anna Dzurendová, želiar János Hajman |
-| **Priemysel a robota v závode** | 4 | majster VSS Jozef Ličko, robotník VSŽ (otec Petra), tehliar Joseph Kartis, oceliar Michael Kertis |
+| **Priemysel a robota v závode** | 2 | majster VSS Jozef Ličko, robotník VSŽ (otec deda Petra) |
 | **Služba** | 3 | Erzsébet Suver, jej dcéra Alžbeta, Alžbeta Hanisová — **všetko ženy** |
 | **Vzdelané profesie** | 3 | chirurg Tibor Hajman, gynekológ Tibor Ginelli, kurátorka Mária Ginelliová |
 | **Hudba** | 2 | huslista a profesor konzervatória Ferdinand Ginelli, rozhlasový hudobník Ladislav Hajman |
-| **Cirkev** (vzťah nedoložený) | 2 | GK kňaz Ján Fejerčák †1846, jáhen Vítězslav Lorenovicz |
-| Ostatné | 3 | hostinský Licskó János; vojaci Matej a Ján Fejercsákovci (vojna, nie povolanie) |
 
 - ⭐ **Tri generácie od bezzemka k inteligencii** — najstrmší oblúk má vetva Hajman: želiar a slúžka (~1870) → stolársky pomocník, ktorý odišiel za prácou do Budapešti (1898) → košickí remeselníci s vlastným domom (1915) → **lekár, profesor konzervatória, kurátorka múzea** (1960-te). Štyri generácie, štyri sociálne poschodia.
-- **Ženská práca = služba.** Všetky tri doložené ženské zamestnania pred rokom 1950 sú „slúžka" alebo „v službe". Prvá doložená žena s kvalifikovanou profesiou je až **Mária Ginelliová** (*1950, kurátorka Východoslovenského múzea) — teda o generáciu neskôr než muži.
-- **Remeslo išlo za železom.** Ličkovci pálili uhlie pre hrončiansko-podbrezovský komplex v 19. storočí; Jozef *1942 skončil ako majster vo VSS Košice. Rovnaký motív priviedol do Košíc aj Lorenowiczovcov z Chomutova (VSŽ) — dve nezávislé vetvy, ten istý magnet.
+- **Ženská práca = služba.** Všetky tri doložené ženské zamestnania pred rokom 1950 sú „slúžka" alebo „v službe". Prvá doložená žena s kvalifikovanou profesiou je až **Mária Ginelliová** (\*1950, kurátorka Východoslovenského múzea) — teda o generáciu neskôr než muži.
+- **Remeslo išlo za železom.** Ličkovci pálili uhlie pre hrončiansko-podbrezovský komplex v 19. storočí; Jozef \*1942 skončil ako majster vo VSS Košice. Rovnaký motív priviedol do Košíc aj Lorenowiczovcov z Chomutova (VSŽ) — dve nezávislé vetvy, ten istý magnet.
 - **Mesto verzus dedina.** Šarišské vetvy (Rusinko, Hanis) boli okolo 1930 bezzemkovia bez remesla; košická vetva mala v jednej generácii kominára, kožušníka, stolárov aj hudobníka. Rozdiel nie je v schopnostiach, ale v tom, kam sa rodina dostala.
 - **Medzery.** Bez známeho povolania sú stále dedo Ján ⭐, babka Anna ⭐, Irena, Peter Lorenowicz, Helena a Katarína Škodové, Jozef Hanis, Jozef Hajman a celá staršia vetva Fejerčák–Guľas — čísla vyššie preto podceňujú roľnícku časť rodiny.

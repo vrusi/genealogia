@@ -60,7 +60,6 @@
 -   ⏳ **[Stav výskumu](stav-vyskumu.md)** — na čo sa práve čaká a čo je zaseknuté
 -   📜 **[Časová os](casova-os.md)** — od roku 1715 po dnešok
 -   🔎 **[Prehľad výskumu](prehlad.md)** — otvorené otázky a najnovšie objavy
--   🧮 **[Výskum v číslach](vyskum-v-cislach.md)** — ako rýchlo strom rastie
 -   🌐 **[Strom na FamilySearch](https://www.familysearch.org/en/tree/pedigree/portrait/PMQS-SVF)** — živý rodokmeň so zdrojmi (bezplatné konto)
 
 </div>

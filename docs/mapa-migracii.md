@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   route([[49.509, 19.108], [46.75, 17.72], [47.50, 19.04], KE], '#8d6e63', 'Hajman + Hutera: Rajcza (Poľsko, pred 1861) → Szőlőskislak (Somogy) → Budapešť (1898) → Košice (1900)');
   route([[48.62, 21.03], [47.50, 19.04], KE], '#ef6c00', 'Suver: Mokrance → Budapešť (služba, 1898) → Košice (1900)');
-  route([[48.79, 19.55], [48.68, 20.97], KE], '#1565c0', 'Ličko: Valaská (*1942) → Jasov → Košice (VSS)');
+  route([[48.79, 19.55], [48.68, 20.97], KE], '#1565c0', 'Ličko: Valaská (\*1942) → Jasov → Košice (VSS)');
   route([[49.03, 21.12], [48.98, 21.10], KE], '#2e7d32', 'Rusinko: Brežany/Bujakov → Rokycany (1922) → Košice (dedo)');
   route([[48.99, 21.05], KE], '#f9a825', 'Hanis: Žipov → Košice (babka Anna)');
   route([[49.86, 22.60], [50.46, 13.41], KE], '#c62828', 'Lorenowicz: okolie Przemyśla → Chomutov (~1946) → Košice (VSŽ, ~60. roky)');

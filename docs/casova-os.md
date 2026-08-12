@@ -21,23 +21,22 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **23.11.1874** — narodil sa **Ján Dzuriček st.** v Bajerove (do Žipova ako nemluvňa)
 - **6.3.1876** — narodila sa **Alžbeta Suverová** v **MOKRANCIACH č. 10** (maď. Makranc; Abov, 25 km od Košíc), krst 7.3.1876 Moldava (Szepsi) — praprababka Hajman; **nemanželská dcéra slúžky Erzsébet Suverovej (3× prababka!)** ✅ matrika s. 161/24, sken v prílohách
 - **7.4.1879** — zomrela **Anna Huterová** (38 r.) v Kislaku — **pri pôrode**; deti (najmenej Rozália, Mária a 5-ročný Ferenc) osireli ⭐
-- **22.1.1882** — vydala sa **Rozália Hajmanová** (*~1861, Ferencova sestra) v Szőlősgyöröku
+- **22.1.1882** — vydala sa **Rozália Hajmanová** (\*~1861, Ferencova sestra) v Szőlősgyöröku
 - **19.2.1884** — ⚭ **Peter Fejerčák × Mária Guľasová**, Bajerov
 
 ## Prelom storočí — generácia prastarých rodičov
 
 > 🌍 *Vrchol **Rakúsko-Uhorska**. **Od 1.10.1895 povinné civilné (štátne) matriky** v Uhorsku — preto sa mnohé záznamy začínajú práve vtedy. **1896 = miléniové oslavy** (1000 rokov Uhorska), silná maďarizácia. Chudoba tlačí ľudí za oceán (guľasovská aj kartisovská vetva → USA). Potom **1. svetová vojna 1914–18** zasiahne rodinu priamo (Matej Fejerčák zajatý 1915, Ján ranený 1917). **28. 10. 1918 vzniká Československo** — koniec Uhorska, Šariš/Abov sa stávajú súčasťou ČSR.*
 
-- **11.2.1894** — narodil sa **Matej (Mátyás) Fejercsák** (krst Ľubovec), syn **Andrása Fejerčáka a Anny Sáriszki** — Fejerčák z Janova/Ľubovca, **NIE brat** prababky Anny (jej otec bol Peter); bratranecký vzťah zatiaľ nedoložený (András nie je medzi Petrovými bratmi)
 - **~1894/95** — narodil sa **Jozef Hanis** (praprastarý otec; †11.1.1929 vo veku 34 r. — z matriky Bajerov)
 - **19.10.1895** — narodila sa **Anna Fejerčáková** v Rokycanoch (krst na druhý deň v Bajerove)
 - **27.4.1898** (hárok uvádza 25.4.) — narodil sa **Ján Rusinko** v **Brežanoch (vtedy Bujakov)** — gréckokatolík
 - **9.5.1898** — narodil sa **Jozef Hajman** v **Budapešti** (pôrodnica kráľ. univerzity, Bp VIII.; zápis 2496/VIII) — nemanželský syn slúžky Alžbety Suverovej; otcovstvo Ferenc uznal 1904 pred košickým matrikárom ✅ originál v prílohách
-- **6.10.1898** — dom Pipa u. 16 v Kassa (vložka 4720) kupuje „Parohács Jánosné rod. Schurer Erzsébet" — hypotéza: Alžbetina matka Erzsébet Suverová, medzičasom vydatá (test vo [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md))
+- **6.10.1898** — dom Pipa u. 16 v Kassa kupuje „Parohács Jánosné rod. Schurer Erzsébet" — pravdepodobne Alžbetina matka Erzsébet Suverová, medzičasom vydatá; roku 1915 dom prešiel na Alžbetu
 - **4.2.1900** — ⚭ **Ferenc Hajman × Alžbeta Suver**, civilne v **Budapešti (VI. obvod)**, zápis č. 25 — obaja **rímskokatolíci**, obaja bývali na Sziget u. 16; deti legitimizované (okrajová poznámka 15.9.1904 + rubriky v denníkoch 21.1.1900 = ohlášky). ✅ **Sken zápisu z BFL (30.7.2026)**: Ferencovi rodičia **† János Hajman a Anna Hutera**, Alžbetina matka **Erzsébet Suver** (otec neuvedený → nemanželské dieťa; matka v 1900 podľa zápisu **žila**)
 - **1900** — Alžbeta Schurer prichádza z Uhorska do Košíc; **3.12.1900** narodený **František Hajman**
 - **24.11.1900** — narodila sa **Anna Dzurendová** (Hanisová matka) v Žipove č. 18, rodičom **Andrejovi Dzurendovi a Alžbete rod. Šoltésovej** (matrika Bajerov)
-- **18.10.1902** — narodila sa **Marta, rod. Kočišová** v Košiciach — budúca manželka **Jozefa Hajmana (*1898 Budapešť)**, matka Magdy, Tibora-chirurga a Marty ml.
+- **18.10.1902** — narodila sa **Marta, rod. Kočišová** v Košiciach — budúca manželka **Jozefa Hajmana (\*1898 Budapešť)**, matka Magdy, Tibora-chirurga a Marty ml.
 - **10.4.1910** — škandál: **András Fejercsák s manželkou** si v prešovskej Tátra banke zobrali úver 600 korún na sfalšované doklady mŕtveho suseda
 - **1913** — narodil sa **Ján Hajman** (budúci kožušník)
 - **15.3.1915** — dom **Pipa utca 16** (štvrť Tábor, Kassa) zapísaný na Alžbetu („Hajman Ferencné szül. Schurer Erzsébet")
@@ -53,19 +52,19 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **3.6.1919** — ⚭ **Ján Rusinko × Anna Fejerčáková** ⭐
 - **10.9.1921** — narodila sa **Mária Rusinková** v Brežanoch
 - **25.5.1922** — Rusinkovci sa sťahujú **z Brežian do Rokycian** (dom č. 20, vlastný)
-- **18.11.1922** — ⚭ **Jozef Hajman (*1898 Budapešť) × Marta rod. Kočišová (*1902)**, Košice
+- **18.11.1922** — ⚭ **Jozef Hajman (\*1898 Budapešť) × Marta rod. Kočišová (\*1902)**, Košice
 - **29.1.1923** (hárok: 24.1.) — narodil sa **dedo Ján Rusinko** v Rokycanoch ⭐
-- **~1923** — ⚭ **Jozef Hanis × Anna Dzurendová** (odhad; prastarí rodičia z otcovej strany, Žipov); **7.8.1923** narodená **Magda Hajmanová** (dcéra Jozefa *1898, budúca Ginelliová)
+- **~1923** — ⚭ **Jozef Hanis × Anna Dzurendová** (odhad; prastarí rodičia z otcovej strany, Žipov); **7.8.1923** narodená **Magda Hajmanová** (dcéra Jozefa \*1898, budúca Ginelliová)
 - **3.6.1924** — narodila sa **Alžbeta Hanisová** (babkina staršia sestra, dcéra Jozefa Hanisa; 1940 v službe v Prešove)
 - **28.9.1925** — narodil sa **Štefan Rusinko**
-- **22.1.1926** — narodila sa **Mária Hanisová** (babkina sestra, dcéra Jozefa Hanisa → vyd. **Dzuričková**); **20.4.1926** narodený **Tibor Hajman** (syn Jozefa *1898 → budúci **MUDr., chirurg**; nezamieňať s bratrancom MUDr. Tiborom Ginellim, gynekológom)
+- **22.1.1926** — narodila sa **Mária Hanisová** (babkina sestra, dcéra Jozefa Hanisa → vyd. **Dzuričková**); **20.4.1926** narodený **Tibor Hajman** (syn Jozefa \*1898 → budúci **MUDr., chirurg**; nezamieňať s bratrancom MUDr. Tiborom Ginellim, gynekológom)
 - **5.9.1927** — narodil sa **Andrej Rusinko**
-- **22.10.1928** — narodila sa **Marta Hajmanová ml.** (dcéra Jozefa *1898); **4.12.1928** narodená **babka Anna Hanisová** (dcéra Jozefa Hanisa a Anny Dzurendovej) v Žipove ⭐
+- **22.10.1928** — narodila sa **Marta Hajmanová ml.** (dcéra Jozefa \*1898); **4.12.1928** narodená **babka Anna Hanisová** (dcéra Jozefa Hanisa a Anny Dzurendovej) v Žipove ⭐
 - **11.1.1929** — **zomrel Jozef Hanis** (34 r.) — päť týždňov po narodení babky; vdova Anna rod. Dzurendová zostala s tromi dcérami
 - **1.–2.12.1930** — **sčítanie ľudu**: zachytené domácnosti Rusinkovcov (Rokycany 20), Hanisových (Žipov 57), Jozefa Hajmana (Skladná 47) aj vdovy Alžbety (D. Licharda 37)
 - **23.7.1932** — „Hajman János, kassai szűcssegéd" v novinách (kožušník, aj turista); **29.9.1932** — úrady „vyšetrili" národnosť Hajmanovcov (maďarská → slovenská)
 - **17.7.1934** — narodila sa **Mária Holmáňová**
-- **1936** — zomrel **Ondrej Rusinko *9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; hypotetický otec Jána Rusinka *1898) (dožil sa ~79 r.)
+- **1936** — zomrel **Ondrej Rusinko \*9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; hypotetický otec Jána Rusinka \*1898) (dožil sa ~79 r.)
 
 ## Vojna a povojnové roky
 
@@ -93,19 +92,19 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **1966** — narodila sa **Zdena Ličková** (teraz Diana Fünfer)
 - **6.1.1967** — zomrela **Anna Rusinková rod. Fejerčáková** (71 r.)
 - **16.1.1970** — narodila sa **mama Marta Ličková** v Košiciach ⭐
-- **1970** — zomrela **Anna Schullerová rod. Hajmanová** (*1903 — pravdepodobne Rudolfova sestra; hrob sk. 1, z náhrobku 15.7.2026) (dožila sa ~67 r.)
+- **1970** — zomrela **Anna Schullerová rod. Hajmanová** (\*1903 — pravdepodobne Rudolfova sestra; hrob sk. 1, z náhrobku 15.7.2026) (dožila sa ~67 r.)
 - **20.10.1971** — zomrela **Mária Dzuričková rod. Hanisová** (45 r., hrob Žipov)
-- **1977** — zomrel **Jozef Hajman** (*1898 Budapešť; hrobka 7B — z náhrobku) (dožil sa ~79 r.); **1982** zomrela jeho žena **Marta rod. Kočišová** (*1902) (dožila sa ~80 r.)
+- **1977** — zomrel **Jozef Hajman** (\*1898 Budapešť; hrobka 7B — z náhrobku) (dožil sa ~79 r.); **1982** zomrela jeho žena **Marta rod. Kočišová** (\*1902) (dožila sa ~80 r.)
 - **1.9.1978** — zomrela Veronika Mrúzová rod. Rusinková (Bzenov — pravdepodobná príbuzná)
 - **1979–81** — **Jozef Ličko** (rodák z Valaskej, predtým Jasov; majster VSS) rozhoduje futbal v košicko-gemerskej lige (VN „rozhodoval Ličko") a vedie brigádu VSS (1981)
-- **28.2.1980** — zomrel **Ján Rusinko *1898** (prastarý otec, otcova strana; 81 r., hrob Rokycany A/33)
+- **28.2.1980** — zomrel **Ján Rusinko \*1898** (prastarý otec, otcova strana; 81 r., hrob Rokycany A/33)
 - **~1981–83** — zomrel **Jozef Ličko** na rakovinu hrubého čreva (mama mala ~10 r.) — Irena ovdovela, vydala sa za **Petra Lorenowicza**, ktorý obe dcéry adoptoval
 - **8.4.1985** — spopolnená **Katarína Škodová** (Helenina matka); **4.6.1985 urna uložená do hrobu sk. 1** ✅ (evidencia cintorína, 15.7.2026)
 - **1987** — dom Rokycany 20 darovaný Emílii Baranovej r. Dolinskej (rodina? — otvorené)
-- **1988** — zomrel **MUDr. Tibor Hajman** (*1926, chirurg; hrobka 7B — z náhrobku) (dožil sa ~62 r.)
-- **17.2.1989** — zomrel **Ján Dzuriček *1917** (manžel Márie rod. Hanisovej, babkinej sestry; 71 r., hrob Žipov); **1989** zomrel aj **Ferdinand Ginelli** (*1913, huslista — Magdin manžel, z náhrobku sk. 91) (dožil sa ~76 r.)
-- **22.9.1991** — zomrel **Rudolf Hajman** (*22.1.1910, kominár, Irenin otec) v Košiciach-Juh vo veku 81 rokov ✅ (matrika KE-Juh, 4.8.2026); **pohreb 27.9.1991**, hrob sk. 1
-- **~1992** — zomrel **Ján Hajman** (*1913, kožušník; hrob sk. 1MÚZEUM 1A/2 s manželkou Alžbetou *1922 — z náhrobku) (dožil sa ~79 r.)
+- **1988** — zomrel **MUDr. Tibor Hajman** (\*1926, chirurg; hrobka 7B — z náhrobku) (dožil sa ~62 r.)
+- **17.2.1989** — zomrel **Ján Dzuriček \*1917** (manžel Márie rod. Hanisovej, babkinej sestry; 71 r., hrob Žipov); **1989** zomrel aj **Ferdinand Ginelli** (\*1913, huslista — Magdin manžel, z náhrobku sk. 91) (dožil sa ~76 r.)
+- **22.9.1991** — zomrel **Rudolf Hajman** (\*22.1.1910, kominár, Irenin otec) v Košiciach-Juh vo veku 81 rokov ✅ (matrika KE-Juh, 4.8.2026); **pohreb 27.9.1991**, hrob sk. 1
+- **~1992** — zomrel **Ján Hajman** (\*1913, kožušník; hrob sk. 1MÚZEUM 1A/2 s manželkou Alžbetou \*1922 — z náhrobku) (dožil sa ~79 r.)
 - **11.4.1994** — pohreb **Heleny Hajmanovej rod. Škodovej** — hrob sk. 1 ✅ (nájomkyňa hrobu: Irena Lorenowiczová, Lichardova 30)
 
 ## Súčasnosť
@@ -115,11 +114,11 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **1997** — narodila sa **Veronika** 🙂 (odrodil MUDr. Tibor Ginelli — Magdin syn)
 - **10.2.2000** — pohreb **babky Anny Rusinkovej rod. Hanisovej** (71 r.) — do hrobu KE 18-12-20, kde neskôr aj dedo (evidencia cintorína)
 - **~2000** — zomrela Mária Lorenoviczová (Petrova matka)
-- **8.7.2002** — do hrobky Ličkovcov (sk. 8, 0VR/30) uložená urna **Etely Lischkovej** (83 r., *~1918/19) — nová osoba, vzťah k Jozefovi? (evidencia cintorína: „všetci Ličkovci sú uložení v urnách")
+- **8.7.2002** — do hrobky Ličkovcov (sk. 8, 0VR/30) uložená urna **Etely Lischkovej** (83 r., \*~1918/19) — nová osoba, vzťah k Jozefovi? (evidencia cintorína: „všetci Ličkovci sú uložení v urnách")
 - **4.4.2006** — zomrel **dedo Ján Rusinko** (83 r., pohreb 7.4. o 12.00, hrob KE sk. 18/20; oznámenia v Korzári 6. a 7.4. — skeny v prílohách); **16.11.2006** zomrela **Magdaléna Ginelliová rod. Hajmanová** (83 r.)
-- **14.4.2009** — zomrela **Mária Hajmanová *25.3.1942** (hrobka 7B) (dožila sa ~67 r.; dátumy z evidencie cintorína)
+- **14.4.2009** — zomrela **Mária Hajmanová \*25.3.1942** (hrobka 7B) (dožila sa ~67 r.; dátumy z evidencie cintorína)
 - **1.2.2015** — zomrel **Štefan Rusinko** (89 r., Vrakuňa); **20.4.2015** zomrela **babka Irena** (70 r., ako Lorenowiczová; rozptyl); **5.5.2015** zomrela Emília Rusinková
-- **15.12.2016** — zomrela **Mária Ginelliová *25.3.1950** (kurátorka Východoslovenského múzea; hrob sk. 91)
+- **15.12.2016** — zomrela **Mária Ginelliová \*25.3.1950** (kurátorka Východoslovenského múzea; hrob sk. 91)
 - **5.11.2017** — zomrel **Andrej Rusinko** (90 r., hrob Rokycany)
 - **27.3.2020** — zomrel Dmytro Lorenovicz
 - **17.1.2024** — zomrela **Mária rod. Holmáňová** (89 r.) — posledná z generácie
