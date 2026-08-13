@@ -39,32 +39,31 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <p>Bola „Parohács Jánosné szül. Schurer Erzsébet“ matkou našej praprastarej matky Alžbety? Odpoveď je v listine z 15. 3. 1915. Štátny archív ju nevyhľadá bez čísla denníka zaknihovania — a to číslo je v pozemkovej knihe, ktorú má Archív mesta Košice.</p>
 </div>
 <div class="graph-box">
-<div class="graph-scroll">
-<svg class="flow" viewBox="0 0 1020 452" role="img" aria-labelledby="flow-title flow-desc">
-<title id="flow-title">Graf závislostí pre pozemnoknižnú vložku 4720</title>
-<desc id="flow-desc">Pozemkovú knihu má Archív mesta Košice, ale rešerše nerobí — treba osobnú návštevu bádateľne. Z vložky treba číslo denníka zaknihovania, ktoré potom Štátnemu archívu umožní vyhľadať listinu z 15. marca 1915. Náhradná cesta číslo obchádza pokynom prehľadať notárske listiny za celý rok 1915.</desc>
-<defs>
-<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M 0 1 L 9 5 L 0 9 z" fill="currentColor"/></marker>
-</defs>
-<text class="col-label" x="18" y="16">Zdroj údaja</text>
-<text class="col-label" x="270" y="16">Chýbajúci kľúč</text>
-<text class="col-label" x="522" y="16">Rešerš</text>
-<text class="col-label" x="774" y="16">Výsledok</text>
-<g color="currentColor">
-<path class="edge" d="M 240 84 C 256 84 252 136 268 136" marker-end="url(#arrow)"/>
-<path class="edge" d="M 492 146 C 508 146 504 200 520 200" marker-end="url(#arrow)"/>
-<path class="edge dashed" d="M 240 340 C 380 340 400 228 520 224" marker-end="url(#arrow)"/>
-<path class="edge" d="M 744 212 L 768 212" marker-end="url(#arrow)"/>
-</g>
-<text class="edge-label" x="296" y="256">obídenie kľúča — 253 listín ručne</text>
-<foreignObject x="16" y="24" width="224" height="120"><div class="nd nd-warn"><span class="st">Treba ísť osobne</span><strong>Archív mesta Košice</strong><span class="mt">Vložku 4720 má vo fonde, ale rešerše nerobí. Bádateľňa, Kováčska 20, po/str/štv.</span></div></foreignObject>
-<foreignObject x="16" y="160" width="224" height="120"><div class="nd nd-good"><span class="st">Vyriešené 12. 8.</span><strong>Kataster odpadá</strong><span class="mt">Predpoklad, že knihu má okresný úrad, bol nesprávny — telefonát ani e-mail už netreba.</span></div></foreignObject>
-<foreignObject x="16" y="296" width="224" height="120"><div class="nd nd-warn"><span class="st">Náhradná cesta od 20. 8.</span><strong>Pokyn „hľadajte 1915“</strong><span class="mt">Ak sa návšteva odkladá, archív prehľadá celý rok. Drahšie a pomalšie.</span></div></foreignObject>
-<foreignObject x="268" y="92" width="224" height="116"><div class="nd"><span class="st">Chýba</span><strong>Č. d. zaknihovania</strong><span class="mt">Zápis z 15. 3. 1915 vo vložke 4720. Bez neho archív nezačne.</span></div></foreignObject>
-<foreignObject x="520" y="156" width="224" height="116"><div class="nd nd-warn"><span class="st">Čaká na doplnenie</span><strong>ŠA Košice — rešerš</strong><span class="mt">Notárske fondy, 30–60 dní, skeny po úhrade.</span></div></foreignObject>
-<foreignObject x="772" y="156" width="224" height="116"><div class="nd nd-goal"><span class="st">Cieľ</span><strong>Listina 15. 3. 1915</strong><span class="mt">Dedičstvo = matka a dcéra. Bežný prevod = hypotéza padá.</span></div></foreignObject>
-<foreignObject x="520" y="316" width="476" height="112"><div class="nd nd-good"><span class="st">Hotové 30. 7. — nezávislá indícia</span><strong>BFL Budapešť: sobáš 4. 2. 1900</strong><span class="mt">Nevesta nemanželská, matka Erzsébet Suver v tom čase žila — hypotéze to nahráva, nedokazuje ju.</span></div></foreignObject>
-</svg>
+<div class="flow2">
+<div class="fcol">
+<span class="fcol-label">Zdroj údaja</span>
+<div class="nd nd-warn"><span class="st">Treba ísť osobne</span><strong>Archív mesta Košice</strong><span class="mt">Vložku 4720 má vo fonde, ale rešerše nerobí. Bádateľňa, Kováčska 20, po/str/štv.</span></div>
+<div class="nd nd-good"><span class="st">Vyriešené 12. 8.</span><strong>Kataster odpadá</strong><span class="mt">Predpoklad, že knihu má okresný úrad, bol nesprávny — telefonát ani e-mail už netreba.</span></div>
+<div class="nd nd-warn"><span class="st">Náhradná cesta od 20. 8.</span><strong>Pokyn „hľadajte 1915“</strong><span class="mt">Ak sa návšteva odkladá, archív prehľadá celý rok — 253 listín ručne, drahšie a pomalšie. Kľúč nižšie tým obchádza.</span></div>
+</div>
+<div class="farrow" aria-hidden="true"></div>
+<div class="fcol">
+<span class="fcol-label">Chýbajúci kľúč</span>
+<div class="nd"><span class="st">Chýba</span><strong>Č. d. zaknihovania</strong><span class="mt">Zápis z 15. 3. 1915 vo vložke 4720. Bez neho archív nezačne.</span></div>
+</div>
+<div class="farrow" aria-hidden="true"></div>
+<div class="fcol">
+<span class="fcol-label">Rešerš</span>
+<div class="nd nd-warn"><span class="st">Čaká na doplnenie</span><strong>ŠA Košice — rešerš</strong><span class="mt">Notárske fondy, 30–60 dní, skeny po úhrade.</span></div>
+</div>
+<div class="farrow" aria-hidden="true"></div>
+<div class="fcol">
+<span class="fcol-label">Výsledok</span>
+<div class="nd nd-goal"><span class="st">Cieľ</span><strong>Listina 15. 3. 1915</strong><span class="mt">Dedičstvo = matka a dcéra. Bežný prevod = hypotéza padá.</span></div>
+</div>
+</div>
+<div class="flow2-aside">
+<div class="nd nd-good"><span class="st">Hotové 30. 7. — nezávislá indícia</span><strong>BFL Budapešť: sobáš 4. 2. 1900</strong><span class="mt">Nevesta nemanželská, matka Erzsébet Suver v tom čase žila — hypotéze to nahráva, nedokazuje ju.</span></div>
 </div>
 <p class="graph-note"><b>Čo sa zmenilo 12. 8.</b> Archív mesta Košice potvrdil, že <b>pozemnoknižnú vložku 4720 má</b> — dovtedy sme ju hľadali na katastri, čo bol omyl. Zároveň upozornil, že v pozemkovej knihe príbuzenské vzťahy nie sú; nám z nej však stačí <b>číslo zaknihovania</b>, ktoré ukáže na listinu z roku 1915, a tá vzťah povie. Bonus z tej istej odpovede: <b>Pipa utca sa dnes volá Dymková</b> — ulica už neexistuje, bola v priestore za dnešnou Steel Arenou.</p>
 </div>
@@ -77,7 +76,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <div class="row"><div class="who">Slovenský národný archív<em>15. 7. 2026</em></div><div class="what">Neredigované sčítacie hárky 1940 — Rokycany, Žipov, Prešov</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:97%"></span></span><span class="days">29</span></div><div><span class="pill crit">Urgovať</span></div></div>
 <div class="row"><div class="who">Obec Rokycany<em>15. 7. 2026</em></div><div class="what">Hroby Andreja a Márie, osud sestry Márie \*1921</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:97%"></span></span><span class="days">29</span></div><div><span class="pill crit">Urgovať</span></div></div>
 <div class="row"><div class="who">RK fara Bajerov<em>15. 7. 2026</em></div><div class="what">Úmrtia Petra Fejerčáka a Márie Guľasovej po roku 1896</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:97%"></span></span><span class="days">29</span></div><div><span class="pill crit">Urgovať</span></div></div>
-<div class="row"><div class="who">GK fara Klenov<em>ozvala sa 19. 7.</em></div><div class="what">Krst Jána 1898 → potvrdenie otca Ondreja; fara preveruje, či sa knihy zachovali</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:83%"></span></span><span class="days">25</span></div><div><span class="pill part">Sľúbené</span></div></div>
+<div class="row"><div class="who">GK fara Klenov<em>ozvala sa 16. 7.</em></div><div class="what">Krst Jána 1898 → potvrdenie otca Ondreja; fara preveruje, či sa knihy zachovali; urgencia pripravená</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:83%"></span></span><span class="days">25</span></div><div><span class="pill part">Sľúbené</span></div></div>
 <div class="row"><div class="who">Obec Jasov<em>28. 7. 2026</em></div><div class="what">Dátum narodenia Jozefa Lička, dokedy mal v obci pobyt</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:53%"></span></span><span class="days">16</span></div><div><span class="pill wait">Ticho</span></div></div>
 <div class="row"><div class="who">MÚ Košice-Západ<em>vybavuje sa od 29. 7.</em></div><div class="what">Úmrtný list Heleny Hajmanovej — poplatok uhradený, čaká sa na doklad</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:50%"></span></span><span class="days">15</span></div><div><span class="pill part">Uhradené</span></div></div>
 <div class="row"><div class="who">Obec Žipov<em>odpoveď 31. 7.</em></div><div class="what">Evidencia hrobov Hanisovcov — obec namiesto nej dala kontakt na žijúceho potomka</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:43%"></span></span><span class="days">13</span></div><div><span class="pill part">Polovične</span></div></div>
