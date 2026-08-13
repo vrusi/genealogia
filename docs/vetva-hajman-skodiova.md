@@ -7,7 +7,7 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 ## Rodová línia
 
 - **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá.
-- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového spolku kominárov v Košiciach — postupne pokladníkom, tajomníkom a napokon výkonným tajomníkom. **Dostaval rodinný dom na Lichardovej 30.**
+- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — najprv radovým členom, ktorý podával návrhy, v januári 1940 **pokladníkom** a od novembra 1940 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
 - **Prababka Helena rod. Škodiová** — \*1919, †1994. Hovorila po slovensky a žila v Košiciach.
 - **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
@@ -156,6 +156,16 @@ Toto bolo susedstvo, v ktorom vyrastali Ferencovi synovia. O dvadsať rokov nesk
 **Kúsok od neskoršieho domova.** Na dobovom pláne mesta vidno, že Dymková ležala medzi Tatárskou, Mostovou a Dlhou, hneď za zimným štadiónom — a **Daniela Lichardova so Skladnou sú odtiaľ len pár blokov**. Keď sa teda rodina po roku 1915 presťahovala, nešla nikam ďaleko: zostala v tej istej časti mesta, len o ulicu či dve vyššie. Ferencovi synovia teda vyrastali stále v tom istom prostredí.
 
 **Kto v dome býval, zatiaľ nevieme.** Vieme len, že Ferenc s Alžbetou prišli do Košíc roku 1900, teda dva roky po kúpe domu — a že v sčítaní roku 1930 už bývajú inde, na Lichardovej a Skladnej. Mená obyvateľov by prezradili mestské súpisy obyvateľov alebo dobové adresáre Košíc, usporiadané po uliciach.
+
+### Rudolf a kominárski odborári
+
+Košický denník *Felvidéki Ujság* priniesol 22. marca 1941 správu z výročnej schôdze miestnej skupiny **kresťansko-sociálneho odborového zväzu kominárov** pod titulkom „Výmena stráží u košických kominárov". Na schôdzu prišiel aj zástupca budapeštianskeho ústredia.
+
+**Správu o uplynulom roku predniesol Rudolf** ako tajomník skupiny — a bolo čo hlásiť. Skupina si podľa článku vybojovala zmeny v niektorých ustanoveniach **kolektívnej zmluvy**, predovšetkým v otázkach **platov a počtu zamestnancov**; noviny to opísali slovami, že sa „podarilo presadiť spravodlivosť". Delegácia okrem toho úspešne zastúpila členov ešte v pätnástich ďalších prípadoch. Skupina osobitne poďakovala primátorovi mesta a vedeniu živnostenského úradu, ktorí podľa nej „siahli chápavou rukou na starú ranu košických kominárov".
+
+Vo voľbách bolo celé vedenie potvrdené — Rudolf zostal tajomníkom.
+
+Je to jediný prameň, ktorý ho ukazuje nie ako meno v matrike, ale ako človeka, ktorý niečo robil: tridsaťročný kominár, ktorý za svoj cech vyjednával o mzdách.
 
 ## Dom Lichardova 30
 
