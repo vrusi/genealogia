@@ -72,7 +72,7 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 - **František** — \*3.12.1900, ⚭ Anna \*1903.
 - **Rudolf** — pradedo.
 - **Ján** — \*1913, **kožušník**, †1992. ⚭ Alžbeta \*1922. O jeho živote mimo dielne vieme viac než o ktoromkoľvek inom z bratov (nižšie).
-- **Ladislav** — \*1916, úradník a **hudobník košického rozhlasového orchestra**; v rokoch 1940 až 1945 dirigoval banícku kapelu v Perecesi pri Miškovci a po vojne sa vrátil do Košíc.
+- **Ladislav** — \*1916, úradník a **hudobník košického rozhlasového orchestra**; roky 1940 až 1945 strávil pri Miškovci ako dirigent baníckej kapely (nižšie).
 - **Anna** — \*1903, †1970, vydatá **Schullerová**; pochovaná v hrobe s Rudolfom a Helenou, takže takmer isto Rudolfova sestra.
 - **MUDr. Tibor Hajman** (1926–1988), Jozefov syn — chirurg, ktorý sa 1. júla 1964 stal **prvým vedúcim lekárom protetického oddelenia v Košiciach**.
 
@@ -192,6 +192,16 @@ A z toho istého čísla novín, tri dni pred Silvestrom 1941, je aj toto:
 > Proti neznámemu páchateľovi podal oznámenie Hajman János, košický kožušnícky tovariš, ktorému z uzamknutej prenajatej skrinky v **korčuliarskom pavilóne v Széchenyiho parku** ukradli **krasokorčule namontované na topánkach**. Topánky boli hnedej farby. Škoda 100 pengő.
 
 Sto pengő bola vtedy zhruba mesačná mzda robotníka. Z troch riadkov policajnej rubriky tak vypadol celý obrázok: mladý remeselník, ktorý chodil korčuľovať, mal na klzisku vlastnú prenajatú skrinku a na topánkach namontované krasokorčule — a niekto mu ich vzal.
+
+### Ladislav a banícka kapela
+
+Najmladší z Rudolfových bratov **Ladislav** sa vyučil na úradníka, ale živila ho hudba. Odišiel do **Perecesu**, baníckej kolónie pri Miškovci, kde mala baňa vlastnú dychovku.
+
+Roku **1940** je v novinách vedený ako úradník a **zástupca dirigenta** baníckej kapely. O rok neskôr už kapelu vedie sám — a to na mieste, ktoré si zaslúži zmienku: v Perecesi sa každé leto konali **Slobodné hry pod Bükkom**, festival pod holým nebom v lese nad baníckou osadou. Recenzent v júli 1941 napísal o „prispôsobivom orchestri, ktorého dirigent **Hajmán László** si zaslúži každé uznanie".
+
+V decembri **1942** diriguje ďalší program kapely. A ešte v **máji a júni 1945**, teda po skončení vojny, stojí pred tým istým orchestrom — v jednom z programov hrajú predohru k Normovi.
+
+Do Košíc sa teda vrátil až niekedy v druhej polovici roku 1945, po piatich rokoch v Maďarsku.
 
 ## Dom Lichardova 30
 
