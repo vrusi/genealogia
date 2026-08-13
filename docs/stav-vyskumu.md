@@ -47,10 +47,9 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 </div>
 <div class="bypass nd-warn"><span class="bypass-label">Obchádzka od 20. 8.</span><div class="stepbody"><strong>Pokyn „hľadajte 1915“ — preskočí kroky 1 a 2</strong><span class="mt">Ak sa návšteva bádateľne odkladá, archív prehľadá celý rok bez čísla zaknihovania: 253 listín ručne, drahšie a pomalšie. Ide rovno do kroku 3.</span></div></div>
 <div class="chain-notes">
-<div class="note nd-good"><strong>Kataster odpadá</strong><span class="mt">Do 12. 8. sme knihu hľadali na okresnom úrade — omyl. Telefonát ani e-mail už netreba.</span></div>
 <div class="note nd-good"><strong>Nezávislá indícia z 30. 7.</strong><span class="mt">Sobáš z Budapešti 4. 2. 1900: nevesta nemanželská, matka Erzsébet Suver vtedy žila. Hypotéze to nahráva, nedokazuje ju.</span></div>
 </div>
-<p class="graph-note"><b>Čo sa zmenilo 12. 8.</b> Archív mesta Košice potvrdil, že <b>pozemnoknižnú vložku 4720 má</b>. Zároveň upozornil, že v pozemkovej knihe príbuzenské vzťahy nie sú; nám z nej však stačí <b>číslo zaknihovania</b>, ktoré ukáže na listinu z roku 1915, a tá vzťah povie. Bonus z tej istej odpovede: <b>Pipa utca sa dnes volá Dymková</b> — ulica už neexistuje, bola v priestore za dnešnou Steel Arenou.</p>
+<p class="graph-note"><b>Kde to viazne.</b> Archív mesta Košice potvrdil, že <b>pozemnoknižnú vložku 4720 má</b>, ale upozornil, že v pozemkovej knihe príbuzenské vzťahy nie sú; nám z nej však stačí <b>číslo zaknihovania</b>, ktoré ukáže na listinu z roku 1915, a tá vzťah povie. Bonus z tej istej odpovede: <b>Pipa utca sa dnes volá Dymková</b> — ulica už neexistuje, bola v priestore za dnešnou Steel Arenou.</p>
 </div>
 <div class="sec-head">
 <h2>Čaká sa na odpoveď</h2>
@@ -75,7 +74,6 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 </div>
 <div class="tl">
 <div class="tl-item"><time>12. 8.</time><p><b>Archív mesta Košice</b> potvrdil, že pozemnoknižnú vložku 4720 má, a odhalil, že Pipa utca je dnešná Dymková. Rešerše nerobí — treba prísť do bádateľne.</p></div>
-<div class="tl-item"><time>11. 8.</time><p><b>Štátny archív v Košiciach</b> odkázal na mestský archív. Tým sa ukázalo, že hľadať knihu na katastri bolo zbytočné.</p></div>
 <div class="tl-item"><time>4. 8.</time><p><b>Matrika Košice-Juh</b> oznámila priamo v odpovedi: Rudolf Hajman \*22. 1. 1910, syn Františka a Alžbety rod. Šuverovej, †22. 9. 1991. Katarínu Škodovú neeviduje.</p></div>
 <div class="tl-item"><time>3.–4. 8.</time><p><b>Matrika Valaská</b> potvrdila presný dátum: Jozef Ličko \*18. 1. 1942.</p></div>
 <div class="tl-item"><time>31. 7.</time><p><b>ŠA Prešov</b> doručil repatriačné spisy: Andrej Rusinko \*5. 9. 1927, otec Ján, matka Anna rod. Fejerčáková. Nešlo o repatriáciu, ale o odvlečenie na kopanie zákopov v Medzeve v zime 1944/45.</p></div>
