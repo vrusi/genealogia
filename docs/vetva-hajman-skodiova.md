@@ -112,9 +112,20 @@ Fotografie nižšie sú **o polstoročie mladšie** než čas Ferenca a Alžbety
 ![Tulipánová ulica](prilohy/tabor-tulipanova-matus-majernik.jpeg)
 *Tulipánová ulica. Foto zverejnil Matúš Majerník.*
 
+![Prízemný dom na nespevnenej ulici](prilohy/tabor-prizemny-dom-anton-mlynarik.jpeg)
+*Prízemný dom so štyrmi oknami a drevenými vrátami na nespevnenej ulici — typ bývania, aký v štvrti prevládal. Foto zverejnil Anton IV Mlynárik.*
+
+![Ulica so schátranými domami](prilohy/tabor-ulica-marian-egry.jpeg)
+*Ulica v štvrti — omietky opadané, cesta rozmoknutá. Foto zverejnil Marián Egry.*
+
+![Chatrč a v pozadí panelové domy](prilohy/tabor-chatrc-a-panelaky-70roky.jpeg)
+*Sedemdesiate roky tesne pred asanáciou: chatrč v popredí, za ňou pôvodná nízka zástavba a na obzore už panelové sídliská. Foto zverejnili Teo Tibor Andreas, Juraj Menyhért a Mar Cello.*
+
 </div>
 
 Zdroj všetkých záberov: **[Fotografie ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html)**, album „cigánsky tábor"; autorstvo podľa údajov pri jednotlivých fotografiách. Ak si niektorý z autorov neželá zverejnenie, fotografiu na požiadanie odstránime.
+
+**Kúsok od neskoršieho domova.** Na dobovom pláne mesta vidno, že Dymková ležala medzi Tatárskou, Mostovou a Dlhou, hneď za zimným štadiónom — a **Daniela Lichardova so Skladnou sú odtiaľ len pár blokov**. Keď sa teda rodina po roku 1915 presťahovala, nešla nikam ďaleko: zostala v tej istej časti mesta, len o ulicu či dve vyššie. Ferencovi synovia teda vyrastali stále v tom istom prostredí.
 
 **Kto v dome býval, zatiaľ nevieme.** Vieme len, že Ferenc s Alžbetou prišli do Košíc roku 1900, teda dva roky po kúpe domu — a že v sčítaní roku 1930 už bývajú inde, na Lichardovej a Skladnej. Mená obyvateľov by prezradili mestské súpisy obyvateľov alebo dobové adresáre Košíc, usporiadané po uliciach.
 
