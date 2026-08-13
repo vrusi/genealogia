@@ -7,7 +7,7 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 ## Rodová línia
 
 - **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá.
-- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 **tajomníkom**, v januári 1940 **pokladníkom** a od novembra 1940 opäť **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
+- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 až do roku 1941 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
 - **Prababka Helena rod. Škodiová** — \*1919, †1994. Hovorila po slovensky a žila v Košiciach.
 - **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
@@ -163,6 +163,8 @@ Košická skupina **kresťansko-sociálneho odborového zväzu kominárov** vzni
 
 Na tej istej schôdzi podal aj návrh, ktorý zhromaždenie prijalo: **požiadať majstrov, aby odteraz zamestnávali len odborovo organizovaných robotníkov**. Mal vtedy dvadsaťdeväť rokov.
 
+Vo funkcii ho potvrdzovali znova a znova: na výročnom zhromaždení v decembri 1939, potom v roku 1940 aj 1941. Zakaždým predniesol správu o činnosti.
+
 **Čo skupina dosiahla.** Vlastnú bilanciu uverejnilo vedenie skupiny v novembri 1940 pod titulkom „Ochrana robotníkov u košických kominárov". Keď ministerské nariadenie prerozdelilo košické kominárske obvody, skupina otvorila **otázku počtu zamestnancov** a v rokovaniach vybojovala prácu **pre troch ďalších kominárskych tovarišov**. Zároveň poslala majstrom prípis a presadila **platovú klauzulu kolektívnej zmluvy z roku 1938**; noviny menujú štyroch majstrov, ktorí odvtedy platili podľa záväzku, a dodávajú, že zvyšok košických kominárov svoju mzdu dostať musí tiež. Argument, ktorý pri tom použili, bol praktický: keď robotníci majú peniaze, rastie ich kúpna sila a majú z toho aj obchodníci.
 
 Vlastnými slovami to vedenie skupiny zhrnulo takto — snahou je „vytvoriť rodine existenčný základ, lebo len hospodársky dobre zabezpečená rodina dá lepšiu budúcnosť".
@@ -172,6 +174,8 @@ Košický denník *Felvidéki Ujság* priniesol 22. marca 1941 správu z výroč
 **Správu o uplynulom roku predniesol Rudolf** ako tajomník skupiny — a bolo čo hlásiť. Skupina si podľa článku vybojovala zmeny v niektorých ustanoveniach **kolektívnej zmluvy**, predovšetkým v otázkach **platov a počtu zamestnancov**; noviny to opísali slovami, že sa „podarilo presadiť spravodlivosť". Delegácia okrem toho úspešne zastúpila členov ešte v pätnástich ďalších prípadoch. Skupina osobitne poďakovala primátorovi mesta a vedeniu živnostenského úradu, ktorí podľa nej „siahli chápavou rukou na starú ranu košických kominárov".
 
 Vo voľbách bolo celé vedenie potvrdené — Rudolf zostal tajomníkom.
+
+Podarilo sa im aj to hlavné: vo februári 1941 oznámil na dvoch poradách skupiny **uzavretie novej kolektívnej zmluvy**. Dva roky vyjednávania o mzdách a počte miest tak skončili podpisom.
 
 Je to jediný prameň, ktorý ho ukazuje nie ako meno v matrike, ale ako človeka, ktorý niečo robil: tridsaťročný kominár, ktorý za svoj cech vyjednával o mzdách.
 
