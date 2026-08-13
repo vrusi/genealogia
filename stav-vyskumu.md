@@ -39,33 +39,18 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <p>Bola „Parohács Jánosné szül. Schurer Erzsébet“ matkou našej praprastarej matky Alžbety? Odpoveď je v listine z 15. 3. 1915. Štátny archív ju nevyhľadá bez čísla denníka zaknihovania — a to číslo je v pozemkovej knihe, ktorú má Archív mesta Košice.</p>
 </div>
 <div class="graph-box">
-<div class="flow2">
-<div class="fcol">
-<span class="fcol-label">Zdroj údaja</span>
-<div class="nd nd-warn"><span class="st">Treba ísť osobne</span><strong>Archív mesta Košice</strong><span class="mt">Vložku 4720 má vo fonde, ale rešerše nerobí. Bádateľňa, Kováčska 20, po/str/štv.</span></div>
-<div class="nd nd-good"><span class="st">Vyriešené 12. 8.</span><strong>Kataster odpadá</strong><span class="mt">Predpoklad, že knihu má okresný úrad, bol nesprávny — telefonát ani e-mail už netreba.</span></div>
-<div class="nd nd-warn"><span class="st">Náhradná cesta od 20. 8.</span><strong>Pokyn „hľadajte 1915“</strong><span class="mt">Ak sa návšteva odkladá, archív prehľadá celý rok — 253 listín ručne, drahšie a pomalšie. Kľúč nižšie tým obchádza.</span></div>
+<div class="chain">
+<div class="step nd-warn"><span class="stepnum">1</span><div class="stepbody"><span class="st">Treba ísť osobne</span><strong>Archív mesta Košice</strong><span class="mt">Vložku 4720 má vo fonde, ale rešerše nerobí. Bádateľňa, Kováčska 20, po/str/štv.</span></div></div>
+<div class="step"><span class="stepnum">2</span><div class="stepbody"><span class="st">Chýbajúci kľúč</span><strong>Č. d. zaknihovania</strong><span class="mt">Zápis z 15. 3. 1915 vo vložke 4720. Bez neho archív nezačne.</span></div></div>
+<div class="step nd-warn"><span class="stepnum">3</span><div class="stepbody"><span class="st">Čaká na doplnenie</span><strong>ŠA Košice — rešerš</strong><span class="mt">Notárske fondy, 30–60 dní, skeny po úhrade.</span></div></div>
+<div class="step nd-goal"><span class="stepnum">4</span><div class="stepbody"><span class="st">Cieľ</span><strong>Listina 15. 3. 1915</strong><span class="mt">Dedičstvo = matka a dcéra. Bežný prevod = hypotéza padá.</span></div></div>
 </div>
-<div class="farrow" aria-hidden="true"></div>
-<div class="fcol">
-<span class="fcol-label">Chýbajúci kľúč</span>
-<div class="nd"><span class="st">Chýba</span><strong>Č. d. zaknihovania</strong><span class="mt">Zápis z 15. 3. 1915 vo vložke 4720. Bez neho archív nezačne.</span></div>
+<div class="bypass nd-warn"><span class="bypass-label">Obchádzka od 20. 8.</span><div class="stepbody"><strong>Pokyn „hľadajte 1915“ — preskočí kroky 1 a 2</strong><span class="mt">Ak sa návšteva bádateľne odkladá, archív prehľadá celý rok bez čísla zaknihovania: 253 listín ručne, drahšie a pomalšie. Ide rovno do kroku 3.</span></div></div>
+<div class="chain-notes">
+<div class="note nd-good"><strong>Kataster odpadá</strong><span class="mt">Do 12. 8. sme knihu hľadali na okresnom úrade — omyl. Telefonát ani e-mail už netreba.</span></div>
+<div class="note nd-good"><strong>Nezávislá indícia z 30. 7.</strong><span class="mt">Sobáš z Budapešti 4. 2. 1900: nevesta nemanželská, matka Erzsébet Suver vtedy žila. Hypotéze to nahráva, nedokazuje ju.</span></div>
 </div>
-<div class="farrow" aria-hidden="true"></div>
-<div class="fcol">
-<span class="fcol-label">Rešerš</span>
-<div class="nd nd-warn"><span class="st">Čaká na doplnenie</span><strong>ŠA Košice — rešerš</strong><span class="mt">Notárske fondy, 30–60 dní, skeny po úhrade.</span></div>
-</div>
-<div class="farrow" aria-hidden="true"></div>
-<div class="fcol">
-<span class="fcol-label">Výsledok</span>
-<div class="nd nd-goal"><span class="st">Cieľ</span><strong>Listina 15. 3. 1915</strong><span class="mt">Dedičstvo = matka a dcéra. Bežný prevod = hypotéza padá.</span></div>
-</div>
-</div>
-<div class="flow2-aside">
-<div class="nd nd-good"><span class="st">Hotové 30. 7. — nezávislá indícia</span><strong>BFL Budapešť: sobáš 4. 2. 1900</strong><span class="mt">Nevesta nemanželská, matka Erzsébet Suver v tom čase žila — hypotéze to nahráva, nedokazuje ju.</span></div>
-</div>
-<p class="graph-note"><b>Čo sa zmenilo 12. 8.</b> Archív mesta Košice potvrdil, že <b>pozemnoknižnú vložku 4720 má</b> — dovtedy sme ju hľadali na katastri, čo bol omyl. Zároveň upozornil, že v pozemkovej knihe príbuzenské vzťahy nie sú; nám z nej však stačí <b>číslo zaknihovania</b>, ktoré ukáže na listinu z roku 1915, a tá vzťah povie. Bonus z tej istej odpovede: <b>Pipa utca sa dnes volá Dymková</b> — ulica už neexistuje, bola v priestore za dnešnou Steel Arenou.</p>
+<p class="graph-note"><b>Čo sa zmenilo 12. 8.</b> Archív mesta Košice potvrdil, že <b>pozemnoknižnú vložku 4720 má</b>. Zároveň upozornil, že v pozemkovej knihe príbuzenské vzťahy nie sú; nám z nej však stačí <b>číslo zaknihovania</b>, ktoré ukáže na listinu z roku 1915, a tá vzťah povie. Bonus z tej istej odpovede: <b>Pipa utca sa dnes volá Dymková</b> — ulica už neexistuje, bola v priestore za dnešnou Steel Arenou.</p>
 </div>
 <div class="sec-head">
 <h2>Čaká sa na odpoveď</h2>
