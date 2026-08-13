@@ -14,7 +14,7 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 - **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc \*31.7.1873 Szőlőskislak, stolársky pomocník; dátum jeho úmrtia nepoznáme, ale roku 1915 už bol dom písaný na manželku. Alžbeta \*6.3.1876 Mokrance, †po roku 1930. Sobášili sa **4.2.1900 v Budapešti**.
 - **3× prastarí rodičia: János Hajman a Anna rod. Huterová — prisťahovalci z Poľska.** Obaja sa narodili v **Rajczi** (v matrikách „Raicza, Lengyelhon"), János okolo roku 1836, Anna okolo 1838 až 1841. Roku 1861 slúžili obaja ako nádenníci v osade Csehi; neskôr bol János želiarom v Kislaku. **Anna zomrela 7.4.1879 pri pôrode** — Ferenc osirel ako päťročný a do Košíc odchádzal už bez matky.
 - **4× prastarí rodičia: František Heiman** (Jánosov otec) a **František Hutera** (Annin otec) — obaja z Poľska. Mená ich manželiek matrika neuvádza.
-- **3× prababka Erzsébet Suver** — slúžka v Mokranciach, slobodná matka Alžbety.
+- **3× prababka Erzsébet Suver** — slúžka v Mokranciach, slobodná matka Alžbety; neskôr **vydatá Parohácsová**, majiteľka domu na Pipa utca 16, †koncom 1914 alebo v januári 1915 v Košiciach.
 
 ## Kľúčové dokumenty
 
@@ -80,7 +80,15 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 
 ## Dom na Pipa utca 16 — dnešná Dymková
 
-**Kúpa a prevod.** Dom kúpila **6. októbra 1898 za 680 zlatých** „Parohács Jánosné szül. Schurer Erzsébet", a to od šiestich súrodencov Hankóovcov; oznámil to mestský vestník. **15. marca 1915** vlastníctvo prešlo na „Hajman Ferencné szül. Schurer Erzsébet", teda na **Alžbetu**. Predpokladáme, že prvou majiteľkou bola Alžbetina matka, ktorá sa medzitým vydala za muža menom Parohács — dom by potom prirodzene prešiel z matky na dcéru. Rozhodne o tom listina z roku 1915, po ktorej pátrame ([Prehľad](prehlad.md)).
+**Kúpa 1898.** V druhej polovici septembra 1898 kúpila dom **„Parohács Jánosné szül. Schurer Erzsébet"** za **680 zlatých** od šiestich súrodencov **Hankóovcov** — Jánosa, Mihálya, Alajosa, Gyulu, Julianny a Erzsébety. Oznámil to košický denník *Pannonia* 6. októbra 1898 v rubrike prevodov nehnuteľností; v tom istom zozname sa predávali aj susedné vložky 4718 a 4719, takže šlo o rozpredaj celého bloku.
+
+**Prevod 1915 — dedičstvo.** Mestský vestník *Városi Közlöny* uverejnil 15. marca 1915 prevody za **január 1915**, roztriedené podľa právneho titulu: kúpa, darovanie, dedičstvo. Náš zápis stojí pod hlavičkou **„Hagyaték címén" — teda dedičstvom**:
+
+> „A kassai 4720. sz. tjkvben **Parohács Jánosné** nevén írt (**Pipa u. 16. sz.**) ingatlan **Hajman Ferencné szül. Schurer Erzsébet** javára."
+
+⭐ **Tým je vzťah oboch žien vyriešený.** Obidve sú v prameňoch vedené ako **rodená Schurer Erzsébet** — rovnaké priezvisko aj krstné meno — a majetok medzi nimi prešiel **dedením**, nie predajom ani darovaním. Staršia Erzsébet, slúžka z Mokraniec a matka nemanželskej Alžbety, sa teda medzitým vydala za muža menom **Parohács János**, kúpila v roku 1898 tento dom a po jej smrti ho **zdedila dcéra Alžbeta**.
+
+Z datovania vyplýva aj to, kedy zomrela: prevod bol zaknihovaný v **januári 1915**, čiže **koncom roku 1914 alebo v prvých týždňoch roku 1915**. Jej úmrtný zápis hľadáme v košickej civilnej matrike.
 
 **Kde to bolo.** Archív mesta Košice nám 12. 8. 2026 potvrdil, že **Pipa utca sa neskôr volala Dymková**. Maďarské *pipa* znamená fajku, teda dym — odtiaľ slovenský preklad. Ulica dnes už neexistuje: ležala južne pod Štúrovou, v priestore **za dnešnou Steel Arenou**, kde neskôr vyrástlo sídlisko a v posledných rokoch bytový komplex Herberia.
 
@@ -133,7 +141,7 @@ Prvá fotografia je **z dvadsiatych rokov**, teda z obdobia, keď rodina ešte d
 
 Zdroj všetkých záberov: **[Fotografie ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html)**, album „cigánsky tábor"; autorstvo podľa údajov pri jednotlivých fotografiách. Ak si niektorý z autorov neželá zverejnenie, fotografiu na požiadanie odstránime.
 
-**Ako sa ulice volali.** Mená sa menili s režimami: **Pipa utca** bola po roku 1918 **Dymková**; dnešná **Skladná**, kde býval Ferencov syn Jozef, sa predtým volala **Rektár utca** a v rokoch 1938–45 Szüllő Géza utca. Pri hľadaní v starých adresároch mesta preto treba používať dobové názvy — pod dnešnými sa rodina nenájde.
+**Ako sa ulice volali.** Mená sa menili s režimami: **Pipa utca** bola po roku 1918 **Dymková**; dnešná **Skladná**, kde býval Ferencov syn Jozef, sa predtým volala **Raktár utca** a v rokoch 1938–45 Szüllő Géza utca. Pri hľadaní v starých adresároch mesta preto treba používať dobové názvy — pod dnešnými sa rodina nenájde.
 
 **Kúsok od neskoršieho domova.** Na dobovom pláne mesta vidno, že Dymková ležala medzi Tatárskou, Mostovou a Dlhou, hneď za zimným štadiónom — a **Daniela Lichardova so Skladnou sú odtiaľ len pár blokov**. Keď sa teda rodina po roku 1915 presťahovala, nešla nikam ďaleko: zostala v tej istej časti mesta, len o ulicu či dve vyššie. Ferencovi synovia teda vyrastali stále v tom istom prostredí.
 

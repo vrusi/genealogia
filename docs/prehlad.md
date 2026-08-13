@@ -37,7 +37,7 @@ Rudolfovi rodičia: **Ferenc Hajman** (\*31.7.1873 Szőlőskislak) a **Alžbeta 
 
 Ferencovi rodičia **János Hajman** a **Anna rod. Huterová** boli **prisťahovalci z Poľska** — sobášny aj úmrtný zápis uvádzajú „Raicza, Lengyelhon". Anna zomrela roku 1879 pri pôrode. Ich otcovia, František Heiman a František Hutera, sú naši 4× prastarí rodičia.
 
-Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec.
+Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec. Neskôr sa vydala za **Jána Parohácsa** a roku 1898 kúpila v Košiciach dom na Pipa utca 16; po jej smrti koncom roku 1914 ho **zdedila dcéra Alžbeta**. Doložil to mestský vestník, ktorý prevod zaradil pod dedičský titul — čím sa potvrdilo, že tie dve ženy boli matka a dcéra.
 
 Do širšej rodiny patria aj **Ginelliovci** — huslista a profesor konzervatória Ferdinand a jeho syn, gynekológ Tibor — a chirurg **MUDr. Tibor Hajman**, prvý vedúci protetického oddelenia v Košiciach.
 
@@ -60,10 +60,10 @@ Najsilnejšie zhluky zhôd potvrdzujú **guľasovskú** a **rusinkovskú** líni
 | Rodné meno Kataríny Škodovej a poľská stopa | úmrtný list Heleny |
 | Kde a kedy sa sobášili Rudolf a Helena | v Košiciach v rokoch 1938–44 sobáš nie je |
 | Kedy zomreli Ferenc Hajman a Alžbeta Suverová | košické úmrtné matriky |
+| Kedy presne zomrela Erzsébet Parohácsová rod. Suverová | civilná matrika Košice, koniec 1914 – január 1915 |
 | Osud Rudolfa Hajmana ml. v Kanade | jeho rodný zápis, potom kanadské archívy |
 | Osud Márie Rusinkovej (\*1921) a sestry Anny | neredigovaný sčítací hárok 1940 |
 | Odkiaľ presne v Poľsku prišli Heimanovci a Huterovci | matriky farností Rajcza a Milówka |
-| Kto bola „Parohács Jánosné", ktorá roku 1898 kúpila dom | listina o prevode domu z roku 1915 |
 
 Kde sa v tom práve nachádzame — ktorá žiadosť je odoslaná a na čo sa čaká — ukazuje stránka **Stav výskumu**.
 

@@ -55,7 +55,7 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 | **Alžbeta rod. Suverová** | 2× prababka; sobáš 4.2.1900 Budapešť | \*6.3.1876 Mokrance |
 | **János Hajman & Anna rod. Huterová** | 3× prastarí rodičia, prisťahovalci z Poľska | \*~1836; \*~1838–41, †7.4.1879 |
 | **František Heiman & František Hutera** | 4× prastarí otcovia, obaja z Poľska | — |
-| **Erzsébet Suverová** | 3× prababka, slúžka v Mokranciach | — |
+| **Erzsébet Suverová**, vyd. Parohácsová | 3× prababka, slúžka v Mokranciach; majiteľka domu Pipa utca 16 | †koniec 1914 / január 1915 |
 | Jozef ⚭ Marta rod. Kočišová | Rudolfov najstarší brat so ženou | 1898–1977; 1902–1982 |
 | František | Rudolfov brat | \*3.12.1900 |
 | Ján ⚭ Alžbeta | Rudolfov brat, kožušník | 1913–1992; \*1922 |

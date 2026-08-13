@@ -6,8 +6,8 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <div class="stav-kpis">
 <div class="stav-kpi is-accent"><b>10</b><span>otvorených žiadostí</span><small>odoslané, čaká sa na odpoveď alebo doručenie</small></div>
 <div class="stav-kpi is-crit"><b>29</b><span>dní najdlhšie ticho</span><small>tri žiadosti z 15. 7. — SNA, Rokycany, fara Bajerov</small></div>
-<div class="stav-kpi is-warn"><b>3</b><span>úlohy na mieste</span><small>bádateľňa v Košiciach a doklady na matrike</small></div>
-<div class="stav-kpi"><b>20. 8.</b><span>najbližší termín</span><small>urgencia matriky Košice-Juh</small></div>
+<div class="stav-kpi is-warn"><b>3</b><span>doklady na matrike</span><small>vybaviteľné pri ceste na Slovensko</small></div>
+<div class="stav-kpi is-accent"><b>1</b><span>vyriešená otázka</span><small>Parohács test — 13. 8. 2026</small></div>
 </div>
 <div class="sec-head">
 <h2>Čo treba spraviť</h2>
@@ -21,7 +21,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <li><label><input type="checkbox"> <b>Úmrtný list Ireny</b> (†20. 4. 2015) <span>Žiadať pod menom <b>Lorenowiczová</b>, nie Hajmanová. Tiež ktorákoľvek matrika, 7 €.</span></label></li>
 <li><label><input type="checkbox"> <b>Rodný list Ireny</b> (*16. 11. 1944 Košice) <span>Potvrdí rodičov — Rudolfa a Helenu. Zápis je v elektronickom registri, takže ho vydá ktorákoľvek matrika a <b>netreba naň eID</b>.</span></label></li>
 <li><label><input type="checkbox"> <b>Spýtať sa na Katarínu Škodovú</b> (†1985) <span>Jej úmrtie neeviduje Staré Mesto ani Košice-Juh. Matrikárka vie pozrieť do centrálneho registra — jej rodné meno je kľúč k poľskej stope.</span></label></li>
-<li><label><input type="checkbox"> <b>Bádateľňa Archívu mesta Košice</b> — vložka 4720 <span>Kováčska 20, otvorené pondelok, streda, štvrtok. Odfotiť list B so zápismi zo 6. 10. 1898 a 15. 3. 1915 <b>vrátane čísla zaknihovania</b>. Rešerše archív nerobí, ide sa osobne.</span></label></li>
+<li><label><input type="checkbox"> <b>Bádateľňa Archívu mesta Košice</b> — vložka 4720 <span>Kováčska 20, pondelok, streda, štvrtok. Už nie je nutná — hlavnú otázku vyriešila tlač. Listina by ešte dala mená dedičov a presný dátum úmrtia Erzsébety.</span></label></li>
 </ul>
 </div>
 <div class="stav-card">
@@ -35,21 +35,16 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 </div>
 </div>
 <div class="sec-head">
-<h2>Vložka 4720 — Parohács test</h2>
-<p>Bola „Parohács Jánosné szül. Schurer Erzsébet“ matkou našej praprastarej matky Alžbety? Odpoveď je v listine z 15. 3. 1915. Štátny archív ju nevyhľadá bez čísla denníka zaknihovania — a to číslo je v pozemkovej knihe, ktorú má Archív mesta Košice.</p>
+<h2>Vložka 4720 — vyriešené 13. 8. 2026</h2>
+<p>Otázka znela: bola „Parohács Jánosné szül. Schurer Erzsébet“, ktorá roku 1898 kúpila dom na Pipa utca 16, matkou našej praprastarej matky Alžbety? Odpoveď našla digitalizovaná tlač, nie archív.</p>
 </div>
 <div class="graph-box">
 <div class="chain">
-<div class="step nd-warn"><span class="stepnum">1</span><div class="stepbody"><span class="st">Treba ísť osobne</span><strong>Archív mesta Košice</strong><span class="mt">Vložku 4720 má vo fonde, ale rešerše nerobí. Bádateľňa, Kováčska 20, po/str/štv.</span></div></div>
-<div class="step"><span class="stepnum">2</span><div class="stepbody"><span class="st">Chýbajúci kľúč</span><strong>Č. d. zaknihovania</strong><span class="mt">Zápis z 15. 3. 1915 vo vložke 4720. Bez neho archív nezačne.</span></div></div>
-<div class="step nd-warn"><span class="stepnum">3</span><div class="stepbody"><span class="st">Čaká na doplnenie</span><strong>ŠA Košice — rešerš</strong><span class="mt">Notárske fondy, 30–60 dní, skeny po úhrade.</span></div></div>
-<div class="step nd-goal"><span class="stepnum">4</span><div class="stepbody"><span class="st">Cieľ</span><strong>Listina 15. 3. 1915</strong><span class="mt">Dedičstvo = matka a dcéra. Bežný prevod = hypotéza padá.</span></div></div>
+<div class="step nd-good"><span class="stepnum">✓</span><div class="stepbody"><span class="st">Prameň</span><strong>Városi Közlöny, 15. 3. 1915</strong><span class="mt">Mestský vestník uverejňoval prevody nehnuteľností roztriedené podľa právneho titulu.</span></div></div>
+<div class="step nd-good"><span class="stepnum">✓</span><div class="stepbody"><span class="st">Rozhodujúci detail</span><strong>Hlavička „Hagyaték címén“</strong><span class="mt">Náš zápis stojí pod dedičským titulom — nie pod kúpou ani darovaním.</span></div></div>
+<div class="step nd-goal"><span class="stepnum">★</span><div class="stepbody"><span class="st">Záver</span><strong>Matka a dcéra</strong><span class="mt">Obe ženy sú „rodená Schurer Erzsébet“ a majetok medzi nimi prešiel dedením.</span></div></div>
 </div>
-<div class="bypass nd-warn"><span class="bypass-label">Obchádzka od 20. 8.</span><div class="stepbody"><strong>Pokyn „hľadajte 1915“ — preskočí kroky 1 a 2</strong><span class="mt">Ak sa návšteva bádateľne odkladá, archív prehľadá celý rok bez čísla zaknihovania: 253 listín ručne, drahšie a pomalšie. Ide rovno do kroku 3.</span></div></div>
-<div class="chain-notes">
-<div class="note nd-good"><strong>Nezávislá indícia z 30. 7.</strong><span class="mt">Sobáš z Budapešti 4. 2. 1900: nevesta nemanželská, matka Erzsébet Suver vtedy žila. Hypotéze to nahráva, nedokazuje ju.</span></div>
-</div>
-<p class="graph-note"><b>Kde to viazne.</b> Archív mesta Košice potvrdil, že <b>pozemnoknižnú vložku 4720 má</b>, ale upozornil, že v pozemkovej knihe príbuzenské vzťahy nie sú; nám z nej však stačí <b>číslo zaknihovania</b>, ktoré ukáže na listinu z roku 1915, a tá vzťah povie. Bonus z tej istej odpovede: <b>Pipa utca sa dnes volá Dymková</b> — ulica už neexistuje, bola v priestore za dnešnou Steel Arenou.</p>
+<p class="graph-note"><b>Presné znenie zápisu:</b> „A kassai 4720. sz. tjkvben <b>Parohács Jánosné</b> nevén írt (<b>Pipa u. 16. sz.</b>) ingatlan <b>Hajman Ferencné szül. Schurer Erzsébet</b> javára.“ — Erzsébet Suver, slúžka z Mokraniec a matka nemanželskej Alžbety, sa teda vydala za Jána Parohácsa, roku 1898 kúpila dom za 680 zlatých od šiestich súrodencov Hankóovcov a po jej smrti ho zdedila dcéra. <b>Nový údaj navyše:</b> prevod bol zaknihovaný v januári 1915, takže zomrela koncom roku 1914 alebo v prvých týždňoch roku 1915 — a jej úmrtný zápis je ďalšia stopa k mokranskej vetve.</p>
 </div>
 <div class="sec-head">
 <h2>Čaká sa na odpoveď</h2>
@@ -73,6 +68,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <p>Posledné týždne — čo z odoslaných žiadostí reálne prinieslo nový údaj.</p>
 </div>
 <div class="tl">
+<div class="tl-item"><time>13. 8.</time><p><b>Parohács test vyriešený.</b> Košický mestský vestník z roku 1915 zaradil prevod domu pod dedičský titul — Erzsébet Suver bola matkou Alžbety. Odpoveď dala digitalizovaná tlač za jeden večer namiesto mesiacov archívnej rešerše.</p></div>
 <div class="tl-item"><time>12. 8.</time><p><b>Archív mesta Košice</b> potvrdil, že pozemnoknižnú vložku 4720 má, a odhalil, že Pipa utca je dnešná Dymková. Rešerše nerobí — treba prísť do bádateľne.</p></div>
 <div class="tl-item"><time>4. 8.</time><p><b>Matrika Košice-Juh</b> oznámila priamo v odpovedi: Rudolf Hajman \*22. 1. 1910, syn Františka a Alžbety rod. Šuverovej, †22. 9. 1991. Katarínu Škodovú neeviduje.</p></div>
 <div class="tl-item"><time>3.–4. 8.</time><p><b>Matrika Valaská</b> potvrdila presný dátum: Jozef Ličko \*18. 1. 1942.</p></div>
