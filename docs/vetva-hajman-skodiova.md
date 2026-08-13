@@ -86,7 +86,35 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 
 **Aká to bola štvrť.** Tábor a susedné Huštáky boli od 19. storočia **chudobná periféria za starými hradbami** — meno Tábor pripomína staré vojenské táborisko. Bývali tam robotníci, nádenníci a remeselnícki tovariši v nízkych domčekoch bez vybavenia. Stolársky pomocník a bývalá slúžka sem zapadli presne a **cena domu tomu zodpovedá**: 680 zlatých bolo za nehnuteľnosť málo.
 
-Až **o dve generácie neskôr**, najmä v päťdesiatych a šesťdesiatych rokoch, sa z tejto oblasti stalo veľké rómske geto, ktoré režim koncom šesťdesiatych a v sedemdesiatych rokoch asanoval — aj s Dymkovou ulicou. **S Ferencom a Alžbetou to nesúvisí**: oni tu žili okolo rokov 1900 až 1915, keď to bola jednoducho chudobná robotnícka štvrť. Fotografie, ktoré sa zo štvrte zachovali, sú preto o polstoročie mladšie než ich čas: [galéria „cigánsky tábor" na Fotografiách ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html), medzi nimi [záber priamo popísaný ako Dymková ulica](https://foto-ulic.appspot.com/app/foto.html#8949).
+Až **o dve generácie neskôr**, najmä v päťdesiatych a šesťdesiatych rokoch, sa z tejto oblasti stalo veľké rómske geto, ktoré režim koncom šesťdesiatych a v sedemdesiatych rokoch asanoval — aj s Dymkovou ulicou. **S Ferencom a Alžbetou to nesúvisí**: oni tu žili okolo rokov 1900 až 1915, keď to bola jednoducho chudobná robotnícka štvrť.
+
+### Ako štvrť vyzerala
+
+Fotografie nižšie sú **o polstoročie mladšie** než čas Ferenca a Alžbety — pochádzajú z päťdesiatych až sedemdesiatych rokov, teda z obdobia tesne pred asanáciou. Uličná sieť a nízka zástavba sú však ešte tie pôvodné, takže dávajú predstavu o mieste, kde rodina začínala.
+
+<div class="fotky" markdown="1">
+
+![Dymková ulica s nízkymi domčekmi](prilohy/tabor-dymkova-ulica-gabika-miklossi.jpeg)
+*Dymková ulica — bývalá Pipa utca, kde stál dom rodiny. Foto zverejnila Gabika Miklossi.*
+
+![Pohľad na štvrť zo Žižkovej ulice](prilohy/tabor-panorama-zo-zizkovej-tibor-toth.jpeg)
+*Panoráma štvrte zo Žižkovej; vľavo Štúrova a Okružná. Foto zverejnil Tibor Tóth.*
+
+![Veselá ulica v päťdesiatych rokoch](prilohy/tabor-vesela-ulica-50roky-juraj-menyhert.jpeg)
+*Veselá ulica, päťdesiate roky. Foto zverejnil Juraj Menyhert.*
+
+![Mostová ulica v sedemdesiatych rokoch](prilohy/tabor-mostova-ulica-70roky-juraj-menyhert.jpeg)
+*Mostová ulica od Žižkovej, sedemdesiate roky. Foto zverejnil Juraj Menyhert.*
+
+![Žižkova ulica a zástavba za ňou](prilohy/tabor-zizkova-marian-sandt.jpeg)
+*Žižkova ulica a štvrť za ňou. Foto zverejnil Marián Sandt.*
+
+![Tulipánová ulica](prilohy/tabor-tulipanova-matus-majernik.jpeg)
+*Tulipánová ulica. Foto zverejnil Matúš Majerník.*
+
+</div>
+
+Zdroj všetkých záberov: **[Fotografie ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html)**, album „cigánsky tábor"; autorstvo podľa údajov pri jednotlivých fotografiách. Ak si niektorý z autorov neželá zverejnenie, fotografiu na požiadanie odstránime.
 
 **Kto v dome býval, zatiaľ nevieme.** Vieme len, že Ferenc s Alžbetou prišli do Košíc roku 1900, teda dva roky po kúpe domu — a že v sčítaní roku 1930 už bývajú inde, na Lichardovej a Skladnej. Mená obyvateľov by prezradili mestské súpisy obyvateľov alebo dobové adresáre Košíc, usporiadané po uliciach.
 
