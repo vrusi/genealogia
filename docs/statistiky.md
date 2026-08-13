@@ -168,7 +168,7 @@ Koľko pravopisných podôb sme doložili v prameňoch:
 | Lorenowicz | Lorenowicz, Lorenovicz | 2 |
 | Rusinko | Rusinko, Ruszinkó | 2 |
 
-Praktický dôsledok: pri každom hľadaní v indexoch treba sito na všetky varianty — „Suvet" a „Halman" už raz takmer pochovali celé objavy.
+Praktický dôsledok: pri každom hľadaní v indexoch treba počítať so všetkými variantmi — do matrík a súpisov sa dostali aj skomoleniny ako „Suvet" či „Halman".
 
 ## Konfesionálna mapa
 

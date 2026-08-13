@@ -37,7 +37,7 @@ Rudolfovi rodičia: **Ferenc Hajman** (\*31.7.1873 Szőlőskislak) a **Alžbeta 
 
 Ferencovi rodičia **János Hajman** a **Anna rod. Huterová** boli **prisťahovalci z Poľska** — sobášny aj úmrtný zápis uvádzajú „Raicza, Lengyelhon". Anna zomrela roku 1879 pri pôrode. Ich otcovia, František Heiman a František Hutera, sú naši 4× prastarí rodičia.
 
-Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec. Neskôr sa vydala za **Jána Parohácsa** a roku 1898 kúpila v Košiciach dom na Pipa utca 16; po jej smrti koncom roku 1914 ho **zdedila dcéra Alžbeta**. Doložil to mestský vestník, ktorý prevod zaradil pod dedičský titul — čím sa potvrdilo, že tie dve ženy boli matka a dcéra.
+Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec. Neskôr sa vydala za **Jána Parohácsa** a roku 1898 kúpila v Košiciach dom na Pipa utca 16; po jej smrti koncom roku 1914 ho **zdedila dcéra Alžbeta**; prevod zaradil mestský vestník pod dedičský titul.
 
 Do širšej rodiny patria aj **Ginelliovci** — huslista a profesor konzervatória Ferdinand a jeho syn, gynekológ Tibor — a chirurg **MUDr. Tibor Hajman**, prvý vedúci protetického oddelenia v Košiciach.
 

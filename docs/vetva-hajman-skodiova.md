@@ -29,7 +29,7 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 | Bydlisko | Budapest V., Sziget u. 16 | Budapest V., Sziget u. 16 (**bývali už spolu**) |
 | Rodičia | **† Hajmán János** a **Hutera Anna** | **iba „Suver Erzsébet"** — otec neuvedený |
 
-Zápis povedal tri veci naraz. Potvrdil **Jánosa Hajmana a Annu Huterovú ako Ferencových rodičov**. Slovko „néhai" — nebohý — pri Jánosovi prezradilo, že v roku 1900 už **nežil ani otec**, takže Ferenc vstupoval do manželstva ako sirota po oboch rodičoch. A pri neveste je uvedená iba matka, čo znamená, že **Alžbeta bola nemanželské dieťa** — a že jej matka Erzsébet Suver vtedy ešte žila.
+Ferencovi rodičia sú **János Hajman a Anna Huterová**. Slovko „néhai" — nebohý — pri Jánosovi znamená, že v roku 1900 už **nežil ani otec**, takže Ferenc vstupoval do manželstva ako sirota po oboch rodičoch. Pri neveste je uvedená iba matka: **Alžbeta bola nemanželské dieťa** a jej matka Erzsébet Suver v tom čase ešte žila.
 
 ### Rodný zápis Jozefa — Budapešť 1898
 
@@ -86,11 +86,11 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 
 > „A kassai 4720. sz. tjkvben **Parohács Jánosné** nevén írt (**Pipa u. 16. sz.**) ingatlan **Hajman Ferencné szül. Schurer Erzsébet** javára."
 
-⭐ **Tým je vzťah oboch žien vyriešený.** Obidve sú v prameňoch vedené ako **rodená Schurer Erzsébet** — rovnaké priezvisko aj krstné meno — a majetok medzi nimi prešiel **dedením**, nie predajom ani darovaním. Staršia Erzsébet, slúžka z Mokraniec a matka nemanželskej Alžbety, sa teda medzitým vydala za muža menom **Parohács János**, kúpila v roku 1898 tento dom a po jej smrti ho **zdedila dcéra Alžbeta**.
+Obidve ženy sú v prameňoch vedené ako **rodená Schurer Erzsébet** a majetok medzi nimi prešiel **dedením**, nie predajom ani darovaním: sú to matka a dcéra. Staršia Erzsébet, slúžka z Mokraniec a matka nemanželskej Alžbety, sa vydala za muža menom **Parohács János**, kúpila v roku 1898 tento dom a po jej smrti ho **zdedila dcéra Alžbeta**.
 
-Z datovania vyplýva aj to, kedy zomrela: prevod bol zaknihovaný v **januári 1915**, čiže **koncom roku 1914 alebo v prvých týždňoch roku 1915**. Jej úmrtný zápis hľadáme v košickej civilnej matrike.
+Prevod bol zaknihovaný v **januári 1915**, takže Erzsébet zomrela **koncom roku 1914 alebo v prvých týždňoch roku 1915**. Jej úmrtný zápis hľadáme v košickej civilnej matrike.
 
-**Kde to bolo.** Archív mesta Košice nám 12. 8. 2026 potvrdil, že **Pipa utca sa neskôr volala Dymková**. Maďarské *pipa* znamená fajku, teda dym — odtiaľ slovenský preklad. Ulica dnes už neexistuje: ležala južne pod Štúrovou, v priestore **za dnešnou Steel Arenou**, kde neskôr vyrástlo sídlisko a v posledných rokoch bytový komplex Herberia.
+**Kde to bolo.** **Pipa utca sa neskôr volala Dymková** — potvrdil to Archív mesta Košice. Maďarské *pipa* znamená fajku, teda dym — odtiaľ slovenský preklad. Ulica dnes už neexistuje: ležala južne pod Štúrovou, v priestore **za dnešnou Steel Arenou**, kde neskôr vyrástlo sídlisko a v posledných rokoch bytový komplex Herberia.
 
 ![Výrez z dobového plánu Košíc s vyznačenou Dymkovou ulicou](prilohy/tabor-plan-mesta-dymkova-anton-mlynarik.png)
 *Výrez z dobového plánu mesta: **Dymková** vedie medzi Tatárskou, Mostovou a Dlhou, hneď pod Zimným štadiónom. Vpravo dole sú **Daniela Lichardova a Skladná** — adresy, kde rodina bývala v roku 1930. Plán zverejnil Anton IV Mlynárik.*
@@ -215,7 +215,7 @@ Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo 
 
 ## Čo ešte nevieme
 
-- **Kto bola Alžbetina matka po druhom sobáši** — a teda či „Parohács Jánosné" z roku 1898 bola naozaj ona. Odpoveď je v listine o prevode domu z roku 1915.
+- **Presný dátum úmrtia Erzsébety Parohácsovej rod. Suverovej** — hľadá sa v košickej civilnej matrike medzi koncom roku 1914 a januárom 1915; mená dedičov by dala listina o prevode domu vo vložke 4720.
 - **Rodné meno Kataríny Škodovej** — a s ním poľská stopa Ireninej matkinej rodiny.
 - **Kedy zomrel Ferenc a kedy Alžbeta.**
 - **Osud Rudolfa ml.** v Kanade a neskôr snáď v Izraeli.

@@ -25,7 +25,7 @@
 
 -   🏔️ **Z goralskej Rajcze k Balatonu**
 
-    Sobášny zápis z roku 1861 prezradil, že János Hajman aj jeho nevesta Anna Huterová prišli do maďarského Somogy z poľskej Rajcze pod Beskydami — obaja ako nádenníci, deti Františka Heimana a Františka Huteru. Anna zomrela pri pôrode; osirelý Ferenc sa neskôr vydal do Budapešti a Košíc. [→ objav](vetva-hajman-skodiova.md)
+    János Hajman aj jeho nevesta Anna Huterová prišli do maďarského Somogy z poľskej Rajcze pod Beskydami — obaja ako nádenníci, deti Františka Heimana a Františka Huteru. Sobášili sa roku 1861; Anna zomrela pri pôrode a osirelý Ferenc sa neskôr vydal do Budapešti a Košíc. [→ vetva Hajman](vetva-hajman-skodiova.md)
 
 -   🍁 **Stratený brat Rudolf**
 
@@ -59,7 +59,7 @@
 -   🛠️ **[Zamestnania v rodine](zamestnania.md)** — z čoho sa žilo: želiari, slúžky, kominár, lekári
 -   ⏳ **[Stav výskumu](stav-vyskumu.md)** — na čo sa práve čaká a čo je zaseknuté
 -   📜 **[Časová os](casova-os.md)** — od roku 1715 po dnešok
--   🔎 **[Prehľad výskumu](prehlad.md)** — otvorené otázky a najnovšie objavy
+-   🔎 **[Prehľad výskumu](prehlad.md)** — čo o šiestich vetvách vieme a čo ešte hľadáme
 -   🌐 **[Strom na FamilySearch](https://www.familysearch.org/en/tree/pedigree/portrait/PMQS-SVF)** — živý rodokmeň so zdrojmi (bezplatné konto)
 
 </div>

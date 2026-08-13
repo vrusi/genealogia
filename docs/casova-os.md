@@ -32,14 +32,14 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **19.10.1895** — narodila sa **Anna Fejerčáková** v Rokycanoch (krst na druhý deň v Bajerove)
 - **27.4.1898** (hárok uvádza 25.4.) — narodil sa **Ján Rusinko** v **Brežanoch (vtedy Bujakov)** — gréckokatolík
 - **9.5.1898** — narodil sa **Jozef Hajman** v **Budapešti** (pôrodnica kráľ. univerzity, Bp VIII.; zápis 2496/VIII) — nemanželský syn slúžky Alžbety Suverovej; otcovstvo Ferenc uznal 1904 pred košickým matrikárom ✅ originál v prílohách
-- **6.10.1898** — dom Pipa u. 16 v Kassa kupuje „Parohács Jánosné rod. Schurer Erzsébet" — pravdepodobne Alžbetina matka Erzsébet Suverová, medzičasom vydatá; roku 1915 dom prešiel na Alžbetu
+- **september 1898** — dom Pipa u. 16 v Kassa kupuje za 680 zlatých **„Parohács Jánosné rod. Schurer Erzsébet"** — Alžbetina matka Erzsébet Suverová, medzičasom vydatá za Jána Parohácsa; v januári 1915 dom prešiel dedičstvom na dcéru Alžbetu ⭐
 - **4.2.1900** — ⚭ **Ferenc Hajman × Alžbeta Suver**, civilne v **Budapešti (VI. obvod)**, zápis č. 25 — obaja **rímskokatolíci**, obaja bývali na Sziget u. 16; deti legitimizované (okrajová poznámka 15.9.1904 + rubriky v denníkoch 21.1.1900 = ohlášky). ✅ **Sken zápisu z BFL (30.7.2026)**: Ferencovi rodičia **† János Hajman a Anna Hutera**, Alžbetina matka **Erzsébet Suver** (otec neuvedený → nemanželské dieťa; matka v 1900 podľa zápisu **žila**)
 - **1900** — Alžbeta Schurer prichádza z Uhorska do Košíc; **3.12.1900** narodený **František Hajman**
 - **24.11.1900** — narodila sa **Anna Dzurendová** (Hanisová matka) v Žipove č. 18, rodičom **Andrejovi Dzurendovi a Alžbete rod. Šoltésovej** (matrika Bajerov)
 - **18.10.1902** — narodila sa **Marta, rod. Kočišová** v Košiciach — budúca manželka **Jozefa Hajmana (\*1898 Budapešť)**, matka Magdy, Tibora-chirurga a Marty ml.
 - **10.4.1910** — škandál: **András Fejercsák s manželkou** si v prešovskej Tátra banke zobrali úver 600 korún na sfalšované doklady mŕtveho suseda
 - **1913** — narodil sa **Ján Hajman** (budúci kožušník)
-- **15.3.1915** — dom **Pipa utca 16** (štvrť Tábor, Kassa) zapísaný na Alžbetu („Hajman Ferencné szül. Schurer Erzsébet")
+- **koniec 1914 / začiatok 1915** — zomrela **Erzsébet Parohácsová rod. Suverová**; v **januári 1915** bol dom **Pipa utca 16** (štvrť Tábor, Kassa) zaknihovaný dedičstvom na dcéru Alžbetu („Hajman Ferencné szül. Schurer Erzsébet")
 - **11.12.1915** — **Matej Fejercsák z Janova (21 r.) padol do ruského zajatia** (honvédsky pluk č. 9, Košice)
 - **1916** — narodil sa **Ladislav Hajman** (budúci hudobník)
 - **1.2.1917** — Ján Fejercsak z Bretejoviec ranený na fronte
@@ -64,7 +64,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **1.–2.12.1930** — **sčítanie ľudu**: zachytené domácnosti Rusinkovcov (Rokycany 20), Hanisových (Žipov 57), Jozefa Hajmana (Skladná 47) aj vdovy Alžbety (D. Licharda 37)
 - **23.7.1932** — „Hajman János, kassai szűcssegéd" v novinách (kožušník, aj turista); **29.9.1932** — úrady „vyšetrili" národnosť Hajmanovcov (maďarská → slovenská)
 - **17.7.1934** — narodila sa **Mária Holmáňová**
-- **1936** — zomrel **Ondrej Rusinko \*9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; hypotetický otec Jána Rusinka \*1898) (dožil sa ~79 r.)
+- **1936** — zomrel **Ondrej Rusinko \*9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; otec Jána Rusinka \*1898 zatiaľ nie je doložený krstným zápisom) (dožil sa ~79 r.)
 
 ## Vojna a povojnové roky
 
@@ -73,12 +73,12 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **11/1938** — Košice pripojené k Maďarsku (Kassa); Tibor Hajman prechádza na štátne Hunfalvyho gymnázium
 - **1939–41** — **Rudolf Hajman (kominár)** v tlači: pokladník → tajomník → **výkonný tajomník kominárskeho odborového spolku** v Kassa
 - **1.12.1940** — sčítanie 1940: Rusinkovci už v dome č. 22 — a v domácnosti **neznáma sestra Anna** (*po 1930!); Hanisové stále v dome 57, **Alžbeta (16) v službe v Prešove** na Floriánovej 7
-- **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — dátum potvrdila matrika Valaská (3.8.2026); rodičia budú v rodnom liste
+- **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — podľa matriky Valaská; jeho rodičov zatiaľ nepoznáme
 - **16.11.1944** — narodila sa **Irena Hajmanová** v Košiciach (vtedy Kassa) ⭐
 - **12/1944 – 2/1945** — **odvlečenie mužov z okolia Prešova na kopanie zákopov v Medzeve**: 17-ročný **Andrej Rusinko** (dedov brat) 8.12.1944 – 8.2.1945; **Fejerčákovci** Andrej z Bajerova, Jozef a Juraj z Janova (5–6 týždňov, bez odmeny). Doložené repatriačnými dotazníkmi 1946 ✅
 - **19.1.1945** — oslobodenie Rokycian; **1945** — hudobník Ladislav Hajman sa vracia z Perecesa do Košíc
 - **~1945–50** — narodil sa **Rudolf Hajman ml.** (Irenin brat; v košických knihách narodení 1930–44 nie je)
-- **4.–5.1946** — registrácia na Čs. oblastnom repatriačnom stredisku v Prešove: **Andrej Rusinko z Rokycian** (8.4., reg. 105513 — ✅ potvrdené, že je to dedov brat), **Fejerčákovci** Andrej (17.4.), Jozef (15.4.) a Juraj (13.5.); **20.7.1946** narodený Dmytro Lorenovicz
+- **4.–5.1946** — registrácia na Čs. oblastnom repatriačnom stredisku v Prešove: **Andrej Rusinko z Rokycian** (8.4., dedov brat — spis menuje rodičov Jána a Annu rod. Fejerčákovú), **Fejerčákovci** Andrej (17.4.), Jozef (15.4.) a Juraj (13.5.); **20.7.1946** narodený Dmytro Lorenovicz
 - **25.3.1950** — narodila sa **Mária Ginelliová** (dcéra Magdy Hajmanovej a Ferdinanda Ginelliho? → neskôr kurátorka Východoslovenského múzea; †2016)
 - **50.–60. roky** — **Rudolf ml. emigruje do Kanady** (neskôr údajne Izrael + konverzia na judaizmus)
 - **1956** — Bujakov úradne premenovaný na **Brežany**

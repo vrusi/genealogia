@@ -166,7 +166,7 @@ graph TD
   FH --> L16["🟢 Ladislav \*1916 — hudobník<br>orchester košického rozhlasu;<br>kapelník v Perecesi; 1945 späť v KE"]
 ```
 
-> Doložené sčítacími hárkami 1930 (D. Licharda 37 + Skladná 47); Rudolfova príslušnosť k rodine potvrdená rodinným svedectvom o bratovi-kožušníkovi (13.7.2026) a rodinným domom na tej istej ulici. Zapísané do FS 14.7.2026.
+> Doložené sčítacími hárkami 1930 (D. Licharda 37 + Skladná 47); Rudolfovu príslušnosť k rodine dokladá rodinné svedectvo o bratovi-kožušníkovi a rodinný dom na tej istej ulici.
 
 ## Súrodenci babky Anny (Hanis, Žipov)
 
