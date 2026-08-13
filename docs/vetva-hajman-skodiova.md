@@ -98,7 +98,7 @@ Prvá fotografia je **z dvadsiatych rokov**, teda z obdobia, keď rodina ešte d
 <div class="fotky" markdown="1">
 
 ![Pohľadnica Košíc z dvadsiatych rokov](prilohy/tabor-pohladnica-20roky-skola-kukucinova.png)
-*⭐ Najbližšie k ich času: kolorovaná pohľadnica z dvadsiatych rokov — škola na Kukučínovej a za ňou štvrť. Nízke domčeky, polia až po okraj zástavby, komíny fabrík v pozadí. Alžbeta v tom čase ešte vlastnila dom na Pipa utca.*
+*⭐ Najbližšie k ich času: kolorovaná pohľadnica z dvadsiatych rokov — škola na Kukučínovej a za ňou štvrť. Nízke domčeky, polia až po okraj zástavby, komíny fabrík v pozadí. Alžbeta v tom čase ešte vlastnila dom na Pipa utca. Pohľadnicu zverejnil Juraj Menyhért.*
 
 ![Dymková ulica s nízkymi domčekmi](prilohy/tabor-dymkova-ulica-gabika-miklossi.jpeg)
 *Dymková ulica — bývalá Pipa utca, kde stál dom rodiny. Foto zverejnila Gabika Miklossi.*
