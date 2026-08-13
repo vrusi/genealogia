@@ -7,7 +7,7 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 ## Rodová línia
 
 - **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá.
-- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — najprv radovým členom, ktorý podával návrhy, v januári 1940 **pokladníkom** a od novembra 1940 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
+- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 **tajomníkom**, v januári 1940 **pokladníkom** a od novembra 1940 opäť **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
 - **Prababka Helena rod. Škodiová** — \*1919, †1994. Hovorila po slovensky a žila v Košiciach.
 - **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
@@ -158,6 +158,10 @@ Toto bolo susedstvo, v ktorom vyrastali Ferencovi synovia. O dvadsať rokov nesk
 **Kto v dome býval, zatiaľ nevieme.** Vieme len, že Ferenc s Alžbetou prišli do Košíc roku 1900, teda dva roky po kúpe domu — a že v sčítaní roku 1930 už bývajú inde, na Lichardovej a Skladnej. Mená obyvateľov by prezradili mestské súpisy obyvateľov alebo dobové adresáre Košíc, usporiadané po uliciach.
 
 ### Rudolf a kominárski odborári
+
+Košická skupina **kresťansko-sociálneho odborového zväzu kominárov** vznikla **26. februára 1939** — pár mesiacov po tom, čo Košice pripadli Maďarsku. Podľa vtedajšej tlače sa vtedy zišli „robotnícki bratia z Košíc a okolia, aby si vzali riadenie svojho osudu do vlastných rúk". **Rudolf bol pri tom od začiatku a hneď ho zvolili za tajomníka.**
+
+Na tej istej schôdzi podal aj návrh, ktorý zhromaždenie prijalo: **požiadať majstrov, aby odteraz zamestnávali len odborovo organizovaných robotníkov**. Mal vtedy dvadsaťdeväť rokov.
 
 Košický denník *Felvidéki Ujság* priniesol 22. marca 1941 správu z výročnej schôdze miestnej skupiny **kresťansko-sociálneho odborového zväzu kominárov** pod titulkom „Výmena stráží u košických kominárov". Na schôdzu prišiel aj zástupca budapeštianskeho ústredia.
 
