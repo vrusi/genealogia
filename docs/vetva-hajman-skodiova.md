@@ -141,6 +141,16 @@ Prvá fotografia je **z dvadsiatych rokov**, teda z obdobia, keď rodina ešte d
 
 Zdroj všetkých záberov: **[Fotografie ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html)**, album „cigánsky tábor"; autorstvo podľa údajov pri jednotlivých fotografiách. Ak si niektorý z autorov neželá zverejnenie, fotografiu na požiadanie odstránime.
 
+### Svedectvo z novembra 1910
+
+Ako sa na Pipa utca žilo, opísal košický denník *Felsőmagyarország* 23. novembra 1910 — v čase, keď Alžbeta s Ferencom bývali v tej istej ulici. Článok mal titulok **„Nepochovaná mŕtvola na Pipa utca — tri dni na slamenom došku"** a ulicu nazýval **„najtemnejšou Pipa utcou"**.
+
+Stalo sa toto. V dome **č. 20** žil drevorubač **Simkó János** so svojou družkou **Magyar Annou** a jej matkou. Sedemdesiatročná starenka v sobotu v noci zomrela. V utorok ráno prišiel do domu policajt doručiť Anne predvolanie — byt našiel otvorený a prázdny, komoru zamknutú na visiaci zámok. Susedia mu povedali, že v komore leží na slame nebožka, nevystretá a nepochovaná. Simkóa priviedli od Šebastovskej cesty, kde rúbal drevo; bránil sa, že úmrtie nahlásil, ale **na pohreb nemal peniaze** a mestský obhliadač mŕtvol vraj odmietol prísť, kým nedostane dvojkorunový poplatok za obhliadku. Obhliadač to poprel.
+
+Novinár k tomu dodal vetu, ktorá o štvrti povie viac než ktorýkoľvek úradný dokument: sú vrstvy spoločnosti, kde bieda býva medzi živými, a **tie nie sú zariadené na to, aby si mohli dovoliť smrť** — teda daň, ktorú pozostalým ukladá pochovanie mŕtveho.
+
+Toto bolo susedstvo, v ktorom vyrastali Ferencovi synovia. O dvadsať rokov neskôr má rodina dom na Lichardovej a syn Jozef vlastný na Skladnej.
+
 **Ako sa ulice volali.** Mená sa menili s režimami: **Pipa utca** bola po roku 1918 **Dymková**; dnešná **Skladná**, kde býval Ferencov syn Jozef, sa predtým volala **Raktár utca** a v rokoch 1938–45 Szüllő Géza utca. Pri hľadaní v starých adresároch mesta preto treba používať dobové názvy — pod dnešnými sa rodina nenájde.
 
 **Kúsok od neskoršieho domova.** Na dobovom pláne mesta vidno, že Dymková ležala medzi Tatárskou, Mostovou a Dlhou, hneď za zimným štadiónom — a **Daniela Lichardova so Skladnou sú odtiaľ len pár blokov**. Keď sa teda rodina po roku 1915 presťahovala, nešla nikam ďaleko: zostala v tej istej časti mesta, len o ulicu či dve vyššie. Ferencovi synovia teda vyrastali stále v tom istom prostredí.
