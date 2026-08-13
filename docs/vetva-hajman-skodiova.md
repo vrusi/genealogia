@@ -71,7 +71,7 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 - **Jozef** — \*9.5.1898 Budapešť, †1977 Košice. Majiteľ domu na Skladnej 47. ⚭ **Marta rod. Kočišová** (1902–1982). Deti: **Magda** \*1923, **Tibor** \*1926 a **Marta** \*1928.
 - **František** — \*3.12.1900, ⚭ Anna \*1903.
 - **Rudolf** — pradedo.
-- **Ján** — \*1913, **kožušník**, †1992. ⚭ Alžbeta \*1922.
+- **Ján** — \*1913, **kožušník**, †1992. ⚭ Alžbeta \*1922. O jeho živote mimo dielne vieme viac než o ktoromkoľvek inom z bratov (nižšie).
 - **Ladislav** — \*1916, úradník a **hudobník košického rozhlasového orchestra**; v rokoch 1940 až 1945 dirigoval banícku kapelu v Perecesi pri Miškovci a po vojne sa vrátil do Košíc.
 - **Anna** — \*1903, †1970, vydatá **Schullerová**; pochovaná v hrobe s Rudolfom a Helenou, takže takmer isto Rudolfova sestra.
 - **MUDr. Tibor Hajman** (1926–1988), Jozefov syn — chirurg, ktorý sa 1. júla 1964 stal **prvým vedúcim lekárom protetického oddelenia v Košiciach**.
@@ -178,6 +178,20 @@ Vo voľbách bolo celé vedenie potvrdené — Rudolf zostal tajomníkom.
 Podarilo sa im aj to hlavné: vo februári 1941 oznámil na dvoch poradách skupiny **uzavretie novej kolektívnej zmluvy**. Dva roky vyjednávania o mzdách a počte miest tak skončili podpisom.
 
 Je to jediný prameň, ktorý ho ukazuje nie ako meno v matrike, ale ako človeka, ktorý niečo robil: tridsaťročný kominár, ktorý za svoj cech vyjednával o mzdách.
+
+### Ján a ukradnuté korčule
+
+Rudolfov mladší brat **Ján**, kožušnícky tovariš, sa v dobovej tlači objavuje trikrát a zakaždým mimo dielne.
+
+V lete **1932**, ako devätnásťročný, drží inšpekčnú službu na turistickej chate — meno má v rozpise služieb, ktorý noviny uverejnili spolu s programom výletov.
+
+Na konci roku **1941** ho košický denník uvádza medzi náhradníkmi výboru speváckeho zboru **„Lyra"**. V rodine teda nebol jediný muzikant: brat Ladislav hral v rozhlasovom orchestri.
+
+A z toho istého čísla novín, tri dni pred Silvestrom 1941, je aj toto:
+
+> Proti neznámemu páchateľovi podal oznámenie Hajman János, košický kožušnícky tovariš, ktorému z uzamknutej prenajatej skrinky v **korčuliarskom pavilóne v Széchenyiho parku** ukradli **krasokorčule namontované na topánkach**. Topánky boli hnedej farby. Škoda 100 pengő.
+
+Sto pengő bola vtedy zhruba mesačná mzda robotníka. Z troch riadkov policajnej rubriky tak vypadol celý obrázok: mladý remeselník, ktorý chodil korčuľovať, mal na klzisku vlastnú prenajatú skrinku a na topánkach namontované krasokorčule — a niekto mu ich vzal.
 
 ## Dom Lichardova 30
 
