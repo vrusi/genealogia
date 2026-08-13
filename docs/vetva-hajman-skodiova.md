@@ -89,6 +89,8 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 
 **Aká to bola štvrť.** Tábor a susedné Huštáky boli od 19. storočia **chudobná periféria za starými hradbami** — meno Tábor pripomína staré vojenské táborisko. Bývali tam robotníci, nádenníci a remeselnícki tovariši v nízkych domčekoch bez vybavenia. Stolársky pomocník a bývalá slúžka sem zapadli presne a **cena domu tomu zodpovedá**: 680 zlatých bolo za nehnuteľnosť málo.
 
+Štvrť pritom **nebola etnicky jednoliata**. Podľa spomienok pamätníkov tu mali malé domčeky so záhradami aj neromské rodiny a susedstvo fungovalo — a čo je pre nás podstatné, **bývalo sa vo vlastnom**, nie v nájomných barakoch. Presne to sedí na Ferenca s Alžbetou: vlastný domček v najlacnejšej štvrti mesta.
+
 Rómske osídlenie tu bolo **už medzi vojnami** — dobová pohľadnica z dvadsiatych rokov okraj štvrte tak aj popisuje. **Veľkým getom sa však oblasť stala až po druhej svetovej vojne**, keď do Košíc prúdili robotníci za prácou v novom priemysle; koncom šesťdesiatych a v sedemdesiatych rokoch ju režim asanoval aj s Dymkovou ulicou. Pre Ferenca a Alžbetu to bola predovšetkým **najlacnejšia štvrť v meste** — bývali tu robotníci, nádenníci a tovariši bez ohľadu na pôvod.
 
 ### Ako štvrť vyzerala
@@ -130,6 +132,8 @@ Prvá fotografia je **z dvadsiatych rokov**, teda z obdobia, keď rodina ešte d
 </div>
 
 Zdroj všetkých záberov: **[Fotografie ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html)**, album „cigánsky tábor"; autorstvo podľa údajov pri jednotlivých fotografiách. Ak si niektorý z autorov neželá zverejnenie, fotografiu na požiadanie odstránime.
+
+**Ako sa ulice volali.** Mená sa menili s režimami: **Pipa utca** bola po roku 1918 **Dymková**; dnešná **Skladná**, kde býval Ferencov syn Jozef, sa predtým volala **Rektár utca** a v rokoch 1938–45 Szüllő Géza utca. Pri hľadaní v starých adresároch mesta preto treba používať dobové názvy — pod dnešnými sa rodina nenájde.
 
 **Kúsok od neskoršieho domova.** Na dobovom pláne mesta vidno, že Dymková ležala medzi Tatárskou, Mostovou a Dlhou, hneď za zimným štadiónom — a **Daniela Lichardova so Skladnou sú odtiaľ len pár blokov**. Keď sa teda rodina po roku 1915 presťahovala, nešla nikam ďaleko: zostala v tej istej časti mesta, len o ulicu či dve vyššie. Ferencovi synovia teda vyrastali stále v tom istom prostredí.
 
