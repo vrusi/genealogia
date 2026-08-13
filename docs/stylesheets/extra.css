@@ -434,3 +434,33 @@ svg.flow { display: block; min-width: 960px; width: 100%; height: auto; }
   .board .row.head { display: none; }
   .tl-item { grid-template-columns: 1fr; gap: 6px; }
 }
+
+
+/* zoznam úloh s checkboxmi */
+.stav-card ul.todo li { padding: 12px 14px; }
+.stav-card ul.todo label { display: grid; grid-template-columns: auto 1fr; gap: 4px 10px; align-items: start; cursor: pointer; }
+.stav-card ul.todo label b { grid-column: 2; }
+.stav-card ul.todo label span { grid-column: 2; }
+.stav-card ul.todo input[type="checkbox"] {
+  grid-row: 1 / span 2;
+  appearance: none;
+  width: 18px; height: 18px;
+  margin: 1px 0 0;
+  border: 1.5px solid color-mix(in srgb, var(--g-accent) 55%, var(--g-rule));
+  border-radius: 6px;
+  background: var(--g-surface);
+  display: grid; place-content: center;
+  flex: none;
+}
+.stav-card ul.todo input[type="checkbox"]::after {
+  content: "";
+  width: 10px; height: 6px;
+  border: 2px solid var(--g-surface);
+  border-top: 0; border-right: 0;
+  transform: rotate(-45deg) translate(0, -1px);
+  opacity: 0;
+}
+.stav-card ul.todo input[type="checkbox"]:checked { background: var(--g-accent); border-color: var(--g-accent); }
+.stav-card ul.todo input[type="checkbox"]:checked::after { opacity: 1; }
+.stav-card ul.todo input[type="checkbox"]:checked ~ b { text-decoration: line-through; color: var(--g-ink-3); }
+.stav-card ul.todo li:has(input:checked) { opacity: .62; }
