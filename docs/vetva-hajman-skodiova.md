@@ -78,7 +78,17 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 
 ![](prilohy/scitaci-harok-1930-kosice-licharda37-hajman.jpg)
 
-**Dom Pipa utca 16** v chudobnej štvrti Tábor kúpila 6. októbra 1898 za 680 zlatých „Parohács Jánosné szül. Schurer Erzsébet" a 15. marca 1915 prešiel na „Hajman Ferencné szül. Schurer Erzsébet", teda na Alžbetu. Predpokladáme, že prvou majiteľkou bola Alžbetina matka, ktorá sa medzitým vydala za muža menom Parohács — dom by potom prirodzene prešiel z matky na dcéru. Rozhodne o tom listina z roku 1915, po ktorej pátrame ([Prehľad](prehlad.md)).
+## Dom na Pipa utca 16 — dnešná Dymková
+
+**Kúpa a prevod.** Dom kúpila **6. októbra 1898 za 680 zlatých** „Parohács Jánosné szül. Schurer Erzsébet", a to od šiestich súrodencov Hankóovcov; oznámil to mestský vestník. **15. marca 1915** vlastníctvo prešlo na „Hajman Ferencné szül. Schurer Erzsébet", teda na **Alžbetu**. Predpokladáme, že prvou majiteľkou bola Alžbetina matka, ktorá sa medzitým vydala za muža menom Parohács — dom by potom prirodzene prešiel z matky na dcéru. Rozhodne o tom listina z roku 1915, po ktorej pátrame ([Prehľad](prehlad.md)).
+
+**Kde to bolo.** Archív mesta Košice nám 12. 8. 2026 potvrdil, že **Pipa utca sa neskôr volala Dymková**. Maďarské *pipa* znamená fajku, teda dym — odtiaľ slovenský preklad. Ulica dnes už neexistuje: ležala južne pod Štúrovou, v priestore **za dnešnou Steel Arenou**, kde neskôr vyrástlo sídlisko a v posledných rokoch bytový komplex Herberia.
+
+**Aká to bola štvrť.** Tábor a susedné Huštáky boli od 19. storočia **chudobná periféria za starými hradbami** — meno Tábor pripomína staré vojenské táborisko. Bývali tam robotníci, nádenníci a remeselnícki tovariši v nízkych domčekoch bez vybavenia. Stolársky pomocník a bývalá slúžka sem zapadli presne a **cena domu tomu zodpovedá**: 680 zlatých bolo za nehnuteľnosť málo.
+
+Až **o dve generácie neskôr**, najmä v päťdesiatych a šesťdesiatych rokoch, sa z tejto oblasti stalo veľké rómske geto, ktoré režim koncom šesťdesiatych a v sedemdesiatych rokoch asanoval — aj s Dymkovou ulicou. **S Ferencom a Alžbetou to nesúvisí**: oni tu žili okolo rokov 1900 až 1915, keď to bola jednoducho chudobná robotnícka štvrť. Fotografie, ktoré sa zo štvrte zachovali, sú preto o polstoročie mladšie než ich čas: [galéria „cigánsky tábor" na Fotografiách ulíc Košíc](https://foto-ulic.appspot.com/app/stranky/cigansky_tabor.html), medzi nimi [záber priamo popísaný ako Dymková ulica](https://foto-ulic.appspot.com/app/foto.html#8949).
+
+**Kto v dome býval, zatiaľ nevieme.** Vieme len, že Ferenc s Alžbetou prišli do Košíc roku 1900, teda dva roky po kúpe domu — a že v sčítaní roku 1930 už bývajú inde, na Lichardovej a Skladnej. Mená obyvateľov by prezradili mestské súpisy obyvateľov alebo dobové adresáre Košíc, usporiadané po uliciach.
 
 ## Dom Lichardova 30
 
