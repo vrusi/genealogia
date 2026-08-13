@@ -84,15 +84,21 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 
 **Kde to bolo.** Archív mesta Košice nám 12. 8. 2026 potvrdil, že **Pipa utca sa neskôr volala Dymková**. Maďarské *pipa* znamená fajku, teda dym — odtiaľ slovenský preklad. Ulica dnes už neexistuje: ležala južne pod Štúrovou, v priestore **za dnešnou Steel Arenou**, kde neskôr vyrástlo sídlisko a v posledných rokoch bytový komplex Herberia.
 
+![Výrez z dobového plánu Košíc s vyznačenou Dymkovou ulicou](prilohy/tabor-plan-mesta-dymkova-anton-mlynarik.png)
+*Výrez z dobového plánu mesta: **Dymková** vedie medzi Tatárskou, Mostovou a Dlhou, hneď pod Zimným štadiónom. Vpravo dole sú **Daniela Lichardova a Skladná** — adresy, kde rodina bývala v roku 1930. Plán zverejnil Anton IV Mlynárik.*
+
 **Aká to bola štvrť.** Tábor a susedné Huštáky boli od 19. storočia **chudobná periféria za starými hradbami** — meno Tábor pripomína staré vojenské táborisko. Bývali tam robotníci, nádenníci a remeselnícki tovariši v nízkych domčekoch bez vybavenia. Stolársky pomocník a bývalá slúžka sem zapadli presne a **cena domu tomu zodpovedá**: 680 zlatých bolo za nehnuteľnosť málo.
 
-Až **o dve generácie neskôr**, najmä v päťdesiatych a šesťdesiatych rokoch, sa z tejto oblasti stalo veľké rómske geto, ktoré režim koncom šesťdesiatych a v sedemdesiatych rokoch asanoval — aj s Dymkovou ulicou. **S Ferencom a Alžbetou to nesúvisí**: oni tu žili okolo rokov 1900 až 1915, keď to bola jednoducho chudobná robotnícka štvrť.
+Rómske osídlenie tu bolo **už medzi vojnami** — dobová pohľadnica z dvadsiatych rokov okraj štvrte tak aj popisuje. **Veľkým getom sa však oblasť stala až po druhej svetovej vojne**, keď do Košíc prúdili robotníci za prácou v novom priemysle; koncom šesťdesiatych a v sedemdesiatych rokoch ju režim asanoval aj s Dymkovou ulicou. Pre Ferenca a Alžbetu to bola predovšetkým **najlacnejšia štvrť v meste** — bývali tu robotníci, nádenníci a tovariši bez ohľadu na pôvod.
 
 ### Ako štvrť vyzerala
 
-Fotografie nižšie sú **o polstoročie mladšie** než čas Ferenca a Alžbety — pochádzajú z päťdesiatych až sedemdesiatych rokov, teda z obdobia tesne pred asanáciou. Uličná sieť a nízka zástavba sú však ešte tie pôvodné, takže dávajú predstavu o mieste, kde rodina začínala.
+Prvá fotografia je **z dvadsiatych rokov**, teda z obdobia, keď rodina ešte dom na Pipa utca vlastnila. Ostatné sú o generáciu až dve mladšie — z päťdesiatych až sedemdesiatych rokov, tesne pred asanáciou. Uličná sieť a nízka zástavba sú na nich ešte tie pôvodné, takže dávajú dobrú predstavu o mieste, kde rodina začínala.
 
 <div class="fotky" markdown="1">
+
+![Pohľadnica Košíc z dvadsiatych rokov](prilohy/tabor-pohladnica-20roky-skola-kukucinova.png)
+*⭐ Najbližšie k ich času: kolorovaná pohľadnica z dvadsiatych rokov — škola na Kukučínovej a za ňou štvrť. Nízke domčeky, polia až po okraj zástavby, komíny fabrík v pozadí. Alžbeta v tom čase ešte vlastnila dom na Pipa utca.*
 
 ![Dymková ulica s nízkymi domčekmi](prilohy/tabor-dymkova-ulica-gabika-miklossi.jpeg)
 *Dymková ulica — bývalá Pipa utca, kde stál dom rodiny. Foto zverejnila Gabika Miklossi.*
