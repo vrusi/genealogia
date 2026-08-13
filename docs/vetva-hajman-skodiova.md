@@ -163,6 +163,10 @@ Košická skupina **kresťansko-sociálneho odborového zväzu kominárov** vzni
 
 Na tej istej schôdzi podal aj návrh, ktorý zhromaždenie prijalo: **požiadať majstrov, aby odteraz zamestnávali len odborovo organizovaných robotníkov**. Mal vtedy dvadsaťdeväť rokov.
 
+**Čo skupina dosiahla.** Vlastnú bilanciu uverejnilo vedenie skupiny v novembri 1940 pod titulkom „Ochrana robotníkov u košických kominárov". Keď ministerské nariadenie prerozdelilo košické kominárske obvody, skupina otvorila **otázku počtu zamestnancov** a v rokovaniach vybojovala prácu **pre troch ďalších kominárskych tovarišov**. Zároveň poslala majstrom prípis a presadila **platovú klauzulu kolektívnej zmluvy z roku 1938**; noviny menujú štyroch majstrov, ktorí odvtedy platili podľa záväzku, a dodávajú, že zvyšok košických kominárov svoju mzdu dostať musí tiež. Argument, ktorý pri tom použili, bol praktický: keď robotníci majú peniaze, rastie ich kúpna sila a majú z toho aj obchodníci.
+
+Vlastnými slovami to vedenie skupiny zhrnulo takto — snahou je „vytvoriť rodine existenčný základ, lebo len hospodársky dobre zabezpečená rodina dá lepšiu budúcnosť".
+
 Košický denník *Felvidéki Ujság* priniesol 22. marca 1941 správu z výročnej schôdze miestnej skupiny **kresťansko-sociálneho odborového zväzu kominárov** pod titulkom „Výmena stráží u košických kominárov". Na schôdzu prišiel aj zástupca budapeštianskeho ústredia.
 
 **Správu o uplynulom roku predniesol Rudolf** ako tajomník skupiny — a bolo čo hlásiť. Skupina si podľa článku vybojovala zmeny v niektorých ustanoveniach **kolektívnej zmluvy**, predovšetkým v otázkach **platov a počtu zamestnancov**; noviny to opísali slovami, že sa „podarilo presadiť spravodlivosť". Delegácia okrem toho úspešne zastúpila členov ešte v pätnástich ďalších prípadoch. Skupina osobitne poďakovala primátorovi mesta a vedeniu živnostenského úradu, ktorí podľa nej „siahli chápavou rukou na starú ranu košických kominárov".
