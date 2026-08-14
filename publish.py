@@ -142,7 +142,19 @@ def consistency_checks():
                 line = t[:m.start()].count("\n") + 1
                 warn.append(f"{f.name}:{line}: clutter ({label}) → patrí do Výskumného denníka: „{t[max(0, m.start()-40):m.end()+40].strip()}“")
 
-    # 5) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
+    # 5) syntax inline JavaScriptu v mape rodokmeňa (chýbajúca čiarka v poli pinov rozbije celú mapu)
+    import subprocess, tempfile
+    mapa = (VAULT / "prilohy" / "mapa-rodokmena.html").read_text(encoding="utf-8")
+    js = "\n".join(re.findall(r"<script(?![^>]*src=)[^>]*>(.*?)</script>", mapa, re.S))
+    if js.strip():
+        with tempfile.NamedTemporaryFile("w", suffix=".js", delete=False, encoding="utf-8") as f:
+            f.write(js)
+            tmp = f.name
+        r = subprocess.run(["node", "--check", tmp], capture_output=True, text=True)
+        if r.returncode != 0:
+            warn.append(f"mapa-rodokmena.html: CHYBA V JAVASCRIPTE → {r.stderr.strip().splitlines()[-1] if r.stderr.strip() else 'neznáma'}")
+
+    # 6) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
     import os
     vault_newest = max(os.path.getmtime(f) for f in VAULT.glob("*.md"))
     for wo in [Path(__file__).parent / "landing.md", Path(__file__).parent / "stav-vyskumu.md", VAULT / "prilohy" / "mapa-rodokmena.html"]:
