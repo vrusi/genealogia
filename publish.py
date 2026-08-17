@@ -24,6 +24,12 @@ FILES = {
 }
 # NEpublikované: Drafty emailov, Korešpondencia a úlohy, DNA matche (kontakty, stratégia, žijúci matchovia)
 
+# samostatné HTML stránky v prilohy/ — dostanú wrapper .md s iframe + kontrolu JS syntaxe
+HTML_PAGES = {
+    "mapa-rodokmena": "Mapa rodokmeňa",
+    "interaktivny-rodokmen": "Interaktívny rodokmeň",
+}
+
 # sanitizácia — kontakty a presné adresy žijúcich osôb
 SANITIZE = [
     ("adresa 3025 Sherbrooke O (Sherbrooke Ouest, downtown/pri Westmount), PSČ H3Z 1A1, tel. 514-937-2590", "presná adresa a telefón v súkromných poznámkach"),
@@ -70,13 +76,14 @@ def main():
     # wrapper pre interaktívnu mapu rodokmeňa (samostatný HTML v prílohách)
     # cache-buster z obsahu súboru — po každej zmene mapy sa iframe načíta nanovo
     import hashlib
-    vh = hashlib.md5((VAULT / "prilohy" / "mapa-rodokmena.html").read_bytes()).hexdigest()[:8]
-    (DOCS / "mapa-rodokmena.md").write_text(
-        "# Mapa rodokmeňa\n\n"
-        f"[Otvoriť na celú obrazovku](prilohy/mapa-rodokmena.html?v={vh}){{target=_blank}}\n\n"
-        f'<iframe src="../prilohy/mapa-rodokmena.html?v={vh}" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
-        encoding="utf-8")
-    print("OK mapa-rodokmena wrapper")
+    for stem, title in HTML_PAGES.items():
+        vh = hashlib.md5((VAULT / "prilohy" / f"{stem}.html").read_bytes()).hexdigest()[:8]
+        (DOCS / f"{stem}.md").write_text(
+            f"# {title}\n\n"
+            f"[Otvoriť na celú obrazovku](prilohy/{stem}.html?v={vh}){{target=_blank}}\n\n"
+            f'<iframe src="../prilohy/{stem}.html?v={vh}" style="width:100%;height:80vh;border:1px solid #ccc;border-radius:8px;"></iframe>\n',
+            encoding="utf-8")
+        print(f"OK {stem} wrapper")
     shutil.copy(Path(__file__).parent / "landing.md", DOCS / "index.md")
     print("OK landing -> index.md")
     # panel stavu žiadostí — web-only, ručne udržiavaný (zdroj: Korešpondencia a úlohy, ktorá sa nepublikuje)
@@ -142,17 +149,18 @@ def consistency_checks():
                 line = t[:m.start()].count("\n") + 1
                 warn.append(f"{f.name}:{line}: clutter ({label}) → patrí do Výskumného denníka: „{t[max(0, m.start()-40):m.end()+40].strip()}“")
 
-    # 5) syntax inline JavaScriptu v mape rodokmeňa (chýbajúca čiarka v poli pinov rozbije celú mapu)
+    # 5) syntax inline JavaScriptu v samostatných HTML stránkach (chýbajúca čiarka rozbije celú stránku)
     import subprocess, tempfile
-    mapa = (VAULT / "prilohy" / "mapa-rodokmena.html").read_text(encoding="utf-8")
-    js = "\n".join(re.findall(r"<script(?![^>]*src=)[^>]*>(.*?)</script>", mapa, re.S))
-    if js.strip():
-        with tempfile.NamedTemporaryFile("w", suffix=".js", delete=False, encoding="utf-8") as f:
-            f.write(js)
-            tmp = f.name
-        r = subprocess.run(["node", "--check", tmp], capture_output=True, text=True)
-        if r.returncode != 0:
-            warn.append(f"mapa-rodokmena.html: CHYBA V JAVASCRIPTE → {r.stderr.strip().splitlines()[-1] if r.stderr.strip() else 'neznáma'}")
+    for stem in HTML_PAGES:
+        html = (VAULT / "prilohy" / f"{stem}.html").read_text(encoding="utf-8")
+        js = "\n".join(re.findall(r"<script(?![^>]*src=)[^>]*>(.*?)</script>", html, re.S))
+        if js.strip():
+            with tempfile.NamedTemporaryFile("w", suffix=".js", delete=False, encoding="utf-8") as f:
+                f.write(js)
+                tmp = f.name
+            r = subprocess.run(["node", "--check", tmp], capture_output=True, text=True)
+            if r.returncode != 0:
+                warn.append(f"{stem}.html: CHYBA V JAVASCRIPTE → {r.stderr.strip().splitlines()[-1] if r.stderr.strip() else 'neznáma'}")
 
     # 6) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
     import os

@@ -39,6 +39,7 @@ markdown_extensions:
 nav:
   - Domov: index.md
   - Rodokmeň: rodokmen.md
+  - Interaktívny rodokmeň: interaktivny-rodokmen.md
   - Mapa rodokmeňa: mapa-rodokmena.md
   - Mapa migrácií: mapa-migracii.md
   - Štatistiky: statistiky.md

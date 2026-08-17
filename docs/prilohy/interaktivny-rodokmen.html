@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<title>Interaktívny rodokmeň</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://unpkg.com/d3@7"></script>
+<script src="https://unpkg.com/family-chart@0.9.0/dist/family-chart.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/family-chart@0.9.0/dist/styles/family-chart.css">
+<style>
+  html,body{margin:0;height:100%;font-family:Figtree,-apple-system,Segoe UI,sans-serif}
+  #FamilyChart{width:100%;height:100%;background:#28222e;color:#fff}
+  .f3 .card-male .card-body-rect, .f3 .card-male .text-overflow-mask{fill:#4a3d5c}
+  .f3 .card-female .card-body-rect, .f3 .card-female .text-overflow-mask{fill:#8a4f6d}
+  .f3 .card_add .card-body-rect{fill:#444}
+  .f3 rect.card-main-outline{stroke:#dfa0c0;stroke-width:3px}
+  .f3 .link{stroke:#b9a8c9;stroke-width:1.5px}
+  .panel{position:absolute;top:10px;left:10px;z-index:5;background:rgba(40,34,46,.88);color:#eee;
+    padding:10px 14px;border-radius:10px;font-size:13px;line-height:1.5;max-width:330px;box-shadow:0 1px 8px rgba(0,0,0,.4)}
+  .panel b{color:#dfa0c0}
+  .panel .hint{color:#bbb;font-size:12px}
+</style>
+</head>
+<body>
+<div class="panel">
+  <b>Interaktívny rodokmeň</b> — obe strany rodiny v jednom strome.<br>
+  <span class="hint">Ťahaj myšou = posun · koliesko = zoom · klik na kartu = precentrovať na osobu.
+  Sivá minikoruna na karte = osoba má ďalších príbuzných, kliknutím sa rozbalia.
+  Najhlbší predok Joannes Rusinko (súpis 1715) nemá doložené spojenie, preto v strome nie je.
+  🟡 = doložené nepriamo.</span>
+</div>
+<div id="FamilyChart" class="f3"></div>
+<script>
+const DATA = [
+  // ===== JADRO =====
+  {id:"veronika", data:{gender:"F", label:"Veronika Rusinková", desc:"*1997"},
+   rels:{parents:["jozef-r-1968","marta"]}},
+  {id:"jozef-r-1968", data:{gender:"M", label:"Jozef Rusinko", desc:"*1968 — otec"},
+   rels:{parents:["jan-r-1923","anna-hanisova"], spouses:["marta"], children:["veronika"]}},
+  {id:"marta", data:{gender:"F", label:"Marta rod. Ličková", desc:"*1970 — mama · adopt. Lorenowiczová, vyd. Rusinková"},
+   rels:{parents:["jozef-licko","irena"], spouses:["jozef-r-1968"], children:["veronika"]}},
+  {id:"zdena", data:{gender:"F", label:"Zdena rod. Ličková", desc:"*1966 — mamina sestra · teraz Diana Fünfer"},
+   rels:{parents:["jozef-licko","irena"]}},
+
+  // ===== STARÍ RODIČIA =====
+  {id:"jan-r-1923", data:{gender:"M", label:"Ján Rusinko", desc:"*29.1.1923 Rokycany †4.4.2006 — dedo"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"], spouses:["anna-hanisova"], children:["jozef-r-1968"]}},
+  {id:"anna-hanisova", data:{gender:"F", label:"Anna rod. Hanisová", desc:"*4.12.1928 Žipov †2000 — stará mama"},
+   rels:{parents:["jozef-hanis","anna-dzurendova"], spouses:["jan-r-1923"], children:["jozef-r-1968"]}},
+  {id:"jozef-licko", data:{gender:"M", label:"Jozef Ličko", desc:"*18.1.1942 Valaská †~1982 — dedo · rodičia zatiaľ neznámi"},
+   rels:{spouses:["irena"], children:["marta","zdena"]}},
+  {id:"peter-loren", data:{gender:"M", label:"Peter Lorenowicz", desc:"*Chomutov, žije — 2. manžel Ireny; Martu a Zdenu si osvojil"},
+   rels:{spouses:["irena"]}},
+  {id:"irena", data:{gender:"F", label:"Irena rod. Hajmanová", desc:"*16.11.1944 †20.4.2015 Košice — stará mama · †ako Lorenowiczová"},
+   rels:{parents:["rudolf","helena"], spouses:["jozef-licko","peter-loren"], children:["marta","zdena"]}},
+  {id:"rudolf-ml", data:{gender:"M", label:"Rudolf Hajman ml.", desc:"*po 1945 — Irenin brat · Kanada, neskôr Izrael"},
+   rels:{parents:["rudolf","helena"]}},
+
+  // ===== PRASTARÍ — RUSINKO/FEJERČÁK =====
+  {id:"jan-r-1898", data:{gender:"M", label:"Ján Rusinko", desc:"*27.4.1898 Brežany (Bujakov) †28.2.1980 — pradedo"},
+   rels:{parents:["ondrej-r-1857"], spouses:["anna-fejercakova"], children:["maria-r-1921","jan-r-1923","stefan-r-1925","andrej-r-1927"]}},
+  {id:"anna-fejercakova", data:{gender:"F", label:"Anna rod. Fejerčáková", desc:"*19.10.1895 †6.1.1967 — prababka"},
+   rels:{parents:["peter-fejercak","maria-gulasova"], spouses:["jan-r-1898"], children:["maria-r-1921","jan-r-1923","stefan-r-1925","andrej-r-1927"]}},
+  {id:"maria-r-1921", data:{gender:"F", label:"Mária Rusinková", desc:"*10.9.1921 Brežany"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"]}},
+  {id:"stefan-r-1925", data:{gender:"M", label:"Štefan Rusinko", desc:"*28.9.1925 †1.2.2015 · hrob Vrakuňa"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"], spouses:["emilia"]}},
+  {id:"emilia", data:{gender:"F", label:"Emília", desc:"*1925 †2015 — Štefanova žena"},
+   rels:{spouses:["stefan-r-1925"]}},
+  {id:"andrej-r-1927", data:{gender:"M", label:"Andrej Rusinko", desc:"*5.9.1927 †5.11.2017 · hrob Rokycany"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"], spouses:["maria-holmanova"]}},
+  {id:"maria-holmanova", data:{gender:"F", label:"Mária rod. Holmáňová", desc:"*17.7.1934 †17.1.2024"},
+   rels:{spouses:["andrej-r-1927"]}},
+
+  // ===== PRASTARÍ — HANIS =====
+  {id:"jozef-hanis", data:{gender:"M", label:"Jozef Hanis", desc:"*~1894 †11.1.1929 — pradedo · rodičia zatiaľ neznámi"},
+   rels:{spouses:["anna-dzurendova"], children:["anna-hanisova"]}},
+  {id:"anna-dzurendova", data:{gender:"F", label:"Anna rod. Dzurendová", desc:"*24.11.1900 Žipov — prababka"},
+   rels:{parents:["andrej-dzurenda","alzbeta-soltesova"], spouses:["jozef-hanis"], children:["anna-hanisova"]}},
+  {id:"andrej-dzurenda", data:{gender:"M", label:"Andrej Dzurenda", desc:"*1870 · Žipov 18"},
+   rels:{spouses:["alzbeta-soltesova"], children:["anna-dzurendova"]}},
+  {id:"alzbeta-soltesova", data:{gender:"F", label:"Alžbeta rod. Šoltésová", desc:"Žipov"},
+   rels:{spouses:["andrej-dzurenda"], children:["anna-dzurendova"]}},
+
+  // ===== PRASTARÍ — HAJMAN/ŠKODIOVÁ =====
+  {id:"rudolf", data:{gender:"M", label:"Rudolf Hajman", desc:"*22.1.1910 †22.9.1991 Košice — pradedo · kominár, dostaval dom Lichardova 30"},
+   rels:{parents:["ferenc","alzbeta-suver"], spouses:["helena"], children:["irena","rudolf-ml"]}},
+  {id:"helena", data:{gender:"F", label:"Helena rod. Škodiová", desc:"*1919 †1994 — prababka"},
+   rels:{parents:["katarina-skodova"], spouses:["rudolf"], children:["irena","rudolf-ml"]}},
+  {id:"katarina-skodova", data:{gender:"F", label:"Katarína Škodová", desc:"1897–1985 — rodné meno nepoznáme (kľúč k poľskej stope)"},
+   rels:{children:["helena"]}},
+
+  // ===== HAJMANOVCI — ŠIRŠIA RODINA =====
+  {id:"jozef-h-1898", data:{gender:"M", label:"Jozef Hajman", desc:"*9.5.1898 Budapešť — otcom uznaný 1904"},
+   rels:{parents:["ferenc","alzbeta-suver"], children:["magdalena","tibor-hajman"]}},
+  {id:"jan-h-1913", data:{gender:"M", label:"Ján Hajman", desc:"*~1913 — kožušnícky tovariš, Rudolfov brat"},
+   rels:{parents:["ferenc","alzbeta-suver"]}},
+  {id:"magdalena", data:{gender:"F", label:"Magdaléna rod. Hajmanová", desc:"1923–2006 · vyd. Ginelliová"},
+   rels:{parents:["jozef-h-1898"], spouses:["ferdinand-ginelli"], children:["tibor-ginelli","maria-ginelliova"]}},
+  {id:"tibor-hajman", data:{gender:"M", label:"Tibor Hajman", desc:"chirurg"},
+   rels:{parents:["jozef-h-1898"]}},
+  {id:"ferdinand-ginelli", data:{gender:"M", label:"Ferdinand Ginelli", desc:"1913–1989 — huslista, profesor konzervatória KE"},
+   rels:{spouses:["magdalena"], children:["tibor-ginelli","maria-ginelliova"]}},
+  {id:"tibor-ginelli", data:{gender:"M", label:"MUDr. Tibor Ginelli", desc:"gynekológ a pôrodník — priviedol na svet Veroniku"},
+   rels:{parents:["magdalena","ferdinand-ginelli"]}},
+  {id:"maria-ginelliova", data:{gender:"F", label:"Mgr. Mária Ginelliová", desc:"1950–2016 — kurátorka Východoslovenského múzea"},
+   rels:{parents:["magdalena","ferdinand-ginelli"]}},
+
+  // ===== PRAPRASTARÍ =====
+  {id:"ondrej-r-1857", data:{gender:"M", label:"Ondrej Rusinko", desc:"*9.2.1857 Bujakov č. 15 †1936 🟡 otcovstvo Jána čaká na krstný zápis"},
+   rels:{parents:["michal-rusinko","maria-gumanova"], children:["jan-r-1898"]}},
+  {id:"peter-fejercak", data:{gender:"M", label:"Peter Fejerčák", desc:"*10.7.1860 Janov · ⚭ 19.2.1884 Bajerov"},
+   rels:{parents:["jan-fejercak","maria-fedorova"], spouses:["maria-gulasova"], children:["anna-fejercakova"]}},
+  {id:"maria-gulasova", data:{gender:"F", label:"Mária rod. Guľasová", desc:"*18.8.1861 Rokycany"},
+   rels:{parents:["juraj-gulas","alzbeta-semanova"], spouses:["peter-fejercak"], children:["anna-fejercakova"]}},
+  {id:"ferenc", data:{gender:"M", label:"Ferenc Hajman", desc:"*31.7.1873 Szőlőskislak — stolár · do Košíc ~1900 · ⚭ 4.2.1900 Budapešť"},
+   rels:{parents:["janos-hajman","anna-huterova"], spouses:["alzbeta-suver"], children:["jozef-h-1898","rudolf","jan-h-1913"]}},
+  {id:"alzbeta-suver", data:{gender:"F", label:"Alžbeta rod. Suver (Schurer)", desc:"*6.3.1876 Mokrance †po 1930 · 1930 vdova, Lichardova 37"},
+   rels:{parents:["erzsebet-suver"], spouses:["ferenc"], children:["jozef-h-1898","rudolf","jan-h-1913"]}},
+
+  // ===== 3× PRASTARÍ =====
+  {id:"michal-rusinko", data:{gender:"M", label:"Michal Rusinko", desc:"Bujakov, ~*1820–35"},
+   rels:{spouses:["maria-gumanova"], children:["ondrej-r-1857","jan-r-1859","juraj-r-1862"]}},
+  {id:"maria-gumanova", data:{gender:"F", label:"Mária rod. Gumanová", desc:"Bujakov, ~*1820–35"},
+   rels:{spouses:["michal-rusinko"], children:["ondrej-r-1857","jan-r-1859","juraj-r-1862"]}},
+  {id:"jan-r-1859", data:{gender:"M", label:"Ján Rusinko", desc:"*1859 — Ondrejov brat"},
+   rels:{parents:["michal-rusinko","maria-gumanova"]}},
+  {id:"juraj-r-1862", data:{gender:"M", label:"Juraj Rusinko", desc:"*1862 — Ondrejov brat"},
+   rels:{parents:["michal-rusinko","maria-gumanova"]}},
+  {id:"jan-fejercak", data:{gender:"M", label:"Ján Fejerčák", desc:"~1830"},
+   rels:{spouses:["maria-fedorova"], children:["peter-fejercak"]}},
+  {id:"maria-fedorova", data:{gender:"F", label:"Mária rod. Fedorová", desc:"~1830"},
+   rels:{spouses:["jan-fejercak"], children:["peter-fejercak"]}},
+  {id:"juraj-gulas", data:{gender:"M", label:"Juraj Guľas(ko)", desc:"*1834 Jakubovany †16.11.1866 Rokycany"},
+   rels:{spouses:["alzbeta-semanova"], children:["maria-gulasova"]}},
+  {id:"alzbeta-semanova", data:{gender:"F", label:"Alžbeta rod. Semanová", desc:"*1834"},
+   rels:{spouses:["juraj-gulas"], children:["maria-gulasova"]}},
+  {id:"janos-hajman", data:{gender:"M", label:"János Hajman", desc:"*~1836 Rajcza (Poľsko) · ⚭ 10.2.1861 · želiar v Kislaku"},
+   rels:{parents:["frantisek-heiman"], spouses:["anna-huterova"], children:["ferenc"]}},
+  {id:"anna-huterova", data:{gender:"F", label:"Anna rod. Huterová (Hutyra)", desc:"*~1838–41 Rajcza †7.4.1879 Kislak, pri pôrode"},
+   rels:{parents:["frantisek-hutera"], spouses:["janos-hajman"], children:["ferenc"]}},
+  {id:"erzsebet-suver", data:{gender:"F", label:"Erzsébet Suver", desc:"*~1845 — slúžka, Mokrance · vyd. Parohácsová · †1914/15 Košice"},
+   rels:{children:["alzbeta-suver"]}},
+
+  // ===== 4× PRASTARÍ =====
+  {id:"frantisek-heiman", data:{gender:"M", label:"František (Franciscus) Heiman", desc:"Rajcza, Poľsko — Jánosov otec"},
+   rels:{children:["janos-hajman"]}},
+  {id:"frantisek-hutera", data:{gender:"M", label:"František (Franciscus) Hutera", desc:"Rajcza, Poľsko — Annin otec"},
+   rels:{children:["anna-huterova"]}}
+];
+
+const cont = document.querySelector("#FamilyChart");
+const store = f3.createStore({
+  data: DATA,
+  node_separation: 270,
+  level_separation: 120,
+  single_parent_empty_card: false
+});
+const svg = f3.createSvg(cont);
+const Card = f3.elements.CardSvg({
+  store, svg,
+  card_dim: {w:250, h:80, text_x:12, text_y:18, img_w:0, img_h:0, img_x:0, img_y:0},
+  card_display: [
+    d => d.data.label,
+    d => d.data.desc || ""
+  ],
+  mini_tree: true,
+  link_break: false,
+  onCardClick: (e, d) => { store.updateMainId(d.data.id); store.updateTree({}); }
+});
+store.setOnUpdate(props => f3.view(store.getTree(), svg, Card, props || {}));
+store.updateMainId("veronika");
+store.updateTree({initial: true});
+</script>
+</body>
+</html>

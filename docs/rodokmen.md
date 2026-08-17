@@ -123,7 +123,7 @@ graph TD
   ZD["Zdena *1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer (dcéra Vivien, ~Augsburg)"]
 
   JHAH --> FH
-  FH -->|hárok 1930 + rodina| RH
+  FH -->|matrika: zápis úmrtia 1991| RH
   ASch --> RH
   KS -->|matka| HS
   JL --> ZD
