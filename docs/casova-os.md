@@ -99,13 +99,13 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **1979–81** — **Jozef Ličko** (rodák z Valaskej, predtým Jasov; majster VSS) rozhoduje futbal v košicko-gemerskej lige (VN „rozhodoval Ličko") a vedie brigádu VSS (1981)
 - **28.2.1980** — zomrel **Ján Rusinko \*1898** (prastarý otec, otcova strana; 81 r., hrob Rokycany A/33)
 - **~1981–83** — zomrel **Jozef Ličko** na rakovinu hrubého čreva (mama mala ~10 r.) — Irena ovdovela, vydala sa za **Petra Lorenowicza**, ktorý obe dcéry adoptoval
-- **8.4.1985** — spopolnená **Katarína Škodová** (Helenina matka); **4.6.1985 urna uložená do hrobu sk. 1** ✅ (evidencia cintorína, 15.7.2026)
+- **8.4.1985** — spopolnená **Katarína Skodová** (Helenina matka); **4.6.1985 urna uložená do hrobu sk. 1** ✅ (evidencia cintorína, 15.7.2026)
 - **1987** — dom Rokycany 20 darovaný Emílii Baranovej r. Dolinskej (rodina? — otvorené)
 - **1988** — zomrel **MUDr. Tibor Hajman** (\*1926, chirurg; hrobka 7B — z náhrobku) (dožil sa ~62 r.)
 - **17.2.1989** — zomrel **Ján Dzuriček \*1917** (manžel Márie rod. Hanisovej, babkinej sestry; 71 r., hrob Žipov); **1989** zomrel aj **Ferdinand Ginelli** (\*1913, huslista — Magdin manžel, z náhrobku sk. 91) (dožil sa ~76 r.)
 - **22.9.1991** — zomrel **Rudolf Hajman** (\*22.1.1910, kominár, Irenin otec) v Košiciach-Juh vo veku 81 rokov ✅ (matrika KE-Juh, 4.8.2026); **pohreb 27.9.1991**, hrob sk. 1
 - **~1992** — zomrel **Ján Hajman** (\*1913, kožušník; hrob sk. 1MÚZEUM 1A/2 s manželkou Alžbetou \*1922 — z náhrobku) (dožil sa ~79 r.)
-- **11.4.1994** — pohreb **Heleny Hajmanovej rod. Škodovej** — hrob sk. 1 ✅ (nájomkyňa hrobu: Irena Lorenowiczová, Lichardova 30)
+- **11.4.1994** — pohreb **Heleny Hajmanovej rod. Skodovej** — hrob sk. 1 ✅ (nájomkyňa hrobu: Irena Lorenowiczová, Lichardova 30)
 
 ## Súčasnosť
 

@@ -37,7 +37,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 - Peter Fejerčák 1860 & Mária rod. Guľasová 1861 — *praprastarí, otec/Fejerčák*
 - Andrej Dzurenda \*1870 & Alžbeta rod. Šoltés — *praprastarí, otec/Dzurenda*
 - Ferenc Hajman 1873 & Alžbeta rod. Suver \*1876 Mokrance — *praprastarí, mama/Hajman*
-- Katarína Škodová 1897–1985 (dožila sa ~88 r.) — *praprababka, mama/Škoda (Helenina matka)*
+- Katarína Skodová 1897–1985 (dožila sa ~88 r.) — *praprababka, mama/Skoda (Helenina matka)*
 - rodičia Jozefa Hanisa — *neznámi, otec/Hanis*
 
 **3× prastarí (5) — „3× pra":**
@@ -97,7 +97,7 @@ graph TD
   AH --> JoR
 ```
 
-## Mamina strana (Ličko · Hajman/Škodiová · Lorenowicz)
+## Mamina strana (Ličko · Hajman/Skodová · Lorenowicz)
 
 ```mermaid
 graph TD
@@ -107,7 +107,7 @@ graph TD
   subgraph mgen4["staršia generácia — praprastarí"]
     FH["🟢 Ferenc Hajman<br>*31.7.1873 Szőlőskislak (Somogy)<br>stolár; do Kassa ~1900"]
     ASch["🟢 Alžbeta rod. Suver (Schurer)<br>*6.3.1876 Mokrance<br>⚭ 4.2.1900 Budapešť; 1930 vdova, Lichardova 37"]
-    KS["🟡 Katarína Škodová<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
+    KS["🟡 Katarína Skodová<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
   end
   subgraph mgen3["~1895–1920 — pradedovia"]
     LX["❔ rodičia Jozefa Lička<br>zatiaľ neznámi"]
@@ -206,7 +206,7 @@ graph TD
 | Andrej Dzurenda \*11.11.1870 (2× pradedo, otec/Dzurenda) | PXZ3-8B1 |
 | Alžbeta rod. Šoltés (2× prababka) | PXZQ-SPB |
 | Rudolf Hajman | PMQ3-4D3 |
-| Helena Škodiová | PMQ3-HFX |
+| Helena Skodová | PMQ3-HFX |
 | Ferenc Hajman (Rudolfov otec) | PX7K-3LY |
 | Alžbeta rod. Schurer/**Suver** \*6.3.1876 Mokrance (Rudolfova matka; stub LDNJ-M19 zlúčený 15.7.2026) | PX7K-M17 |
 | **János Hajman (3× pradedo, želiar, Szőlőskislak)** | LHW1-JPX |

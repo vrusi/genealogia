@@ -18,7 +18,7 @@ FILES = {
     "Vetva Fejerčák-Guľas": "vetva-fejercak-gulas",
     "Vetva Hanis": "vetva-hanis",
     "Vetva Ličko": "vetva-licko",
-    "Vetva Hajman-Škodiová": "vetva-hajman-skodiova",
+    "Vetva Hajman-Skodová": "vetva-hajman-skodiova",
     "Štatistiky": "statistiky",
     "Mapa migrácií": "mapa-migracii",
 }

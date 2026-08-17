@@ -2,7 +2,7 @@
 
 Dlhodobé pátranie po šiestich rodových líniách, ktoré sa všetky zbehli v Košiciach. Založené 9. júla 2026.
 
-Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) · [Vetva Hanis](vetva-hanis.md) · [Vetva Ličko](vetva-licko.md) · [Vetva Hajman-Škodiová](vetva-hajman-skodiova.md)
+Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) · [Vetva Hanis](vetva-hanis.md) · [Vetva Ličko](vetva-licko.md) · [Vetva Hajman-Skodová](vetva-hajman-skodiova.md)
 Ďalej: [Rodokmeň](rodokmen.md) · [Stav osôb](stav-osob.md) · [Časová os](casova-os.md) · [Štatistiky](statistiky.md) · [Zamestnania v rodine](zamestnania.md)
 
 ## Čo už vieme
@@ -41,9 +41,9 @@ Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec. Neskôr sa v
 
 Do širšej rodiny patria aj **Ginelliovci** — huslista a profesor konzervatória Ferdinand a jeho syn, gynekológ Tibor — a chirurg **MUDr. Tibor Hajman**, prvý vedúci protetického oddelenia v Košiciach.
 
-### Škoda — Košice a okolie
+### Skoda — Košice a okolie
 
-**Katarína Škodová** (1897–1985), Helenina matka. Priezvisko je po manželovi a jej **rodné meno zatiaľ nepoznáme** — je kľúčom k rodinnej pamäti o poľskom pôvode.
+**Katarína Skodová** (1897–1985), Helenina matka. Priezvisko je po manželovi a jej **rodné meno zatiaľ nepoznáme** — je kľúčom k rodinnej pamäti o poľskom pôvode.
 
 ### Čo hovorí DNA
 
@@ -57,7 +57,7 @@ Najsilnejšie zhluky zhôd potvrdzujú **guľasovskú** a **rusinkovskú** líni
 | Ondrejova manželka, teda praprababka | jeho sobášny zápis okolo roku 1894 |
 | Rodičia Jozefa Lička (\*1942) | jeho rodný list z matriky Valaská |
 | Rodičia Jozefa Hanisa (†1929) a odkiaľ prišiel | jeho sobáš s Annou (1918–27), farnosť Bajerov |
-| Rodné meno Kataríny Škodovej a poľská stopa | úmrtný list Heleny |
+| Rodné meno Kataríny Skodovej a poľská stopa | úmrtný list Heleny |
 | Kde a kedy sa sobášili Rudolf a Helena | v Košiciach v rokoch 1938–44 sobáš nie je |
 | Kedy zomreli Ferenc Hajman a Alžbeta Suverová | košické úmrtné matriky |
 | Kedy presne zomrela Erzsébet Parohácsová rod. Suverová | civilná matrika Košice, koniec 1914 – január 1915 |
