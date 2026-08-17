@@ -4,9 +4,9 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 
 <div class="stav">
 <div class="stav-kpis">
-<div class="stav-kpi is-accent"><b>11</b><span>otvorených žiadostí</span><small>odoslané, čaká sa na odpoveď alebo doručenie</small></div>
+<div class="stav-kpi is-accent"><b>12</b><span>otvorených žiadostí</span><small>odoslané, čaká sa na odpoveď alebo doručenie</small></div>
 <div class="stav-kpi is-crit"><b>33</b><span>dní najdlhšie ticho</span><small>tri žiadosti z 15. 7. — SNA, Rokycany, fara Bajerov</small></div>
-<div class="stav-kpi is-warn"><b>1</b><span>žiadosť na podanie</span><small>ŠA Košice — rodný zápis Rudolfa Hajmana (*1910 Košice)</small></div>
+<div class="stav-kpi is-warn"><b>0</b><span>žiadostí na podanie</span><small>žiadosť do ŠA Košice (rodný zápis Rudolfa) odoslaná 17. 8.</small></div>
 <div class="stav-kpi is-warn"><b>3</b><span>žiadosti na urgenciu</span><small>SNA, Rokycany a fara Bajerov</small></div>
 </div>
 <div class="sec-head">
@@ -18,7 +18,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <h3>Osobne — dá sa vybaviť pri ceste na Slovensko</h3>
 <ul class="todo">
 <li><label><input type="checkbox" checked> <b>Úmrtné listy Rudolfa a Ireny + rodný list Ireny</b> <span>Vydané 17. 8. 2026. Irenin rodný list potvrdil rodičov — Rudolfa a Helenu; Rudolfov úmrtný list prezradil, že sa narodil <b>v Košiciach</b>.</span></label></li>
-<li><label><input type="checkbox"> <b>Rodný zápis Rudolfa Hajmana</b> (*22. 1. 1910 Košice) <span>Kniha narodení 1910 je v <b>Štátnom archíve Košice</b> — vyžiadať písomne alebo pozrieť v bádateľni. Matrika z neho potom vytlačí rodný list <b>s menami jeho rodičov</b> a dá sa pokračovať o generáciu vyššie.</span></label></li>
+<li><label><input type="checkbox" checked> <b>Rodný zápis Rudolfa Hajmana</b> (*22. 1. 1910 Košice) <span>Žiadosť odoslaná do Štátneho archívu Košice 17. 8. 2026. Matrika z neho potom vytlačí rodný list <b>s menami jeho rodičov</b> a dá sa pokračovať o generáciu vyššie.</span></label></li>
 <li><label><input type="checkbox"> <b>Spýtať sa na Katarínu Škodovú</b> (†1985) <span>Jej úmrtie neeviduje Staré Mesto ani Košice-Juh. Matrikárka vie pozrieť do centrálneho registra — jej rodné meno je kľúč k poľskej stope.</span></label></li>
 <li><label><input type="checkbox"> <b>Bádateľňa Archívu mesta Košice</b> — vložka 4720 <span>Kováčska 20, pondelok, streda, štvrtok. Pozemnoknižná vložka k domu na Pipa utca 16 by dala mená dedičov a presný dátum úmrtia Erzsébety. Nízka priorita.</span></label></li>
 </ul>
@@ -64,6 +64,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 </div>
 <div class="board">
 <div class="row head"><div>Adresát</div><div>Vec</div><div>Ticho</div><div>Stav</div></div>
+<div class="row"><div class="who">ŠA Košice<em>17. 8. 2026</em></div><div class="what">Rodný zápis Rudolfa Hajmana (*22. 1. 1910 Košice) — z neho matrika vystaví rodný list s menami jeho rodičov</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">0</span></div><div><span class="pill wait">Odoslané</span></div></div>
 <div class="row"><div class="who">Archív diecézy Bielsko-Biała<em>14. 8. 2026</em></div><div class="what">Matriky farnosti Rajcza 1830–1845 — krsty poľských predkov Heimanovcov a Huterovcov</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">0</span></div><div><span class="pill wait">Odoslané</span></div></div>
 <div class="row"><div class="who">Banícky spolok Pereces<em>13. 8. 2026</em></div><div class="what">Kronika a fotografie baníckej kapely z rokov 1940–1945, keď ju viedol Ladislav Hajman</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">1</span></div><div><span class="pill wait">Odoslané</span></div></div>
 <div class="row"><div class="who">Slovenský národný archív<em>15. 7. 2026</em></div><div class="what">Neredigované sčítacie hárky 1940 — Rokycany, Žipov, Prešov</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">30</span></div><div><span class="pill crit">Urgovať</span></div></div>
