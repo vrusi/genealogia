@@ -58,29 +58,29 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 ```mermaid
 graph TD
   subgraph gen5["~1830 (5. generácia)"]
-    JG["🟢 Juraj Guľas(ko)<br>\*1834 Jakubovany<br>†16.11.1866 Rokycany"]
-    AS["🟢 Alžbeta Semanová<br>\*1834"]
+    JG["🟢 Juraj Guľas(ko)<br>*1834 Jakubovany<br>†16.11.1866 Rokycany"]
+    AS["🟢 Alžbeta Semanová<br>*1834"]
     JF["🟢 Ján Fejerčák"]
     MF["🟢 Mária Fedorová"]
   end
   subgraph gen4["~1860 (4. generácia)"]
-    PF["🟢 Peter Fejerčák<br>\*10.7.1860 Janov<br>⚭ 19.2.1884 Bajerov"]
-    MG["🟢 Mária Guľasová<br>\*18.8.1861 Rokycany"]
-    MRG["🟢 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov, 3× prastarí<br>deti: Ondrej \*1857, Ján \*1859, Juraj \*1862"]
-    OR["🟡 Ondrej Rusinko<br>\*9.2.1857 Bujakov č. 15<br>†1936, hrob Bajerov<br>otec Jána \*1898 — čaká na krstný zápis"]
+    PF["🟢 Peter Fejerčák<br>*10.7.1860 Janov<br>⚭ 19.2.1884 Bajerov"]
+    MG["🟢 Mária Guľasová<br>*18.8.1861 Rokycany"]
+    MRG["🟢 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov, 3× prastarí<br>deti: Ondrej *1857, Ján *1859, Juraj *1862"]
+    OR["🟡 Ondrej Rusinko<br>*9.2.1857 Bujakov č. 15<br>†1936, hrob Bajerov<br>otec Jána *1898 — čaká na krstný zápis"]
     MRG --> OR
   end
   subgraph gen3["~1895 — pradedovia"]
-    JR98["🟢 Ján Rusinko<br>\*27.4.1898 Brežany (vtedy Bujakov), gr.kat.<br>†28.2.1980, hrob Rokycany A/33"]
-    AF["🟢 Anna Fejerčáková<br>\*19.10.1895 †6.1.1967<br>hrob Rokycany A/33"]
-    HanO["🟢 Jozef Hanis<br>\*~1894/95 †11.1.1929"]
-    HanA["🟢 Anna Dzurendová<br>\*24.11.1900 Žipov"]
+    JR98["🟢 Ján Rusinko<br>*27.4.1898 Brežany (vtedy Bujakov), gr.kat.<br>†28.2.1980, hrob Rokycany A/33"]
+    AF["🟢 Anna Fejerčáková<br>*19.10.1895 †6.1.1967<br>hrob Rokycany A/33"]
+    HanO["🟢 Jozef Hanis<br>*~1894/95 †11.1.1929"]
+    HanA["🟢 Anna Dzurendová<br>*24.11.1900 Žipov"]
   end
   subgraph gen2["~1925 — dedovia"]
-    JR23["🟢 Ján Rusinko<br>\*29.1.1923 Rokycany<br>†4.4.2006, hrob KE 18/20"]
-    AH["🟡 Anna Hanisová<br>\*4.12.1928 Žipov"]
+    JR23["🟢 Ján Rusinko<br>*29.1.1923 Rokycany<br>†4.4.2006, hrob KE 18/20"]
+    AH["🟡 Anna Hanisová<br>*4.12.1928 Žipov"]
   end
-  JoR["Jozef Rusinko \*1968 — otec"]
+  JoR["Jozef Rusinko *1968 — otec"]
 
   JF --> PF
   MF --> PF
@@ -102,25 +102,25 @@ graph TD
 ```mermaid
 graph TD
   subgraph mgen5["~1836 — 3× prastarí"]
-    JHAH["🟢 János Hajman \*~1836 ⚭ 10.2.1861 Anna Huterová \*~1838–41<br>obaja z Rajcze (Poľsko) → nádenníci v Somogy<br>otcovia: František Heiman a František Hutera<br>Anna †7.4.1879 Kislak (pri pôrode)"]
+    JHAH["🟢 János Hajman *~1836 ⚭ 10.2.1861 Anna Huterová *~1838–41<br>obaja z Rajcze (Poľsko) → nádenníci v Somogy<br>otcovia: František Heiman a František Hutera<br>Anna †7.4.1879 Kislak (pri pôrode)"]
   end
   subgraph mgen4["staršia generácia — praprastarí"]
-    FH["🟢 Ferenc Hajman<br>\*31.7.1873 Szőlőskislak (Somogy)<br>stolár; do Kassa ~1900"]
-    ASch["🟢 Alžbeta rod. Suver (Schurer)<br>\*6.3.1876 Mokrance<br>⚭ 4.2.1900 Budapešť; 1930 vdova, Lichardova 37"]
+    FH["🟢 Ferenc Hajman<br>*31.7.1873 Szőlőskislak (Somogy)<br>stolár; do Kassa ~1900"]
+    ASch["🟢 Alžbeta rod. Suver (Schurer)<br>*6.3.1876 Mokrance<br>⚭ 4.2.1900 Budapešť; 1930 vdova, Lichardova 37"]
     KS["🟡 Katarína Škodová<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
   end
   subgraph mgen3["~1895–1920 — pradedovia"]
     LX["❔ rodičia Jozefa Lička<br>zatiaľ neznámi"]
-    RH["🟢 Rudolf Hajman<br>kominár · ~1916?–1991<br>hrob VC Košice sk. 1"]
+    RH["🟢 Rudolf Hajman<br>kominár · *22.1.1910 †22.9.1991<br>hrob VC Košice sk. 1"]
     HS["🟢 Helena rod. Škodiová<br>1919–1994 · hrob VC sk. 1<br>(poľský pôvod?)"]
   end
   subgraph mgen2["dedovia"]
-    JL["🟡 Jozef Ličko<br>\*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†1981+ (rakovina)"]
-    IH["🟡 Irena Hajmanová<br>\*16.11.1944 †20.4.2015 Košice<br>†ako Lorenowiczová; kremácia, bez hrobu"]
+    JL["🟡 Jozef Ličko<br>*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†1981+ (rakovina)"]
+    IH["🟡 Irena Hajmanová<br>*16.11.1944 †20.4.2015 Košice<br>†ako Lorenowiczová; kremácia, bez hrobu"]
     PL["🧡 Peter Lorenowicz/Lorenovicz<br>*Chomutov (ČR), žije — dom Lichardova 30<br>⚭2 Irena; mamu a Zdenu si osvojil a vychoval<br>brat Dmytro 1946–2020, sestra Tatiana vyd. Elleder (DE)<br>matka Mária †KE ~2000; do KE za prácou vo VSŽ"]
   end
-  ML["Marta \*16.1.1970 — mama<br>nar. Ličková → adopt. Lorenowiczová → vyd. Rusinková"]
-  ZD["Zdena \*1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer (dcéra Vivien, ~Augsburg)"]
+  ML["Marta *16.1.1970 — mama<br>nar. Ličková → adopt. Lorenowiczová → vyd. Rusinková"]
+  ZD["Zdena *1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer (dcéra Vivien, ~Augsburg)"]
 
   JHAH --> FH
   FH -->|hárok 1930 + rodina| RH
@@ -143,19 +143,19 @@ graph TD
 
 ```mermaid
 graph TD
-  JoR["Jozef Rusinko \*1968"] --> V["Veronika Rusinková \*1997"]
-  ML["Marta Ličková \*1970"] --> V
+  JoR["Jozef Rusinko *1968"] --> V["Veronika Rusinková *1997"]
+  ML["Marta Ličková *1970"] --> V
 ```
 
 ## Súrodenci deda Jána (podľa stromu FS, zapísal NagyLukas)
 
 ```mermaid
 graph TD
-  JR98["Ján Rusinko \*27.4.1898 †28.2.1980"] --- AF["Anna Fejerčáková \*19.10.1895 †6.1.1967"]
-  JR98 --> M21["Mária Rusinková \*10.9.1921<br>nar. Brežany (Bujakov)"]
-  JR98 --> J23["Ján Rusinko \*29.1.1923 †4.4.2006<br>= dedo"]
-  JR98 --> S25["Štefan Rusinko \*28.9.1925 †1.2.2015<br>hrob Vrakuňa 11/302; ⚭? Emília \*1925 †2015"]
-  JR98 --> A27["Andrej Rusinko \*5.9.1927 †5.11.2017<br>hrob Rokycany (foto 2026); ⚭ Mária Holmáňová \*17.7.1934 †17.1.2024"]
+  JR98["Ján Rusinko *27.4.1898 †28.2.1980"] --- AF["Anna Fejerčáková *19.10.1895 †6.1.1967"]
+  JR98 --> M21["Mária Rusinková *10.9.1921<br>nar. Brežany (Bujakov)"]
+  JR98 --> J23["Ján Rusinko *29.1.1923 †4.4.2006<br>= dedo"]
+  JR98 --> S25["Štefan Rusinko *28.9.1925 †1.2.2015<br>hrob Vrakuňa 11/302; ⚭? Emília *1925 †2015"]
+  JR98 --> A27["Andrej Rusinko *5.9.1927 †5.11.2017<br>hrob Rokycany (foto 2026); ⚭ Mária Holmáňová *17.7.1934 †17.1.2024"]
 ```
 
 > Presné dátumy Jána, Anny, deda a Štefana doložené hrobmi (9.7.2026): Rokycany A/33 (pohrebiskasr.sk), Verejný cintorín KE sk. 18/20 (GIS), Vrakuňa 11/302 (Marianum). Sobáš Ján (1898) × Anna: **3.6.1919** — 🟢 doložený **sčítacím hárkom 1930** (Rokycany 20), ktorý zároveň dokladá deda ako ich syna a **gréckokatolícke** vierovyznanie rodiny. Anna mala **5 detí, 1 zomrelo** → okrem 4 v strome existovalo **5. dieťa (†pred 1930)**. Rodina žila v **Bujakove**, do Rokycian sa presťahovala 25.5.1922. Rozloženie: otcova strana vľavo, mamina vpravo.
@@ -164,12 +164,12 @@ graph TD
 
 ```mermaid
 graph TD
-  FH["Ferenc Hajman \*1873 Szőlőskislak<br>v Kassa od ~1900"] --- ASch["Alžbeta rod. Suver \*1876 Mokrance"]
-  FH --> J98["🟢 Jozef \*9.5.1898 BUDAPEŠŤ<br>majiteľ domu Skladná 47<br>⚭ Marta; deti Magda, Tibor, Marta<br>= hrobka 7B, Verejný cintorín"]
-  FH --> F00["🟢 František \*3.12.1900<br>⚭ Anna \*1903 (sobáš 1924)"]
+  FH["Ferenc Hajman *1873 Szőlőskislak<br>v Kassa od ~1900"] --- ASch["Alžbeta rod. Suver *1876 Mokrance"]
+  FH --> J98["🟢 Jozef *9.5.1898 BUDAPEŠŤ<br>majiteľ domu Skladná 47<br>⚭ Marta; deti Magda, Tibor, Marta<br>= hrobka 7B, Verejný cintorín"]
+  FH --> F00["🟢 František *3.12.1900<br>⚭ Anna *1903 (sobáš 1924)"]
   FH --> RH2["RUDOLF — kominár<br>= prastarý otec<br>tajomník kominárskeho spolku 1939–41<br>dostaval dom Lichardova 30"]
-  FH --> J13["🟢 Ján \*1913 — KOŽUŠNÍK<br>(potvrdený rodinou; tlač 1932/41; turista)"]
-  FH --> L16["🟢 Ladislav \*1916 — hudobník<br>orchester košického rozhlasu;<br>kapelník v Perecesi; 1945 späť v KE"]
+  FH --> J13["🟢 Ján *1913 — KOŽUŠNÍK<br>(potvrdený rodinou; tlač 1932/41; turista)"]
+  FH --> L16["🟢 Ladislav *1916 — hudobník<br>orchester košického rozhlasu;<br>kapelník v Perecesi; 1945 späť v KE"]
 ```
 
 > Doložené sčítacími hárkami 1930 (D. Licharda 37 + Skladná 47); Rudolfovu príslušnosť k rodine dokladá rodinné svedectvo o bratovi-kožušníkovi a rodinný dom na tej istej ulici.
@@ -178,10 +178,10 @@ graph TD
 
 ```mermaid
 graph TD
-  HanO["Jozef Hanis<br>\*~1894/95 †11.1.1929"] --- HanA["Anna Dzurendová<br>\*24.11.1900 Žipov"]
-  HanO --> A24["Alžbeta Hanisová<br>\*3.6.1924"]
-  HanO --> M26["🟢 Mária Hanisová<br>\*22.1.1926 †20.10.1971<br>⚭ Ján Dzuriček 1917–1989<br>hrob Žipov (foto 2026)"]
-  HanO --> A28["Anna Hanisová \*4.12.1928<br>= babka"]
+  HanO["Jozef Hanis<br>*~1894/95 †11.1.1929"] --- HanA["Anna Dzurendová<br>*24.11.1900 Žipov"]
+  HanO --> A24["Alžbeta Hanisová<br>*3.6.1924"]
+  HanO --> M26["🟢 Mária Hanisová<br>*22.1.1926 †20.10.1971<br>⚭ Ján Dzuriček 1917–1989<br>hrob Žipov (foto 2026)"]
+  HanO --> A28["Anna Hanisová *4.12.1928<br>= babka"]
 ```
 
 > Otec **Jozef Hanis** a rodné meno matky **Dzurendová** doložené odpismi matrík farnosti Bajerov (Arcibiskupský archív KE, 19.7.2026); sestry podľa FS (NagyLukas); Mária doložená náhrobkom. Anna Dzurendová = dcéra Andreja Dzurendu & Alžbety rod. Šoltésovej (Žipov 18) — nová generácia.
