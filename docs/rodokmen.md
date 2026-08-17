@@ -11,10 +11,12 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 **Ja (0):** Veronika Rusinková \*1997
 
 **Rodičia (1):**
+
 - Jozef Rusinko \*1968 — **otec**
 - Marta Rusinková rod. Ličková \*1970 — **mama** (nar. Ličková → adopt. Lorenowiczová)
 
 **Starí rodičia (2):**
+
 - Ján Rusinko 1923–2006 (dožil sa ~83 r.) — **starý otec (otcova strana)**
 - Anna Rusinková rod. Hanisová 1928–2000 (dožila sa ~72 r.) — **stará mama (otcova strana)**
 - Jozef Ličko \*18.1.1942 Valaská (okr. Brezno), †okolo 1982 — **starý otec (mamina strana)**
@@ -22,6 +24,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 - Irena rod. Hajmanová 1944–2015 (dožila sa ~70 r.) — **stará mama (mamina strana)**
 
 **Prastarí rodičia (3) — „1× pra":**
+
 - Ján Rusinko 1898–1980 (dožil sa ~82 r.) & Anna rod. Fejerčáková 1895–1967 (dožila sa ~72 r.) — *prastarí, otcova strana (Rusinko)*
 - Jozef Hanis ~1894–1929 & Anna rod. Dzurendová \*1900 — *prastarí, otcova strana (Hanis)*
 - Rudolf Hajman 1910–1991 & Helena rod. Škodiová 1919–1994 (dožila sa ~75 r.) — *prastarí, mamina strana (Hajman)*
@@ -29,6 +32,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 - Michal Rusinko & Mária rod. Gumanová (Bujakov, ~\*1820–35) — \*3× prastarí, otcova strana; rodičia Ondreja \*1857, doložení krstami svojich detí 1857–1862*
 
 **Praprastarí rodičia (4) — „2× pra":**
+
 - Ondrej Rusinko \*9.2.1857 Bujakov č. 15, †1936 — *prapradedo, otcova strana; rodičia Michal Rusinko & Mária Gumanová, bratia Ján \*1859 a Juraj \*1862. Že bol otcom Jána \*1898, potvrdí Jánov krstný zápis*
 - Peter Fejerčák 1860 & Mária rod. Guľasová 1861 — *praprastarí, otec/Fejerčák*
 - Andrej Dzurenda \*1870 & Alžbeta rod. Šoltés — *praprastarí, otec/Dzurenda*
@@ -37,12 +41,14 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 - rodičia Jozefa Hanisa — *neznámi, otec/Hanis*
 
 **3× prastarí (5) — „3× pra":**
+
 - Juraj Guľas 1834–1866 (dožil sa ~32 r.) & Alžbeta rod. Semanová \*1834 — *otec/Guľas*
 - Ján Fejerčák & Mária rod. Fedorová (~1830) — *otec/Fejerčák*
 - **János Hajman** \*~1836 & **Anna rod. Huterová** \*~1838–41 †1879 — *mama/Hajman*; obaja prisťahovalci z **Rajcze (Poľsko)**, od 1861 Szőlőskislak
 - **Erzsébet Suver** (slúžka, Mokrance) \*~1845 — *mama/Suver* (matka Alžbety Suverovej \*1876)
 
 **4× prastarí (6) — „4× pra":**
+
 - **František (Franciscus) Heiman** — Jánosov otec — a **František (Franciscus) Hutera** — Annin otec; obaja zrejme Rajcza (Poľsko) — *mama/Hajman*, doložení sobášnym zápisom 1861
 
 **Najhlbší doložený predok:** Joannes Rusinko, daňový súpis Klenov **1715** (otcova strana) — ~9–10 generácií nad Veronikou.
