@@ -63,13 +63,47 @@ def convert(text: str) -> str:
     text = re.sub(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]", wl, text)
     return text
 
+def slugify(h: str) -> str:
+    import unicodedata
+    h = unicodedata.normalize("NFKD", h).encode("ascii", "ignore").decode()
+    h = re.sub(r"[^\w\s-]", "", h).strip().lower()
+    return re.sub(r"[\s]+", "-", h)
+
+def osoby_boxes(text: str) -> str:
+    """Stav osôb: tabuľky osôb -> boxíky s kotvami. Kotva = slugify(bunka Osoba);
+    na tieto kotvy mieria tlačidlá ⓘ v interaktívnom rodokmeni."""
+    out, lines = [], text.splitlines()
+    i = 0
+    while i < len(lines):
+        if lines[i].startswith("| Osoba |"):
+            i += 2  # hlavička + oddeľovač
+            out.append('<div class="osoby-grid">')
+            while i < len(lines) and lines[i].startswith("|"):
+                cells = [c.strip() for c in lines[i].strip().strip("|").split("|")]
+                name = cells[0].replace("\\", "")
+                who = cells[1] if len(cells) > 1 else ""
+                dates = (cells[2] if len(cells) > 2 else "").replace("\\", "")
+                sl = slugify(name.replace("*", " "))
+                out.append(f'<div class="osoba" id="{sl}"><b>{name.replace("**", "")}</b>'
+                           f'<span class="osoba-kto">{who}</span>'
+                           f'<span class="osoba-datumy">{dates}</span></div>')
+                i += 1
+            out.append('</div>')
+        else:
+            out.append(lines[i])
+            i += 1
+    return "\n".join(out)
+
 def main():
     if DOCS.exists():
         shutil.rmtree(DOCS)
     DOCS.mkdir(parents=True)
     for name, slug in FILES.items():
         src = VAULT / f"{name}.md"
-        (DOCS / f"{slug}.md").write_text(convert(src.read_text(encoding="utf-8")), encoding="utf-8")
+        text = convert(src.read_text(encoding="utf-8"))
+        if slug == "stav-osob":
+            text = osoby_boxes(text)
+        (DOCS / f"{slug}.md").write_text(text, encoding="utf-8")
         print(f"OK {name} -> {slug}.md")
     shutil.copytree(VAULT / "prilohy", DOCS / "prilohy")
     print("OK prilohy/")
@@ -112,14 +146,12 @@ def consistency_checks():
         for pat in STALE:
             if pat in t:
                 warn.append(f"{f.name}: pozostatok iterácie '{pat}'")
-    # 2) mŕtve interné kotvy (slug.md#kotva musí existovať ako nadpis)
-    def slugify(h):
-        h = unicodedata.normalize("NFKD", h).encode("ascii", "ignore").decode()
-        h = re.sub(r"[^\w\s-]", "", h).strip().lower()
-        return re.sub(r"[\s]+", "-", h)
+    # 2) mŕtve interné kotvy (slug.md#kotva musí existovať ako nadpis alebo id boxíka)
     anchors = {}
     for f in DOCS.glob("*.md"):
-        anchors[f.name] = {slugify(m.group(1)) for m in re.finditer(r"^#+\s+(.*)$", f.read_text(encoding="utf-8"), re.M)}
+        t = f.read_text(encoding="utf-8")
+        anchors[f.name] = {slugify(m.group(1)) for m in re.finditer(r"^#+\s+(.*)$", t, re.M)} \
+                        | {m.group(1) for m in re.finditer(r'id="([^"]+)"', t)}
     for f in sorted(DOCS.glob("*.md")):
         for m in re.finditer(r"\]\(([a-z0-9-]+\.md)#([^)\s]+)\)", f.read_text(encoding="utf-8")):
             tgt, a = m.group(1), m.group(2)
@@ -161,6 +193,11 @@ def consistency_checks():
             r = subprocess.run(["node", "--check", tmp], capture_output=True, text=True)
             if r.returncode != 0:
                 warn.append(f"{stem}.html: CHYBA V JAVASCRIPTE → {r.stderr.strip().splitlines()[-1] if r.stderr.strip() else 'neznáma'}")
+    # 5b) tlačidlá ⓘ v interaktívnom rodokmeni musia mieriť na existujúce kotvy v Stave osôb
+    strom = (VAULT / "prilohy" / "interaktivny-rodokmen.html").read_text(encoding="utf-8")
+    for m in re.finditer(r'\.\./stav-osob/#([\w-]+)', strom):
+        if m.group(1) not in anchors.get("stav-osob.md", set()):
+            warn.append(f"interaktivny-rodokmen.html: kotva #{m.group(1)} v Stave osôb neexistuje")
 
     # 6) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
     import os
