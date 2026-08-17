@@ -176,7 +176,7 @@ Praktický dôsledok: pri každom hľadaní v indexoch treba počítať so všet
 |---|---|---|
 | Rusinko | **gréckokatolícke** | Klenov (filiálky Brežany, Rokycany) |
 | Fejerčák–Guľas | rímskokatolícke | Bajerov |
-| Hanis + Dzurenda | rímskokatolícke | Bajerov (Žipov) |
+| Hanis–Dzurenda | rímskokatolícke | Bajerov (Žipov) |
 | Hajman + Suver | rímskokatolícke (dolož. 1900) | Szőlősgyörök; Szepsi/Moldava; KE |
 | Škoda | rímskokatolícke? | KE / Abov (overí Helenin zápis) |
 | Ličko | rímskokatolícke? | Valaská/Brezno (overí rodný list) |

@@ -45,7 +45,7 @@ const DATA = [
    rels:{parents:["jozef-licko","irena"], spouses:["jozef-r-1968"], children:["veronika"]}},
   {id:"zdena", data:{gender:"F", label:"Zdena rod. Ličková (Diana)", dates:"*1966", link:P+"zdena-diana"},
    rels:{parents:["jozef-licko","irena"]}},
-  {id:"viktor", data:{gender:"M", label:"Viktor Ličko", dates:"", link:P+"viktor"},
+  {id:"viktor", data:{gender:"M", label:"Viktor Ličko", dates:"*?", link:P+"viktor"},
    rels:{parents:["jozef-licko"]}},
 
   // ===== STARÍ RODIČIA =====
@@ -55,7 +55,7 @@ const DATA = [
    rels:{parents:["jozef-hanis","anna-dzurendova"], spouses:["jan-r-1923"], children:["jozef-r-1968"]}},
   {id:"jozef-licko", data:{gender:"M", label:"Jozef Ličko", dates:"*18.1.1942 †~1982", link:P+"jozef-licko"},
    rels:{spouses:["irena"], children:["marta","zdena","viktor"]}},
-  {id:"peter-loren", data:{gender:"M", label:"Peter Lorenowicz", dates:"žije", link:P+"dedo-peter-lorenowicz"},
+  {id:"peter-loren", data:{gender:"M", label:"Peter Lorenowicz", dates:"*26.2.1950", link:P+"dedo-peter-lorenowicz"},
    rels:{parents:["maria-lorenoviczova"], spouses:["irena"]}},
   {id:"irena", data:{gender:"F", label:"Irena rod. Hajmanová", dates:"*16.11.1944 †20.4.2015", link:P+"babka-irena-hajmanova"},
    rels:{parents:["rudolf","helena"], spouses:["jozef-licko","peter-loren"], children:["marta","zdena"]}},
@@ -67,7 +67,7 @@ const DATA = [
    rels:{children:["peter-loren","dmytro","tatiana"]}},
   {id:"dmytro", data:{gender:"M", label:"Dmytro Lorenovicz", dates:"*1946 †2020", link:P+"dmytro-lorenovicz"},
    rels:{parents:["maria-lorenoviczova"]}},
-  {id:"tatiana", data:{gender:"F", label:"Tatiana vyd. Elleder", dates:"", link:P+"tatiana-vyd-elleder"},
+  {id:"tatiana", data:{gender:"F", label:"Tatiana vyd. Elleder", dates:"*?", link:P+"tatiana-vyd-elleder"},
    rels:{parents:["maria-lorenoviczova"]}},
 
   // ===== PRASTARÍ — RUSINKO/FEJERČÁK =====
@@ -95,7 +95,7 @@ const DATA = [
    rels:{parents:["andrej-dzurenda","alzbeta-soltesova"], spouses:["jozef-hanis"], children:["alzbeta-hanisova","maria-dzuricekova","anna-hanisova"]}},
   {id:"andrej-dzurenda", data:{gender:"M", label:"Andrej Dzurenda", dates:"*11.11.1870", link:P+"andrej-dzurenda-alzbeta-rod-soltesova"},
    rels:{spouses:["alzbeta-soltesova"], children:["anna-dzurendova"]}},
-  {id:"alzbeta-soltesova", data:{gender:"F", label:"Alžbeta rod. Šoltésová", dates:"", link:P+"andrej-dzurenda-alzbeta-rod-soltesova"},
+  {id:"alzbeta-soltesova", data:{gender:"F", label:"Alžbeta rod. Šoltésová", dates:"*?", link:P+"andrej-dzurenda-alzbeta-rod-soltesova"},
    rels:{spouses:["andrej-dzurenda"], children:["anna-dzurendova"]}},
   {id:"alzbeta-hanisova", data:{gender:"F", label:"Alžbeta Hanisová", dates:"*3.6.1924", link:P+"alzbeta-hanisova"},
    rels:{parents:["jozef-hanis","anna-dzurendova"]}},
@@ -137,7 +137,7 @@ const DATA = [
    rels:{spouses:["tibor-hajman"]}},
   {id:"ferdinand-ginelli", data:{gender:"M", label:"Ferdinand Ginelli", dates:"*1913 †1989", link:P+"magda-ferdinand-ginelli"},
    rels:{spouses:["magdalena"], children:["tibor-ginelli","maria-ginelliova"]}},
-  {id:"tibor-ginelli", data:{gender:"M", label:"MUDr. Tibor Ginelli", dates:"žije", link:P+"mudr-tibor-ginelli"},
+  {id:"tibor-ginelli", data:{gender:"M", label:"MUDr. Tibor Ginelli", dates:"*?", link:P+"mudr-tibor-ginelli"},
    rels:{parents:["magdalena","ferdinand-ginelli"]}},
   {id:"maria-ginelliova", data:{gender:"F", label:"Mgr. Mária Ginelliová", dates:"*1950 †2016", link:P+"mgr-maria-ginelliova"},
    rels:{parents:["magdalena","ferdinand-ginelli"]}},
@@ -179,9 +179,9 @@ const DATA = [
    rels:{children:["alzbeta-suver"]}},
 
   // ===== 4× PRASTARÍ =====
-  {id:"frantisek-heiman", data:{gender:"M", label:"František (Franciscus) Heiman", dates:"", link:P+"frantisek-heiman-frantisek-hutera"},
+  {id:"frantisek-heiman", data:{gender:"M", label:"František (Franciscus) Heiman", dates:"*? †?", link:P+"frantisek-heiman-frantisek-hutera"},
    rels:{children:["janos-hajman"]}},
-  {id:"frantisek-hutera", data:{gender:"M", label:"František (Franciscus) Hutera", dates:"", link:P+"frantisek-heiman-frantisek-hutera"},
+  {id:"frantisek-hutera", data:{gender:"M", label:"František (Franciscus) Hutera", dates:"*? †?", link:P+"frantisek-heiman-frantisek-hutera"},
    rels:{children:["anna-huterova"]}}
 ];
 

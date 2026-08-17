@@ -20,7 +20,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 - Ján Rusinko 1923–2006 (dožil sa ~83 r.) — **starý otec (otcova strana)**
 - Anna Rusinková rod. Hanisová 1928–2000 (dožila sa ~72 r.) — **stará mama (otcova strana)**
 - Jozef Ličko \*18.1.1942 Valaská (okr. Brezno), †okolo 1982 — **starý otec (mamina strana)**
-- Peter Lorenowicz *Chomutov, žije — **starý otec (mamina strana)**: Irenin druhý manžel; po smrti Jozefa Lička si mamu a Zdenu osvojil a vychoval; žije v rodinnom dome na Lichardovej 30
+- Peter Lorenowicz \*26.2.1950 Chomutov, žije — **starý otec (mamina strana)**: Irenin druhý manžel; po smrti Jozefa Lička si mamu a Zdenu osvojil a vychoval; žije v rodinnom dome na Lichardovej 30
 - Irena rod. Hajmanová 1944–2015 (dožila sa ~70 r.) — **stará mama (mamina strana)**
 
 **Prastarí rodičia (3) — „1× pra":**
@@ -117,7 +117,7 @@ graph TD
   subgraph mgen2["dedovia"]
     JL["🟡 Jozef Ličko<br>*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†1981+ (rakovina)"]
     IH["🟡 Irena Hajmanová<br>*16.11.1944 †20.4.2015 Košice<br>†ako Lorenowiczová; kremácia, bez hrobu"]
-    PL["🧡 Peter Lorenowicz/Lorenovicz<br>*Chomutov (ČR), žije — dom Lichardova 30<br>⚭2 Irena; mamu a Zdenu si osvojil a vychoval<br>brat Dmytro 1946–2020, sestra Tatiana vyd. Elleder (DE)<br>matka Mária †KE ~2000; do KE za prácou vo VSŽ"]
+    PL["🧡 Peter Lorenowicz/Lorenovicz<br>*26.2.1950 Chomutov (ČR), žije — dom Lichardova 30<br>⚭2 Irena; mamu a Zdenu si osvojil a vychoval<br>brat Dmytro 1946–2020, sestra Tatiana vyd. Elleder (DE)<br>matka Mária †KE ~2000; do KE za prácou vo VSŽ"]
   end
   ML["Marta *16.1.1970 — mama<br>nar. Ličková → adopt. Lorenowiczová → vyd. Rusinková"]
   ZD["Zdena *1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer (dcéra Vivien, ~Augsburg)"]

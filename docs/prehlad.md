@@ -19,11 +19,11 @@ O generáciu vyššie stojí **Ondrej Rusinko** (\*9.2.1857 Bujakov, †1936), s
 
 Obe rodiny vystupujú v matrikách aj pod prímenami po dome — Fejerčákovci ako „Szabol", Guľasovci ako „Seman".
 
-### Hanis + Dzurenda — Žipov, rímskokatolíci
+### Hanis–Dzurenda — Žipov, rímskokatolíci
 
 **Jozef Hanis** († 11.1.1929 vo veku 34 rokov) a **Anna rod. Dzurendová** (\*24.11.1900 Žipov), dcéra **Andreja Dzurendu a Alžbety rod. Šoltésovej**. Ich dcéry: Alžbeta \*1924, Mária \*1926 (vydatá Dzuričeková) a **babka Anna** \*4.12.1928.
 
-### Ličko + Lorenowicz — Horehronie a Halič
+### Ličko–Lorenowicz — Horehronie a Halič
 
 **Jozef Ličko** (\*18.1.1942 Valaská, †okolo roku 1982) bol majstrom vo Východoslovenských strojárňach a futbalovým rozhodcom; s Irenou Hajmanovou mali dcéry Zdenu \*1966 a **mamu Martu \*1970**. Rod Ličko je na Horehroní doložený od roku **1656**; Ličkovci pálili uhlie a kuli klince pre železiarsky komplex Hronec–Podbrezová.
 

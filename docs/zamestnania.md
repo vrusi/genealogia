@@ -12,7 +12,7 @@ Pri každom mene je uvedený jeho vzťah k Veronike. Sú tu len ľudia s dolože
 | **Joannes Rusinko** — najstarší doložený predok (10 generácií) | dolož. 1715 | **gazda** (daňovník) | súpis 1715, MNL N 78 (originál) |
 | **Ján Rusinko** — pradedo (otec deda Jána) | 1898–1980 (dožil sa ~82 r.) | **nádenník** / roľník | hárok 1930, Rokycany 20 |
 
-### Hanis + Dzurenda (Žipov, farnosť Bajerov)
+### Hanis–Dzurenda (Žipov, farnosť Bajerov)
 | Osoba | Roky | Zamestnanie | Prameň |
 |---|---|---|---|
 | Anna rod. Dzurendová (prababka) | \*1900 | **nádenníčka** | hárok 1930, Žipov 57 |
@@ -37,7 +37,7 @@ Pri každom mene je uvedený jeho vzťah k Veronike. Sú tu len ľudia s dolože
 | **MUDr. Tibor Ginelli** — syn Ferdinanda a Magdy | žije | **gynekológ-pôrodník**, UNLP | rodina |
 | **Mgr. Mária Ginelliová** — dcéra Ferdinanda a Magdy | 1950–2016 (dožila sa ~66 r.) | **kurátorka Východoslovenského múzea** | tlač; náhrobok |
 
-### Ličko + Lorenowicz
+### Ličko–Lorenowicz
 | Osoba | Roky | Zamestnanie | Prameň |
 |---|---|---|---|
 | **Jozef Ličko** — biologický starý otec (prvý manžel babky Ireny) | 1942 – ~1982 | **majster VSS Košice**; futbalový rozhodca | dobová tlač, rodinné svedectvo |

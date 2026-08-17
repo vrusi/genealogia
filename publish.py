@@ -82,6 +82,8 @@ def osoby_boxes(text: str) -> str:
                 cells = [c.strip() for c in lines[i].strip().strip("|").split("|")]
                 name = cells[0].replace("\\", "")
                 who = cells[1] if len(cells) > 1 else ""
+                # markdown odkazy [text](#kotva) -> HTML (bunky sa emitujú ako čisté HTML)
+                who = re.sub(r"\[([^\]]+)\]\((#[\w-]+)\)", r'<a href="\2">\1</a>', who)
                 dates = (cells[2] if len(cells) > 2 else "").replace("\\", "")
                 sl = slugify(name.replace("*", " "))
                 out.append(f'<div class="osoba" id="{sl}"><b>{name.replace("**", "")}</b>'
@@ -198,6 +200,12 @@ def consistency_checks():
     for m in re.finditer(r'\.\./stav-osob/#([\w-]+)', strom):
         if m.group(1) not in anchors.get("stav-osob.md", set()):
             warn.append(f"interaktivny-rodokmen.html: kotva #{m.group(1)} v Stave osôb neexistuje")
+    # 5c) krížové odkazy medzi boxíkmi v Stave osôb musia mieriť na existujúce boxíky
+    so = (DOCS / "stav-osob.md").read_text(encoding="utf-8")
+    so_ids = set(re.findall(r'id="([\w-]+)"', so))
+    for a in re.findall(r'href="#([\w-]+)"', so):
+        if a not in so_ids:
+            warn.append(f"stav-osob.md: interný odkaz #{a} nemá boxík")
 
     # 6) web-only obsah zaostáva za vaultom? — porovnaj čerstvosť
     import os
