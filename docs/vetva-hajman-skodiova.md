@@ -1,15 +1,15 @@
-# Vetva Hajman – Skodová (Somogy + Mokrance → Budapešť → Košice)
+# Vetva Hajman – Škodová (Somogy + Mokrance → Budapešť → Košice)
 
 Súvisí: [Vetva Ličko](vetva-licko.md) · [Prehľad](prehlad.md)
 
-Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: Ferenc zo somogyskej dediny **Szőlőskislak** pri Balatone — a jeho rodičia sa do Somogy prisťahovali **z Poľska**. Ferencova žena **Alžbeta Suverová** bola z **Mokraniec** pri Moldave nad Bodvou, dvadsaťpäť kilometrov od Košíc. Spoznali sa v Budapešti, kde ona slúžila a on tesal ako stolársky pomocník; po svadbe roku 1900 sa usadili v Košiciach, v kraji jej rodiny. Vyrástol z nich remeselnícky klan — kominár, kožušník, stolári, hudobník, neskôr lekár — usadený okolo ulíc Lichardova a Skladná. **Skodovci** sú rodina Ireninej matky Heleny.
+Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: Ferenc zo somogyskej dediny **Szőlőskislak** pri Balatone — a jeho rodičia sa do Somogy prisťahovali **z Poľska**. Ferencova žena **Alžbeta Suverová** bola z **Mokraniec** pri Moldave nad Bodvou, dvadsaťpäť kilometrov od Košíc. Spoznali sa v Budapešti, kde ona slúžila a on tesal ako stolársky pomocník; po svadbe roku 1900 sa usadili v Košiciach, v kraji jej rodiny. Vyrástol z nich remeselnícky klan — kominár, kožušník, stolári, hudobník, neskôr lekár — usadený okolo ulíc Lichardova a Skladná. **Škodovci** sú rodina Ireninej matky Heleny.
 
 ## Rodová línia
 
-- **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá. Rodičov — Rudolfa Hajmana a Helenu rod. Skodovú — potvrdzuje jej rodný list (kniha narodení Košice‑Staré Mesto 1944).
+- **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá. Rodičov — Rudolfa Hajmana a Helenu rod. Škodovú — potvrdzuje jej rodný list (kniha narodení Košice‑Staré Mesto 1944).
 - **Pradedo Rudolf Hajman** — **\*22.1.1910 Košice, †22.9.1991 Košice** (rodisko uvádza úmrtný list), **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 až do roku 1941 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
-- **Prababka Helena rod. Skodová** — \*1919, †1994 — tak, s tvrdým „S", ju zapisuje Irenin rodný list. Hovorila po slovensky a žila v Košiciach.
-- **Praprababka Katarína Skodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. Tvrdé „S" má na náhrobku („KATARÍNA SKODOVÁ") aj Helena v Ireninom rodnom liste. „Skodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
+- **Prababka Helena rod. Škodová** — \*1919, †1994. Hovorila po slovensky a žila v Košiciach. Irenin rodný zápis z roku 1944 — vznikol ešte za maďarskej správy mesta — ju píše „Skodová"; maďarčina mäkčeň nepozná, takže o slovenskom tvare nerozhoduje. Definitívny tvar dá jej úmrtný list.
+- **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. Evidencia cintorína ju vedie ako Škodovú; kameň na hrobe má vyryté „SKODOVA" bez mäkčeňa. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
 - **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc \*31.7.1873 Szőlőskislak, stolársky pomocník; dátum jeho úmrtia nepoznáme, ale roku 1915 už bol dom písaný na manželku. Alžbeta \*6.3.1876 Mokrance, †po roku 1930. Sobášili sa **4.2.1900 v Budapešti**.
 - **3× prastarí rodičia: János Hajman a Anna rod. Huterová — prisťahovalci z Poľska.** Obaja sa narodili v **Rajczi** (v matrikách „Raicza, Lengyelhon"), János okolo roku 1836, Anna okolo 1838 až 1841. Roku 1861 slúžili obaja ako nádenníci v osade Csehi; neskôr bol János želiarom v Kislaku. **Anna zomrela 7.4.1879 pri pôrode** — Ferenc osirel ako päťročný a do Košíc odchádzal už bez matky.
@@ -219,7 +219,7 @@ Ich deti: **MUDr. Tibor Ginelli**, gynekológ a pôrodník, ktorý priviedol na 
 
 | Kto | Dátumy | Hrob |
 |---|---|---|
-| Rudolf Hajman + Helena + Anna Schullerová r. Hajman + Katarína Skodová | 1910–1991; 1919–1994; 1903–1970; 1897–1985 | sk. 1 |
+| Rudolf Hajman + Helena + Anna Schullerová r. Hajman + Katarína Škodová | 1910–1991; 1919–1994; 1903–1970; 1897–1985 | sk. 1 |
 | hrobka „HAJMAN CSALÁD": Jozef + Marta r. Kočišová + MUDr. Tibor + Mária r. Majáková | 1898–1977; 1902–1982; 1926–1988; 1942–2009 | hrobka 7B |
 | „RODINA JÁNA HAJMANA": Ján + Alžbeta | 1913–1992; 1922–— | 1MÚZEUM, rad 1A, č. 2 |
 | Ginelliovci: József + Anna + Ferdinand + Magdaléna r. Hajmanová + Mária | 1880–1944; ?–1961; 1913–1989; 1923–2006; 1950–2016 | sk. 91, rad 2, hrob 38 |
@@ -229,9 +229,9 @@ Ich deti: **MUDr. Tibor Ginelli**, gynekológ a pôrodník, ktorý priviedol na 
 
 Irena hrob nemá — bola spopolnená a popol rozptýlený.
 
-## Skodovci
+## Škodovci
 
-Helenina rodina. Podľa rodinnej pamäti mala pochádzať z Poľska, no poľské matriky ju zatiaľ nepotvrdili a Skodovci vyzerajú skôr ako **domáci abovský rod** — priezvisko v podobách Škoda, Škody, Škodi a Skodi je husto rozsiate po obciach juhovýchodne od Košíc, v Nižnej a Vyšnej Myšli, Ruskove, Seni či Košickej Polianke.
+Helenina rodina. Podľa rodinnej pamäti mala pochádzať z Poľska, no poľské matriky ju zatiaľ nepotvrdili a Škodovci vyzerajú skôr ako **domáci abovský rod** — priezvisko v podobách Škoda, Škody, Škodi a Skodi je husto rozsiate po obciach juhovýchodne od Košíc, v Nižnej a Vyšnej Myšli, Ruskove, Seni či Košickej Polianke.
 
 Preto je taká dôležitá **Katarína** (1897–1985): ak sa poľská pamäť viaže na ňu, nesie ju jej **rodné meno, ktoré nepoznáme**. Prezradí ho Helenin úmrtný list alebo kremačný záznam.
 
@@ -245,12 +245,12 @@ Preto je taká dôležitá **Katarína** (1897–1985): ak sa poľská pamäť v
 
 ## Čo hovorí DNA
 
-Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo zodpovedá jednému predkovi štyri až šesť generácií dozadu. Civilný sobáš z roku 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov, takže takýto predok by musel byť o generáciu či dve vyššie. Najlepšie sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno Heimann v Haliči aj samotná migrácia. Druhým kandidátom zostáva neznáme rodné meno Kataríny Skodovej.
+Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo zodpovedá jednému predkovi štyri až šesť generácií dozadu. Civilný sobáš z roku 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov, takže takýto predok by musel byť o generáciu či dve vyššie. Najlepšie sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno Heimann v Haliči aj samotná migrácia. Druhým kandidátom zostáva neznáme rodné meno Kataríny Škodovej.
 
 ## Čo ešte nevieme
 
 - **Presný dátum úmrtia Erzsébety Parohácsovej rod. Suverovej** — hľadá sa v košickej civilnej matrike medzi koncom roku 1914 a januárom 1915; mená dedičov by dala listina o prevode domu vo vložke 4720.
-- **Rodné meno Kataríny Skodovej** — a s ním poľská stopa Ireninej matkinej rodiny.
+- **Rodné meno Kataríny Škodovej** — a s ním poľská stopa Ireninej matkinej rodiny.
 - **Kedy zomrel Ferenc a kedy Alžbeta.**
 - **Osud Rudolfa ml.** v Kanade a neskôr snáď v Izraeli.
 - **Kde presne v Poľsku** sa narodili János a Anna — hľadá sa v matrikách farností Rajcza a Milówka. Priezvisko Hutera sa v Beskydách píše **Hutyra**, čo hľadanie sťažovalo.

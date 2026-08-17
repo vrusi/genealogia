@@ -43,13 +43,13 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 <div class="osoba" id="jan-dzuricek-st"><b>Ján Dzuriček st.</b><span class="osoba-kto">otec <a href="#maria-jan-dzuricek">Jána Dzuričeka</a>, rodák z Bajerova</span><span class="osoba-datumy">*1874</span></div>
 </div>
 
-## Vetva Hajman–Skodová
+## Vetva Hajman–Škodová
 
 <div class="osoby-grid">
-<div class="osoba" id="babka-irena-hajmanova"><b>babka Irena Hajmanová</b><span class="osoba-kto">Veronikina stará mama z maminej strany, dcéra <a href="#rudolf-hajman">Rudolfa Hajmana</a> a <a href="#helena-rod-skodova">Heleny rod. Skodovej</a></span><span class="osoba-datumy">*16.11.1944 Košice, †20.4.2015</span></div>
+<div class="osoba" id="babka-irena-hajmanova"><b>babka Irena Hajmanová</b><span class="osoba-kto">Veronikina stará mama z maminej strany, dcéra <a href="#rudolf-hajman">Rudolfa Hajmana</a> a <a href="#helena-rod-skodova">Heleny rod. Škodovej</a></span><span class="osoba-datumy">*16.11.1944 Košice, †20.4.2015</span></div>
 <div class="osoba" id="rudolf-hajman"><b>Rudolf Hajman</b><span class="osoba-kto">pradedo, kominár, syn <a href="#ferenc-hajman">Ferenca Hajmana</a> a <a href="#alzbeta-rod-suverova">Alžbety rod. Suverovej</a></span><span class="osoba-datumy">*22.1.1910, †22.9.1991</span></div>
-<div class="osoba" id="helena-rod-skodova"><b>Helena rod. Skodová</b><span class="osoba-kto">prababka, žena <a href="#rudolf-hajman">Rudolfa Hajmana</a>, dcéra <a href="#katarina-skodova">Kataríny Skodovej</a></span><span class="osoba-datumy">*1919, †1994</span></div>
-<div class="osoba" id="katarina-skodova"><b>Katarína Skodová</b><span class="osoba-kto">praprababka, matka <a href="#helena-rod-skodova">Heleny rod. Skodovej</a></span><span class="osoba-datumy">1897–1985</span></div>
+<div class="osoba" id="helena-rod-skodova"><b>Helena rod. Škodová</b><span class="osoba-kto">prababka, žena <a href="#rudolf-hajman">Rudolfa Hajmana</a>, dcéra <a href="#katarina-skodova">Kataríny Škodovej</a></span><span class="osoba-datumy">*1919, †1994</span></div>
+<div class="osoba" id="katarina-skodova"><b>Katarína Škodová</b><span class="osoba-kto">praprababka, matka <a href="#helena-rod-skodova">Heleny rod. Škodovej</a></span><span class="osoba-datumy">1897–1985</span></div>
 <div class="osoba" id="rudolf-ml"><b>Rudolf ml.</b><span class="osoba-kto">brat <a href="#babka-irena-hajmanova">babky Ireny</a>, emigroval do Kanady</span><span class="osoba-datumy">narodený zrejme po 1945</span></div>
 <div class="osoba" id="ferenc-hajman"><b>Ferenc Hajman</b><span class="osoba-kto">2× pradedo, stolársky pomocník, syn <a href="#janos-hajman-anna-rod-huterova">Jánosa a Anny</a></span><span class="osoba-datumy">*31.7.1873 Szőlőskislak</span></div>
 <div class="osoba" id="alzbeta-rod-suverova"><b>Alžbeta rod. Suverová</b><span class="osoba-kto">2× prababka, dcéra <a href="#erzsebet-suverova-vyd-parohacsova">Erzsébet Suverovej</a>; sobáš 4.2.1900 Budapešť</span><span class="osoba-datumy">*6.3.1876 Mokrance</span></div>

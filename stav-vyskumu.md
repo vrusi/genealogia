@@ -19,7 +19,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <ul class="todo">
 <li><label><input type="checkbox" checked> <b>Úmrtné listy Rudolfa a Ireny + rodný list Ireny</b> <span>Vydané 17. 8. 2026. Irenin rodný list potvrdil rodičov — Rudolfa a Helenu; Rudolfov úmrtný list prezradil, že sa narodil <b>v Košiciach</b>.</span></label></li>
 <li><label><input type="checkbox"> <b>Rodný zápis Rudolfa Hajmana</b> (*22. 1. 1910 Košice) <span>Kniha narodení 1910 je v <b>Štátnom archíve Košice</b> — vyžiadať písomne alebo pozrieť v bádateľni. Matrika z neho potom vytlačí rodný list <b>s menami jeho rodičov</b> a dá sa pokračovať o generáciu vyššie.</span></label></li>
-<li><label><input type="checkbox"> <b>Spýtať sa na Katarínu Skodovú</b> (†1985) <span>Jej úmrtie neeviduje Staré Mesto ani Košice-Juh. Matrikárka vie pozrieť do centrálneho registra — jej rodné meno je kľúč k poľskej stope.</span></label></li>
+<li><label><input type="checkbox"> <b>Spýtať sa na Katarínu Škodovú</b> (†1985) <span>Jej úmrtie neeviduje Staré Mesto ani Košice-Juh. Matrikárka vie pozrieť do centrálneho registra — jej rodné meno je kľúč k poľskej stope.</span></label></li>
 <li><label><input type="checkbox"> <b>Bádateľňa Archívu mesta Košice</b> — vložka 4720 <span>Kováčska 20, pondelok, streda, štvrtok. Pozemnoknižná vložka k domu na Pipa utca 16 by dala mená dedičov a presný dátum úmrtia Erzsébety. Nízka priorita.</span></label></li>
 </ul>
 </div>
@@ -87,7 +87,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <li><b>Andrej Rusinko</b> <span>\*5. 9. 1927, otec Ján, matka Anna rod. Fejerčáková; od 8. 12. 1944 do 8. 2. 1945 odvlečený kopať zákopy v Medzeve, bez odmeny.</span></li>
 <li><b>Sobáš Ferenca Hajmana a Alžbety Suverovej</b> <span>4. 2. 1900 v Budapešti. Ženíchovi rodičia † János Hajman a Anna Huterová; nevesta nemanželská, jej matka Erzsébet Suverová vtedy žila.</span></li>
 <li><b>Pipa utca</b> <span>Neskoršia Dymková ulica v Košiciach; pozemnoknižná vložka 4720 je vo fonde Archívu mesta Košice.</span></li>
-<li><b>Katarína Skodová</b> <span>Jej úmrtie (†1985) neeviduje matrika Košice-Staré Mesto ani Košice-Juh.</span></li>
+<li><b>Katarína Škodová</b> <span>Jej úmrtie (†1985) neeviduje matrika Košice-Staré Mesto ani Košice-Juh.</span></li>
 </ul>
 </div>
 </div>

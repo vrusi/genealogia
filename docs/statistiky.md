@@ -8,7 +8,7 @@ Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v
 
 | Skupina | Priemer | Najdlhšie | Najkratšie |
 |---|---|---|---|
-| narodení pred 1900 | ~66 r. | Katarína Skodová 88 | Juraj Guľas 32 |
+| narodení pred 1900 | ~66 r. | Katarína Škodová 88 | Juraj Guľas 32 |
 | narodení 1900–1950 | ~75 r. | Štefan, Andrej, Emília, Mária H. — všetci **90** | Jozef Ličko ~40 |
 | ženy | ~74 r. | Emília a Mária Holmáňová 90 | Mária Dzuričková 45 |
 | muži | ~69 r. | Štefan a Andrej Rusinkovci 90 | Juraj Guľas 32 |
@@ -16,7 +16,7 @@ Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v
 ```mermaid
 xychart-beta
     title "Priemerná dĺžka života podľa vetvy (doložené úmrtia; n = počet osôb)"
-    x-axis ["Rusinko (n=7)", "Skoda (n=2)", "Lorenowicz (n=1)", "Hajman (n=9)", "Hanis+Dzuriček (n=3)", "Ličko (n=1)", "Guľas (n=1)"]
+    x-axis ["Rusinko (n=7)", "Škoda (n=2)", "Lorenowicz (n=1)", "Hajman (n=9)", "Hanis+Dzuriček (n=3)", "Ličko (n=1)", "Guľas (n=1)"]
     y-axis "roky" 0 --> 100
     bar [83, 82, 74, 73, 50, 40, 32]
 ```
@@ -62,7 +62,7 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 
 | Rodič → dieťa | Interval |
 |---|---|
-| Katarína Skodová (1897) → Helena (1919) | 22 |
+| Katarína Škodová (1897) → Helena (1919) | 22 |
 | Helena (1919) → Irena (1944) | 25 |
 | Irena (1944) → Marta (1970) | 26 |
 | Marta (1970) → Veronika (1997) | 27 |
@@ -100,8 +100,8 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 | Štefan | Štefan Rusinko 1925 — dedov brat |
 | Emília | Emília Rusinková 1925 — Štefanova manželka |
 | Adam | Adam Fejerčák \*1892 — brat prababky Anny |
-| Katarína | Katarína Skodová 1897 — Helenina matka, 2× prababka |
-| Helena | Helena rod. Skodová 1919 — prababka |
+| Katarína | Katarína Škodová 1897 — Helenina matka, 2× prababka |
+| Helena | Helena rod. Škodová 1919 — prababka |
 | Irena | Irena Hajmanová 1944 — babka |
 | Ladislav | Ladislav Hajman 1916 — Rudolfov brat, hudobník |
 | Magda | Magda Hajmanová-Ginelliová 1923 — dcéra Rudolfovho brata Jozefa |
@@ -143,14 +143,14 @@ V 19. storočí sa krstilo okamžite — novorodenecká úmrtnosť bola taká vy
 | Ondrej Rusinko (1861–1936) | 53 | 59 | — | — | — | — | — |
 | Ferenc Hajman (1873–?) | 41 | 47 | 65? | | | | |
 | Ján Rusinko (1898–1980) | 16 | 22 | 40 | 46 | 50 | 70 | — |
-| **Katarína Skodová (1897–1985)** | 17 | 23 | 41 | 47 | 51 | 71 | — |
+| **Katarína Škodová (1897–1985)** | 17 | 23 | 41 | 47 | 51 | 71 | — |
 | Rudolf Hajman (~1916–1991) | — | 4 | 22 | 28 | 32 | 52 | 73 |
-| Helena Skodová (1919–1994) | — | 1 | 19 | 25 | 29 | 49 | 70 |
+| Helena Škodová (1919–1994) | — | 1 | 19 | 25 | 29 | 49 | 70 |
 | dedo Ján (1923–2006) | — | — | 15 | 21 | 25 | 45 | 66 |
 | Irena (1944–2015) | — | — | — | 0 | 4 | 24 | 45 |
 | Marta (\*1970) | — | — | — | — | — | — | 19 |
 
-**Katarína Skodová prežila celý „krátky vek extrémov" na jednom mieste**: narodila sa v Rakúsko-Uhorsku, žila v ČSR, Maďarskom kráľovstve (anexia), ČSR, ČSSR — päť štátov bez jediného sťahovania. Irena sa narodila v novembri 1944 — **priamo do frontového mesta** (Košice oslobodené v januári 1945).
+**Katarína Škodová prežila celý „krátky vek extrémov" na jednom mieste**: narodila sa v Rakúsko-Uhorsku, žila v ČSR, Maďarskom kráľovstve (anexia), ČSR, ČSSR — päť štátov bez jediného sťahovania. Irena sa narodila v novembri 1944 — **priamo do frontového mesta** (Košice oslobodené v januári 1945).
 
 ## Index skomolenín priezvisk
 
@@ -160,7 +160,7 @@ Koľko pravopisných podôb sme doložili v prameňoch:
 |---|---|---|
 | **Suver** | Suver, Suvet (FS index), Šuver, Schurer, (Schuller — zámena) | **5** |
 | **Hajman** | Hajman, Hajmán, Haiman, Halman, Homon | **5** |
-| **Skoda** | Škoda, Škody, Škodi, Skodi, Szkoda (poľ.) | **5** |
+| **Škoda** | Škoda, Škody, Škodi, Skodi, Szkoda (poľ.) | **5** |
 | Fejerčák | Fejerčák, Fejercsák, Fejércsak, Fejérčák | 4 |
 | Hutera | Hutera, Huterka, Hutyera, Hutira | 4 |
 | Ličko | Ličko, Licskó, Lischko (Medzev), Litschko | 4 |
@@ -178,11 +178,11 @@ Praktický dôsledok: pri každom hľadaní v indexoch treba počítať so všet
 | Fejerčák–Guľas | rímskokatolícke | Bajerov |
 | Hanis–Dzurenda | rímskokatolícke | Bajerov (Žipov) |
 | Hajman + Suver | rímskokatolícke (dolož. 1900) | Szőlősgyörök; Szepsi/Moldava; KE |
-| Skoda | rímskokatolícke? | KE / Abov (overí Helenin zápis) |
+| Škoda | rímskokatolícke? | KE / Abov (overí Helenin zápis) |
 | Ličko | rímskokatolícke? | Valaská/Brezno (overí rodný list) |
 | Lorenowicz (pôvod) | gréckokatolícke | Zamiechów pri Przemyśli |
 
-Manželstvo dedo Ján (GK) × babka Anna (RK) bolo konfesionálne zmiešané — bežné, ale určovalo, kde sa krstili deti. Približne tri percentá aškenázskeho pôvodu v DNA zostávajú nepriradené — najpravdepodobnejšie sa viažu na rodné meno Kataríny Skodovej alebo na poľských predkov Ferenca.
+Manželstvo dedo Ján (GK) × babka Anna (RK) bolo konfesionálne zmiešané — bežné, ale určovalo, kde sa krstili deti. Približne tri percentá aškenázskeho pôvodu v DNA zostávajú nepriradené — najpravdepodobnejšie sa viažu na rodné meno Kataríny Škodovej alebo na poľských predkov Ferenca.
 
 ## Povolania — z čoho rodina žila
 
@@ -201,4 +201,4 @@ Doložené povolanie máme u **18 príbuzných** naprieč šiestimi vetvami a tr
 - **Ženská práca = služba.** Všetky tri doložené ženské zamestnania pred rokom 1950 sú „slúžka" alebo „v službe". Prvá doložená žena s kvalifikovanou profesiou je až **Mária Ginelliová** (\*1950, kurátorka Východoslovenského múzea) — teda o generáciu neskôr než muži.
 - **Remeslo išlo za železom.** Ličkovci pálili uhlie pre hrončiansko-podbrezovský komplex v 19. storočí; Jozef \*1942 skončil ako majster vo VSS Košice. Rovnaký motív priviedol do Košíc aj Lorenowiczovcov z Chomutova (VSŽ) — dve nezávislé vetvy, ten istý magnet.
 - **Mesto verzus dedina.** Šarišské vetvy (Rusinko, Hanis) boli okolo 1930 bezzemkovia bez remesla; košická vetva mala v jednej generácii kominára, kožušníka, stolárov aj hudobníka. Rozdiel nie je v schopnostiach, ale v tom, kam sa rodina dostala.
-- **Medzery.** Bez známeho povolania sú stále dedo Ján ⭐, babka Anna ⭐, Irena, Peter Lorenowicz, Helena a Katarína Skodové, Jozef Hanis, Jozef Hajman a celá staršia vetva Fejerčák–Guľas — čísla vyššie preto podceňujú roľnícku časť rodiny.
+- **Medzery.** Bez známeho povolania sú stále dedo Ján ⭐, babka Anna ⭐, Irena, Peter Lorenowicz, Helena a Katarína Škodové, Jozef Hanis, Jozef Hajman a celá staršia vetva Fejerčák–Guľas — čísla vyššie preto podceňujú roľnícku časť rodiny.

@@ -1,6 +1,6 @@
 # Príbeh našej rodiny
 
-**Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Skoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií zo štyroch krajín, ktoré sa všetky zbehli v Košiciach.
+**Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Škoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií zo štyroch krajín, ktoré sa všetky zbehli v Košiciach.
 
 <div class="fakt-pas">
 <span>🌳 7 doložených generácií</span>
@@ -35,9 +35,9 @@
 
     Priezvisko Ličko žije na Horehroní od roku 1656 — Ličkovci pálili uhlie pri hámri na Piesku a o storočie neskôr bol dedo Jozef majstrom vo VSS. Remeslo išlo za železom. [→ vetva Ličko](vetva-licko.md)
 
--   🕵️ **Záhada Kataríny Skodovej**
+-   🕵️ **Záhada Kataríny Škodovej**
 
-    Prežila päť štátov bez jediného sťahovania — a jej rodné meno stále nepoznáme. Práve oň sa hrá o druhú poľskú stopu rodiny. [→ vetva Skodová](vetva-hajman-skodiova.md)
+    Prežila päť štátov bez jediného sťahovania — a jej rodné meno stále nepoznáme. Práve oň sa hrá o druhú poľskú stopu rodiny. [→ vetva Škodová](vetva-hajman-skodiova.md)
 
 -   🧡 **Dedo Peter**
 
