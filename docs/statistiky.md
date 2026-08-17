@@ -101,7 +101,7 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 | Emília | Emília Rusinková 1925 — Štefanova manželka |
 | Adam | Adam Fejerčák \*1892 — brat prababky Anny |
 | Katarína | Katarína Škodová 1897 — Helenina matka, 2× prababka |
-| Helena | Helena rod. Škodiová 1919 — prababka |
+| Helena | Helena rod. Skodová 1919 — prababka |
 | Irena | Irena Hajmanová 1944 — babka |
 | Ladislav | Ladislav Hajman 1916 — Rudolfov brat, hudobník |
 | Magda | Magda Hajmanová-Ginelliová 1923 — dcéra Rudolfovho brata Jozefa |
@@ -145,7 +145,7 @@ V 19. storočí sa krstilo okamžite — novorodenecká úmrtnosť bola taká vy
 | Ján Rusinko (1898–1980) | 16 | 22 | 40 | 46 | 50 | 70 | — |
 | **Katarína Škodová (1897–1985)** | 17 | 23 | 41 | 47 | 51 | 71 | — |
 | Rudolf Hajman (~1916–1991) | — | 4 | 22 | 28 | 32 | 52 | 73 |
-| Helena Škodiová (1919–1994) | — | 1 | 19 | 25 | 29 | 49 | 70 |
+| Helena Skodová (1919–1994) | — | 1 | 19 | 25 | 29 | 49 | 70 |
 | dedo Ján (1923–2006) | — | — | 15 | 21 | 25 | 45 | 66 |
 | Irena (1944–2015) | — | — | — | 0 | 4 | 24 | 45 |
 | Marta (\*1970) | — | — | — | — | — | — | 19 |

@@ -6,9 +6,9 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 
 ## Rodová línia
 
-- **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá.
-- **Pradedo Rudolf Hajman** — **\*22.1.1910, †22.9.1991 Košice**, **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 až do roku 1941 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
-- **Prababka Helena rod. Škodiová** — \*1919, †1994. Hovorila po slovensky a žila v Košiciach.
+- **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá. Rodičov — Rudolfa Hajmana a Helenu rod. Skodovú — potvrdzuje jej rodný list (kniha narodení Košice‑Staré Mesto 1944).
+- **Pradedo Rudolf Hajman** — **\*22.1.1910 Košice, †22.9.1991 Košice** (rodisko uvádza úmrtný list), **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 až do roku 1941 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
+- **Prababka Helena rod. Skodová** — \*1919, †1994 — tak, s tvrdým „S", ju zapisuje Irenin rodný list. Hovorila po slovensky a žila v Košiciach.
 - **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
 - **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc \*31.7.1873 Szőlőskislak, stolársky pomocník; dátum jeho úmrtia nepoznáme, ale roku 1915 už bol dom písaný na manželku. Alžbeta \*6.3.1876 Mokrance, †po roku 1930. Sobášili sa **4.2.1900 v Budapešti**.
@@ -204,6 +204,8 @@ V decembri **1942** diriguje ďalší program kapely. A ešte v **máji a júni 
 Do Košíc sa teda vrátil až niekedy v druhej polovici roku 1945, po piatich rokoch v Maďarsku.
 
 ## Dom Lichardova 30
+
+Rudolf s Helenou najprv bývali v **Starom Meste — podľa rodinnej pamäti na Mäsiarskej ulici**, kde Irena prežila detstvo (dom Veronike ukázal otec). Na Lichardovu 30 sa presťahovali potom, čo Rudolf dom dostaval. Sedí to aj so zápisom Ireninho narodenia v knihe Košice‑Staré Mesto (1944).
 
 V rodinnom dome dnes žije **Peter Lorenowicz** — predtým tam býval s Irenou a pred nimi Irenini rodičia Rudolf s Helenou. Rudolf dom dostaval; kto stavbu začal, zatiaľ nevieme.
 

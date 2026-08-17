@@ -31,7 +31,7 @@ Obe rodiny vystupujú v matrikách aj pod prímenami po dome — Fejerčákovci 
 
 ### Hajman + Suver — Somogy a Abov cez Budapešť do Košíc
 
-**Rudolf Hajman** (\*22.1.1910, †22.9.1991), kominár a odborový funkcionár, ⚭ **Helena rod. Škodiová** (1919–1994); ich deti **Irena** (\*16.11.1944, †20.4.2015) a **Rudolf ml.**, ktorý emigroval do Kanady.
+**Rudolf Hajman** (\*22.1.1910, †22.9.1991), kominár a odborový funkcionár, ⚭ **Helena rod. Skodová** (1919–1994); ich deti **Irena** (\*16.11.1944, †20.4.2015) a **Rudolf ml.**, ktorý emigroval do Kanady.
 
 Rudolfovi rodičia: **Ferenc Hajman** (\*31.7.1873 Szőlőskislak) a **Alžbeta rod. Suverová** (\*6.3.1876 Mokrance), sobáš **4.2.1900 v Budapešti**; ich prvý syn Jozef sa narodil ešte pred svadbou. Rudolfovi bratia: Jozef, František, **Ján** (kožušník) a **Ladislav** (hudobník rozhlasového orchestra).
 
