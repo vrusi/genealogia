@@ -7,6 +7,7 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 ## Vetva Rusinko
 
 <div class="osoby-grid">
+<div class="osoba" id="otec-jozef-rusinko"><b>otec Jozef Rusinko</b><span class="osoba-kto">Veronikin otec</span><span class="osoba-datumy">*13.2.1968</span></div>
 <div class="osoba" id="dedo-jan-rusinko"><b>dedo Ján Rusinko</b><span class="osoba-kto">Veronikin starý otec z otcovej strany</span><span class="osoba-datumy">*29.1.1923 Rokycany, †4.4.2006 Košice</span></div>
 <div class="osoba" id="babka-anna-rod-hanisova"><b>babka Anna rod. Hanisová</b><span class="osoba-kto">jeho manželka</span><span class="osoba-datumy">*4.12.1928 Žipov, †2000</span></div>
 <div class="osoba" id="jan-rusinko"><b>Ján Rusinko</b><span class="osoba-kto">pradedo</span><span class="osoba-datumy">*27.4.1898 Bujakov, †28.2.1980</span></div>

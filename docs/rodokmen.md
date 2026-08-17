@@ -12,7 +12,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 
 **Rodičia (1):**
 
-- Jozef Rusinko \*1968 — **otec**
+- Jozef Rusinko \*13.2.1968 — **otec**
 - Marta Rusinková rod. Ličková \*1970 — **mama** (nar. Ličková → adopt. Lorenowiczová)
 
 **Starí rodičia (2):**
