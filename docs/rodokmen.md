@@ -211,7 +211,11 @@ graph TD
 | Alžbeta rod. Schurer/**Suver** \*6.3.1876 Mokrance (Rudolfova matka; stub LDNJ-M19 zlúčený 15.7.2026) | PX7K-M17 |
 | **János Hajman (3× pradedo, želiar, Szőlőskislak)** | LHW1-JPX |
 | **Anna Huterová (3× prababka)** | LHW1-JPF |
-| Mária Hajmanová \*1869 (Ferencova sestra, ⚭ 1906 Lachmanek) | LHW1-JPD |
+| Mária Hajmanová \*7.9.1869 (Ferencova sestra, ⚭ 17.11.1906 Boglár) | LHW1-JPD |
+| András Lachmanek \*1874 (Máriin manžel) | PF45-QP5 |
+| Jakab Lachmanek (Andrásov otec, †pred 1906) | PF45-YTR |
+| Zsuzsanna Bárány (Andrásova matka) | PF45-1JM |
+| Mária Halman, krst 17.11.1870 Szőlősgyörök (2. dcéra Jánosa a Anny? — overuje sa) | LHWY-6QJ |
 | **Erzsébet Suver (3× prababka, slúžka, Mokrance)** | LDNJ-M1S |
 | Jozef Hajman \*1898 Budapešť (brat) | PX7K-FV1 |
 | František Hajman \*1900 (brat) | PX7V-S7V |

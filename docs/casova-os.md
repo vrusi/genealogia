@@ -16,7 +16,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **10.2.1861** — sobáš **János Hajman (25) × Anna Huterová (23)** v Szőlősgyöröku — obaja **prisťahovalci z poľskej Raicze (Rajcza?)**, nádenníci v osade Csehi; otcovia **František Heiman** a **František Hutera** ⭐⭐
 - **18.8.1861** — narodená **Mária Guľasová** v Rokycanoch
 - **16.11.1866** — vo veku 32 rokov zomrel **Juraj Guľas** (Rokycany, pochovaný na druhý deň); Alžbeta Semanová ovdovela ako 32-ročná
-- **1869** — narodila sa **Mária Hajmanová** (Ferencova sestra) v Szőlősgyöröku; ⚭ 17.11.1906 András Lachmanek (rodina ostala v Somogy)
+- **7.9.1869** — narodila sa **Mária Hajmanová** (Ferencova sestra) v Szőlőskislaku, krstená 8.9. v Szőlősgyöröku; ⚭ 17.11.1906 v Boglári András Lachmanek (rodina ostala v Somogy)
 - **31.7.1873** — narodil sa **Ferenc Hajman** v **Szőlőskislaku** (Somogyská župa, pri Balatone), krst 2.8. Szőlősgyörök — praprastarý otec; rodičia **János Hajman (želiar) & Anna Huterová = 3× prastarí rodičia** ✅ matrika s. 120/71, sken v prílohách
 - **23.11.1874** — narodil sa **Ján Dzuriček st.** v Bajerove (do Žipova ako nemluvňa)
 - **6.3.1876** — narodila sa **Alžbeta Suverová** v **MOKRANCIACH č. 10** (maď. Makranc; Abov, 25 km od Košíc), krst 7.3.1876 Moldava (Szepsi) — praprababka Hajman; **nemanželská dcéra slúžky Erzsébet Suverovej (3× prababka!)** ✅ matrika s. 161/24, sken v prílohách
