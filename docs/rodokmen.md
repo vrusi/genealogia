@@ -220,6 +220,12 @@ graph TD
 | Jozef (Jozsef) Haimann, krst 1879 Szőlősgyörök — najmladší syn Jánosa a Anny | PF4T-PN5 |
 | František (Franciscus) Hutera — 4× pradedo, Annin otec | PF4R-F93 |
 | Adam Fejerčák \*†15.2.1892 Rokycany (brat prababky Anny) | P3GG-7WN |
+| Ján Fejerčák 1884–1887 (brat prababky Anny) | P3Y8-BQ2 |
+| Ondrej Fejerčák \*†1887 (brat prababky Anny) | P3GG-XFT |
+| dieťa Fejerčák \*†1893 (súrodenec prababky Anny) | P3GG-6BV |
+| Ján Fejerčák st. (~1830, 3× pradedo) | L8DR-XMS |
+| Mária rod. Fedorová (3× prababka) | LDBF-CRZ |
+| Petrovi súrodenci: Mária \*1858 / Ján \*1866 / Ondrej 1868–1870 / Ondrej \*1872 / Anna \*1877 | L8DR-XMM / P3GL-KY5 / P3Y6-GKB / P35Z-J7Q / L86S-G8P |
 | **Erzsébet Suver (3× prababka, slúžka, Mokrance)** | LDNJ-M1S |
 | Jozef Hajman \*1898 Budapešť (brat) | PX7K-FV1 |
 | František Hajman \*1900 (brat) | PX7V-S7V |

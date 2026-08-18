@@ -8,6 +8,8 @@ Najlepšie zdokumentovaná vetva rodiny — všetky osoby sú doložené priamo 
 
 - **Anna Fejerčáková** — **\*19.10.1895 Rokycany**, krstená hneď nasledujúci deň v Bajerove, †6.1.1967. Prababka, manželka Jána Rusinka.
 - Jej rodičia: **Peter Fejerčák** **\*10.7.1860 Janov** ⚭ **Mária Guľasová** **\*18.8.1861 Rokycany**. Sobášili sa **19.2.1884 v Bajerove** a ich sobášny zápis menuje rodičov oboch — vďaka nemu poznáme ďalšiu generáciu.
+- Mali **päť detí — a štyri z nich pochovali**: Ján (1884–1887), Ondrej (\*†1887), Adam (narodil sa aj zomrel 15.2.1892) a nekrstené dieťa (1893). **Dospelosti sa dožila jediná — prababka Anna.** Doložené krstnými a úmrtnými zápismi farnosti Bajerov.
+- Petrovi súrodenci (deti Jána Fejerčáka a Márie rod. Fedorovej): Mária \*1858, Ján \*1866, Ondrej (1868–1870), Ondrej \*1872 a Anna \*1877.
 - Petrovi rodičia: **Ján Fejerčák** a **Mária rod. Fedorová**.
 - Máriini rodičia: **Juraj Guľas** **\*1834 Jakubovany, †16.11.1866 Rokycany** — zomrel ako 32-ročný, keď mala Mária päť rokov — a **Alžbeta rod. Semanová** \*1834.
 

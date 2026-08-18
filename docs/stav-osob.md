@@ -30,7 +30,7 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 <div class="osoba" id="jan-fejercak-maria-rod-fedorova"><b>Ján Fejerčák & Mária rod. Fedorová</b><span class="osoba-kto">rodičia <a href="#peter-fejercak">Petra Fejerčáka</a></span><span class="osoba-datumy">okolo roku 1830</span></div>
 <div class="osoba" id="juraj-gulas"><b>Juraj Guľas</b><span class="osoba-kto">otec <a href="#maria-rod-gulasova">Márie rod. Guľasovej</a>, zomrel ako 32-ročný</span><span class="osoba-datumy">*1834 Jakubovany, †16.11.1866</span></div>
 <div class="osoba" id="alzbeta-rod-semanova"><b>Alžbeta rod. Semanová</b><span class="osoba-kto">matka <a href="#maria-rod-gulasova">Márie rod. Guľasovej</a>, ovdovela v 32 rokoch</span><span class="osoba-datumy">*1834</span></div>
-<div class="osoba" id="adam"><b>Adam</b><span class="osoba-kto">brat <a href="#anna-rod-fejercakova">prababky Anny</a> — žil jediný deň</span><span class="osoba-datumy">*†15.2.1892 Rokycany</span></div>
+<div class="osoba" id="jan-ondrej-adam-a-nekrstene-dieta"><b>Ján, Ondrej, Adam a nekrstené dieťa</b><span class="osoba-kto">súrodenci <a href="#anna-rod-fejercakova">prababky Anny</a> — všetci zomreli v detstve; Anna jediná z piatich detí prežila</span><span class="osoba-datumy">1884–1887 · *†1887 · *†15.2.1892 · *†1893</span></div>
 </div>
 
 ## Vetva Hanis–Dzurenda
