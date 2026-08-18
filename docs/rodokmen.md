@@ -219,6 +219,7 @@ graph TD
 | František (Franciscus) Heiman — 4× pradedo, Jánosov otec | PF4R-S1Z |
 | Jozef (Jozsef) Haimann, krst 1879 Szőlősgyörök — najmladší syn Jánosa a Anny | PF4T-PN5 |
 | František (Franciscus) Hutera — 4× pradedo, Annin otec | PF4R-F93 |
+| Adam Fejerčák \*†15.2.1892 Rokycany (brat prababky Anny) | P3GG-7WN |
 | **Erzsébet Suver (3× prababka, slúžka, Mokrance)** | LDNJ-M1S |
 | Jozef Hajman \*1898 Budapešť (brat) | PX7K-FV1 |
 | František Hajman \*1900 (brat) | PX7V-S7V |
