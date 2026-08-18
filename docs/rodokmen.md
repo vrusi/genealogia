@@ -217,6 +217,7 @@ graph TD
 | Zsuzsanna Bárány (Andrásova matka) | PF45-1JM |
 | Mária Halman, krst 17.11.1870 Szőlősgyörök (2. dcéra Jánosa a Anny? — overuje sa) | LHWY-6QJ |
 | František (Franciscus) Heiman — 4× pradedo, Jánosov otec | PF4R-S1Z |
+| Jozef (Jozsef) Haimann, krst 1879 Szőlősgyörök — najmladší syn Jánosa a Anny | PF4T-PN5 |
 | František (Franciscus) Hutera — 4× pradedo, Annin otec | PF4R-F93 |
 | **Erzsébet Suver (3× prababka, slúžka, Mokrance)** | LDNJ-M1S |
 | Jozef Hajman \*1898 Budapešť (brat) | PX7K-FV1 |
