@@ -5,9 +5,9 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <div class="stav">
 <div class="stav-kpis">
 <div class="stav-kpi is-accent"><b>12</b><span>otvorených žiadostí</span><small>odoslané, čaká sa na odpoveď alebo doručenie</small></div>
-<div class="stav-kpi is-crit"><b>33</b><span>dní najdlhšie ticho</span><small>tri žiadosti z 15. 7. — SNA, Rokycany, fara Bajerov</small></div>
+<div class="stav-kpi is-crit"><b>34</b><span>dní najdlhšie ticho</span><small>žiadosti z 15. 7. — SNA a fara Bajerov</small></div>
 <div class="stav-kpi is-warn"><b>0</b><span>žiadostí na podanie</span><small>žiadosť do ŠA Košice (rodný zápis Rudolfa) odoslaná 17. 8.</small></div>
-<div class="stav-kpi is-warn"><b>3</b><span>žiadosti na urgenciu</span><small>SNA, Rokycany a fara Bajerov</small></div>
+<div class="stav-kpi is-warn"><b>2</b><span>žiadosti na urgenciu</span><small>SNA a fara Bajerov</small></div>
 </div>
 <div class="sec-head">
 <h2>Čo treba spraviť</h2>
@@ -68,7 +68,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <div class="row"><div class="who">Archív diecézy Bielsko-Biała<em>14. 8. 2026</em></div><div class="what">Matriky farnosti Rajcza 1830–1845 — krsty poľských predkov Heimanovcov a Huterovcov</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">0</span></div><div><span class="pill wait">Odoslané</span></div></div>
 <div class="row"><div class="who">Banícky spolok Pereces<em>13. 8. 2026</em></div><div class="what">Kronika a fotografie baníckej kapely z rokov 1940–1945, keď ju viedol Ladislav Hajman</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">1</span></div><div><span class="pill wait">Odoslané</span></div></div>
 <div class="row"><div class="who">Slovenský národný archív<em>15. 7. 2026</em></div><div class="what">Neredigované sčítacie hárky 1940 — Rokycany, Žipov, Prešov</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">30</span></div><div><span class="pill crit">Urgovať</span></div></div>
-<div class="row"><div class="who">Obec Rokycany<em>15. 7. 2026</em></div><div class="what">Hroby Andreja a Márie, osud sestry Márie \*1921</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">30</span></div><div><span class="pill crit">Urgovať</span></div></div>
+<div class="row"><div class="who">Obec Rokycany<em>odpoveď 18. 8.</em></div><div class="what">Hroby a parte: nezachovalo sa, evidencia bez údajov — hroby treba pozrieť fyzicky</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:100%"></span></span><span class="days">34</span></div><div><span class="pill part">Odpovedané</span></div></div>
 <div class="row"><div class="who">RK fara Bajerov<em>15. 7. 2026</em></div><div class="what">Úmrtia Petra Fejerčáka a Márie Guľasovej po roku 1896</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">30</span></div><div><span class="pill crit">Urgovať</span></div></div>
 <div class="row"><div class="who">GK fara Klenov<em>ozvala sa 16. 7.</em></div><div class="what">Krst Jána 1898 → potvrdenie otca Ondreja; fara preveruje, či sa knihy zachovali; urgencia pripravená</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:87%"></span></span><span class="days">26</span></div><div><span class="pill part">Sľúbené</span></div></div>
 <div class="row"><div class="who">Obec Jasov<em>28. 7. 2026</em></div><div class="what">Dátum narodenia Jozefa Lička, dokedy mal v obci pobyt</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:57%"></span></span><span class="days">17</span></div><div><span class="pill wait">Ticho</span></div></div>

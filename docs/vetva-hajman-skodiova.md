@@ -74,7 +74,7 @@ Prišli roku 1900, čerstvo po svadbe. Mali piatich doložených synov a v roku 
 - **Ján** — \*1913, **kožušník**, †1992. ⚭ Alžbeta \*1922. O jeho živote mimo dielne vieme viac než o ktoromkoľvek inom z bratov (nižšie).
 - **Ladislav** — \*1916, úradník a **hudobník košického rozhlasového orchestra**; roky 1940 až 1945 strávil pri Miškovci ako dirigent baníckej kapely (nižšie).
 - **Anna** — \*1903, †1970, vydatá **Schullerová**; pochovaná v hrobe s Rudolfom a Helenou, takže takmer isto Rudolfova sestra.
-- **MUDr. Tibor Hajman** (1926–1988), Jozefov syn — chirurg, ktorý sa 1. júla 1964 stal **prvým vedúcim lekárom protetického oddelenia v Košiciach**.
+- **MUDr. Tibor Hajman** (1926–1988), Jozefov syn — chirurg, ktorý sa 1. júla 1964 stal **prvým vedúcim lekárom protetického oddelenia v Košiciach**. Ako štrnásťročný študoval na košickom Hunfalvyho gymnáziu — ročenka 1940 mu zapísala prospech „jó" a miesto v školskom speváckom zbore.
 
 ![](prilohy/scitaci-harok-1930-kosice-licharda37-hajman.jpg)
 
