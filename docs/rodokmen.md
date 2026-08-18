@@ -221,6 +221,7 @@ graph TD
 | Rozália Haiman \*~1861, ⚭ 22.1.1882 Márton Buk/Fokt (dcéra Jánosa a Anny) | LHW1-D2N |
 | Márton Buk, správnejšie Fokt \*~1858 (Rozáliin manžel) | LHW1-D2F |
 | Rozália Buková \*1884 (ich dcéra — vnučka Jánosa a Anny) | LHW1-D2X |
+| Ferentz Haiman, krst 1867 (prvý Ferenc — zrejme †malý; prapradedo \*1873 dostal meno po ňom) | PF41-VF8 |
 | František (Franciscus) Hutera — 4× pradedo, Annin otec | PF4R-F93 |
 | Adam Fejerčák \*†15.2.1892 Rokycany (brat prababky Anny) | P3GG-7WN |
 | Ján Fejerčák 1884–1887 (brat prababky Anny) | P3Y8-BQ2 |
