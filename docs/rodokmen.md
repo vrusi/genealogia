@@ -218,6 +218,7 @@ graph TD
 | Mária II., krst 17.11.1870 Szőlősgyörök (2. dcéra Jánosa a Anny — potvrdené originálom; osud nepoznáme) | LHWY-6QJ |
 | František (Franciscus) Heiman — 4× pradedo, Jánosov otec | PF4R-S1Z |
 | Jozef (Jozsef) Haimann, krst 1879 Szőlősgyörök — najmladší syn Jánosa a Anny | PF4T-PN5 |
+| Rozália Haiman \*~1861, ⚭ 22.1.1882 Fokt/Buk Márton (dcéra Jánosa a Anny) | LHW1-D2N |
 | František (Franciscus) Hutera — 4× pradedo, Annin otec | PF4R-F93 |
 | Adam Fejerčák \*†15.2.1892 Rokycany (brat prababky Anny) | P3GG-7WN |
 | Ján Fejerčák 1884–1887 (brat prababky Anny) | P3Y8-BQ2 |
