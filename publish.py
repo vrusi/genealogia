@@ -4,7 +4,24 @@ prevádza wikilinky, sanitizuje kontakty žijúcich osôb. Spustiť z genealogia
 import re, shutil
 from pathlib import Path
 
-VAULT = Path("/Users/vrusi/Documents/Genealogia")
+# Cesta k vaultu sa líši podľa stroja: dá sa vynútiť premennou GENEALOGIA_VAULT,
+# inak sa skúšajú známe umiestnenia (osobný laptop, firemný laptop, súrodenecký adresár).
+import os
+def _find_vault():
+    env = os.environ.get("GENEALOGIA_VAULT")
+    candidates = ([Path(env)] if env else []) + [
+        Path("/Users/vrusi/Documents/Genealogia"),
+        Path(__file__).resolve().parent.parent / "vault",
+    ]
+    for c in candidates:
+        if (c / "Prehľad.md").exists():
+            return c
+    raise SystemExit(
+        "Vault sa nenašiel. Skúšané:\n  " + "\n  ".join(str(c) for c in candidates)
+        + "\nNastav GENEALOGIA_VAULT=/cesta/k/vaultu"
+    )
+
+VAULT = _find_vault()
 DOCS = Path(__file__).parent / "docs"
 
 # publikované súbory: vault názov -> slug

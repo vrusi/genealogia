@@ -8,7 +8,7 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 
 - **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá. Rodičov — Rudolfa Hajmana a Helenu rod. Škodovú — potvrdzuje jej rodný list (kniha narodení Košice‑Staré Mesto 1944).
 - **Pradedo Rudolf Hajman** — **\*22.1.1910 Košice, †22.9.1991 Košice** (rodisko uvádza úmrtný list), **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 až do roku 1941 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
-- **Prababka Helena rod. Škodová** — \*1919, †1994. Hovorila po slovensky a žila v Košiciach. Irenin rodný zápis z roku 1944 — vznikol ešte za maďarskej správy mesta — ju píše „Skodová"; maďarčina mäkčeň nepozná, takže o slovenskom tvare nerozhoduje. Definitívny tvar dá jej úmrtný list.
+- **Prababka Helena rod. Škodová** — **\*1. apríla 1919 v Košiciach, †5. apríla 1994 v Košiciach**, štyri dni po svojich sedemdesiatych piatych narodeninách; bývala na Lichardovej 30. Hovorila po slovensky. Irenin rodný zápis z roku 1944 — vznikol ešte za maďarskej správy mesta — ju píše „Skodová"; maďarčina mäkčeň nepozná. Jej vlastný úmrtný list ju však vedie ako **„rod. Škodová" s mäkčeňom** (kniha úmrtí Košice‑Západ 1994), a ten tvar je tým rozhodnutý.
 - **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. Evidencia cintorína ju vedie ako Škodovú; kameň na hrobe má vyryté „SKODOVA" bez mäkčeňa. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
 - **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc \*31.7.1873 Szőlőskislak, stolársky pomocník; dátum jeho úmrtia nepoznáme, ale roku 1915 už bol dom písaný na manželku. Alžbeta \*6.3.1876 Mokrance, †po roku 1930. Sobášili sa **4.2.1900 v Budapešti**.
@@ -233,7 +233,7 @@ Irena hrob nemá — bola spopolnená a popol rozptýlený.
 
 Helenina rodina. Podľa rodinnej pamäti mala pochádzať z Poľska, no poľské matriky ju zatiaľ nepotvrdili a Škodovci vyzerajú skôr ako **domáci abovský rod** — priezvisko v podobách Škoda, Škody, Škodi a Skodi je husto rozsiate po obciach juhovýchodne od Košíc, v Nižnej a Vyšnej Myšli, Ruskove, Seni či Košickej Polianke.
 
-Preto je taká dôležitá **Katarína** (1897–1985): ak sa poľská pamäť viaže na ňu, nesie ju jej **rodné meno, ktoré nepoznáme**. Prezradí ho Helenin úmrtný list alebo kremačný záznam.
+Preto je taká dôležitá **Katarína** (1897–1985): ak sa poľská pamäť viaže na ňu, nesie ju jej **rodné meno, ktoré nepoznáme**. Slovenský úmrtný list mená rodičov neuvádza, takže Helenin ho neprezradil — dal však presný dátum a miesto jej narodenia. Rodné meno Kataríny teda povie **Helenin rodný zápis z 1. apríla 1919 v Košiciach**.
 
 ## Lorenowiczovci
 
