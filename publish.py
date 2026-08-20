@@ -98,11 +98,17 @@ def osoby_boxes(text: str) -> str:
             while i < len(lines) and lines[i].startswith("|"):
                 cells = [c.strip() for c in lines[i].strip().strip("|").split("|")]
                 name = cells[0].replace("\\", "")
+                # kotvu môže bunka určiť výslovne cez `{#id}` (tak ju píše generátor
+                # z databázy); bez nej sa odvodí z mena ako doteraz
+                m_kotva = re.search(r"\{#([\w-]+)\}\s*$", name)
+                explicit = m_kotva.group(1) if m_kotva else None
+                if m_kotva:
+                    name = name[:m_kotva.start()].strip()
                 who = cells[1] if len(cells) > 1 else ""
                 # markdown odkazy [text](#kotva) -> HTML (bunky sa emitujú ako čisté HTML)
                 who = re.sub(r"\[([^\]]+)\]\((#[\w-]+)\)", r'<a href="\2">\1</a>', who)
                 dates = (cells[2] if len(cells) > 2 else "").replace("\\", "")
-                sl = slugify(name.replace("*", " "))
+                sl = explicit or slugify(name.replace("*", " "))
                 out.append(f'<div class="osoba" id="{sl}"><b>{name.replace("**", "")}</b>'
                            f'<span class="osoba-kto">{who}</span>'
                            f'<span class="osoba-datumy">{dates}</span></div>')
@@ -114,6 +120,16 @@ def osoby_boxes(text: str) -> str:
     return "\n".join(out)
 
 def main():
+    # Register osôb a interaktívny strom sa GENERUJÚ z `vault/data/osoby.json`.
+    # Robí sa to tu, aby sa nedalo omylom publikovať zo zastaraných súborov.
+    try:
+        import generuj
+        print("Generujem z databázy osôb:")
+        if generuj.main() != 0:
+            raise SystemExit("Databáza osôb má problémy — publikovanie zastavené.")
+    except ImportError:
+        print("⚠️  generuj.py nenájdený — publikujem existujúce súbory")
+
     if DOCS.exists():
         shutil.rmtree(DOCS)
     DOCS.mkdir(parents=True)
