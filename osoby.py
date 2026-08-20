@@ -40,6 +40,25 @@ def nacitaj(cesta=None):
     return {o["id"]: o for o in osoby}
 
 
+def nacitaj_pramene(cesta=None):
+    cesta = Path(cesta) if cesta else cesta_k_databaze().parent / "pramene.json"
+    if not cesta.exists():
+        return {}
+    return {p["id"]: p for p in json.loads(cesta.read_text(encoding="utf-8"))}
+
+
+def ids(zoznam):
+    """`rodicia`/`deti` sú objekty `{id, pramene}`; vráti holé id."""
+    out = []
+    for x in zoznam or []:
+        if isinstance(x, dict):
+            if x.get("id"):
+                out.append(x["id"])
+        else:
+            out.append(x)
+    return out
+
+
 # ------------------------------------------------------------ vykresľovanie
 
 def _rok(datum):
@@ -163,7 +182,7 @@ def skontroluj(db):
 
         # odkazy musia viesť na existujúce osoby
         for pole in ("rodicia", "deti"):
-            for ref in o.get(pole) or []:
+            for ref in ids(o.get(pole)):
                 if ref not in db:
                     P(f"{kde} {pole}: odkaz na neexistujúce id {ref!r}")
         for m in o.get("manzelia") or []:
@@ -180,18 +199,37 @@ def skontroluj(db):
 
     # obojsmernosť vzťahov
     for oid, o in db.items():
-        for dieta in o.get("deti") or []:
-            if dieta in db and oid not in (db[dieta].get("rodicia") or []):
+        for dieta in ids(o.get("deti")):
+            if dieta in db and oid not in ids(db[dieta].get("rodicia")):
                 P(f"[{oid}] uvádza dieťa {dieta!r}, ale to ho nemá medzi rodičmi")
-        for rodic in o.get("rodicia") or []:
-            if rodic in db and oid not in (db[rodic].get("deti") or []):
+        for rodic in ids(o.get("rodicia")):
+            if rodic in db and oid not in ids(db[rodic].get("deti")):
                 P(f"[{oid}] uvádza rodiča {rodic!r}, ale ten ho nemá medzi deťmi")
         for m in o.get("manzelia") or []:
             if isinstance(m, dict) and m.get("id") in db:
                 partner = db[m["id"]]
-                ids = [x.get("id") for x in (partner.get("manzelia") or []) if isinstance(x, dict)]
-                if oid not in ids:
+                partneri = [x.get("id") for x in (partner.get("manzelia") or []) if isinstance(x, dict)]
+                if oid not in partneri:
                     P(f"[{oid}] uvádza manžela/ku {m['id']!r}, ale ten/tá ho/ju neuvádza")
+
+    # odkazy na pramene musia viesť na existujúci záznam
+    reg = nacitaj_pramene()
+    if reg:
+        def skontroluj_pramene(kde, zoznam):
+            for pid in zoznam or []:
+                if pid not in reg:
+                    P(f"{kde}: odkaz na neexistujúci prameň {pid!r}")
+
+        for oid, o in db.items():
+            skontroluj_pramene(f"[{oid}] pramene", o.get("pramene"))
+            for pole in ("narodenie", "umrtie"):
+                ev = o.get(pole)
+                if isinstance(ev, dict):
+                    skontroluj_pramene(f"[{oid}] {pole}", ev.get("pramene"))
+            for pole in ("rodicia", "deti", "manzelia", "bydliska", "povolanie", "mena"):
+                for x in o.get(pole) or []:
+                    if isinstance(x, dict):
+                        skontroluj_pramene(f"[{oid}] {pole}", x.get("pramene"))
 
     return problemy
 
