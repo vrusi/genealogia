@@ -175,6 +175,22 @@ def skontroluj(db):
             if p == "neznama" and d is not None:
                 P(f"{kde} {pole}: presnosť `neznama`, ale dátum je vyplnený ({d!r})")
 
+        # udalosti majú rovnaké pravidlá dátumu ako narodenie a úmrtie
+        for i, u in enumerate(o.get("udalosti") or []):
+            if not isinstance(u, dict):
+                P(f"{kde} udalosti[{i}]: očakáva sa objekt")
+                continue
+            if u.get("presnost") not in PRESNOSTI:
+                P(f"{kde} udalosti[{i}]: neznáma presnosť {u.get('presnost')!r}")
+            if not (u.get("popis") or u.get("typ")):
+                P(f"{kde} udalosti[{i}]: udalosť bez popisu aj bez typu")
+        for i, f in enumerate(o.get("fakty") or []):
+            if not isinstance(f, dict) or not str(f.get("text") or "").strip():
+                P(f"{kde} fakty[{i}]: fakt musí mať neprázdny `text`")
+        h = o.get("hrob")
+        if h is not None and (not isinstance(h, dict) or not h.get("miesto")):
+            P(f"{kde} hrob: musí byť objekt s `miesto`")
+
         nar, umr = o.get("narodenie"), o.get("umrtie")
         if nar and umr and nar.get("datum") and umr.get("datum"):
             if _rok(umr["datum"]) < _rok(nar["datum"]):
@@ -226,10 +242,13 @@ def skontroluj(db):
                 ev = o.get(pole)
                 if isinstance(ev, dict):
                     skontroluj_pramene(f"[{oid}] {pole}", ev.get("pramene"))
-            for pole in ("rodicia", "deti", "manzelia", "bydliska", "povolanie", "mena"):
+            for pole in ("rodicia", "deti", "manzelia", "bydliska", "povolanie",
+                         "mena", "udalosti", "fakty"):
                 for x in o.get(pole) or []:
                     if isinstance(x, dict):
                         skontroluj_pramene(f"[{oid}] {pole}", x.get("pramene"))
+            if isinstance(o.get("hrob"), dict):
+                skontroluj_pramene(f"[{oid}] hrob", o["hrob"].get("pramene"))
 
     return problemy
 

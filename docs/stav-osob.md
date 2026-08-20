@@ -19,7 +19,7 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 <div class="osoba" id="anna-rod-fejercakova"><b>Anna rod. Fejerčáková</b><span class="osoba-kto">prababka, dcéra <a href="#peter-fejercak">Petra Fejerčáka</a> a <a href="#maria-rod-gulasova">Márie rod. Guľasovej</a></span><span class="osoba-datumy">*19.10.1895 Rokycany, †6.1.1967</span></div>
 <div class="osoba" id="maria"><b>Mária</b><span class="osoba-kto">sestra <a href="#dedo-jan-rusinko">deda Jána</a></span><span class="osoba-datumy">*10.9.1921 Bujakov (dnes Brežany)</span></div>
 <div class="osoba" id="stefan-emilia"><b>Štefan</b><span class="osoba-kto">brat <a href="#dedo-jan-rusinko">deda Jána</a> so ženou</span><span class="osoba-datumy">*28.9.1925 Rokycany, †1.2.2015 Bratislava</span></div>
-<div class="osoba" id="emilia"><b>Emília</b><span class="osoba-kto">žena osoby <a href="#stefan-emilia">Štefan</a></span><span class="osoba-datumy">*1925, †5.5.2015</span></div>
+<div class="osoba" id="emilia"><b>Emília</b><span class="osoba-kto">žena osoby <a href="#stefan-emilia">Štefan</a></span><span class="osoba-datumy">*6.12.1925, †5.5.2015</span></div>
 <div class="osoba" id="andrej-maria"><b>Andrej</b><span class="osoba-kto">brat <a href="#dedo-jan-rusinko">deda Jána</a> so ženou</span><span class="osoba-datumy">*5.9.1927 Rokycany, †5.11.2017</span></div>
 <div class="osoba" id="maria-holmanova"><b>Mária</b><span class="osoba-kto">žena osoby <a href="#andrej-maria">Andrej</a></span><span class="osoba-datumy">*17.7.1934, †17.1.2024</span></div>
 <div class="osoba" id="anna"><b>Anna</b><span class="osoba-kto">najmladšia sestra <a href="#dedo-jan-rusinko">deda Jána</a></span><span class="osoba-datumy">*po 1930</span></div>
