@@ -173,8 +173,10 @@ def skontroluj(db):
             else:
                 P(f"{kde} manzelia: očakáva sa objekt s `id`, nie {type(m).__name__}")
 
-        if o.get("dolozeny") is False and o.get("na_web") is True:
-            P(f"{kde} nedoložená osoba nesmie ísť na web")
+        if o.get("dolozeny") is False and o.get("na_web") is True and not o.get("poznamka"):
+            # Web zámerne ukazuje aj predkov, ktorých spojenie ešte nie je doložené
+            # (v strome sú 🟡). Vyžadujeme však, aby výhrada bola napísaná v poznámke.
+            P(f"{kde} nedoložená osoba ide na web, ale nemá `poznamka` s výhradou")
 
     # obojsmernosť vzťahov
     for oid, o in db.items():
