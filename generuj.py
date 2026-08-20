@@ -55,6 +55,54 @@ def register_md(db):
     return "\n".join(riadky) + "\n"
 
 
+def zamestnania_md(db, postrehy):
+    """Tabuľky povolaní po vetvách. Meno odkazuje do registra osôb."""
+    r = ["""# Zamestnania a povolania v rodine
+
+Súvisí: [[Prehľad]] · [[Stav osôb]]
+
+Ľudia s **doloženou príbuznosťou**, pri ktorých poznáme povolanie. Menovci sem nepatria. Meno odkazuje na ich záznam v registri osôb.
+
+**Stĺpec „Život"** je dĺžka života, nie roky, v ktorých je človek doložený — tie sú
+uvedené priamo pri povolaní (napr. „nádenník (1861, osada Csehi)"). Ak sa dátumy
+nezachovali, stojí tam `\\*?`.
+
+<!-- Tabuľky GENERUJE `web/generuj.py` z `vault/data/osoby.json`. Needituj ich ručne. -->
+
+## Po vetvách"""]
+
+    for vetva, nadpis in VETVY_PORADIE:
+        # len doložená rodina — menovci (gréckokatolícky kňaz, bádateľ rusínskej
+        # literatúry a i.) do prehľadu rodinných remesiel nepatria
+        ludia = [o for o in db.values()
+                 if o.get("vetva") == vetva and o.get("povolanie") and o.get("dolozeny")]
+        if not ludia:
+            continue
+        ludia.sort(key=lambda o: (o.get("poradie", 999), o["id"]))
+        r.append(f"\n### {nadpis.replace('Vetva ', '')}\n")
+        r.append("| Osoba | Vzťah | Život | Zamestnanie | Prameň |")
+        r.append("|---|---|---|---|---|")
+        for o in ludia:
+            # v registri stačí „Ján" (stojí pod hlavičkou vetvy), tu nie
+            meno = o.get("zobrazenie") or O.cele_meno(o)
+            if len(meno.split()) == 1:
+                meno = O.cele_meno(o)
+            odkaz = f"[{meno}](stav-osob.md#{o['id']})" if o.get("v_registri") else meno
+            praca, pramene, texty = [], [], []
+            for x in o["povolanie"]:
+                praca.append(x.get("hodnota") if isinstance(x, dict) else str(x))
+                if isinstance(x, dict):
+                    pramene += x.get("pramene") or []
+                    # prameň, ktorý zatiaľ nemá záznam v registri, ostáva ako veta
+                    if x.get("pramen_text"):
+                        texty.append(x["pramen_text"])
+            zdroje = ", ".join(sorted(set(pramene)) + sorted(set(texty))) or "—"
+            r.append(f"| {odkaz} | {o.get('vztah') or ''} | {O.formatuj_zivot(o, s_miestom=False)} "
+                     f"| {'; '.join(praca)} | {zdroje} |")
+
+    return "\n".join(r) + "\n\n" + postrehy.strip() + "\n"
+
+
 def strom_data(db):
     """Dátové pole pre family-chart. Krátke id stromu zostávajú zachované."""
     kratke = {o["id"]: (o.get("strom_id") or o["id"]) for o in db.values()}
@@ -131,6 +179,13 @@ def main():
     vault = O.cesta_k_databaze().parent.parent
     zmien = 0
     zmien += zapis(vault / "Stav osôb.md", register_md(db), diff_only)
+
+    zam = vault / "Zamestnania v rodine.md"
+    if zam.exists():
+        stary = zam.read_text(encoding="utf-8")
+        i = stary.find("## Postrehy")
+        postrehy = stary[i:] if i >= 0 else ""
+        zmien += zapis(zam, zamestnania_md(db, postrehy), diff_only)
 
     strom = vault / "prilohy" / "interaktivny-rodokmen.html"
     if strom.exists() and any(o.get("v_strome") for o in db.values()):
