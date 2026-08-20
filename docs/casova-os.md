@@ -49,6 +49,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 
 > 🌍 *Éra **1. Československej republiky (1918–1938)** — demokratický štát, ale Šariš ostáva chudobný. **1929 udrela svetová hospodárska kríza** — presne vtedy (11.1.1929) zomrel Jozef Hanis a vdova Anna zostala s tromi deťmi v najhoršom možnom čase. Košice sú multikultúrne mesto (Slováci, Maďari, Židia, Nemci) — Hajmanovci sa hlásia k maďarskej národnosti (úrady ju 1932 „prepisujú" na slovenskú).*
 
+- **1.4.1919** — narodila sa **Helena Škodová** v Košiciach ⭐ (Irenina matka; dátum z jej úmrtného listu) ✅
 - **3.6.1919** — ⚭ **Ján Rusinko × Anna Fejerčáková** ⭐
 - **10.9.1921** — narodila sa **Mária Rusinková** v Brežanoch
 - **25.5.1922** — Rusinkovci sa sťahujú **z Brežian do Rokycian** (dom č. 20, vlastný)
@@ -73,7 +74,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **11/1938** — Košice pripojené k Maďarsku (Kassa); Tibor Hajman prechádza na štátne Hunfalvyho gymnázium
 - **1939–41** — **Rudolf Hajman (kominár)** v tlači: pokladník → tajomník → **výkonný tajomník kominárskeho odborového spolku** v Kassa
 - **1.12.1940** — sčítanie 1940: Rusinkovci už v dome č. 22 — a v domácnosti **neznáma sestra Anna** (*po 1930!); Hanisové stále v dome 57, **Alžbeta (16) v službe v Prešove** na Floriánovej 7
-- **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — podľa matriky Valaská; jeho rodičov zatiaľ nepoznáme
+- **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — jeho rodný list uvádza rodičov **Jozefa Lička \*22.5.1912** a **Matildu rod. Novekovú**, vtedy dvadsaťročnú ✅
 - **16.11.1944** — narodila sa **Irena Hajmanová** v Košiciach (vtedy Kassa) ⭐
 - **12/1944 – 2/1945** — **odvlečenie mužov z okolia Prešova na kopanie zákopov v Medzeve**: 17-ročný **Andrej Rusinko** (dedov brat) 8.12.1944 – 8.2.1945; **Fejerčákovci** Andrej z Bajerova, Jozef a Juraj z Janova (5–6 týždňov, bez odmeny). Doložené repatriačnými dotazníkmi 1946 ✅
 - **19.1.1945** — oslobodenie Rokycian; **1945** — hudobník Ladislav Hajman sa vracia z Perecesa do Košíc
@@ -105,6 +106,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **17.2.1989** — zomrel **Ján Dzuriček \*1917** (manžel Márie rod. Hanisovej, babkinej sestry; 71 r., hrob Žipov); **1989** zomrel aj **Ferdinand Ginelli** (\*1913, huslista — Magdin manžel, z náhrobku sk. 91) (dožil sa ~76 r.)
 - **22.9.1991** — zomrel **Rudolf Hajman** (\*22.1.1910, kominár, Irenin otec) v Košiciach-Juh vo veku 81 rokov ✅ (matrika KE-Juh, 4.8.2026); **pohreb 27.9.1991**, hrob sk. 1
 - **~1992** — zomrel **Ján Hajman** (\*1913, kožušník; hrob sk. 1MÚZEUM 1A/2 s manželkou Alžbetou \*1922 — z náhrobku) (dožil sa ~79 r.)
+- **5.4.1994** — zomrela **Helena Hajmanová rod. Škodová** v Košiciach vo veku 75 rokov ✅ (matrika KE-Západ) — štyri dni po narodeninách
 - **11.4.1994** — pohreb **Heleny Hajmanovej rod. Škodovej** — hrob sk. 1 ✅ (nájomkyňa hrobu: Irena Lorenowiczová, Lichardova 30)
 
 ## Súčasnosť

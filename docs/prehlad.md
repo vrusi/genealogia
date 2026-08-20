@@ -25,13 +25,13 @@ Obe rodiny vystupujú v matrikách aj pod prímenami po dome — Fejerčákovci 
 
 ### Ličko–Lorenowicz — Horehronie a Halič
 
-**Jozef Ličko** (\*18.1.1942 Valaská, †okolo roku 1982) bol majstrom vo Východoslovenských strojárňach a futbalovým rozhodcom; s Irenou Hajmanovou mali dcéry Zdenu \*1966 a **mamu Martu \*1970**. Rod Ličko je na Horehroní doložený od roku **1656**; Ličkovci pálili uhlie a kuli klince pre železiarsky komplex Hronec–Podbrezová.
+**Jozef Ličko** (\*18.1.1942 Valaská, †~1982), syn **Jozefa Lička \*22.5.1912** a **Matildy rod. Novekovej**, bol majstrom vo Východoslovenských strojárňach a futbalovým rozhodcom; s Irenou Hajmanovou mali dcéry Zdenu \*1966 a **mamu Martu \*1970**. Rod Ličko je na Horehroní doložený od roku **1656**; Ličkovci pálili uhlie a kuli klince pre železiarsky komplex Hronec–Podbrezová.
 
 **Dedo Peter Lorenowicz** — Irenin druhý manžel, ktorý si mamu a Zdenu osvojil a vychoval. Rod Lorenowicz pochádza z okolia Przemyśla, do Košíc prišla rodina z Chomutova za prácou v železiarňach.
 
 ### Hajman + Suver — Somogy a Abov cez Budapešť do Košíc
 
-**Rudolf Hajman** (\*22.1.1910, †22.9.1991), kominár a odborový funkcionár, ⚭ **Helena rod. Škodová** (1919–1994); ich deti **Irena** (\*16.11.1944, †20.4.2015) a **Rudolf ml.**, ktorý emigroval do Kanady.
+**Rudolf Hajman** (\*22.1.1910, †22.9.1991), kominár a odborový funkcionár, ⚭ **Helena rod. Škodová** (\*1.4.1919 Košice, †5.4.1994 Košice); ich deti **Irena** (\*16.11.1944, †20.4.2015) a **Rudolf ml.**, ktorý emigroval do Kanady.
 
 Rudolfovi rodičia: **Ferenc Hajman** (\*31.7.1873 Szőlőskislak) a **Alžbeta rod. Suverová** (\*6.3.1876 Mokrance), sobáš **4.2.1900 v Budapešti**; ich prvý syn Jozef sa narodil ešte pred svadbou. Rudolfovi bratia: Jozef, František, **Ján** (kožušník) a **Ladislav** (hudobník rozhlasového orchestra).
 

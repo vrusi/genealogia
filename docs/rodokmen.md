@@ -19,7 +19,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 
 - Ján Rusinko 1923–2006 (dožil sa ~83 r.) — **starý otec (otcova strana)**
 - Anna Rusinková rod. Hanisová 1928–2000 (dožila sa ~72 r.) — **stará mama (otcova strana)**
-- Jozef Ličko \*18.1.1942 Valaská (okr. Brezno), †okolo 1982 — **starý otec (mamina strana)**
+- Jozef Ličko \*18.1.1942 Valaská (okr. Brezno), †~1982 — **starý otec (mamina strana)**
 - Peter Lorenowicz \*26.2.1950 Chomutov, žije — **starý otec (mamina strana)**: Irenin druhý manžel; po smrti Jozefa Lička si mamu a Zdenu osvojil a vychoval; žije v rodinnom dome na Lichardovej 30
 - Irena rod. Hajmanová 1944–2015 (dožila sa ~70 r.) — **stará mama (mamina strana)**
 
@@ -27,8 +27,8 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 
 - Ján Rusinko 1898–1980 (dožil sa ~82 r.) & Anna rod. Fejerčáková 1895–1967 (dožila sa ~72 r.) — *prastarí, otcova strana (Rusinko)*
 - Jozef Hanis ~1894–1929 & Anna rod. Dzurendová \*1900 — *prastarí, otcova strana (Hanis)*
-- Rudolf Hajman 1910–1991 & Helena rod. Škodová 1919–1994 (dožila sa ~75 r.) — *prastarí, mamina strana (Hajman)*
-- rodičia Jozefa Lička — *neznámi — hľadať v matrike Valaská (rodný list Jozefa \*1942), mamina strana (Ličko)*
+- Rudolf Hajman \*22.1.1910 Košice, †22.9.1991 Košice & Helena rod. Škodová \*1.4.1919 Košice, †5.4.1994 Košice (dožila sa 75 r.) — *prastarí, mamina strana (Hajman)*
+- Jozef Ličko st. \*22.5.1912 & Matilda rod. Noveková \*~1921 — *prastarí, mamina strana (Ličko); doložení rodným listom syna z matriky Valaská*
 - Michal Rusinko & Mária rod. Gumanová (Bujakov, ~\*1820–35) — \*3× prastarí, otcova strana; rodičia Ondreja \*1857, doložení krstami svojich detí 1857–1862*
 
 **Praprastarí rodičia (4) — „2× pra":**
@@ -110,12 +110,12 @@ graph TD
     KS["🟡 Katarína Škodová<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
   end
   subgraph mgen3["~1895–1920 — pradedovia"]
-    LX["❔ rodičia Jozefa Lička<br>zatiaľ neznámi"]
+    LX["🟡 Jozef Ličko st. *22.5.1912<br>a Matilda rod. Noveková *~1921<br>rodiská zatiaľ neznáme"]
     RH["🟢 Rudolf Hajman<br>kominár · *22.1.1910 Košice †22.9.1991<br>hrob VC Košice sk. 1"]
-    HS["🟢 Helena rod. Škodová<br>1919–1994 · hrob VC sk. 1<br>(poľský pôvod?)"]
+    HS["🟢 Helena rod. Škodová<br>*1.4.1919 Košice †5.4.1994 Košice<br>hrob VC sk. 1 · (poľský pôvod?)"]
   end
   subgraph mgen2["dedovia"]
-    JL["🟡 Jozef Ličko<br>*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†1981+ (rakovina)"]
+    JL["🟡 Jozef Ličko<br>*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†~1982 (rakovina)"]
     IH["🟢 Irena Hajmanová<br>*16.11.1944 †20.4.2015 Košice<br>†ako Lorenowiczová; kremácia, bez hrobu"]
     PL["🧡 Peter Lorenowicz/Lorenovicz<br>*26.2.1950 Chomutov (ČR), žije — dom Lichardova 30<br>⚭2 Irena; mamu a Zdenu si osvojil a vychoval<br>brat Dmytro 1946–2020, sestra Tatiana vyd. Elleder (DE)<br>matka Mária †KE ~2000; do KE za prácou vo VSŽ"]
   end
