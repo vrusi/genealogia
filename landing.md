@@ -4,7 +4,7 @@
 
 <div class="fakt-pas">
 <span>🌳 7 doložených generácií</span>
-<span>👥 120+ osôb</span>
+<span>👥 145 osôb</span>
 <span>📜 najstarší záznam: 1715</span>
 <span>🌍 🇸🇰 🇭🇺 🇵🇱 🇨🇿 🇨🇦 🇺🇸</span>
 </div>

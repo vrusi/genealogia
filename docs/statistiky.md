@@ -2,6 +2,8 @@
 
 Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v rodine](zamestnania.md) · zostavené 22.7.2026 z doložených dátumov (~32 osôb s úplnými rokmi narodenia aj úmrtia). Hodnoty s ~ sú približné (rok bez presného dňa).
 
+⚠️ **Čísla v tomto súbore treba prepočítať.** Boli zostavené 22.7.2026 z ~32 osôb s úplnými dátumami; k 20.8.2026 ich má databáza **48**. Nejde len o úvodnú vetu — na tej istej množine stoja aj priemery dĺžky života, odstupy generácií a poradia, takže sa musí prepočítať celý súbor, nie prepísať jedno číslo.
+
 ## Dĺžka života
 
 **Priemer: ženy ~74 rokov, muži ~69 rokov** (16 + 16 doložených osôb).

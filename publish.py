@@ -140,6 +140,15 @@ def main():
     except ImportError:
         pass
 
+    # Počty sú najtichšia forma zastarania — v texte nie je meno ani dátum,
+    # len číslo, takže kontrola rozporov o ne ani nezavadí.
+    try:
+        import kontrola_cisel
+        if kontrola_cisel.main() != 0:
+            print("⚠️  ^ Čísla v textoch nesedia s databázou.\n")
+    except ImportError:
+        pass
+
     if DOCS.exists():
         shutil.rmtree(DOCS)
     DOCS.mkdir(parents=True)
