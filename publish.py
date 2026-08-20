@@ -130,6 +130,16 @@ def main():
     except ImportError:
         print("⚠️  generuj.py nenájdený — publikujem existujúce súbory")
 
+    # Rozprávanie sa píše ručne a kopíruje údaje, ktoré v databáze medzitým
+    # pribudli — taká kópia potom ticho klame. Nezastavuje publikovanie
+    # (text môže mať dôvod líšiť sa), ale musí byť vidieť.
+    try:
+        import kontrola_textov
+        if kontrola_textov.main() != 0:
+            print("⚠️  ^ Rozprávanie sa rozchádza s databázou — opraviť v texte alebo v dátach.\n")
+    except ImportError:
+        pass
+
     if DOCS.exists():
         shutil.rmtree(DOCS)
     DOCS.mkdir(parents=True)
