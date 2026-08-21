@@ -1,33 +1,36 @@
 # Štatistiky rodiny
 
-Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v rodine](zamestnania.md) · zostavené 22.7.2026 z doložených dátumov (~32 osôb s úplnými rokmi narodenia aj úmrtia). Hodnoty s ~ sú približné (rok bez presného dňa).
+Súvisí: [Prehľad](prehlad.md) · [Stav osôb](stav-osob.md) · [Zamestnania v rodine](zamestnania.md) · prepočítané 21.8.2026 z databázy — **48 osôb má doložený rok narodenia aj úmrtia**, z toho 3 zomreli v detstve; ďalší traja zomreli ešte v roku narodenia. Hodnoty s ~ sú približné (rok bez presného dňa).
 
-⚠️ **Čísla v tomto súbore treba prepočítať.** Boli zostavené 22.7.2026 z ~32 osôb s úplnými dátumami; k 20.8.2026 ich má databáza **48**. Nejde len o úvodnú vetu — na tej istej množine stoja aj priemery dĺžky života, odstupy generácií a poradia, takže sa musí prepočítať celý súbor, nie prepísať jedno číslo.
+⚠️ Prepočítaná je **dĺžka života**. Ostatné sekcie (vdovské roky, vekové rozdiely, generačný interval, mená) sú stále zostavené ručne k 22.7.2026 — nie sú nesprávne, len nezahŕňajú osoby pridané odvtedy.
 
 ## Dĺžka života
 
-**Priemer: ženy ~74 rokov, muži ~69 rokov** (16 + 16 doložených osôb).
+**Priemer dospelých: ženy 74 rokov, muži 67 rokov** (22 + 23 doložených osôb). Detské úmrtia sa do priemerov nerátajú — inak by ich stiahli tak, že by prestali hovoriť o dĺžke života a začali hovoriť o dojčenskej úmrtnosti.
 
 | Skupina | Priemer | Najdlhšie | Najkratšie |
 |---|---|---|---|
-| narodení pred 1900 | ~66 r. | Katarína Škodová 88 | Juraj Guľas 32 |
-| narodení 1900–1950 | ~75 r. | Štefan, Andrej, Emília, Mária H. — všetci **90** | Jozef Ličko ~40 |
-| ženy | ~74 r. | Emília a Mária Holmáňová 90 | Mária Dzuričková 45 |
-| muži | ~69 r. | Štefan a Andrej Rusinkovci 90 | Juraj Guľas 32 |
+| všetci dospelí (n=45) | 70 r. | Verona Kašperová 91 | Juraj Guľas 32 |
+| narodení pred 1900 (n=15) | 63 r. | Anna Maciaková 91 | Juraj Guľas 32 |
+| narodení 1900–1950 (n=29) | 74 r. | Verona Kašperová 91 | Jozef Ličko 40 |
+| ženy (n=22) | 74 r. | Verona Kašperová 91 | Anna Hajmanová 41 |
+| muži (n=23) | 67 r. | Štefan Rusinko 90 | Juraj Guľas 32 |
+
+**Šesť detí, ktoré sa nedožili pätnástich** — a päť z nich je z jedinej vetvy: Adam Fejerčák a nekrstené dieťa Fejerčákovcov (obaja zomreli v roku narodenia), Ondrej Fejerčák (†0), Ondrej Fejerčák (†2), Ján Fejerčák (†3) a János Suver (†1). Peter Fejerčák a Mária Guľasová pochovali päť detí a dospelosti sa dožila jediná — prababka Anna.
 
 ```mermaid
 xychart-beta
-    title "Priemerná dĺžka života podľa vetvy (doložené úmrtia; n = počet osôb)"
-    x-axis ["Rusinko (n=7)", "Škoda (n=2)", "Lorenowicz (n=1)", "Hajman (n=9)", "Hanis+Dzuriček (n=3)", "Ličko (n=1)", "Guľas (n=1)"]
+    title "Priemerná dĺžka života dospelých podľa vetvy (n = počet osôb)"
+    x-axis ["Rusinko (n=9)", "Hajman-Skoda (n=18)", "Hanis-Dzurenda (n=8)", "Licko-Lorenowicz (n=6)", "Fejercak-Gulas (n=4)"]
     y-axis "roky" 0 --> 100
-    bar [83, 82, 74, 73, 50, 40, 32]
+    bar [83, 70, 68, 65, 55]
 ```
 
-Ličko a Lorenowicz sú v poznámkach jedna „vetva" (spája ich Irena), ale pokrvne sú to dve rodiny — v štatistike preto samostatne. Pri vetvách s n=1–2 je „priemer" len osud jednotlivca: Ličko = Jozef (~40), Lorenowicz = Dmytro (74), Guľas = Juraj (32). Etela Lischková (~83) nie je započítaná — jej príbuznosť zatiaľ nie je doložená.
+Vetvy sú brané tak, ako sú vedené v databáze; Ličkovci a Lorenowiczovci tvoria jednu (spája ich Irena), hoci pokrvne sú to dve rodiny. Etela Lischková nie je započítaná — jej príbuznosť zatiaľ nie je doložená.
 
-- ⭐ **Rusinkovská dlhovekosť**: vetva Rusinko má priemer ~83 rokov — štyria z nej sa dožili presne ~90 (Štefan, Andrej, Emília, Mária Holmáňová). Ak sa niečo dedí, tak toto.
+- ⭐ **Rusinkovská dlhovekosť**: vetva Rusinko má priemer **83 rokov** a je najvyššia zo všetkých — štyria z nej sa dožili ~90 (Štefan, Andrej, Emília, Mária Holmáňová). Ak sa niečo dedí, tak toto.
 - **Traja otcovia, ktorí zomreli mladí** — a zakaždým to prepísalo osud rodiny: Juraj Guľas (32, †1866 — vdova Alžbeta s deťmi), Jozef Hanis (34, †1929 — vdova Anna s dcérami), Jozef Ličko (~40, †~1981–83 — vdova Irena, dcéry adoptoval Peter Lorenowicz).
-- Vetva Fejerčák–Guľas má zatiaľ len 1 doložené úmrtie — priemer sa zdvihne, keď odpovie fara Bajerov.
+- Vetva Fejerčák–Guľas má najnižší priemer (55 r., n=4) a zároveň všetky detské úmrtia — o dospelých z nej vieme najmenej. Priemer sa zmení, keď odpovie fara Bajerov.
 
 ## Vdovské roky (kto koho prežil)
 
@@ -74,7 +77,7 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 
 ## Krstné mená naprieč stromom
 
-**Úplný zoznam: 36 rôznych krstných mien na 103 pomenovaných osobách** — pokrvní príbuzní, ich manželia a deti zo všetkých vetiev. Pri každej osobe je uvedený jej vzťah k rodine. Maďarské a latinské podoby toho istého mena sú zlúčené (Ján = János = Joannes, Ondrej = András = Andrej, František = Ferenc = Franciscus).
+**Úplný zoznam nižšie: 36 rôznych krstných mien na 103 pomenovaných osobách** (stav k 22.7.2026; databáza ich má dnes 68 na 153 osobách — rozpis nižšie ešte nie je doplnený) — pokrvní príbuzní, ich manželia a deti zo všetkých vetiev. Pri každej osobe je uvedený jej vzťah k rodine. Maďarské a latinské podoby toho istého mena sú zlúčené (Ján = János = Joannes, Ondrej = András = Andrej, František = Ferenc = Franciscus).
 
 ### Mená s viacerými nositeľmi
 
