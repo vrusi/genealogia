@@ -11,6 +11,8 @@ Babkina otcovská rodina zo **Žipova** pri Prešove. Je to vetva poznačená je
 - Jej matka **Anna rod. Dzurendová** **\*24.11.1900 Žipov**, dcéra **Andreja Dzurendu a Alžbety rod. Šoltésovej** — títo dvaja sú 2× prastarí rodičia.
 - **Sestry babky Anny:** **Alžbeta** \*3.6.1924 a **Mária** \*22.1.1926.
 
+**Odkiaľ Dzurendovci prišli.** Sobášne zápisy z Bajerova posúvajú túto líniu o dve generácie ďalej. Andrej Dzurenda sa **6. novembra 1894** ako dvadsaťštyriročný oženil s **Alžbetou Šoltésovou**, dcérou **Jakuba Šoltésa a Márie rodenej Koščíkovej**. Jeho vlastní rodičia boli **Juraj Dzurenda a Barbora rodená Jurčašková** — a tí sa brali **10. júna 1867**, keď mal ženích dvadsaťšesť a nevesta dvadsaťdva. Zápis ich obidvoch usadzuje priamo v Žipove, dokonca s číslami domov: on býval v **dome 43**, ona v **dome 22**. Juraj bol synom staršieho Juraja a **Anny rodenej Matisovej**, Barbora dcérou **Michala Jurčaška a Alžbety rodenej Čordošovej**. Farár ich zapísal ako *plebei* — prostý ľud bez pôdy.
+
 **Mária a Dzuričekovci.** Mária sa vydala za **Jána Dzuričeka** (\*1917, †1989) a zomrela mladá, roku 1971. Doložil ich spoločný náhrobok:
 
 ![](prilohy/hrob-maria-dzurickova-rod-hanisova-1926-1971-zipov.jpeg)
@@ -30,5 +32,5 @@ Je to vzácne meno. V celom Slovensku ho roku 1995 nosilo iba **20 mužov a 27 �
 ## Čo ešte nevieme
 
 - **Jozefovi rodičia** — kto boli a odkiaľ prišiel do Žipova. Odpoveď je v jeho sobáši s Annou (medzi rokmi 1918 a 1927) a v jeho krste okolo roku 1894; obidva doklady má farský úrad Bajerov, ktorý sme oslovili.
-- **Dzurendovci** — krsty a sobáš Andreja a Alžbety. Priezvisko je v Žipove doložené už v súpise 1715 v podobe „Durenda", takže tu bola rodina dávno.
+- **Dzurendovci** — krsty. Sobáše Andreja (1894) aj jeho rodičov (1867) už máme; chýbajú krstné zápisy, najmä Jurajov okolo roku 1841. Priezvisko je v Žipove doložené už v súpise 1715 v podobe „Durenda", takže tu bola rodina dávno.
 - **Hrob Jozefa Hanisa** — žipovský cintorín nie je nikde digitalizovaný, evidenciu vedie len obec.

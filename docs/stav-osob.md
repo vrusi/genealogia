@@ -48,6 +48,14 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 ## Vetva Hanis–Dzurenda
 
 <div class="osoby-grid">
+<div class="osoba" id="alzbeta-rod-cordosova"><b>Alžbeta Jurčašková rod. Čordošová</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="anna-rod-matisova"><b>Anna Dzurendová rod. Matisová</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="barbora-rod-jurcaskova"><b>Barbora Dzurendová rod. Jurčašková</b><span class="osoba-kto"></span><span class="osoba-datumy">*~1845</span></div>
+<div class="osoba" id="jakub-soltes"><b>Jakub Šoltés</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="juraj-dzurenda"><b>Juraj Dzurenda</b><span class="osoba-kto"></span><span class="osoba-datumy">*~1841</span></div>
+<div class="osoba" id="juraj-dzurenda-st"><b>Juraj Dzurenda</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="maria-rod-koscikova"><b>Mária Šoltésová rod. Koščíková</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="michal-jurcasko"><b>Michal Jurčaško</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
 <div class="osoba" id="jozef-hanis"><b>Jozef Hanis</b><span class="osoba-kto">prastarý otec, otec <a href="#babka-anna-rod-hanisova">babky Anny</a>, zomrel ako 34-ročný</span><span class="osoba-datumy">*~1894, †11.1.1929 Žipov</span></div>
 <div class="osoba" id="anna-rod-dzurendova"><b>Anna rod. Dzurendová</b><span class="osoba-kto">prastará matka, žena <a href="#jozef-hanis">Jozefa Hanisa</a>, dcéra <a href="#andrej-dzurenda">Andreja Dzurendu a Alžbety</a></span><span class="osoba-datumy">*24.11.1900 Žipov</span></div>
 <div class="osoba" id="andrej-dzurenda"><b>Andrej Dzurenda</b><span class="osoba-kto">rodičia <a href="#anna-rod-dzurendova">Anny rod. Dzurendovej</a>, Žipov</span><span class="osoba-datumy">*11.11.1870</span></div>
