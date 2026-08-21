@@ -12,6 +12,17 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 ## Vetva Rusinko
 
 <div class="osoby-grid">
+<div class="osoba" id="anna-r-1865"><b>Anna Rusinková</b><span class="osoba-kto"></span><span class="osoba-datumy">*12.4.1865 Bujakov</span></div>
+<div class="osoba" id="anna-r-1867"><b>Anna Rusinková</b><span class="osoba-kto"></span><span class="osoba-datumy">*9.7.1867 Bujakov</span></div>
+<div class="osoba" id="anna-r-1883"><b>Anna Rusinková</b><span class="osoba-kto"></span><span class="osoba-datumy">*15.7.1883 Bujakov</span></div>
+<div class="osoba" id="anna-rod-szalokiova"><b>Anna Murinová rod. Szalókiová</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="barbora-r-1876"><b>Barbora Rusinková</b><span class="osoba-kto"></span><span class="osoba-datumy">*7.12.1876 Bujakov</span></div>
+<div class="osoba" id="juraj-murin-st"><b>Juraj Murin</b><span class="osoba-kto"></span><span class="osoba-datumy">*?</span></div>
+<div class="osoba" id="maria-r-1870"><b>Mária Rusinková</b><span class="osoba-kto"></span><span class="osoba-datumy">*11.3.1870 Bujakov</span></div>
+<div class="osoba" id="maria-r-1882"><b>Mária Rusinková</b><span class="osoba-kto"></span><span class="osoba-datumy">*11.3.1882 Bujakov</span></div>
+<div class="osoba" id="maria-rod-murinova"><b>Mária Rusinková rod. Murinová</b><span class="osoba-kto"></span><span class="osoba-datumy">*~1859</span></div>
+<div class="osoba" id="michal-r-1874"><b>Michal Rusinko</b><span class="osoba-kto"></span><span class="osoba-datumy">*1.5.1874 Bujakov</span></div>
+<div class="osoba" id="stefan-r-1884"><b>Štefan Rusinko</b><span class="osoba-kto"></span><span class="osoba-datumy">*26.12.1884 Bujakov</span></div>
 <div class="osoba" id="otec-jozef-rusinko"><b>otec Jozef Rusinko</b><span class="osoba-kto">Veronikin otec, syn <a href="#dedo-jan-rusinko">deda Jána</a> a <a href="#babka-anna-rod-hanisova">babky Anny</a></span><span class="osoba-datumy">*13.2.1968</span></div>
 <div class="osoba" id="dedo-jan-rusinko"><b>dedo Ján Rusinko</b><span class="osoba-kto">Veronikin starý otec z otcovej strany, syn <a href="#jan-rusinko">Jána Rusinka</a> a <a href="#anna-rod-fejercakova">Anny rod. Fejerčákovej</a></span><span class="osoba-datumy">*29.1.1923 Rokycany, †4.4.2006 Košice</span></div>
 <div class="osoba" id="babka-anna-rod-hanisova"><b>babka Anna rod. Hanisová</b><span class="osoba-kto">manželka <a href="#dedo-jan-rusinko">deda Jána</a>, dcéra <a href="#jozef-hanis">Jozefa Hanisa</a> a <a href="#anna-rod-dzurendova">Anny rod. Dzurendovej</a></span><span class="osoba-datumy">*4.12.1928 Žipov, †2000</span></div>
