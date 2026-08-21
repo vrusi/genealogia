@@ -128,6 +128,85 @@ Materská línia Veroniky je pozoruhodne pravidelná — **22 až 27 rokov, pä�
 
 *Nezapočítané sú osoby, ktorých meno zatiaľ nepoznáme: piate dieťa Jána a Anny Rusinkovcov († pred 1930), dieťa Anny Huterovej z pôrodu roku 1879 a rodičia Jozefa Hanisa aj Jozefa Lička.*
 
+## Znamenia v rodine (pre zábavu)
+
+Presný deň narodenia máme u **49** ľudí — toľkých sa dá zaradiť do znamenia.
+
+| Znamenie | Počet | |
+|---|---|---|
+| **Vodnár** | 6 | ██████ |
+| **Rak** | 6 | ██████ |
+| **Strelec** | 6 | ██████ |
+| **Býk** | 5 | █████ |
+| **Váhy** | 4 | ████ |
+| **Ryby** | 4 | ████ |
+| **Baran** | 4 | ████ |
+| **Lev** | 3 | ███ |
+| **Škorpión** | 3 | ███ |
+| **Panna** | 3 | ███ |
+| **Kozorožec** | 3 | ███ |
+| **Blíženci** | 2 | ██ |
+
+**Živly:** oheň 13 · voda 13 · vzduch 12 · zem 11 — rozložené takmer rovnomerne, žiadna rodinná prevaha.
+
+### Kto je čo
+
+- **Vodnár** — Adam Fejerčák 1892 · Jozef Rusinko 1968 · Ján Rusinko 1923 · Mária Dzuričeková 1926 · Ondrej Rusinko 1857 · Rudolf Hajman 1910
+- **Rak** — Anna Rusinková 1867 · Anna Rusinková 1883 · Dmytro Lorenovicz 1946 · Ján Rusinko 1859 · Mária Rusinková 1934 · Peter Fejerčák 1860
+- **Strelec** — Anna Hanisová 1900 · Anna Rusinková 1928 · Barbora Rusinková 1876 · Emília Rusinková 1925 · František Hajman 1900 · Ján Dzuriček 1874
+- **Býk** — Jozef Hajman 1898 · Ján Dzuriček 1917 · Ján Rusinko 1898 · Michal Rusinko 1874 · Tibor Hajman 1926
+- **Váhy** — Anna Rusinková 1895 · Marta Hajmanová 1902 · nekrstené dieťa Fejerčák 1893 · Štefan Rusinko 1925
+- **Ryby** — Alžbeta Hajmanová 1876 · Mária Rusinková 1870 · Mária Rusinková 1882 · Peter Lorenowicz 1950
+- **Baran** — Anna Rusinková 1865 · Helena Hajmanová 1919 · Mária Ginelliová 1950 · Mária Hajmanová 1942
+- **Lev** — Ferenc Hajman 1873 · Magda (Magdaléna) Ginelliová 1923 · Mária Fejerčáková 1861
+- **Škorpión** — Andrej Dzurenda 1870 · Irena Hajmanová 1944 · Veronika Rusinková 1997
+- **Panna** — Andrej Rusinko 1927 · Mária Hajmanová 1869 · Mária Rusinková 1921
+- **Kozorožec** — Jozef Ličko 1942 · Marta Rusinková 1970 · Štefan Rusinko 1884
+- **Blíženci** — Alžbeta Hanisová 1924 · Jozef Ličko 1912
+
+### Mesiac
+
+Znamenie Mesiaca sa dá dopočítať aj bez hodiny narodenia, lebo Mesiac prejde znamením za dva a pol dňa:
+
+| Znamenie | Počet | |
+|---|---|---|
+| **Blíženci** | 7 | ███████ |
+| **Lev** | 7 | ███████ |
+| **Býk** | 6 | ██████ |
+| **Panna** | 4 | ████ |
+| **Vodnár** | 4 | ████ |
+| **Baran** | 4 | ████ |
+| **Rak** | 4 | ████ |
+| **Strelec** | 4 | ████ |
+| **Škorpión** | 4 | ████ |
+| **Váhy** | 3 | ███ |
+| **Kozorožec** | 2 | ██ |
+
+⚠️ **25 z 49** vyšlo tak blízko hranice, že by ich presná hodina narodenia prehodila do susedného znamenia. Tú polovicu treba brať ako odhad.
+
+**Ascendent sa dopočítať nedá vôbec.** Točí sa cez všetkých dvanásť znamení za jediný deň, takže ho určuje výlučne hodina narodenia — a tú nepoznáme ani u jedného člena rodiny. Dala by sa vyčítať z originálov civilných matrík po roku 1895, kde sa hodina zapisovala.
+
+### Kedy sa rodilo
+
+| Mesiac | Počet | |
+|---|---|---|
+| január | 5 | █████ |
+| február | 4 | ████ |
+| marec | 5 | █████ |
+| apríl | 4 | ████ |
+| máj | 4 | ████ |
+| jún | 1 | █ |
+| júl | 7 | ███████ |
+| august | 2 | ██ |
+| september | 5 | █████ |
+| október | 2 | ██ |
+| november | 5 | █████ |
+| december | 5 | █████ |
+
+**Dni v týždni:** pondelok 10 · utorok 10 · piatok 8 · sobota 8 · nedeľa 6 · streda 4 · štvrtok 3.
+
+Vyzerá to, akoby sa v niektorých mesiacoch rodilo výrazne viac — ale nie je to pravda. Chí-kvadrát test proti rovnomernému rozdeleniu dáva **χ² = 7.46** pri jedenástich stupňoch voľnosti, kým hranica významnosti je 19,7. Inak povedané: pri päťdesiatich ľuďoch vychádza na mesiac zhruba štyri narodenia a rozdiel medzi „veľa" a „málo" je jeden či dvaja ľudia — čistá náhoda. Skutočná sezónnosť pôrodov v strednej Európe existuje, vrchol bol koncom zimy a na jar, ale je príliš jemná na to, aby sa v rodine tejto veľkosti dala zbadať.
+
 ## Nemanželské deti (línia Suver)
 
 Doložené v matrikách: **3 nemanželské narodenia v dvoch generáciách tej istej ženskej línie** — Alžbeta Suverová (\*1876, matka slúžka v Mokranciach), jej brat(?) János (\*1884, tá istá matka) a Jozef Hajman (\*1898 Budapešť, matka Alžbeta slúžka; legitimizovaný sobášom 1900). Vzorec „slúžka → nemanželské dieťa" sa opakoval matka → dcéra. V dobovom Uhorsku bolo nemanželských ~7–10 % narodení — u Suverovcov to nebola anomália jednotlivca, ale sociálna pasca chudoby.
