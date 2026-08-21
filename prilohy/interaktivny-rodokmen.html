@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<title>Interaktívny rodokmeň</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://unpkg.com/d3@7"></script>
+<script src="https://unpkg.com/family-chart@0.9.0/dist/family-chart.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/family-chart@0.9.0/dist/styles/family-chart.css">
+<style>
+  html,body{margin:0;height:100%;font-family:Figtree,-apple-system,Segoe UI,sans-serif}
+  #FamilyChart{width:100%;height:100%;background:#28222e;color:#fff}
+  .f3 .card-male .card-body-rect, .f3 .card-male .text-overflow-mask{fill:#4a3d5c}
+  .f3 .card-female .card-body-rect, .f3 .card-female .text-overflow-mask{fill:#8a4f6d}
+  .f3 .card_add .card-body-rect{fill:#444}
+  .f3 rect.card-main-outline{stroke:#dfa0c0;stroke-width:3px}
+  .f3 .link{stroke:#b9a8c9;stroke-width:1.5px}
+  .profil-btn{cursor:pointer}
+  .panel{position:absolute;top:10px;left:10px;z-index:5;background:rgba(40,34,46,.88);color:#eee;
+    padding:10px 14px;border-radius:10px;font-size:13px;line-height:1.5;max-width:330px;box-shadow:0 1px 8px rgba(0,0,0,.4)}
+  .panel b{color:#dfa0c0}
+  .panel .hint{color:#bbb;font-size:12px}
+</style>
+</head>
+<body>
+<div class="panel">
+  <b>Interaktívny rodokmeň</b> — obe strany rodiny v jednom strome.<br>
+  <span class="hint">Ťahaj myšou = posun · koliesko = zoom · klik na kartu = precentrovať na osobu ·
+  <b>ⓘ</b> = profil osoby v registri Stav osôb.
+  Sivá minikoruna na karte = ďalší príbuzní, kliknutím sa rozbalia.
+  Najhlbší predok Joannes Rusinko (súpis 1715) nemá doložené spojenie, preto v strome nie je.
+  🟡 = doložené nepriamo.</span>
+</div>
+<div id="FamilyChart" class="f3"></div>
+<script>
+const P = "../stav-osob/#"; // kotvy boxíkov v registri Stav osôb
+
+const DATA = [
+  {id:"veronika", data:{gender:"F", label:"Veronika Rusinková", dates:"*21.11.1997"},
+   rels:{parents:["jozef-r-1968","marta"]}},
+  {id:"jozef-r-1968", data:{gender:"M", label:"Jozef Rusinko", dates:"*13.2.1968", link:P+"otec-jozef-rusinko"},
+   rels:{parents:["jan-r-1923","anna-hanisova"], spouses:["marta"], children:["veronika"]}},
+  {id:"marta", data:{gender:"F", label:"Marta rod. Ličková", dates:"*16.1.1970", link:P+"mama-marta"},
+   rels:{parents:["jozef-licko","irena"], spouses:["jozef-r-1968"], children:["veronika"]}},
+  {id:"zdena", data:{gender:"F", label:"Zdena rod. Ličková (Diana)", dates:"*1966", link:P+"zdena-diana"},
+   rels:{parents:["jozef-licko","irena"]}},
+  {id:"viktor", data:{gender:"M", label:"Viktor Ličko", dates:"", link:P+"viktor"},
+   rels:{parents:["jozef-licko"]}},
+  {id:"jan-r-1923", data:{gender:"M", label:"Ján Rusinko", dates:"*29.1.1923 †4.4.2006", link:P+"dedo-jan-rusinko"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"], spouses:["anna-hanisova"], children:["jozef-r-1968"]}},
+  {id:"anna-hanisova", data:{gender:"F", label:"Anna rod. Hanisová", dates:"*4.12.1928 †2000", link:P+"babka-anna-rod-hanisova"},
+   rels:{parents:["jozef-hanis","anna-dzurendova"], spouses:["jan-r-1923"], children:["jozef-r-1968"]}},
+  {id:"jozef-licko", data:{gender:"M", label:"Jozef Ličko", dates:"*18.1.1942 †~1982", link:P+"jozef-licko"},
+   rels:{parents:["jozef-licko-st","matilda-novekova"], spouses:["irena"], children:["marta","zdena","viktor"]}},
+  {id:"jozef-licko-st", data:{gender:"M", label:"Jozef Ličko st.", dates:"*22.5.1912", link:P+"jozef-licko-st"},
+   rels:{spouses:["matilda-novekova"], children:["jozef-licko"]}},
+  {id:"matilda-novekova", data:{gender:"F", label:"Matilda rod. Noveková", dates:"*~1921", link:P+"matilda-lickova-rod-novekova"},
+   rels:{spouses:["jozef-licko-st"], children:["jozef-licko"]}},
+  {id:"peter-loren", data:{gender:"M", label:"Peter Lorenowicz", dates:"*26.2.1950", link:P+"dedo-peter-lorenowicz"},
+   rels:{parents:["maria-lorenoviczova"], spouses:["irena"], children:["marta","zdena"]}},
+  {id:"irena", data:{gender:"F", label:"Irena rod. Hajmanová", dates:"*16.11.1944 †20.4.2015", link:P+"babka-irena-hajmanova"},
+   rels:{parents:["rudolf","helena"], spouses:["jozef-licko","peter-loren"], children:["marta","zdena"]}},
+  {id:"rudolf-ml", data:{gender:"M", label:"Rudolf Hajman ml.", dates:"*po 1945", link:P+"rudolf-ml"},
+   rels:{parents:["rudolf","helena"]}},
+  {id:"maria-lorenoviczova", data:{gender:"F", label:"Mária Lorenoviczová", dates:"†~2000", link:P+"maria-lorenoviczova"},
+   rels:{children:["peter-loren","dmytro","tatiana"]}},
+  {id:"dmytro", data:{gender:"M", label:"Dmytro Lorenovicz", dates:"*20.7.1946 †27.3.2020", link:P+"dmytro-lorenovicz"},
+   rels:{parents:["maria-lorenoviczova"]}},
+  {id:"tatiana", data:{gender:"F", label:"Tatiana vyd. Elleder", dates:"", link:P+"tatiana-vyd-elleder"},
+   rels:{parents:["maria-lorenoviczova"]}},
+  {id:"jan-r-1898", data:{gender:"M", label:"Ján Rusinko", dates:"*27.4.1898 †28.2.1980", link:P+"jan-rusinko"},
+   rels:{parents:["ondrej-r-1857"], spouses:["anna-fejercakova"], children:["maria-r-1921","jan-r-1923","stefan-r-1925","andrej-r-1927","anna-r-1930"]}},
+  {id:"anna-fejercakova", data:{gender:"F", label:"Anna rod. Fejerčáková", dates:"*19.10.1895 †6.1.1967", link:P+"anna-rod-fejercakova"},
+   rels:{parents:["peter-fejercak","maria-gulasova"], spouses:["jan-r-1898"], children:["maria-r-1921","jan-r-1923","stefan-r-1925","andrej-r-1927","anna-r-1930"]}},
+  {id:"maria-r-1921", data:{gender:"F", label:"Mária Rusinková", dates:"*10.9.1921", link:P+"maria"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"]}},
+  {id:"stefan-r-1925", data:{gender:"M", label:"Štefan Rusinko", dates:"*28.9.1925 †1.2.2015", link:P+"stefan-emilia"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"], spouses:["emilia"]}},
+  {id:"emilia", data:{gender:"F", label:"Emília", dates:"*6.12.1925 †5.5.2015", link:P+"emilia"},
+   rels:{spouses:["stefan-r-1925"]}},
+  {id:"andrej-r-1927", data:{gender:"M", label:"Andrej Rusinko", dates:"*5.9.1927 †5.11.2017", link:P+"andrej-maria"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"], spouses:["maria-holmanova"]}},
+  {id:"maria-holmanova", data:{gender:"F", label:"Mária rod. Holmáňová", dates:"*17.7.1934 †17.1.2024", link:P+"maria-holmanova"},
+   rels:{spouses:["andrej-r-1927"]}},
+  {id:"anna-r-1930", data:{gender:"F", label:"Anna Rusinková", dates:"*po 1930", link:P+"anna"},
+   rels:{parents:["jan-r-1898","anna-fejercakova"]}},
+  {id:"jozef-hanis", data:{gender:"M", label:"Jozef Hanis", dates:"*~1894 †11.1.1929", link:P+"jozef-hanis"},
+   rels:{spouses:["anna-dzurendova"], children:["alzbeta-hanisova","maria-dzuricekova","anna-hanisova"]}},
+  {id:"anna-dzurendova", data:{gender:"F", label:"Anna rod. Dzurendová", dates:"*24.11.1900", link:P+"anna-rod-dzurendova"},
+   rels:{parents:["andrej-dzurenda","alzbeta-soltesova"], spouses:["jozef-hanis"], children:["alzbeta-hanisova","maria-dzuricekova","anna-hanisova"]}},
+  {id:"andrej-dzurenda", data:{gender:"M", label:"Andrej Dzurenda", dates:"*11.11.1870", link:P+"andrej-dzurenda"},
+   rels:{spouses:["alzbeta-soltesova"], children:["anna-dzurendova"]}},
+  {id:"alzbeta-hanisova", data:{gender:"F", label:"Alžbeta Hanisová", dates:"*3.6.1924", link:P+"alzbeta-hanisova"},
+   rels:{parents:["jozef-hanis","anna-dzurendova"]}},
+  {id:"maria-dzuricekova", data:{gender:"F", label:"Mária vyd. Dzuričeková", dates:"*22.1.1926 †20.10.1971", link:P+"maria-dzuricekova"},
+   rels:{parents:["jozef-hanis","anna-dzurendova"], spouses:["jan-dzuricek"]}},
+  {id:"jan-dzuricek", data:{gender:"M", label:"Ján Dzuriček", dates:"*14.5.1917 †17.2.1989", link:P+"jan-dzuricek"},
+   rels:{parents:["jan-dzuricek-st"], spouses:["maria-dzuricekova"]}},
+  {id:"jan-dzuricek-st", data:{gender:"M", label:"Ján Dzuriček st.", dates:"*23.11.1874", link:P+"jan-dzuricek-st"},
+   rels:{children:["jan-dzuricek"]}},
+  {id:"rudolf", data:{gender:"M", label:"Rudolf Hajman", dates:"*22.1.1910 †22.9.1991", link:P+"rudolf-hajman"},
+   rels:{parents:["ferenc","alzbeta-suver"], spouses:["helena"], children:["irena","rudolf-ml"]}},
+  {id:"helena", data:{gender:"F", label:"Helena rod. Škodová", dates:"*1.4.1919 †5.4.1994", link:P+"helena-rod-skodova"},
+   rels:{parents:["katarina-skodova"], spouses:["rudolf"], children:["irena","rudolf-ml"]}},
+  {id:"katarina-skodova", data:{gender:"F", label:"Katarína Škodová", dates:"*1897 †1985", link:P+"katarina-skodova"},
+   rels:{children:["helena"]}},
+  {id:"jozef-h-1898", data:{gender:"M", label:"Jozef Hajman", dates:"*9.5.1898 †1977", link:P+"jozef-marta-rod-kocisova"},
+   rels:{parents:["ferenc","alzbeta-suver"], spouses:["marta-kocisova"], children:["magdalena","tibor-hajman","marta-hajmanova-ml"]}},
+  {id:"frantisek-h-1900", data:{gender:"M", label:"František Hajman", dates:"*3.12.1900", link:P+"frantisek"},
+   rels:{parents:["ferenc","alzbeta-suver"]}},
+  {id:"anna-schullerova", data:{gender:"F", label:"Anna vyd. Schullerová 🟡", dates:"*1903 †1970", link:P+"anna-vyd-schullerova"},
+   rels:{parents:["ferenc","alzbeta-suver"]}},
+  {id:"jan-h-1913", data:{gender:"M", label:"Ján Hajman", dates:"*1913 †1992", link:P+"jan-alzbeta"},
+   rels:{parents:["ferenc","alzbeta-suver"], spouses:["alzbeta-h"]}},
+  {id:"ladislav-h", data:{gender:"M", label:"Ladislav Hajman", dates:"*1916", link:P+"ladislav"},
+   rels:{parents:["ferenc","alzbeta-suver"]}},
+  {id:"magdalena", data:{gender:"F", label:"Magda rod. Hajmanová", dates:"*7.8.1923 †16.11.2006", link:P+"magda-ferdinand-ginelli"},
+   rels:{parents:["jozef-h-1898","marta-kocisova"], spouses:["ferdinand-ginelli"], children:["tibor-ginelli","maria-ginelliova"]}},
+  {id:"marta-hajmanova-ml", data:{gender:"F", label:"Marta Hajmanová ml.", dates:"*22.10.1928", link:P+"marta-hajmanova-ml"},
+   rels:{parents:["jozef-h-1898","marta-kocisova"]}},
+  {id:"tibor-hajman", data:{gender:"M", label:"MUDr. Tibor Hajman", dates:"*20.4.1926 †1988", link:P+"mudr-tibor-hajman-maria-rod-majakova"},
+   rels:{parents:["jozef-h-1898","marta-kocisova"], spouses:["maria-majakova"]}},
+  {id:"ferdinand-ginelli", data:{gender:"M", label:"Ferdinand Ginelli", dates:"*1913 †1989", link:P+"ferdinand-ginelli"},
+   rels:{spouses:["magdalena"], children:["tibor-ginelli","maria-ginelliova"]}},
+  {id:"tibor-ginelli", data:{gender:"M", label:"MUDr. Tibor Ginelli", dates:"", link:P+"mudr-tibor-ginelli"},
+   rels:{parents:["magdalena","ferdinand-ginelli"]}},
+  {id:"maria-ginelliova", data:{gender:"F", label:"Mgr. Mária Ginelliová", dates:"*25.3.1950 †15.12.2016", link:P+"mgr-maria-ginelliova"},
+   rels:{parents:["magdalena","ferdinand-ginelli"]}},
+  {id:"ondrej-r-1857", data:{gender:"M", label:"Ondrej Rusinko 🟡", dates:"*9.2.1857 †1936", link:P+"ondrej-rusinko"},
+   rels:{parents:["michal-rusinko","maria-gumanova"], children:["jan-r-1898"]}},
+  {id:"peter-fejercak", data:{gender:"M", label:"Peter Fejerčák", dates:"*10.7.1860", link:P+"peter-fejercak"},
+   rels:{parents:["jan-fejercak","maria-fedorova"], spouses:["maria-gulasova"], children:["jan-f-1884","ondrej-f-1887","adam-f-1892","dieta-f-1893","anna-fejercakova"]}},
+  {id:"maria-gulasova", data:{gender:"F", label:"Mária rod. Guľasová", dates:"*18.8.1861", link:P+"maria-rod-gulasova"},
+   rels:{parents:["juraj-gulas","alzbeta-semanova"], spouses:["peter-fejercak"], children:["jan-f-1884","ondrej-f-1887","adam-f-1892","dieta-f-1893","anna-fejercakova"]}},
+  {id:"adam-f-1892", data:{gender:"M", label:"Adam Fejerčák", dates:"*†15.2.1892", link:P+"adam-f-1892"},
+   rels:{parents:["peter-fejercak","maria-gulasova"]}},
+  {id:"jan-f-1884", data:{gender:"M", label:"Ján Fejerčák", dates:"*1884 †1887", link:P+"jan-f-1884"},
+   rels:{parents:["peter-fejercak","maria-gulasova"]}},
+  {id:"ondrej-f-1887", data:{gender:"M", label:"Ondrej Fejerčák", dates:"*1887 †1887", link:P+"ondrej-f-1887"},
+   rels:{parents:["peter-fejercak","maria-gulasova"]}},
+  {id:"dieta-f-1893", data:{gender:"F", label:"dieťa Fejerčák", dates:"*29.9.1893 †1893", link:P+"dieta-f-1893"},
+   rels:{parents:["peter-fejercak","maria-gulasova"]}},
+  {id:"ferenc", data:{gender:"M", label:"Ferenc Hajman", dates:"*31.7.1873", link:P+"ferenc-hajman"},
+   rels:{parents:["janos-hajman","anna-huterova"], spouses:["alzbeta-suver"], children:["jozef-h-1898","frantisek-h-1900","anna-schullerova","rudolf","jan-h-1913","ladislav-h"]}},
+  {id:"alzbeta-suver", data:{gender:"F", label:"Alžbeta rod. Suverová", dates:"*6.3.1876 †po 1930", link:P+"alzbeta-rod-suverova"},
+   rels:{parents:["erzsebet-suver"], spouses:["ferenc"], children:["jozef-h-1898","frantisek-h-1900","anna-schullerova","rudolf","jan-h-1913","ladislav-h"]}},
+  {id:"michal-rusinko", data:{gender:"M", label:"Michal Rusinko", dates:"*~1820–35", link:P+"michal-rusinko-maria-rod-gumanova"},
+   rels:{spouses:["maria-gumanova"], children:["ondrej-r-1857","jan-r-1859","juraj-r-1862"]}},
+  {id:"maria-gumanova", data:{gender:"F", label:"Mária rod. Gumanová", dates:"*~1820–35", link:P+"maria-gumanova"},
+   rels:{spouses:["michal-rusinko"], children:["ondrej-r-1857","jan-r-1859","juraj-r-1862"]}},
+  {id:"jan-r-1859", data:{gender:"M", label:"Ján Rusinko", dates:"*3.7.1859"},
+   rels:{parents:["michal-rusinko","maria-gumanova"]}},
+  {id:"juraj-r-1862", data:{gender:"M", label:"Juraj Rusinko", dates:"*7/1862"},
+   rels:{parents:["michal-rusinko","maria-gumanova"]}},
+  {id:"jan-fejercak", data:{gender:"M", label:"Ján Fejerčák", dates:"*~1830", link:P+"jan-fejercak"},
+   rels:{spouses:["maria-fedorova"], children:["peter-fejercak"]}},
+  {id:"maria-fedorova", data:{gender:"F", label:"Mária rod. Fedorová", dates:"*~1830", link:P+"maria-fedorova"},
+   rels:{spouses:["jan-fejercak"], children:["peter-fejercak"]}},
+  {id:"juraj-gulas", data:{gender:"M", label:"Juraj Guľas(ko)", dates:"*1834 †16.11.1866", link:P+"juraj-gulas"},
+   rels:{spouses:["alzbeta-semanova"], children:["maria-gulasova"]}},
+  {id:"alzbeta-semanova", data:{gender:"F", label:"Alžbeta rod. Semanová", dates:"*1834", link:P+"alzbeta-rod-semanova"},
+   rels:{spouses:["juraj-gulas"], children:["maria-gulasova"]}},
+  {id:"janos-hajman", data:{gender:"M", label:"János Hajman", dates:"*~1836 †pred 1900", link:P+"janos-hajman-anna-rod-huterova"},
+   rels:{parents:["frantisek-heiman"], spouses:["anna-huterova"], children:["ferenc"]}},
+  {id:"erzsebet-suver", data:{gender:"F", label:"Erzsébet Suver, vyd. Parohácsová", dates:"*~1845 †~1914–15", link:P+"erzsebet-suverova-vyd-parohacsova"},
+   rels:{children:["alzbeta-suver"]}},
+  {id:"frantisek-heiman", data:{gender:"M", label:"František (Franciscus) Heiman", dates:"", link:P+"frantisek-heiman-frantisek-hutera"},
+   rels:{children:["janos-hajman"]}},
+  {id:"frantisek-hutera", data:{gender:"M", label:"František (Franciscus) Hutera", dates:""},
+   rels:{children:["anna-huterova"]}},
+  {id:"alzbeta-soltesova", data:{gender:"F", label:"Alžbeta rod. Šoltésová", dates:"", link:P+"alzbeta-rod-soltesova"},
+   rels:{spouses:["andrej-dzurenda"], children:["anna-dzurendova"]}},
+  {id:"marta-kocisova", data:{gender:"F", label:"Marta rod. Kočišová", dates:"*18.10.1902 †1982", link:P+"marta-rod-kocisova"},
+   rels:{spouses:["jozef-h-1898"], children:["magdalena","tibor-hajman","marta-hajmanova-ml"]}},
+  {id:"alzbeta-h", data:{gender:"F", label:"Alžbeta Hajmanová", dates:"*1922", link:P+"alzbeta-hajmanova"},
+   rels:{spouses:["jan-h-1913"]}},
+  {id:"maria-majakova", data:{gender:"F", label:"Mária rod. Majáková", dates:"*25.3.1942 †14.4.2009", link:P+"maria-rod-majakova"},
+   rels:{spouses:["tibor-hajman"]}},
+  {id:"anna-huterova", data:{gender:"F", label:"Anna rod. Huterová (Hutyra)", dates:"*~1838–41 †7.4.1879", link:P+"anna-rod-huterova"},
+   rels:{parents:["frantisek-hutera"], spouses:["janos-hajman"], children:["ferenc"]}},
+];
+
+const cont = document.querySelector("#FamilyChart");
+const store = f3.createStore({
+  data: DATA,
+  node_separation: 270,
+  level_separation: 120,
+  single_parent_empty_card: false
+});
+const svg = f3.createSvg(cont);
+const CardInner = f3.elements.CardSvg({
+  store, svg,
+  card_dim: {w:250, h:70, text_x:12, text_y:20, img_w:0, img_h:0, img_x:0, img_y:0},
+  card_display: [
+    d => d.data.label,
+    d => d.data.dates || ""
+  ],
+  mini_tree: true,
+  link_break: false,
+  onCardClick: (e, d) => { store.updateMainId(d.data.id); store.updateTree({}); }
+});
+// obal karty: doplní tlačidlo ⓘ s odkazom na profil osoby v registri Stav osôb
+function Card(d) {
+  CardInner.call(this, d);
+  const link = d.data && d.data.data && d.data.data.link;
+  if (!link) return;
+  const bb = this.getBBox();
+  const a = d3.select(this).append("a")
+    .attr("href", link)
+    .attr("target", "_top")
+    .attr("class", "profil-btn")
+    .on("click", e => e.stopPropagation());
+  a.append("text")
+    .text("ⓘ")
+    .attr("x", bb.x + bb.width - 10)
+    .attr("y", bb.y + bb.height - 10)
+    .attr("text-anchor", "end")
+    .attr("font-size", "15px")
+    .attr("fill", "#f3cfe2")
+    .style("pointer-events", "all");
+  a.append("title").text("Profil osoby (Stav osôb)");
+}
+store.setOnUpdate(props => f3.view(store.getTree(), svg, Card, props || {}));
+store.updateMainId("veronika");
+store.updateTree({initial: true});
+</script>
+</body>
+</html>
