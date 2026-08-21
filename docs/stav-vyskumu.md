@@ -1,12 +1,12 @@
 # Stav výskumu
 
-Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odoslané žiadosti na archívy, matriky a obce — nie ich obsah, ale ich stav. **Aktualizované 20. 8. 2026.**
+Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odoslané žiadosti na archívy, matriky a obce — nie ich obsah, ale ich stav. **Aktualizované 21. 8. 2026.**
 
 <div class="stav">
 <div class="stav-kpis">
-<div class="stav-kpi is-accent"><b>11</b><span>otvorených žiadostí</span><small>odoslané, čaká sa na odpoveď alebo doručenie</small></div>
-<div class="stav-kpi is-crit"><b>36</b><span>dní najdlhšie ticho</span><small>žiadosti z 15. 7. — SNA a fara Bajerov</small></div>
-<div class="stav-kpi is-warn"><b>1</b><span>žiadosť na podanie</span><small>sobášny list Ličkovcov (matrika Valaská)</small></div>
+<div class="stav-kpi is-accent"><b>10</b><span>otvorených žiadostí</span><small>odoslané, čaká sa na odpoveď alebo doručenie</small></div>
+<div class="stav-kpi is-crit"><b>37</b><span>dní najdlhšie ticho</span><small>žiadosti z 15. 7. — SNA a fara Bajerov</small></div>
+<div class="stav-kpi is-warn"><b>2</b><span>žiadosti na podanie</span><small>sobášny list Ličkovcov (matrika Valaská) a dopyt do archívu krakovskej kúrie</small></div>
 <div class="stav-kpi is-warn"><b>2</b><span>žiadosti na urgenciu</span><small>SNA a fara Bajerov</small></div>
 </div>
 <div class="sec-head">
@@ -15,13 +15,14 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 </div>
 <div class="two-up">
 <div class="stav-card">
-<h3>Osobne — dá sa vybaviť pri ceste na Slovensko</h3>
+<h3>Osobne — dá sa vybaviť pri ceste</h3>
 <ul class="todo">
 <li><label><input type="checkbox" checked> <b>Úmrtné listy Rudolfa a Ireny + rodný list Ireny</b> <span>Vydané 17. 8. 2026. Irenin rodný list potvrdil rodičov — Rudolfa a Helenu; Rudolfov úmrtný list prezradil, že sa narodil <b>v Košiciach</b>.</span></label></li>
 <li><label><input type="checkbox" checked> <b>Rodný zápis Rudolfa Hajmana</b> (*22. 1. 1910 Košice) <span>Žiadosť odoslaná do Štátneho archívu Košice 17. 8. 2026. Matrika z neho potom vytlačí rodný list <b>s menami jeho rodičov</b> a dá sa pokračovať o generáciu vyššie.</span></label></li>
 <li><label><input type="checkbox" checked> <b>Rodný zápis Heleny Hajmanovej</b> (\*1. 4. 1919 Košice) <span>Žiadosť odoslaná 20. 8. 2026. Presný dátum dal jej úmrtný list; kniha narodení z roku 1919 má vyše sto rokov, je teda v Štátnom archíve Košice. <b>Toto je cesta k rodnému menu Kataríny Škodovej</b> — slovenský úmrtný list mená rodičov neuvádza.</span></label></li>
 <li><label><input type="checkbox"> <b>Sobášny list Jozefa Lička a Matildy Novekovej</b> (~1941) <span>Matrika Valaská. Rodný list ich syna neuvádza rodiská rodičov, kdežto sobášny zápis dá <b>rodiská aj rodičov oboch</b> naraz — teda Ličkovcov aj Novekovcov.</span></label></li>
 <li><label><input type="checkbox"> <b>Spýtať sa na Katarínu Škodovú</b> (†1985) <span>Jej úmrtie neeviduje Staré Mesto ani Košice-Juh. Matrikárka vie pozrieť do centrálneho registra — jej rodné meno je kľúč k poľskej stope.</span></label></li>
+<li><label><input type="checkbox"> <b>Čitáreň archívu krakovskej kúrie</b> — matriky Rajcze <span>Utorok až piatok doobeda, bez objednania. Kópie matrík farnosti Rajcza za roky 1786 – 1873 sú tam; hľadajú sa v nich krsty Jána Heimana a Anny Hutyrovej z rokov 1836 – 1841 a sobáše ich otcov. Archív rešerše nerobí — knihy treba prečítať osobne.</span></label></li>
 <li><label><input type="checkbox"> <b>Bádateľňa Archívu mesta Košice</b> — vložka 4720 <span>Kováčska 20, pondelok, streda, štvrtok. Pozemnoknižná vložka k domu na Pipa utca 16 by dala mená dedičov a presný dátum úmrtia Erzsébety. Nízka priorita.</span></label></li>
 </ul>
 </div>
@@ -66,16 +67,16 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 </div>
 <div class="board">
 <div class="row head"><div>Adresát</div><div>Vec</div><div>Ticho</div><div>Stav</div></div>
-<div class="row"><div class="who">ŠA Košice<em>20. 8. 2026</em></div><div class="what">Rodný zápis Heleny Hajmanovej rod. Škodovej (*1. 4. 1919 Košice) — z neho vyjde rodné meno jej matky Kataríny</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">0</span></div><div><span class="pill wait">Odoslané</span></div></div>
-<div class="row"><div class="who">ŠA Košice<em>17. 8. 2026</em></div><div class="what">Rodný zápis Rudolfa Hajmana (*22. 1. 1910 Košice) — z neho matrika vystaví rodný list s menami jeho rodičov</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:10%"></span></span><span class="days">3</span></div><div><span class="pill wait">Odoslané</span></div></div>
-<div class="row"><div class="who">Archív diecézy Bielsko-Biała<em>14. 8. 2026</em></div><div class="what">Matriky farnosti Rajcza 1830–1845 — krsty poľských predkov Heimanovcov a Huterovcov</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:20%"></span></span><span class="days">6</span></div><div><span class="pill wait">Odoslané</span></div></div>
-<div class="row"><div class="who">Banícky spolok Pereces<em>13. 8. 2026</em></div><div class="what">Kronika a fotografie baníckej kapely z rokov 1940–1945, keď ju viedol Ladislav Hajman</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:23%"></span></span><span class="days">7</span></div><div><span class="pill wait">Odoslané</span></div></div>
-<div class="row"><div class="who">Slovenský národný archív<em>15. 7. 2026</em></div><div class="what">Neredigované sčítacie hárky 1940 — Rokycany, Žipov, Prešov</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">36</span></div><div><span class="pill crit">Urgovať</span></div></div>
-<div class="row"><div class="who">Obec Rokycany<em>odpoveď 18. 8.</em></div><div class="what">Hroby a parte: nezachovalo sa, evidencia bez údajov — hroby treba pozrieť fyzicky</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:100%"></span></span><span class="days">34</span></div><div><span class="pill part">Odpovedané</span></div></div>
-<div class="row"><div class="who">RK fara Bajerov<em>15. 7. 2026</em></div><div class="what">Úmrtia Petra Fejerčáka a Márie Guľasovej po roku 1896</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">36</span></div><div><span class="pill crit">Urgovať</span></div></div>
-<div class="row"><div class="who">GK fara Klenov<em>ozvala sa 16. 7.</em></div><div class="what">Krst Jána 1898 → potvrdenie otca Ondreja; fara preveruje, či sa knihy zachovali; urgencia pripravená</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">35</span></div><div><span class="pill part">Sľúbené</span></div></div>
-<div class="row"><div class="who">Obec Jasov<em>28. 7. 2026</em></div><div class="what">Dátum narodenia Jozefa Lička, dokedy mal v obci pobyt</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:77%"></span></span><span class="days">23</span></div><div><span class="pill wait">Ticho</span></div></div>
-<div class="row"><div class="who">Obec Žipov<em>odpoveď 31. 7.</em></div><div class="what">Evidencia hrobov Hanisovcov — obec namiesto nej dala kontakt na žijúceho potomka</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:67%"></span></span><span class="days">20</span></div><div><span class="pill part">Polovične</span></div></div><div class="row"><div class="who">ŠA Prešov<em>4. 8. 2026</em></div><div class="what">Matriky GK Klenov — sobáš Ondreja ~1894, teda meno praprababky</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:53%"></span></span><span class="days">16</span></div><div><span class="pill wait">V rešerši</span></div></div>
+<div class="row"><div class="who">ŠA Košice<em>20. 8. 2026</em></div><div class="what">Rodný zápis Heleny Hajmanovej rod. Škodovej (*1. 4. 1919 Košice) — z neho vyjde rodné meno jej matky Kataríny</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:3%"></span></span><span class="days">1</span></div><div><span class="pill wait">Odoslané</span></div></div>
+<div class="row"><div class="who">ŠA Košice<em>17. 8. 2026</em></div><div class="what">Rodný zápis Rudolfa Hajmana (*22. 1. 1910 Košice) — z neho matrika vystaví rodný list s menami jeho rodičov</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:13%"></span></span><span class="days">4</span></div><div><span class="pill wait">Odoslané</span></div></div>
+<div class="row"><div class="who">Archív diecézy Bielsko-Biała<em>odpoveď 21. 8.</em></div><div class="what">Matriky farnosti Rajcza — archív ich nemá; kópie za roky 1786 – 1873 sú v archíve krakovskej kúrie</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:23%"></span></span><span class="days">7</span></div><div><span class="pill part">Odpovedané</span></div></div>
+<div class="row"><div class="who">Banícky spolok Pereces<em>13. 8. 2026</em></div><div class="what">Kronika a fotografie baníckej kapely z rokov 1940–1945, keď ju viedol Ladislav Hajman</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:27%"></span></span><span class="days">8</span></div><div><span class="pill wait">Odoslané</span></div></div>
+<div class="row"><div class="who">Slovenský národný archív<em>15. 7. 2026</em></div><div class="what">Neredigované sčítacie hárky 1940 — Rokycany, Žipov, Prešov</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">37</span></div><div><span class="pill crit">Urgovať</span></div></div>
+<div class="row"><div class="who">Obec Rokycany<em>odpoveď 18. 8.</em></div><div class="what">Hroby a parte: nezachovalo sa, evidencia bez údajov — hroby treba pozrieť fyzicky</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:100%"></span></span><span class="days">35</span></div><div><span class="pill part">Odpovedané</span></div></div>
+<div class="row"><div class="who">RK fara Bajerov<em>15. 7. 2026</em></div><div class="what">Úmrtia Petra Fejerčáka a Márie Guľasovej po roku 1896</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">37</span></div><div><span class="pill crit">Urgovať</span></div></div>
+<div class="row"><div class="who">GK fara Klenov<em>ozvala sa 16. 7.</em></div><div class="what">Krst Jána 1898 → potvrdenie otca Ondreja; fara preveruje, či sa knihy zachovali; urgencia pripravená</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">36</span></div><div><span class="pill part">Sľúbené</span></div></div>
+<div class="row"><div class="who">Obec Jasov<em>28. 7. 2026</em></div><div class="what">Dátum narodenia Jozefa Lička, dokedy mal v obci pobyt</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:80%"></span></span><span class="days">24</span></div><div><span class="pill wait">Ticho</span></div></div>
+<div class="row"><div class="who">Obec Žipov<em>odpoveď 31. 7.</em></div><div class="what">Evidencia hrobov Hanisovcov — obec namiesto nej dala kontakt na žijúceho potomka</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:70%"></span></span><span class="days">21</span></div><div><span class="pill part">Polovične</span></div></div><div class="row"><div class="who">ŠA Prešov<em>4. 8. 2026</em></div><div class="what">Matriky GK Klenov — sobáš Ondreja ~1894, teda meno praprababky</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:57%"></span></span><span class="days">17</span></div><div><span class="pill wait">V rešerši</span></div></div>
 </div>
 <div class="sec-head">
 <h2>Údaje získané z vybavených žiadostí</h2>
@@ -91,6 +92,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <li><b>Sobáš Ferenca Hajmana a Alžbety Suverovej</b> <span>4. 2. 1900 v Budapešti. Ženíchovi rodičia † János Hajman a Anna Huterová; nevesta nemanželská, jej matka Erzsébet Suverová vtedy žila.</span></li>
 <li><b>Pipa utca</b> <span>Neskoršia Dymková ulica v Košiciach; pozemnoknižná vložka 4720 je vo fonde Archívu mesta Košice.</span></li>
 <li><b>Katarína Škodová</b> <span>Jej úmrtie (†1985) neeviduje matrika Košice-Staré Mesto ani Košice-Juh.</span></li>
+<li><b>Matriky farnosti Rajcza</b> <span>Kópie krstov za roky 1786 – 1873 a sobášov aj úmrtí za roky 1786 – 1872 sú v archíve krakovskej kúrie — dekanát patril do krakovskej arcidiecézy do roku 1925. Sú to dobové odpisy, ktoré môžu mať medzery.</span></li>
 </ul>
 </div>
 </div>
