@@ -15,6 +15,10 @@ Najlepšie zdokumentovaná vetva rodiny — všetky osoby sú doložené priamo 
 
 Peter pochádzal z **Janova**, kde je priezvisko Fejerčák doložené už v daňovom súpise roku **1715** a medzi najčastejšími v obci zostalo dodnes.
 
+Sobášny zápis z februára 1884 hovorí o tom manželstve viac, než len mená. **Peter bol gréckokatolík, Mária rímska katolíčka** — sobášilo sa teda naprieč obradmi, v neveste­inej farnosti, a ženích musel priniesť prepúšťací list od svojho farára. Boli to dve rôzne sociálne postavenia: Peter aj jeho otec Ján sú v zápise vedení ako **nádenníci**, kdežto nevestin otec Juraj ako **želiar** a svedok z Márinej strany ako **sedliak s usadlosťou**. Peter mal 24 rokov a bol slobodný, Mária 23 a slobodná; on bol z Janova, ona z Rokycian. Ohlášky boli trikrát, sobášil miestny farár Franciszek Jávorský.
+
+Za svedkov im išli **Ján Fedor**, gréckokatolík a sedliak — teda niekto z rodiny Petrovej matky — a **Andrej Soldis**, rímsky katolík.
+
 ## Prímená — prečo sa tá istá rodina volá dvoma menami
 
 Obe rodiny tejto vetvy vystupujú v matrikách pod dvoma priezviskami. Je to šarišské **prímeno „po dome"**: k rodnému menu sa lepilo meno usadlosti alebo rodiny, do ktorej sa človek priženil.
@@ -36,6 +40,6 @@ Priezvisko je pritom vzácne: roku 1995 ho na celom Slovensku nosilo štrnásť 
 
 ## Čo ešte nevieme
 
-- **Generácia okolo roku 1830** — krsty Jána Fejerčáka a Márie Fedorovej a ich sobáš; knihy Bajerova pred rokom 1884 sme ešte neprešli.
+- **Generácia okolo roku 1830** — krsty Jána Fejerčáka a Márie Fedorovej a ich sobáš. Odkedy vieme, že Fejerčákovci boli gréckokatolíci, treba ich hľadať v gréckokatolíckych knihách; Janov vlastnú farnosť nemal, takže najprv treba zistiť, pod ktorú patril.
 - **Sobášny zápis Anny a Jána Rusinka** z 3.6.1919.
 - **Odkiaľ presne boli Guľasovci** — Juraj sa narodil v Jakubovanoch, no na východnom Slovensku sú dvoje: pri Sabinove a Chminianske Jakubovany hneď vedľa Rokycian. Rozhodnú matriky.
