@@ -1,6 +1,6 @@
 # Stav výskumu
 
-Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odoslané žiadosti na archívy, matriky a obce — nie ich obsah, ale ich stav. **Aktualizované 21. 8. 2026.**
+Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odoslané žiadosti na archívy, matriky a obce — nie ich obsah, ale ich stav. **Aktualizované 21. 8. 2026 (večer).**
 
 <div class="stav">
 <div class="stav-kpis">
@@ -77,7 +77,7 @@ Kde sa práve čaká, čo je zaseknuté a čo treba spraviť. Panel ukazuje odos
 <div class="row"><div class="who">RK fara Bajerov<em>15. 7. 2026</em></div><div class="what">Úmrtia Petra Fejerčáka a Márie Guľasovej po roku 1896; prosba zopakovaná 21. 8. — stačí aj odpoveď, že knihy na fare nie sú</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">37</span></div><div><span class="pill part">Urgované</span></div></div>
 <div class="row"><div class="who">GK fara Klenov<em>ozvala sa 16. 7.</em></div><div class="what">Krst Jána 1898 → potvrdenie otca Ondreja; fara preveruje, či sa knihy zachovali; urgencia pripravená</div><div class="meter"><span class="meter-track"><span class="meter-fill hot" style="width:100%"></span></span><span class="days">36</span></div><div><span class="pill part">Sľúbené</span></div></div>
 <div class="row"><div class="who">Obec Jasov<em>28. 7. 2026</em></div><div class="what">Dátum narodenia Jozefa Lička, dokedy mal v obci pobyt</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:80%"></span></span><span class="days">24</span></div><div><span class="pill wait">Ticho</span></div></div>
-<div class="row"><div class="who">Obec Žipov<em>odpoveď 31. 7.</em></div><div class="what">Evidencia hrobov Hanisovcov — obec namiesto nej dala kontakt na žijúceho potomka</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:70%"></span></span><span class="days">21</span></div><div><span class="pill part">Polovične</span></div></div><div class="row"><div class="who">ŠA Prešov<em>4. 8. 2026</em></div><div class="what">Matriky GK Klenov — sobáš Ondreja ~1894, teda meno praprababky</div><div class="meter"><span class="meter-track"><span class="meter-fill" style="width:57%"></span></span><span class="days">17</span></div><div><span class="pill wait">V rešerši</span></div></div>
+<div class="row"><div class="who">Obec Žipov<em>odpoveď 31. 7.</em></div><div class="what">Evidencia hrobov Hanisovcov — obec namiesto nej dala kontakt na žijúceho potomka</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:70%"></span></span><span class="days">21</span></div><div><span class="pill part">Polovične</span></div></div><div class="row"><div class="who">ŠA Prešov<em>4. 8. 2026</em></div><div class="what">Matriky GK Klenov — krstný zápis pradeda Jána z roku 1898, ktorý má potvrdiť mená jeho rodičov; doplnené a urgované 21. 8.</div><div class="meter"><span class="meter-track"><span class="meter-fill mid" style="width:57%"></span></span><span class="days">17</span></div><div><span class="pill part">Urgované</span></div></div>
 </div>
 <div class="sec-head">
 <h2>Údaje získané z vybavených žiadostí</h2>
