@@ -57,7 +57,7 @@ Najsilnejšie zhluky zhôd potvrdzujú **guľasovskú** a **rusinkovskú** líni
 | Ondrejova manželka, teda praprababka | jeho sobášny zápis okolo roku 1894 |
 | Rodičia Jozefa Lička (\*1942) | jeho rodný list z matriky Valaská |
 | Rodičia Jozefa Hanisa (†1929) a odkiaľ prišiel | jeho sobáš s Annou (1918–27), farnosť Bajerov |
-| Rodné meno Kataríny Škodovej a poľská stopa | úmrtný list Heleny |
+| Rodné meno Kataríny Škodovej a poľská stopa | Helenin rodný zápis z 1. apríla 1919 v Košiciach |
 | Kde a kedy sa sobášili Rudolf a Helena | v Košiciach v rokoch 1938–44 sobáš nie je |
 | Kedy zomreli Ferenc Hajman a Alžbeta Suverová | košické úmrtné matriky |
 | Kedy presne zomrela Erzsébet Parohácsová rod. Suverová | civilná matrika Košice, koniec 1914 – január 1915 |

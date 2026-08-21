@@ -251,6 +251,7 @@ Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo 
 
 - **Presný dátum úmrtia Erzsébety Parohácsovej rod. Suverovej** — hľadá sa v košickej civilnej matrike medzi koncom roku 1914 a januárom 1915; mená dedičov by dala listina o prevode domu vo vložke 4720.
 - **Rodné meno Kataríny Škodovej** — a s ním poľská stopa Ireninej matkinej rodiny.
+- **Kedy presne Katarína zomrela.** Vieme len, že ju 8. apríla 1985 spopolnili v Košiciach a že jej urnu uložili do hrobu 4. júna. Jej úmrtný zápis sa v košických matrikách zatiaľ nenašiel, takže nevieme ani to, kde strávila posledné roky.
 - **Kedy zomrel Ferenc a kedy Alžbeta.**
 - **Osud Rudolfa ml.** v Kanade a neskôr snáď v Izraeli.
 - **Kde presne v Poľsku** sa narodili János a Anna — hľadá sa v matrikách farností Rajcza a Milówka. Priezvisko Hutera sa v Beskydách píše **Hutyra**, čo hľadanie sťažovalo.
