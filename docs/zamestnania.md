@@ -43,6 +43,7 @@ nezachovali, stojí tam `\*?`.
 | [Ferdinand Ginelli](stav-osob.md#ferdinand-ginelli) | manžel Magdy Hajmanovej (zošvagrená, nie pokrvná rodina) | \*1913, †1989 | huslista; profesor košického konzervatória | tlač; náhrobok 91/2/38 |
 | [MUDr. Tibor Ginelli](stav-osob.md#mudr-tibor-ginelli) | syn Magdy a Ferdinanda Ginelliovcov | \*? | gynekológ a pôrodník (UNLP Košice) | rodina |
 | [Mgr. Mária Ginelliová](stav-osob.md#mgr-maria-ginelliova) | dcéra Magdy a Ferdinanda Ginelliovcov | \*25.3.1950, †15.12.2016 | kurátorka Východoslovenského múzea | tlač; náhrobok |
+| Márton Buk (správnejšie Fokt) | manžel Rozálie, sestry 2× pradeda | \*~1858 | čeľadník (béres) | krst-1884-szolosgyorok-rozalia-buk |
 
 ### Ličko–Lorenowicz
 
