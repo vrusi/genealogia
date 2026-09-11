@@ -34,7 +34,12 @@ Pod zápisom sú tri poznámky matrikára a každá mení, čo zápis hovorí. P
 
 Helena teda prišla na svet do rodiny, ktorú matrika po štyroch mesiacoch prepísala. Muž zapísaný ako otec z dokladu zmizol, matkino rodné meno sa ukázalo ako nesprávne a právneho otca dieťa dostalo až roku 1927, keď malo osem rokov.
 
-Adresa je dnes Masarykova — ulica sa do roku 1890 volala Kert utca (Záhradnícka), potom dostala meno po grófovi Klobusiczkom a od roku 1919 nesie meno T. G. Masaryka. V dvadsiatych rokoch ju košické inzeráty uvádzali oboma menami naraz: „Masaryk (Klobusitzky) körút". Bola to rušná okružná trieda s meštianskymi domami aj továrňami — na susednom čísle 4 sídlila čistiareň peria a záclon.
+Adresa je dnes Masarykova — ulica sa do roku 1890 volala Kert utca (Záhradnícka), potom dostala meno po grófovi Klobusiczkom a od roku 1919 nesie meno T. G. Masaryka. V dvadsiatych rokoch ju košické inzeráty uvádzali oboma menami naraz: „Masaryk (Klobusitzky) körút".
+
+![Výrez z plánu Košíc z roku 1912 s Klobusitzkeho okružnou](prilohy/klobusitzky-korut-plan-1912-j-bauer.png)
+*Plán mesta z roku 1912: **Klobusitzky körút** vedie od potoka na východ k tratiam Košicko-bohumínskej železnice a popri ňom je vyznačená **električková dráha** („villamos vasut"). Vľavo hore **tabaková továreň**, pri potoku **mestská elektrická turbína**, severne **Széchenyiho kasárne**. Plán upravil J. Bauer.*
+
+Bola to rušná predmestská okružná trieda na električkovej trase, kúsok od stanice: meštianske domy vedľa tabakovej továrne a skladov, na susednom čísle 4 čistiareň peria a záclon. Číslovanie začínalo od mesta, takže dom číslo 3 stál na západnom konci, pri potoku a tabakovej továrni — tá zamestnávala predovšetkým ženy a pre dvadsaťjedenročnú matku s novorodencom bola robotou na dosah.
 
 ### Sobášny zápis — Budapešť, 4.2.1900
 
