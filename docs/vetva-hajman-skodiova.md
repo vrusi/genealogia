@@ -39,7 +39,16 @@ Adresa je dnes Masarykova — ulica sa do roku 1890 volala Kert utca (Záhradní
 ![Výrez z plánu Košíc z roku 1912 s Klobusitzkeho okružnou](prilohy/klobusitzky-korut-plan-1912-j-bauer.png)
 *Plán mesta z roku 1912: **Klobusitzky körút** vedie od potoka na východ k tratiam Košicko-bohumínskej železnice a popri ňom je vyznačená **električková dráha** („villamos vasut"). Vľavo hore **tabaková továreň**, pri potoku **mestská elektrická turbína**, severne **Széchenyiho kasárne**. Plán upravil J. Bauer.*
 
-Bola to rušná predmestská okružná trieda na električkovej trase, kúsok od stanice: meštianske domy vedľa tabakovej továrne a skladov, na susednom čísle 4 čistiareň peria a záclon. Číslovanie začínalo od mesta, takže dom číslo 3 stál na západnom konci, pri potoku a tabakovej továrni — tá zamestnávala predovšetkým ženy a pre dvadsaťjedenročnú matku s novorodencom bola robotou na dosah.
+![Pohľadnica Klobusitzkeho ulice z roku 1901](prilohy/klobusitzkeho-ulica-pohladnica-1901-historicke.png)
+*Pohľadnica z roku 1901, západný koniec ulice: v popredí železný most cez Mlynský potok z roku 1885, ktorý nahradil starší drevený. V ceste vidno koľajnice, po oboch stranách plynové lampy. Od tohto mosta sa ulica číslovala — dom číslo 3 stál hneď za ním. Popiska pohľadnice znie „Klobusiczky-utcza". Zverejnil HistoricKE.*
+
+Bola to rušná predmestská trieda na električkovej trase, kúsok od stanice, a číslovala sa od mosta cez Mlynský potok. Susedstvo vieme dom po dome. Naľavo od mosta stála **na čísle 2** poschodová nárožná budova z roku 1893 a hneď za ňou **na čísle 4** továreň Juraja Eduarda Delavala na drevené, drôtené a železné výrobky z roku 1891; po jeho smrti ju prevzal G. Bradovka a zriadil v nej roku 1909 parnú práčovňu, k nej pribudla farbiareň šiat a látok a chemická čistiareň. Práve tá potom v dvadsiatych rokoch inzerovala čistenie peria a záclon.
+
+Naproti, na južnej strane, stál **na čísle 1** prízemný rohový dom, ktorý dal koncom deväťdesiatych rokov postaviť Alexander Bukovszky; v jeho nárožnej predajni obchodoval Urbán — v januári 1900 inzeroval nyírske víno, syr, tvaroh, korenie a južné ovocie s rozvozom — a jeho firemný nápis je na pohľadnici čitateľný. **Dom číslo 3 stál hneď vedľa neho**, druhý od mosta na južnej strane, oproti Bradovkovej práčovni. Tam Katarína s Helenou bývali.
+
+Zo susedstva dnes nestojí takmer nič: dom číslo 1 zbúrali roku 1929 a vdova Regina Feldmannová postavila na jeho mieste nájomný dom s pätnástimi bytmi, ktorý tam je dodnes; číslo 2 asanovali roku 1978, aby vzniklo parkovisko pred Domom odborov, dnešným Jumbo centrom.
+
+Kúsok ďalej po tej istej ulici, na dnešnom čísle 19, stojí **kaštieľ Regina Pacis** — okolo roku 1877 ho dala v záhrade rodinného sídla postaviť grófka Regina Klobusitzká, po ktorej rode sa ulica volala.
 
 ### Sobášny zápis — Budapešť, 4.2.1900
 
