@@ -4,7 +4,7 @@
 
 <div class="fakt-pas">
 <span>🌳 7 doložených generácií</span>
-<span>👥 169 osôb</span>
+<span>👥 170 osôb</span>
 <span>📜 najstarší záznam: 1715</span>
 <span>🌍 🇸🇰 🇭🇺 🇵🇱 🇨🇿 🇨🇦 🇺🇸</span>
 </div>
@@ -42,6 +42,10 @@
 -   🧡 **Dedo Peter**
 
     Peter Lorenowicz prišiel s rodinou z Chomutova do Košíc za železiarňami. Po smrti Jozefa Lička sa oženil s Irenou a jej dcéry — mamu a Zdenu — si osvojil a vychoval ako vlastné. Dodnes žije v dome na Lichardovej a je najvzácnejším živým svedkom rodinných spomienok. [→ vetva Ličko a Lorenowicz](vetva-licko.md)
+
+-   🧹 **Za prácou, len čo to vek dovolil**
+
+    V decembri 1940 bola vdova Anna Hanisová školníčkou na žipovskej ľudovej škole a jej najstaršia dcéra Alžbeta už od mája slúžila v Prešove — mala šestnásť rokov. Sčítací hárok zachytil obidve. [→ vetva Hanis](vetva-hanis.md)
 
 -   🎻 **Zoznámení rozhlasom**
 

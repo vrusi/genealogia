@@ -8,8 +8,9 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 
 - **Babka Irena Hajmanová** — \*16.11.1944 Košice, †20.4.2015. ⚭1 Jozef Ličko ([Vetva Ličko](vetva-licko.md)), ⚭2 Peter Lorenowicz, takže zomrela ako **Irena Lorenowiczová**. Bola spopolnená a popol rozptýlený — hrob nemá. Rodičov — Rudolfa Hajmana a Helenu rod. Škodovú — potvrdzuje jej rodný list (kniha narodení Košice‑Staré Mesto 1944).
 - **Pradedo Rudolf Hajman** — **\*22.1.1910 Košice, †22.9.1991 Košice** (rodisko uvádza úmrtný list), **syn Ferenca a Alžbety rod. Šuverovej**, ako to potvrdila matrika. **Kominár** maďarskej národnosti. V rokoch 1939 až 1941 bol funkcionárom odborového zväzu kominárov v Košiciach — od jej založenia roku 1939 až do roku 1941 **tajomníkom** (viac nižšie). **Dostaval rodinný dom na Lichardovej 30.**
-- **Prababka Helena rod. Škodová** — **\*1. apríla 1919 v Košiciach, †5. apríla 1994 v Košiciach**, štyri dni po svojich sedemdesiatych piatych narodeninách; bývala na Lichardovej 30. Hovorila po slovensky. Irenin rodný zápis z roku 1944 — vznikol ešte za maďarskej správy mesta — ju píše „Skodová"; maďarčina mäkčeň nepozná. Jej vlastný úmrtný list ju však vedie ako **„rod. Škodová" s mäkčeňom** (kniha úmrtí Košice‑Západ 1994), a ten tvar je tým rozhodnutý.
-- **Praprababka Katarína Škodová** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. Evidencia cintorína ju vedie ako Škodovú; kameň na hrobe má vyryté „SKODOVA" bez mäkčeňa. „Škodová" je priezvisko po manželovi; **jej rodné meno nepoznáme** a práve ono je kľúčom k rodinnej pamäti o poľskom pôvode.
+- **Prababka Helena rod. Škodová** — **\*1. apríla 1919 v Košiciach, †5. apríla 1994 v Košiciach**, štyri dni po svojich sedemdesiatych piatych narodeninách; bývala na Lichardovej 30. Hovorila po slovensky. Irenin rodný zápis z roku 1944 — vznikol ešte za maďarskej správy mesta — ju píše „Skodová"; maďarčina mäkčeň nepozná. Jej vlastný úmrtný list ju však vedie ako **„rod. Škodová" s mäkčeňom** (kniha úmrtí Košice‑Západ 1994), a ten tvar je tým rozhodnutý. Do matriky sa pritom narodila ako **Ilona** a priezvisko Škoda dostala až ako osemročná, keď ju roku 1927 uzákonil sobáš jej matky.
+- **Praprababka Katarína rod. Zazyláková** — 1897–1985, Helenina matka, pochovaná v tom istom hrobe ako dcéra a zať. Evidencia cintorína ju vedie ako Škodovú; kameň na hrobe má vyryté „SKODOVA" bez mäkčeňa. Priezvisko Škodová je po manželovi **Justinovi Škodovi**, za ktorého sa vydala 29. apríla 1923 v Košiciach. Jej rodné meno prezradil až Helenin rodný zápis: matrikár ju roku 1919 zapísal ako rodenú **Kaminszky**, no 2. februára 1927 zápis opravil — správne rodné priezvisko znie **Zazyláková**. V čase Heleninho narodenia mala dvadsaťjeden rokov.
+- **Praprastarý otec Justin Škoda** — obuvník, rímskokatolík, obyvateľ Košíc. Keď sa 29. apríla 1923 ženil s Katarínou, mal dvadsaťdva rokov, a matrika dodáva, že v čase Heleninho narodenia mal osemnásť — narodil sa teda okolo roku 1900. Týmto sobášom bola Helena uzákonená ako jeho dcéra; rozhodol o tom Župný úrad v Košiciach 15. marca 1927.
 - **Irenin brat Rudolf ml.** — emigroval do Kanady, pravdepodobne v päťdesiatych alebo šesťdesiatych rokoch. Podľa rodinného podania sa neskôr presťahoval do Izraela a konvertoval na judaizmus. V košických knihách narodení z rokov 1930 až 1944 nie je, narodil sa teda zrejme až po roku 1945.
 - **2× prastarí rodičia: Ferenc Hajman a Alžbeta rod. Suverová.** Ferenc \*31.7.1873 Szőlőskislak, stolársky pomocník; dátum jeho úmrtia nepoznáme, ale roku 1915 už bol dom písaný na manželku. Alžbeta \*6.3.1876 Mokrance, †po roku 1930. Sobášili sa **4.2.1900 v Budapešti**.
 - **3× prastarí rodičia: János Hajman a Anna rod. Huterová — prisťahovalci z Poľska.** Obaja sa narodili v **Rajczi** (v matrikách „Raicza, Lengyelhon"), János okolo roku 1836, Anna okolo 1838 až 1841. Roku 1861 slúžili obaja ako nádenníci v osade Csehi; neskôr bol János želiarom v Kislaku. Deti okrem Ferenca: **Rozália** (\*~1861 — vydala sa 22.1.1882 v Szőlősgyöröku za Mártona Buka, správnejšie Fokta; ich dcéra **Rozália Buková \*1884** je prvé doložené vnúča Jánosa a Anny), **prvý Ferentz** (krstený 1867 — zrejme zomrel malý; náš prapradedo \*1873 dostal meno po ňom), **Mária** (\*7.9.1869 — vydala sa roku 1906 za Andrása Lachmaneka), **druhá Mária** (krstená 17.11.1870 — jej osud nepoznáme) a najmladší **Jozef** (krstený 1879). **Anna zomrela 7.4.1879 pri pôrode** — dieťaťom bol práve Jozef (jeho ďalší osud nepoznáme). Ferenc osirel ako päťročný a do Košíc odchádzal už bez matky.
@@ -17,6 +18,23 @@ Košická vetva babky Ireny. **Hajmanovci** prišli do Košíc okolo roku 1900: 
 - **3× prababka Erzsébet Suver** — slúžka v Mokranciach, slobodná matka Alžbety; neskôr **vydatá Parohácsová**, majiteľka domu na Pipa utca 16, †koncom 1914 alebo v januári 1915 v Košiciach.
 
 ## Kľúčové dokumenty
+
+### Rodný zápis Heleny — Košice, 1. apríla 1919
+
+Výpis z matriky narodených matričného úradu Košice, zväzok 36, strana 79, číslo 333, rok 1919. Zápis je vedený po maďarsky, dieťa je v ňom **Ilona**.
+
+| | |
+|---|---|
+| Otec | **József Presovszki**, rím. kat., mäsiarsky pomocník, 23 rokov |
+| Matka | **Katalin**, rím. kat., 21 rokov, v zápise rodená Kaminszky |
+| Bydlisko oboch | Kassa, Klobusitzky körút 3 — dnešná **Masarykova** |
+| Dieťa | Ilona, dievča, rím. kat., narodená 1. apríla 1919 na tej istej adrese |
+
+Pod zápisom sú tri poznámky matrikára a každá mení, čo zápis hovorí. Prvá je z **30. júla 1919**: údaje vzťahujúce sa k zákonnému otcovi sa mažú, rozhodol o tom košický mešťanosta. Druhá je z **2. februára 1927**: priezvisko matky dieťaťa je správne **Zazyláková**. Tretia je z **15. marca 1927**: dieťa bolo uzákonené sobášom matky s prirodzeným otcom **Justinom Škodom**, rímskokatolíckym dvadsaťdvaročným obuvníkom, obyvateľom Košíc, ktorý sa s matkou zosobášil **29. apríla 1923 v Košiciach**; jeho vek v čase narodenia dieťaťa bol osemnásť rokov.
+
+Helena teda prišla na svet do rodiny, ktorú matrika po štyroch mesiacoch prepísala. Muž zapísaný ako otec z dokladu zmizol, matkino rodné meno sa ukázalo ako nesprávne a právneho otca dieťa dostalo až roku 1927, keď malo osem rokov.
+
+Adresa je dnes Masarykova — ulica sa do roku 1890 volala Kert utca (Záhradnícka), potom dostala meno po grófovi Klobusiczkom a od roku 1919 nesie meno T. G. Masaryka. V dvadsiatych rokoch ju košické inzeráty uvádzali oboma menami naraz: „Masaryk (Klobusitzky) körút". Bola to rušná okružná trieda s meštianskymi domami aj továrňami — na susednom čísle 4 sídlila čistiareň peria a záclon.
 
 ### Sobášny zápis — Budapešť, 4.2.1900
 
@@ -203,6 +221,8 @@ V decembri **1942** diriguje ďalší program kapely. A ešte v **máji a júni 
 
 Do Košíc sa teda vrátil až niekedy v druhej polovici roku 1945, po piatich rokoch v Maďarsku.
 
+Ako vidí Ladislava samotná kapela, prezradila jej publikácia, ktorú v auguste 2026 poslal miškovský Banícky kultúrny spolok: *„Nástupcom dirigenta Istvána Mohilu sa stal Hajmann László, ktorý prišiel od košického rozhlasového orchestra a taktovku držal až do konca druhej svetovej vojny."* Vyplýva z toho dvojité: do Perecesu neprišiel ako neznámy úradník, ale ako hudobník z košického rozhlasu, a kapelu prevzal po menovanom predchodcovi. V roku 1945 ho pri pulte dočasne vystriedal klarinetista **Kálna János**. Sám spolok priznáva, že z vojnových rokov má málo materiálu — fotografie orchestra z rokov 1940 až 1945 ani nahrávky sa nezachovali.
+
 ## Dom Lichardova 30
 
 Rudolf s Helenou najprv bývali v **Starom Meste — podľa rodinnej pamäti na Mäsiarskej ulici**, kde Irena prežila detstvo (dom Veronike ukázal otec). Na Lichardovu 30 sa presťahovali potom, čo Rudolf dom dostaval. Sedí to aj so zápisom Ireninho narodenia v knihe Košice‑Staré Mesto (1944).
@@ -229,11 +249,13 @@ Ich deti: **MUDr. Tibor Ginelli**, gynekológ a pôrodník, ktorý priviedol na 
 
 Irena hrob nemá — bola spopolnená a popol rozptýlený.
 
-## Škodovci
+## Škodovci a Zazulákovci
 
-Helenina rodina. Podľa rodinnej pamäti mala pochádzať z Poľska, no poľské matriky ju zatiaľ nepotvrdili a Škodovci vyzerajú skôr ako **domáci abovský rod** — priezvisko v podobách Škoda, Škody, Škodi a Skodi je husto rozsiate po obciach juhovýchodne od Košíc, v Nižnej a Vyšnej Myšli, Ruskove, Seni či Košickej Polianke.
+Helenina rodina z matkinej strany. Podľa rodinnej pamäti mala pochádzať z Poľska, no Škodovci vyzerajú ako **domáci abovský rod** — priezvisko v podobách Škoda, Škody, Škodi a Skodi je husto rozsiate po obciach juhovýchodne od Košíc, v Nižnej a Vyšnej Myšli, Ruskove, Seni či Košickej Polianke. **Justin Škoda**, košický obuvník narodený okolo roku 1900, do tohto obrazu zapadá.
 
-Preto je taká dôležitá **Katarína** (1897–1985): ak sa poľská pamäť viaže na ňu, nesie ju jej **rodné meno, ktoré nepoznáme**. Slovenský úmrtný list mená rodičov neuvádza, takže Helenin ho neprezradil — dal však presný dátum a miesto jej narodenia. Rodné meno Kataríny teda povie **Helenin rodný zápis z 1. apríla 1919 v Košiciach**.
+Poľská pamäť sa teda neviaže na Škodovcov, ale na **Katarínu a jej rodné meno Zazyláková**. To meno je vo svojich doložených podobách — Zazulák, maďarsky Zazulyák — doma na východe: v Zemplíne a v Haliči. Rakúsko-uhorské armádne zoznamy z rokov 1917 a 1918 vedú dôstojníkov Zazulakovcov medzi samými haličskými menami, kanadskí Zazulakovci sa usadili v Saskatchewane, kam smerovala haličsko-ukrajinská emigrácia, a v Zemplíne je meno doložené v Michalovciach.
+
+Odkiaľ presne Katarínina rodina prišla, zatiaľ nevieme — jej rodičov ani rodisko nepoznáme. Slovenský úmrtný list mená rodičov neuvádza a Helenin rodný zápis dáva len matkin vek a bydlisko.
 
 ## Lorenowiczovci
 
@@ -250,7 +272,10 @@ Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo 
 ## Čo ešte nevieme
 
 - **Presný dátum úmrtia Erzsébety Parohácsovej rod. Suverovej** — hľadá sa v košickej civilnej matrike medzi koncom roku 1914 a januárom 1915; mená dedičov by dala listina o prevode domu vo vložke 4720.
-- **Rodné meno Kataríny Škodovej** — a s ním poľská stopa Ireninej matkinej rodiny.
+- **Kto boli Katarínini rodičia a odkiaľ prišli.** Rodné meno už poznáme — Zazyláková — ale rodičov, rodisko ani dátum jej narodenia matrika Heleny neuvádza.
+- **Ako sa Katarínino rodné priezvisko píše.** Výpis uvádza tvar Zazyláková; bežnejšia doložená podoba mena je Zazulák. Overuje sa to v Štátnom archíve v Košiciach.
+- **Odkiaľ pochádzal Justin Škoda** a kto boli jeho rodičia — odpovie sobášny zápis z 29. apríla 1923.
+- **Kto bol Helenin biologický otec.** Matrika hovorí, že Justin Škoda; zapísaný, a potom vymazaný, bol pôvodne József Presovszki. Uzákonenie roku 1927 sa opiera o vyhlásenie rodičov, nie o dôkaz.
 - **Kedy presne Katarína zomrela.** Vieme len, že ju 8. apríla 1985 spopolnili v Košiciach a že jej urnu uložili do hrobu 4. júna. Jej úmrtný zápis je zapísaný v knihe úmrtí matriky Košice-Západ, presný dátum sa dozvieme z úmrtného listu. Rodičov zápis neuvádza, takže Kataríninu rodnú rodinu ani odtiaľ nezistíme.
 - **Kedy zomrel Ferenc a kedy Alžbeta.**
 - **Osud Rudolfa ml.** v Kanade a neskôr snáď v Izraeli.

@@ -9,7 +9,7 @@ Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-feje
 
 ### Rusinko — Šariš, gréckokatolíci z farnosti Klenov
 
-**Dedo Ján (1923–2006)** bol synom **Jána Rusinka** (\*27.4.1898 Bujakov, †28.2.1980) a **Anny rod. Fejerčákovej** (\*19.10.1895, †6.1.1967). Sobášili sa 3. júna 1919 a v máji 1922 sa presťahovali z Bujakova do Rokycian. Mali päť detí: Máriu, Jána, Štefana, Andreja a jedno, ktoré zomrelo v detstve; neskôr pribudla ešte dcéra Anna.
+**Dedo Ján (1923–2006)** bol synom **Jána Rusinka** (\*27.4.1898 Bujakov, †28.2.1980) a **Anny rod. Fejerčákovej** (\*19.10.1895, †6.1.1967). Sobášili sa 3. júna 1919 a v máji 1922 sa presťahovali z Bujakova do Rokycian. Mali päť detí: Máriu, Jána, Štefana, Andreja a jedno, ktoré zomrelo v detstve; neskôr pribudla ešte dcéra Anna, narodená 25. júna 1931.
 
 O generáciu vyššie stojí **Ondrej Rusinko** (\*9.2.1857 Bujakov, †1936), syn **Michala Rusinka a Márie rod. Gumanovej**. Najstarším doloženým nositeľom mena je **Joannes Rusinko** z daňového súpisu Klenova roku **1715**.
 
@@ -41,9 +41,9 @@ Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec. Neskôr sa v
 
 Do širšej rodiny patria aj **Ginelliovci** — huslista a profesor konzervatória Ferdinand a jeho syn, gynekológ Tibor — a chirurg **MUDr. Tibor Hajman**, prvý vedúci protetického oddelenia v Košiciach.
 
-### Škoda — Košice a okolie
+### Škoda a Zazulák — Košice, Zemplín a Halič
 
-**Katarína Škodová** (1897–1985), Helenina matka. Priezvisko je po manželovi a jej **rodné meno zatiaľ nepoznáme** — je kľúčom k rodinnej pamäti o poľskom pôvode.
+**Katarína rod. Zazyláková** (1897–1985), Helenina matka, sa 29. apríla 1923 vydala za košického obuvníka **Justina Škodu** (\*~1900). Ich dcéra Helena sa narodila ešte pred sobášom, roku 1919, a manželstvo rodičov ju roku 1927 uzákonilo. Katarínino rodné meno **Zazuláková** je doma na východe — v Zemplíne a v Haliči — a je to najlepší kandidát na rodinnú pamäť o poľskom pôvode. Kto boli jej rodičia a odkiaľ prišli, zatiaľ nevieme.
 
 ### Čo hovorí DNA
 
@@ -62,7 +62,8 @@ Najsilnejšie zhluky zhôd potvrdzujú **guľasovskú** a **rusinkovskú** líni
 | Kedy zomreli Ferenc Hajman a Alžbeta Suverová | košické úmrtné matriky |
 | Kedy presne zomrela Erzsébet Parohácsová rod. Suverová | civilná matrika Košice, koniec 1914 – január 1915 |
 | Osud Rudolfa Hajmana ml. v Kanade | jeho rodný zápis, potom kanadské archívy |
-| Osud Márie Rusinkovej (\*1921) a sestry Anny | neredigovaný sčítací hárok 1940 |
+| Osud Márie Rusinkovej (\*1921) a sestry Anny (\*1931) | matriky a evidencie po roku 1940 |
+| Kedy zomrela prababka Anna rod. Dzurendová a jej matka Alžbeta rod. Šoltésová | matriky farnosti Bajerov, evidencia cintorína Žipov |
 | Odkiaľ presne v Poľsku prišli Heimanovci a Huterovci | matriky farností Rajcza a Milówka |
 
 Kde sa v tom práve nachádzame — ktorá žiadosť je odoslaná a na čo sa čaká — ukazuje stránka **Stav výskumu**.

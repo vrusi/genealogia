@@ -16,20 +16,22 @@ nezachovali, stojí tam `\*?`.
 
 | Osoba | Vzťah | Život | Zamestnanie | Prameň |
 |---|---|---|---|---|
-| [Ján Rusinko](stav-osob.md#jan-rusinko) | pradedo (otec deda Jána) | \*27.4.1898, †28.2.1980 | nádenník; roľník | hárok 1930, Rokycany 20 |
+| [Ján Rusinko](stav-osob.md#jan-rusinko) | pradedo (otec deda Jána) | \*27.4.1898, †28.2.1980 | nádenník; roľník | hárok 1930, Rokycany 20, hárok 1940, Rokycany 22 |
+| [Anna rod. Fejerčáková](stav-osob.md#anna-rod-fejercakova) | prababka (matka deda Jána) | \*19.10.1895, †6.1.1967 | domáca | hárok 1940, Rokycany 22 |
 
 ### Hanis–Dzurenda
 
 | Osoba | Vzťah | Život | Zamestnanie | Prameň |
 |---|---|---|---|---|
-| [Anna rod. Dzurendová](stav-osob.md#anna-rod-dzurendova) | prastará matka (matka babky Anny) | \*24.11.1900 | nádenníčka | hárok 1930, Žipov 57 |
-| [Alžbeta Hanisová](stav-osob.md#alzbeta-hanisova) | prateta (sestra babky Anny rod. Hanisovej, vyd. Rusinkovej) | \*3.6.1924 | slúžka v domácnosti rodiny Šandalla (Prešov, Floriánova 7) — bývala u nich | hárok 1940 |
+| [Anna rod. Dzurendová](stav-osob.md#anna-rod-dzurendova) | prastará matka (matka babky Anny) | \*24.11.1900 | nádenníčka; školníčka (v hárku „školská slúžka“) na štátnej ľudovej škole v Žipove | hárok 1930, Žipov 57, hárok 1940, Žipov 57 |
+| [Alžbeta Hanisová](stav-osob.md#alzbeta-hanisova) | prateta (sestra babky Anny rod. Hanisovej, vyd. Rusinkovej) | \*3.6.1924 | pomocnica v domácnosti u vdovy Márie Šandallovej (Prešov, Floriánova 7/395) — bývala u nej | hárok 1940, Prešov 395 |
 
 ### Hajman–Škodová
 
 | Osoba | Vzťah | Život | Zamestnanie | Prameň |
 |---|---|---|---|---|
 | [Rudolf Hajman](stav-osob.md#rudolf-hajman) | pradedo | \*22.1.1910, †22.9.1991 | kominár; tajomník košickej skupiny kresťansko-sociálneho odborového zväzu kominárov (1939–1941) | tlač Jövőnk/Felvidéki Ujság + rodina |
+| [Justin Škoda](stav-osob.md#justin-skoda) | praprastarý otec | \*~1900, †? | obuvník | rodný zápis Heleny, Košice 1919 |
 | [Ferenc Hajman](stav-osob.md#ferenc-hajman) | 2× pradedo | \*31.7.1873 | stolársky pomocník (asztalos segéd) | zápisnica Kassa 1904 |
 | [Alžbeta rod. Suverová](stav-osob.md#alzbeta-rod-suverova) | 2× prababka | \*6.3.1876, †po 1930 | slúžka (cseléd, szolgáló) v Budapešti | rodný zápis 2496/VIII (1898) |
 | [János Hajman](stav-osob.md#janos-hajman-anna-rod-huterova) | 3× pradedo | \*~1836, †pred 1900 | nádenník (1861, osada Csehi); želiar (zsellér) v Kislaku | matrika Szőlősgyörök 1873 |

@@ -56,7 +56,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **18.11.1922** — ⚭ **Jozef Hajman (\*1898 Budapešť) × Marta rod. Kočišová (\*1902)**, Košice
 - **29.1.1923** (hárok: 24.1.) — narodil sa **dedo Ján Rusinko** v Rokycanoch ⭐
 - **~1923** — ⚭ **Jozef Hanis × Anna Dzurendová** (odhad; prastarí rodičia z otcovej strany, Žipov); **7.8.1923** narodená **Magda Hajmanová** (dcéra Jozefa \*1898, budúca Ginelliová)
-- **3.6.1924** — narodila sa **Alžbeta Hanisová** (babkina staršia sestra, dcéra Jozefa Hanisa; 1940 v službe v Prešove)
+- **3.6.1924** — narodila sa **Alžbeta Hanisová** (babkina staršia sestra, dcéra Jozefa Hanisa; 1940 v službe v Prešove); sčítací hárok 1940 uvádza deň 4.6.
 - **28.9.1925** — narodil sa **Štefan Rusinko**
 - **22.1.1926** — narodila sa **Mária Hanisová** (babkina sestra, dcéra Jozefa Hanisa → vyd. **Dzuričková**); **20.4.1926** narodený **Tibor Hajman** (syn Jozefa \*1898 → budúci **MUDr., chirurg**; nezamieňať s bratrancom MUDr. Tiborom Ginellim, gynekológom)
 - **5.9.1927** — narodil sa **Andrej Rusinko**
@@ -64,6 +64,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **11.1.1929** — **zomrel Jozef Hanis** (34 r.) — päť týždňov po narodení babky; vdova Anna rod. Dzurendová zostala s tromi dcérami
 - **1.–2.12.1930** — **sčítanie ľudu**: zachytené domácnosti Rusinkovcov (Rokycany 20), Hanisových (Žipov 57), Jozefa Hajmana (Skladná 47) aj vdovy Alžbety (D. Licharda 37)
 - **23.7.1932** — „Hajman János, kassai szűcssegéd" v novinách (kožušník, aj turista); **29.9.1932** — úrady „vyšetrili" národnosť Hajmanovcov (maďarská → slovenská)
+- **25.6.1931** — narodila sa **Anna Rusinková**, najmladšia sestra deda Jána (Rokycany) ⭐ — dátum dal neredigovaný sčítací hárok 1940
 - **17.7.1934** — narodila sa **Mária Holmáňová**
 - **1936** — zomrel **Ondrej Rusinko \*9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; otec Jána Rusinka \*1898 zatiaľ nie je doložený krstným zápisom) (dožil sa ~79 r.)
 
@@ -73,7 +74,8 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 
 - **11/1938** — Košice pripojené k Maďarsku (Kassa); Tibor Hajman prechádza na štátne Hunfalvyho gymnázium
 - **1939–41** — **Rudolf Hajman (kominár)** v tlači: pokladník → tajomník → **výkonný tajomník kominárskeho odborového spolku** v Kassa
-- **1.12.1940** — sčítanie 1940: Rusinkovci už v dome č. 22 — a v domácnosti **neznáma sestra Anna** (*po 1930!); Hanisové stále v dome 57, **Alžbeta (16) v službe v Prešove** na Floriánovej 7
+- **6.5.1940** — šestnásťročná **Alžbeta Hanisová odchádza zo Žipova do služby v Prešove**, na Floriánovu 7/395 k vdove Márii Šandallovej
+- **15.12.1940** — sčítanie 1940 (rozhodujúca noc zo 14. na 15.12.): Rusinkovci už v dome č. 22, Ján ako **samostatný roľník a majiteľ domu**, v domácnosti aj dcéra **Anna \*25.6.1931**; Hanisové stále v dome 57 spolu so **starým otcom Ondrejom Dzurendom (70, vdovec)**, prababka Anna už ako **školníčka** na štátnej ľudovej škole
 - **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — jeho rodný list uvádza rodičov **Jozefa Lička \*22.5.1912** a **Matildu rod. Novekovú**, vtedy dvadsaťročnú ✅
 - **16.11.1944** — narodila sa **Irena Hajmanová** v Košiciach (vtedy Kassa) ⭐
 - **12/1944 – 2/1945** — **odvlečenie mužov z okolia Prešova na kopanie zákopov v Medzeve**: 17-ročný **Andrej Rusinko** (dedov brat) 8.12.1944 – 8.2.1945; **Fejerčákovci** Andrej z Bajerova, Jozef a Juraj z Janova (5–6 týždňov, bez odmeny). Doložené repatriačnými dotazníkmi 1946 ✅
