@@ -245,9 +245,13 @@ V rodinnom dome dnes žije **Peter Lorenowicz** — predtým tam býval s Irenou
 
 ## Ginelliovci
 
-**Magdaléna Hajmanová** (1923–2006), Jozefova dcéra, sa vydala za **Ferdinanda Ginelliho** (1913–1989) — **huslistu a profesora košického konzervatória**, ktorý v rokoch 1942 a 1943 hrával v košickom rozhlase. Rodiny sa zrejme zoznámili práve cez rozhlasový orchester, kde hral aj Ladislav Hajman. Ginelliovci sú stará košická rodina s talianskou podobou mena — roku 1995 žili na Slovensku iba traja nositelia, všetci v Košiciach.
+**Magdaléna Hajmanová** (1923–2006), Jozefova dcéra, sa vydala za **Ferdinanda Ginelliho** (1913–1989) — **huslistu a profesora košického konzervatória**. Rodiny sa zrejme zoznámili cez rozhlasový orchester, kde hral aj Ladislav Hajman. Ginelliovci sú stará košická rodina s talianskou podobou mena — roku 1995 žili na Slovensku iba traja nositelia, všetci v Košiciach. V maďarských prameňoch vystupuje Ferdinand ako **Ginelli Nándor**; Nándor je maďarská podoba mena Ferdinand, rovnako ako pri jeho švagrovi Ladislavovi.
 
-Ich deti: **MUDr. Tibor Ginelli**, gynekológ a pôrodník, ktorý priviedol na svet Veroniku aj jej brata — pomenovaný po strýkovi, chirurgovi Tiborovi Hajmanovi — a **Mgr. Mária Ginelliová** (1950–2016), kurátorka Východoslovenského múzea.
+**V rozhlase hral trinásť rokov pred koncom vojny a ešte dlho po nej učil.** Programy Košického rozhlasu ho uvádzajú ako sólistu pravidelne **od roku 1939 až do mája 1944** a keďže sa vysielanie preberalo z Budapešti, jeho mená našli aj čitatelia novín v Pécsi, Debrecíne, Szegede, Subotici či Mukačeve. Z repertoáru sú menovite zapísané Vivaldiho koncert a mol, Bachov koncert h mol a Veraciniho koncertná sonáta; na klavíri ho sprevádzali Szirmay a Schmidt. Na jeseň roku 1939 ho košické noviny uvádzajú aj medzi ocenenými.
+
+Ako profesor vychoval generáciu košických huslistov. Huslista **László Gál**, narodený roku 1953 vo Fiľakove, spomína, že v rokoch **1968 až 1975** študoval na košickom konzervatóriu práve u Ginelliho — a že ho naň pripravila jeho predchádzajúca učiteľka Hilda Jurečeková, ktorá u Ginelliho študovala tiež.
+
+Ich deti: **MUDr. Tibor Ginelli**, gynekológ a pôrodník, ktorý priviedol na svet Veroniku aj jej brata — pomenovaný po strýkovi, chirurgovi Tiborovi Hajmanovi — a **Mgr. Mária Ginelliová** (1950–2016), kurátorka Východoslovenského múzea. Roku 1996 bola spoluautorkou múzejnej výstavy a jej katalógu; výstava putovala z Košíc cez Levoču do maďarského Győru a odborná literatúra ju cituje ešte po dvadsiatich rokoch.
 
 ## Hroby
 
