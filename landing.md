@@ -1,6 +1,6 @@
 # Príbeh našej rodiny
 
-**Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Škoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií zo štyroch krajín, ktoré sa všetky zbehli v Košiciach.
+**Rusinko · Hajman · Ličko · Hanis · Fejerčák–Guľas · Škoda** — rodinná história od želiarov, slúžok a uhliarov 19. storočia po dnešok. Šesť rodových línií, ktoré sa všetky zbehli v Košiciach.
 
 <div class="fakt-pas">
 <span>🌳 7 doložených generácií</span>
@@ -35,9 +35,9 @@
 
     Priezvisko Ličko žije na Horehroní od roku 1656 — Ličkovci pálili uhlie pri hámri na Piesku a o storočie neskôr bol dedo Jozef majstrom vo VSS. Remeslo išlo za železom. [→ vetva Ličko](vetva-licko.md)
 
--   🕵️ **Záhada Kataríny Škodovej**
+-   🥾 **Obuvník, ktorý sa priznal k dcére**
 
-    Prežila päť štátov bez jediného sťahovania — a jej rodné meno stále nepoznáme. Práve oň sa hrá o druhú poľskú stopu rodiny. [→ vetva Škodová](vetva-hajman-skodiova.md)
+    Helena sa narodila roku 1919 v podnájme na košickej okružnej. Muž zapísaný ako otec z matriky po štyroch mesiacoch zmizol a právneho otca — obuvníka **Justina Škodu** — dostala až ako osemročná, keď sa jej matka **Katarína Zazyláková** vydala. [→ vetva Hajman–Škodová](vetva-hajman-skodiova.md#skodovci-a-zazulakovci)
 
 -   🧡 **Dedo Peter**
 
@@ -49,7 +49,21 @@
 
 -   🎻 **Zoznámení rozhlasom**
 
-    Ladislav Hajman hral v orchestri košického rozhlasu — tam, kde huslista Ferdinand Ginelli, budúci manžel jeho netere Magdy. Ich syn potom priviedol na svet Veroniku aj jej brata. [→ Ginelliovci](vetva-hajman-skodiova.md)
+    Ladislav Hajman hral v orchestri košického rozhlasu — tam, kde huslista **Ferdinand Ginelli**, sólista toho istého rozhlasu v rokoch 1939 až 1944 a neskôr profesor konzervatória. Oženil sa s jeho neterou Magdou a ich syn potom priviedol na svet Veroniku aj jej brata. [→ Ginelliovci](vetva-hajman-skodiova.md#ginelliovci)
+
+</div>
+
+## Čo pribudlo
+
+<div class="grid cards" markdown>
+
+-   **September 2026**
+
+    **Katarína rod. Zazyláková** — rodné meno praprababky, z rodného zápisu jej dcéry Heleny. · **Justin Škoda** (\*~1900), košický obuvník — nový praprastarý otec; sobáš 29. apríla 1923. · **Rodisko Heleny** až na číslo domu: Klobusitzkeho okružná 3, dnešná Masarykova. · **Rozália Buková** — presný dátum narodenia 15. januára 1884 a bydlisko Kislak. · **Ferdinand Ginelli** — sólista Košického rozhlasu 1939–1944, profesor konzervatória ešte v polovici sedemdesiatych rokov.
+
+-   **August 2026**
+
+    **Dom na Pipa utca 16** — Erzsébet Suverová ho kúpila roku 1898 za 680 zlatých a dcéra Alžbeta ho roku 1915 zdedila. · **Rudolf Hajman** — tajomník košických kominárov v rokoch 1939 až 1941. · **Sčítacie hárky 1940** pre Rokycany, Žipov a Prešov.
 
 </div>
 
@@ -57,13 +71,14 @@
 
 <div class="grid cards" markdown>
 
+-   🔎 **[Rodina](prehlad.md)** — šesť vetiev, odkiaľ prišli a kde sa stretli
 -   🌳 **[Rodokmeň](rodokmen.md)** — celý strom aj s FamilySearch ID
--   🗺️ **[Mapa migrácií](mapa-migracii.md)** — odkiaľ všetci prišli (interaktívna)
--   📊 **[Štatistiky](statistiky.md)** — dĺžka života, mená, povolania, čo predkovia zažili
--   🛠️ **[Zamestnania v rodine](zamestnania.md)** — z čoho sa žilo: želiari, slúžky, kominár, lekári
--   ⏳ **[Stav výskumu](stav-vyskumu.md)** — na čo sa práve čaká a čo je zaseknuté
+-   🖱️ **[Interaktívny strom](interaktivny-rodokmen.md)** — klikací rodokmeň
+-   🗺️ **[Mapa](mapa-rodokmena.md)** — odkiaľ všetci prišli a kam odišli
 -   📜 **[Časová os](casova-os.md)** — od roku 1715 po dnešok
--   🔎 **[Prehľad výskumu](prehlad.md)** — čo o šiestich vetvách vieme a čo ešte hľadáme
+-   👥 **[Register osôb](stav-osob.md)** — všetci menovite, s povolaniami a dátumami
+-   📊 **[Štatistiky](statistiky.md)** — dĺžka života, mená, povolania, čo predkovia zažili
+-   ⏳ **[Stav výskumu](stav-vyskumu.md)** — na čo sa práve čaká a čo je zaseknuté
 -   🌐 **[Strom na FamilySearch](https://www.familysearch.org/en/tree/pedigree/portrait/PMQS-SVF)** — živý rodokmeň so zdrojmi (bezplatné konto)
 
 </div>

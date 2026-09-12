@@ -35,16 +35,16 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 
 - Ondrej Rusinko \*9.2.1857 Bujakov č. 15, †1936 — *prapradedo, otcova strana; rodičia Michal Rusinko & Mária Gumanová, bratia Ján \*1859 a Juraj \*1862. Že bol otcom Jána \*1898, potvrdí Jánov krstný zápis*
 - Peter Fejerčák 1860 & Mária rod. Guľasová 1861 — *praprastarí, otec/Fejerčák*
-- Andrej Dzurenda \*1870 & Alžbeta rod. Šoltés — *praprastarí, otec/Dzurenda*
+- Andrej Dzurenda \*11.11.1870 & Alžbeta rod. Šoltésová (⚭ 6.11.1894 Bajerov, Žipov č. 18, neskôr č. 57) — *praprastarí, otec/Dzurenda*
 - Ferenc Hajman 1873 & Alžbeta rod. Suver \*1876 Mokrance — *praprastarí, mama/Hajman*
-- Katarína Škodová 1897–1985 (dožila sa ~88 r.) — *praprababka, mama/Škoda (Helenina matka)*
+- Justin Škoda \*~1900, obuvník v Košiciach, & Katarína rod. Zazyláková 1897–1985 (dožila sa ~88 r.), ⚭ 29.4.1923 Košice — *praprastarí, mama/Škoda (Helenini rodičia)*
 - rodičia Jozefa Hanisa — *neznámi, otec/Hanis*
 
 **3× prastarí (5) — „3× pra":**
 
 - Juraj Guľas 1834–1866 (dožil sa ~32 r.) & Alžbeta rod. Semanová \*1834 — *otec/Guľas*
 - Ján Fejerčák & Mária rod. Fedorová (~1830) — *otec/Fejerčák*
-- **János Hajman** \*~1836 & **Anna rod. Huterová** \*~1838–41 †1879 — *mama/Hajman*; obaja prisťahovalci z **Rajcze (Poľsko)**, od 1861 Szőlőskislak
+- **János Hajman** \*~1836, †pred 1900, & **Anna rod. Huterová** \*~1838–41 †1879 — *mama/Hajman*; obaja prisťahovalci z **Rajcze (Poľsko)**, od 1861 Szőlőskislak
 - **Erzsébet Suver** (slúžka, Mokrance) \*~1845 — *mama/Suver* (matka Alžbety Suverovej \*1876)
 
 **4× prastarí (6) — „4× pra":**
@@ -63,11 +63,13 @@ graph TD
     JF["🟢 Ján Fejerčák"]
     MF["🟢 Mária Fedorová"]
   end
-  subgraph gen4["~1860 (4. generácia)"]
+  subgraph gen4["~1860–1870 (4. generácia)"]
     PF["🟢 Peter Fejerčák<br>*10.7.1860 Janov<br>⚭ 19.2.1884 Bajerov"]
     MG["🟢 Mária Guľasová<br>*18.8.1861 Rokycany"]
-    MRG["🟢 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov, 3× prastarí<br>deti: Ondrej *1857, Ján *1859, Juraj *1862"]
+    MRG["🟡 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov, 3× prastarí<br>deti: Ondrej *1857, Ján *1859, Juraj *1862"]
     OR["🟡 Ondrej Rusinko<br>*9.2.1857 Bujakov č. 15<br>†1936, hrob Bajerov<br>otec Jána *1898 — čaká na krstný zápis"]
+    AD["🟢 Andrej Dzurenda<br>*11.11.1870 · Žipov č. 18, neskôr č. 57<br>⚭ 6.11.1894 Bajerov"]
+    ASol["🟢 Alžbeta rod. Šoltésová<br>Žipov · †pred rokom 1940"]
     MRG --> OR
   end
   subgraph gen3["~1895 — pradedovia"]
@@ -78,7 +80,7 @@ graph TD
   end
   subgraph gen2["~1925 — dedovia"]
     JR23["🟢 Ján Rusinko<br>*29.1.1923 Rokycany<br>†4.4.2006, hrob KE 18/20"]
-    AH["🟡 Anna Hanisová<br>*4.12.1928 Žipov"]
+    AH["🟢 Anna Hanisová<br>*4.12.1928 Žipov"]
   end
   JoR["Jozef Rusinko *1968 — otec"]
 
@@ -91,6 +93,8 @@ graph TD
   MG --> AF
   JR98 -->|hárok 1930 🟢| JR23
   AF --> JR23
+  AD --> HanA
+  ASol --> HanA
   HanO --> AH
   HanA --> AH
   JR23 --> JoR
@@ -102,30 +106,33 @@ graph TD
 ```mermaid
 graph TD
   subgraph mgen5["~1836 — 3× prastarí"]
-    JHAH["🟢 János Hajman *~1836 ⚭ 10.2.1861 Anna Huterová *~1838–41<br>obaja z Rajcze (Poľsko) → nádenníci v Somogy<br>otcovia: František Heiman a František Hutera<br>Anna †7.4.1879 Kislak (pri pôrode)"]
+    JHAH["🟢 János Hajman *~1836 †pred 1900 ⚭ 10.2.1861 Anna Huterová *~1838–41<br>obaja z Rajcze (Poľsko) → nádenníci v Somogy<br>otcovia: František Heiman a František Hutera<br>Anna †7.4.1879 Kislak (pri pôrode)"]
   end
   subgraph mgen4["staršia generácia — praprastarí"]
     FH["🟢 Ferenc Hajman<br>*31.7.1873 Szőlőskislak (Somogy)<br>stolár; do Kassa ~1900"]
     ASch["🟢 Alžbeta rod. Suver (Schurer)<br>*6.3.1876 Mokrance<br>⚭ 4.2.1900 Budapešť; 1930 vdova, Lichardova 37"]
-    KS["🟡 Katarína Škodová<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
+    KS["🟢 Katarína rod. Zazyláková<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
+    JS["🟢 Justin Škoda<br>Helenin otec · *~1900 · obuvník v Košiciach<br>⚭ 29.4.1923 Košice"]
   end
   subgraph mgen3["~1895–1920 — pradedovia"]
-    LX["🟡 Jozef Ličko st. *22.5.1912<br>a Matilda rod. Noveková *~1921<br>rodiská zatiaľ neznáme"]
+    LX["🟢 Jozef Ličko st. *22.5.1912<br>a Matilda rod. Noveková *~1921<br>rodiská zatiaľ neznáme"]
     RH["🟢 Rudolf Hajman<br>kominár · *22.1.1910 Košice †22.9.1991<br>hrob VC Košice sk. 1"]
-    HS["🟢 Helena rod. Škodová<br>*1.4.1919 Košice †5.4.1994 Košice<br>hrob VC sk. 1 · (poľský pôvod?)"]
+    HS["🟢 Helena rod. Škodová<br>*1.4.1919 Košice †5.4.1994 Košice<br>hrob VC sk. 1"]
   end
   subgraph mgen2["dedovia"]
-    JL["🟡 Jozef Ličko<br>*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†~1982 (rakovina)"]
+    JL["🟢 Jozef Ličko<br>*1942 Valaská (Horehronie)<br>žil v Jasove a KE · majster VSS<br>†~1982 (rakovina)"]
     IH["🟢 Irena Hajmanová<br>*16.11.1944 †20.4.2015 Košice<br>†ako Lorenowiczová; kremácia, bez hrobu"]
     PL["🧡 Peter Lorenowicz/Lorenovicz<br>*26.2.1950 Chomutov (ČR), žije — dom Lichardova 30<br>⚭2 Irena; mamu a Zdenu si osvojil a vychoval<br>brat Dmytro 1946–2020, sestra Tatiana vyd. Elleder (DE)<br>matka Mária †KE ~2000; do KE za prácou vo VSŽ"]
   end
   ML["Marta *16.1.1970 — mama<br>nar. Ličková → adopt. Lorenowiczová → vyd. Rusinková"]
-  ZD["Zdena *1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer (dcéra Vivien, ~Augsburg)"]
+  ZD["Zdena *1966 — mamina sestra<br>nar. Ličková → Lorenowiczová<br>teraz Diana Fünfer"]
 
   JHAH --> FH
   FH -->|matrika: zápis úmrtia 1991| RH
   ASch --> RH
+  JS ---|⚭ 29.4.1923| KS
   KS -->|matka| HS
+  JS -->|otec| HS
   JL --> ZD
   IH --> ZD
   PL -.->|adopcia| ZD
@@ -174,6 +181,21 @@ graph TD
 
 > Doložené sčítacími hárkami 1930 (D. Licharda 37 + Skladná 47); Rudolfovu príslušnosť k rodine dokladá rodinné svedectvo o bratovi-kožušníkovi a rodinný dom na tej istej ulici.
 
+## Deti Rudolfovho brata Jozefa — vetva Ginelli
+
+```mermaid
+graph TD
+  JOZ["Jozef Hajman *9.5.1898 Budapešť †1977 Košice<br>majiteľ domu Skladná 47 · hrobka 7B<br>⚭ Marta rod. Kočišová 1902–1982"]
+  JOZ --> MAG["🟢 Magda rod. Hajmanová<br>*7.8.1923 †16.11.2006<br>hrob VC Košice sk. 91/2/38"]
+  JOZ --> THA["🟢 MUDr. Tibor Hajman — chirurg<br>*20.4.1926 †1988<br>prvý vedúci lekár protetického oddelenia v KE<br>⚭ Mária rod. Majáková · hrobka 7B"]
+  FGI["🟢 Ferdinand Ginelli<br>1913–1989 · huslista,<br>profesor košického konzervatória<br>hrob VC Košice sk. 91/2/38"]
+  MAG ---|⚭| FGI
+  MAG --> MGI["🟢 Mgr. Mária Ginelliová<br>*25.3.1950 †15.12.2016<br>kurátorka Východoslovenského múzea<br>hrob VC Košice sk. 91/2/38"]
+  FGI --> MGI
+```
+
+> Ginelliovci sú stará košická rodina; rodiny sa zrejme spoznali cez košický rozhlasový orchester, kde hrával aj Rudolfov brat Ladislav. Ferdinand, Magda aj dcéra Mária ležia v spoločnom hrobe na Verejnom cintoríne (sk. 91, rad 2, hrob 38); Jozef, Marta a Tibor Hajman v rodinnej hrobke 7B.
+
 ## Súrodenci babky Anny (Hanis, Žipov)
 
 ```mermaid
@@ -184,7 +206,7 @@ graph TD
   HanO --> A28["Anna Hanisová *4.12.1928<br>= babka"]
 ```
 
-> Otec **Jozef Hanis** a rodné meno matky **Dzurendová** doložené odpismi matrík farnosti Bajerov (Arcibiskupský archív KE, 19.7.2026); sestry podľa FS (NagyLukas); Mária doložená náhrobkom. Anna Dzurendová = dcéra Andreja Dzurendu & Alžbety rod. Šoltésovej (Žipov 18) — nová generácia.
+> Otec **Jozef Hanis** a rodné meno matky **Dzurendová** doložené odpismi matrík farnosti Bajerov (Arcibiskupský archív KE, 19.7.2026); sestry podľa FS (NagyLukas); Mária doložená náhrobkom. Anna Dzurendová = dcéra Andreja Dzurendu & Alžbety rod. Šoltésovej (Žipov 18); obaja sú už v strome otcovej strany.
 
 ## FamilySearch ID-čka
 
@@ -194,7 +216,6 @@ graph TD
 | Jozef Rusinko (otec) | PMQS-D7K |
 | Marta (mama) — Ličková/Lorenowiczová/Rusinková | PMQS-X8L |
 | Zdena (teta) — Ličková/Lorenowiczová/Diana Fünfer | PMQ3-989 |
-| Vivien Fünfer (Dianina dcéra, žije, ~Augsburg) | PX7J-697 |
 | Ján Rusinko 1923 | PMQS-J35 |
 | Anna Hanisová 1928 | GYM2-LCP |
 | Jozef Ličko | PMQS-RZ4 |
@@ -207,6 +228,8 @@ graph TD
 | Alžbeta rod. Šoltés (2× prababka) | PXZQ-SPB |
 | Rudolf Hajman | PMQ3-4D3 |
 | Helena Škodová | PMQ3-HFX |
+| Justin Škoda \*~1900, obuvník (Helenin otec) | zatiaľ bez záznamu |
+| Katarína rod. Zazyláková 1897–1985 (Helenina matka) | zatiaľ bez záznamu |
 | Ferenc Hajman (Rudolfov otec) | PX7K-3LY |
 | Alžbeta rod. Schurer/**Suver** \*6.3.1876 Mokrance (Rudolfova matka; stub LDNJ-M19 zlúčený 15.7.2026) | PX7K-M17 |
 | **János Hajman (3× pradedo, želiar, Szőlőskislak)** | LHW1-JPX |
@@ -240,7 +263,6 @@ graph TD
 | MUDr. Tibor Hajman \*1926, chirurg | PXWS-257 |
 | Marta Hajmanová ml. \*1928 | PXWS-FY9 |
 | **Ferdinand** Ginelli 1913–1989 (dožil sa ~76 r.) (Magdin manžel, huslista; v FS opravené z „Jozef" 15.7.2026) | PXWS-GXF |
-| MUDr. Tibor Ginelli (žijúci, gynekológ) | PXWS-JNS |
 | Peter Fejerčák 1860 | P3GG-4YC |
 | Mária Guľasová 1861 | P3GL-XYR |
 | Ján Fejerčák | L8DR-XMS |

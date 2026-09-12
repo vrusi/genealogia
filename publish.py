@@ -30,14 +30,12 @@ FILES = {
     "Rodokmeň": "rodokmen",
     "Časová os": "casova-os",
     "Stav osôb": "stav-osob",
-    "Zamestnania v rodine": "zamestnania",
     "Vetva Rusinko": "vetva-rusinko",
     "Vetva Fejerčák-Guľas": "vetva-fejercak-gulas",
     "Vetva Hanis": "vetva-hanis",
     "Vetva Ličko": "vetva-licko",
     "Vetva Hajman-Škodová": "vetva-hajman-skodiova",
     "Štatistiky": "statistiky",
-    "Mapa migrácií": "mapa-migracii",
 }
 # NEpublikované: Drafty emailov, Korešpondencia a úlohy, DNA matche (kontakty, stratégia, žijúci matchovia)
 
@@ -186,8 +184,41 @@ def main():
         for needle in ["21.11.1997", "Šancová 94", "Zvolská 695", "727 813", "514-937", "Sherbrooke", "seznam.cz", "Kallenbergstr", "Denninger", "Unterbergstr", "dukelských hrdinov 443"]:
             if needle in t:
                 leaked.append((f.name, needle))
+    leaked += zijuci_check()
     print("LEAK CHECK:", leaked if leaked else "clean")
     consistency_checks()
+
+
+def zijuci_check():
+    """Žijúce a maloleté osoby (na_web: false + poznámka ŽIJE/žijúci/maloletý)
+    nesmú byť na webe menovite ani so svojím FamilySearch ID."""
+    import json, re
+    db = json.loads((VAULT / "data" / "osoby.json").read_text(encoding="utf-8"))
+    publikovani = set()
+    for o in db:
+        if o.get("na_web") is not False:
+            n = (o.get("zobrazenie") or f"{o.get('meno','')} {o.get('priezvisko','')}").strip()
+            if n:
+                publikovani.add(n)
+    chranit, pidy = set(), set()
+    for o in db:
+        if o.get("na_web") is False and re.search(r"ŽIJE|[Žž]ijúc|[Mm]aloletý", o.get("poznamka") or ""):
+            n = (o.get("zobrazenie") or f"{o.get('meno','')} {o.get('priezvisko','')}").strip()
+            # meno, ktoré nesie aj publikovaný predok, by robilo falošné poplachy
+            if n and len(n.split()) >= 2 and n not in publikovani:
+                chranit.add(n)
+            for pid in re.findall(r"\b[A-Z0-9]{4}-[A-Z0-9]{3}\b", json.dumps(o, ensure_ascii=False)):
+                pidy.add(pid)
+    nalezy = []
+    for f in DOCS.glob("*.md"):
+        t = f.read_text(encoding="utf-8")
+        for n in chranit:
+            if n in t:
+                nalezy.append((f.name, f"ŽIJÚCA OSOBA: {n}"))
+        for pid in pidy:
+            if pid in t:
+                nalezy.append((f.name, f"FS ID žijúcej osoby: {pid}"))
+    return nalezy
 
 def consistency_checks():
     """Kontroly, že sa pri update nezabudlo na nič — spúšťa sa pri každom publish."""
@@ -212,7 +243,7 @@ def consistency_checks():
             if tgt in anchors and a not in anchors[tgt]:
                 warn.append(f"{f.name}: mŕtva kotva → {tgt}#{a}")
     # 3) vault súbor, ktorý nie je publikovaný ani vedome vylúčený
-    EXCLUDED = {"Drafty emailov", "Korešpondencia a úlohy", "DNA matche (Ancestry)", "Výskumný denník", "Výskum v číslach"}
+    EXCLUDED = {"Drafty emailov", "Korešpondencia a úlohy", "DNA matche (Ancestry)", "Výskumný denník", "Výskum v číslach", "Zamestnania v rodine", "Mapa migrácií"}
     for f in sorted(VAULT.glob("*.md")):
         if f.stem not in FILES and f.stem not in EXCLUDED:
             warn.append(f"vault: '{f.name}' nie je vo FILES ani vo vylúčených — pridať alebo vylúčiť")

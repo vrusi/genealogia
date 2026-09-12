@@ -66,8 +66,9 @@ const pins = [
   {c:'hajman', lat:48.5990, lon:21.0310, t:'<b>Mokrance (Makranc), Abov</b><br>• rodisko <b>Alžbety Suverovej *6.3.1876</b> (dom č. 10) — praprababka<br>• nemanželská dcéra <b>Erzsébet Suverovej, slúžky</b> — 3× prababka<br>• krst 7.3.1876 vo farnosti Moldava n. B. (Szepsi)<br>• civilné matriky píšu SUVER, košická pozemková kniha Schurer'},
 
   // ===== ŠKODOVÁ (fialová) =====
-  {c:'skodova', lat:48.6280, lon:21.3280, t:'<b>Nižná Myšľa</b><br>• klaster rodu Škody/Škodyovcov JV od Košíc<br>• hrob Heleny Mészárosovej rod. Škodyovej<br>• krst Helena Skodi 1893 (pristará menovkyňa)'},
-  {c:'skodova', lat:48.5560, lon:21.2580, t:'<b>Seňa</b><br>• Škodyovci — hroby a pozemky (zoznam vlastníkov)<br>• alternatívna vlasť Heleny rod. Škodiovej (poľská stopa možno cez rodné meno jej mamy Kataríny)'},
+  {c:'skodova', lat:48.7262, lon:21.2604, t:'<b>Košice — Klobusitzkeho okružná 3 (dnes Masarykova)</b><br>• doložené bydlisko <b>Kataríny rod. Zazylákovej</b> (1897–1985) k <b>1. 4. 1919</b><br>• <b>rodisko prababky Heleny</b> — do matriky zapísanej ako Ilona; priezvisko Škoda dostala až roku 1927, keď ju uzákonil sobáš matky s <b>Justinom Škodom</b> (⚭ 29. 4. 1923 Košice)<br>• rodné meno matky matrikár pôvodne zapísal ako Kaminszky, 2. 2. 1927 opravil na <b>Zazyláková</b><br>• dom č. 3 stál druhý od mosta na južnej strane ulice; ulica sa do 1890 volala Kert utca, potom Klobusitzkeho okružná, od 1919 Masarykova<br>• <i>poloha pinu je približná — vyznačuje ulicu, nie konkrétny dom</i>'},
+  {c:'skodova', lat:48.6280, lon:21.3280, t:'<b>Nižná Myšľa</b><br>• klaster priezviska Škoda/Škody JV od Košíc — <b>kontext, nie doložená príbuznosť</b><br>• hrob Heleny Mészárosovej rod. Škodyovej a krst Helena Skodi 1893 sú <b>menovkyňe</b>, s našou Helenou nesúvisia<br>• naša vetva je doložene <b>košická</b>: Justin Škoda bol košický obuvník (*~1900)'},
+  {c:'skodova', lat:48.5560, lon:21.2580, t:'<b>Seňa</b><br>• ďalší abovský klaster priezviska Škoda/Škody — hroby a pozemky<br>• <b>len kontext k rozšíreniu priezviska</b>; žiadne prepojenie na Justina Škodu nie je doložené<br>• staršia hypotéza o „poľskej stope cez rodné meno Kataríny“ je <b>prekonaná</b>: rodné meno znie <b>Zazyláková</b> (Zazulak) a rodina žila v Košiciach; odkiaľ Zazylákovci prišli, <b>zatiaľ nevieme</b> (Zemplín? Halič?)'},
 
   // ===== LIČKO (hnedá) =====
   {c:'licko', lat:48.7960, lon:19.5540, t:'<b>Valaská (okr. Brezno, Horehronie)</b><br>• ⭐ <b>rodisko Jozefa Lička *1942</b> (matrika Jasov + evidencia obce)<br>• Ličkovci = horehronský rod klinčiarov a uhliarov (Beňuš/Lično, doložení od 1656)'},
@@ -84,7 +85,7 @@ const pins = [
   {c:'diaspora', lat:48.1486, lon:17.1077, t:'<b>Bratislava</b><br>• Štefan Rusinko (1925–2015) + Emília — hrob Vrakuňa 11/302'},
   {c:'diaspora', lat:48.3705, lon:10.8978, t:'<b>Augsburg (Nemecko)</b><br>• teta Diana (Zdena) Fünfer + Vivien (podľa rodiny)'},
   {c:'diaspora', lat:50.7663, lon:15.0543, t:'<b>Liberec (ČR)</b><br>• Vítězslav Lorenovicz — jediný nositeľ v ČR, možný príbuzný'},
-  {c:'diaspora', lat:45.4215, lon:-75.6972, t:'<b>Kanada (mesto nepoznáme)</b><br>• Rudolf Hajman ml. — Irenin brat, emigroval v 50.–60. rokoch<br>• neskôr údajne Izrael + konverzia na judaizmus'},
+  {c:'diaspora', lat:45.4215, lon:-75.6972, t:'<b>Kanada (mesto nepoznáme)</b><br>• Rudolf Hajman ml. — Irenin brat, emigroval v 50.–60. rokoch<br>• neskôr údajne Izrael + konverzia na judaizmus<br>• <i>pin je umiestnený len orientačne (východná Kanada) — mesto nepoznáme</i><br>• „Rudolph Hajman, Montreal“ z telefónnych zoznamov je <b>iba zhoda mena, nie dôkaz</b>'},
 
   // ===== DNA STOPY (ružová) =====
   {c:'dna', lat:48.8420, lon:21.6260, t:'<b>Jasenovce (okr. Vranov n. T.)</b><br>• rodná obec rodiny <b>KARTIS (= Kertis)</b> — najsilnejší DNA match (Joyce Chasse, 104 cM)<br>• manifest 1909: „Jaszenócz", národnosť Slovak<br>• Joseph Kartis *21.3.1886 ⚭ Anna Nameth/Németh *1886 → Roseton NY<br>• spojka k nám zatiaľ neznáma (Hanis? Suver? Zemplín?)'},
@@ -109,12 +110,40 @@ const mig = [
   {a:[48.5990,21.0310], b:[47.4979,19.0402], c:C.hajman,   t:'Mokrance → Budapešť (Alžbeta do služby, ~90. roky 19. stor.)'},
   {a:[48.7960,19.5540], b:[48.6820,20.9770], c:C.licko,    t:'Valaská → Jasov (Ličkovci)'},
   {a:[48.6820,20.9770], b:[48.7164,21.2611], c:C.licko,    t:'Jasov → Košice (Jozef, VSS)'},
-  {a:[48.8420,21.6260], b:[41.5820,-73.9740], c:C.dna,     t:'Jasenovce → Roseton NY (Kartisovci, ~1905–09)'}
+  {a:[48.8420,21.6260], b:[41.5820,-73.9740], c:C.dna,     t:'Jasenovce → Roseton NY (Kartisovci, ~1905–09)'},
+  {a:[48.9741,21.1506], b:[48.7164,21.2611], c:C.rusinko,  t:'Rokycany → Košice (dedo Ján *1923)'},
+  {a:[48.9680,21.1170], b:[48.7164,21.2611], c:C.hanis,    t:'Žipov → Košice (babka Anna *1928)'},
+  {a:[48.7164,21.2611], b:[45.4215,-75.6972], c:C.diaspora,t:'Košice → Kanada (Rudolf Hajman ml., 50.–60. roky) — cieľové mesto nepoznáme, čiara je len orientačná'},
+  {a:[48.7164,21.2611], b:[48.1486,17.1077], c:C.diaspora,t:'Košice/Rokycany → Bratislava (Štefan Rusinko, 1925–2015)'},
+  {a:[48.7164,21.2611], b:[48.3705,10.8978], c:C.diaspora,t:'Košice → Augsburg (Zdena/Diana Fünfer)'}
 ];
 for (const m of mig) {
   L.polyline([m.a, m.b], {color: m.c, weight: 2, dashArray: '6 6', opacity: 0.7})
     .addTo(map).bindPopup(m.t);
 }
+
+// ===== KOŠICKÁ MIKROMAPA — prepínateľná vrstva s konkrétnymi adresami =====
+const mikro = [
+  {lat:48.7085, lon:21.2555, t:'<b>Lichardova 30</b><br>rodinný dom — Rudolf ho dostaval; predtým Hajmanovci, dnes tu žije dedo Peter'},
+  {lat:48.7098, lon:21.2530, t:'<b>Skladná 47</b><br>dom <b>Jozefa Hajmana</b> (sčítací hárok 1930)'},
+  {lat:48.7090, lon:21.2565, t:'<b>Daniela Licharda 37</b><br>1930: vdova <b>Alžbeta</b> + synovia, vrátane Jána kožušníka'},
+  {lat:48.7060, lon:21.2500, t:'<b>Nemocnica Rastislavova (UNLP)</b><br>pôsobisko oboch Tiborov'},
+  {lat:48.7000, lon:21.2530, t:'<b>Verejný cintorín</b><br>hroby sk. 1, 7B, 91, 1MÚZEUM'},
+  {lat:48.7280, lon:21.2560, t:'<b>Košický rozhlas</b><br>orchester — Ladislav Hajman + Ferdinand Ginelli'}
+];
+const kosiceLayer = L.layerGroup(
+  mikro.map(m => L.circleMarker([m.lat, m.lon], {
+    radius: 7, color: '#1a1a1a', weight: 3, fillColor: '#ffffff', fillOpacity: 1
+  }).bindPopup(m.t + '<br><i>Košická mikromapa — poloha je približná.</i>', {maxWidth: 300}))
+);
+L.control.layers(null, {'Košická mikromapa (adresy)': kosiceLayer}, {collapsed: false, position: 'bottomright'}).addTo(map);
+// automaticky sa zapne pri priblížení na Košice, ale používateľ ju môže kedykoľvek prepnúť
+let mikroAuto = false;
+map.on('zoomend', () => {
+  const blizko = map.getZoom() >= 13 && map.getBounds().contains([48.716, 21.256]);
+  if (blizko && !map.hasLayer(kosiceLayer)) { map.addLayer(kosiceLayer); mikroAuto = true; }
+  else if (!blizko && mikroAuto && map.hasLayer(kosiceLayer)) { map.removeLayer(kosiceLayer); mikroAuto = false; }
+});
 
 // legenda
 const legend = L.control({position:'topright'});
@@ -130,7 +159,8 @@ legend.onAdd = () => {
   <span class="dot" style="background:${C.loren}"></span>Lorenowicz (Halič→Chomutov→KE)<br>
   <span class="dot" style="background:${C.diaspora}"></span>diaspóra (BA, DE, CA…)<br>
   <span class="dot" style="background:${C.dna}"></span>DNA stopa (Kartis: Jasenovce→Roseton NY)<br>
-  <small>Prerušované čiary = sťahovania.<br>Oddiaľ pre Budapešť, Somogy, Poľsko, USA.<br>Polohy pinov v obciach sú približné.</small>`;
+  <span class="dot" style="background:#ffffff;border-color:#1a1a1a"></span>košická mikromapa — konkrétne adresy<br>
+  <small>Prerušované čiary = sťahovania.<br>Oddiaľ pre Budapešť, Somogy, Poľsko, USA.<br>Mikromapa Košíc sa zapne sama pri priblížení (alebo zaškrtnutím vpravo dole).<br>Polohy pinov v obciach sú približné.</small>`;
   return d;
 };
 legend.addTo(map);

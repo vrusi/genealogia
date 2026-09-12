@@ -18,6 +18,8 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.indexes
+    - navigation.sections
     - search.suggest
     - content.tabs.link
 extra_css:
@@ -38,19 +40,20 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Domov: index.md
-  - Rodokmeň: rodokmen.md
-  - Interaktívny rodokmeň: interaktivny-rodokmen.md
-  - Mapa rodokmeňa: mapa-rodokmena.md
-  - Mapa migrácií: mapa-migracii.md
-  - Štatistiky: statistiky.md
-  - Stav výskumu: stav-vyskumu.md
-  - Prehľad výskumu: prehlad.md
-  - Časová os: casova-os.md
-  - Stav osôb: stav-osob.md
-  - Zamestnania v rodine: zamestnania.md
-  - Vetvy:
+  - Rodina:
+      - prehlad.md
       - Rusinko: vetva-rusinko.md
       - Fejerčák–Guľas: vetva-fejercak-gulas.md
       - Hanis: vetva-hanis.md
       - Ličko–Lorenowicz: vetva-licko.md
       - Hajman–Škodová: vetva-hajman-skodiova.md
+  - Rodokmeň:
+      - Strom: rodokmen.md
+      - Interaktívny strom: interaktivny-rodokmen.md
+      - Mapa: mapa-rodokmena.md
+      - Časová os: casova-os.md
+  - Ľudia:
+      - Register osôb: stav-osob.md
+      - Štatistiky: statistiky.md
+  - O výskume:
+      - Stav výskumu: stav-vyskumu.md

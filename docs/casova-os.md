@@ -1,6 +1,6 @@
 # Časová os rodiny
 
-Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo všetkých doložených prameňov (matriky, sčítania, hroby, tlač, rodinné svedectvá). Neisté údaje označené „~" alebo „?". · 🌍 = svetové/dejinné pozadie (kurzívou), aby sa dali predkovia zaradiť do doby.
+Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo všetkých doložených prameňov (matriky, sčítania, hroby, tlač, rodinné svedectvá). Neisté údaje označené „~" alebo „?". · 🌍 = svetové/dejinné pozadie (kurzívou), aby sa dali predkovia zaradiť do doby. · **Aktualizované 12. 9. 2026.**
 
 ## Hlboké korene (18.–19. storočie)
 
@@ -22,6 +22,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **6.3.1876** — narodila sa **Alžbeta Suverová** v **MOKRANCIACH č. 10** (maď. Makranc; Abov, 25 km od Košíc), krst 7.3.1876 Moldava (Szepsi) — praprababka Hajman; **nemanželská dcéra slúžky Erzsébet Suverovej (3× prababka!)** ✅ matrika s. 161/24, sken v prílohách
 - **7.4.1879** — zomrela **Anna Huterová** (38 r.) v Kislaku — **pri pôrode**; deti (najmenej Rozália, Mária a 5-ročný Ferenc) osireli ⭐
 - **22.1.1882** — vydala sa **Rozália Hajmanová** (\*~1861, Ferencova sestra) v Szőlősgyöröku
+- **15.1.1884** — narodila sa **Rozália Buková** v Kisláku, krstená 16.1. v Szőlősgyöröku — dcéra Rozálie rod. Hajmanovej a čeľadníka Mártona Buka, **prvé doložené vnúča Jánosa Hajmana a Anny Huterovej**
 - **19.2.1884** — ⚭ **Peter Fejerčák × Mária Guľasová**, Bajerov
 
 ## Prelom storočí — generácia prastarých rodičov
@@ -49,22 +50,25 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 
 > 🌍 *Éra **1. Československej republiky (1918–1938)** — demokratický štát, ale Šariš ostáva chudobný. **1929 udrela svetová hospodárska kríza** — presne vtedy (11.1.1929) zomrel Jozef Hanis a vdova Anna zostala s tromi deťmi v najhoršom možnom čase. Košice sú multikultúrne mesto (Slováci, Maďari, Židia, Nemci) — Hajmanovci sa hlásia k maďarskej národnosti (úrady ju 1932 „prepisujú" na slovenskú).*
 
-- **1.4.1919** — narodila sa **Helena Škodová** v Košiciach ⭐ (Irenina matka; dátum z jej úmrtného listu) ✅
+- **1.4.1919** — narodila sa **Helena** (do matriky zapísaná ako **Ilona**) v Košiciach na **Klobusitzkeho okružnej 3 — dnešná Masarykova** ⭐; Irenina matka, dcéra **Kataríny rod. Zazylákovej** a **Justina Škodu** ✅ (rodný zápis z roku 1919)
 - **3.6.1919** — ⚭ **Ján Rusinko × Anna Fejerčáková** ⭐
 - **10.9.1921** — narodila sa **Mária Rusinková** v Brežanoch
 - **25.5.1922** — Rusinkovci sa sťahujú **z Brežian do Rokycian** (dom č. 20, vlastný)
 - **18.11.1922** — ⚭ **Jozef Hajman (\*1898 Budapešť) × Marta rod. Kočišová (\*1902)**, Košice
 - **29.1.1923** (hárok: 24.1.) — narodil sa **dedo Ján Rusinko** v Rokycanoch ⭐
+- **29.4.1923** — ⚭ **Katarína Zazyláková × Justin Škoda**, košický obuvník, v Košiciach ⭐; svadbu oznámil 9. mája aj denník *Magyar Hirlap* („Skoda Justin — Zazylak Katalin")
 - **~1923** — ⚭ **Jozef Hanis × Anna Dzurendová** (odhad; prastarí rodičia z otcovej strany, Žipov); **7.8.1923** narodená **Magda Hajmanová** (dcéra Jozefa \*1898, budúca Ginelliová)
 - **3.6.1924** — narodila sa **Alžbeta Hanisová** (babkina staršia sestra, dcéra Jozefa Hanisa; 1940 v službe v Prešove); sčítací hárok 1940 uvádza deň 4.6.
 - **28.9.1925** — narodil sa **Štefan Rusinko**
 - **22.1.1926** — narodila sa **Mária Hanisová** (babkina sestra, dcéra Jozefa Hanisa → vyd. **Dzuričková**); **20.4.1926** narodený **Tibor Hajman** (syn Jozefa \*1898 → budúci **MUDr., chirurg**; nezamieňať s bratrancom MUDr. Tiborom Ginellim, gynekológom)
+- **2.2.1927** — matrikár opravil Helenin rodný zápis: rodné priezvisko jej matky je **Zazyláková**; **15.3.1927** rozhodol **Župný úrad v Košiciach**, že osemročná Helena je sobášom rodičov **uzákonená ako dcéra Justina Škodu** ⭐
 - **5.9.1927** — narodil sa **Andrej Rusinko**
 - **22.10.1928** — narodila sa **Marta Hajmanová ml.** (dcéra Jozefa \*1898); **4.12.1928** narodená **babka Anna Hanisová** (dcéra Jozefa Hanisa a Anny Dzurendovej) v Žipove ⭐
 - **11.1.1929** — **zomrel Jozef Hanis** (34 r.) — päť týždňov po narodení babky; vdova Anna rod. Dzurendová zostala s tromi dcérami
 - **1.–2.12.1930** — **sčítanie ľudu**: zachytené domácnosti Rusinkovcov (Rokycany 20), Hanisových (Žipov 57), Jozefa Hajmana (Skladná 47) aj vdovy Alžbety (D. Licharda 37)
-- **23.7.1932** — „Hajman János, kassai szűcssegéd" v novinách (kožušník, aj turista); **29.9.1932** — úrady „vyšetrili" národnosť Hajmanovcov (maďarská → slovenská)
 - **25.6.1931** — narodila sa **Anna Rusinková**, najmladšia sestra deda Jána (Rokycany) ⭐ — dátum dal neredigovaný sčítací hárok 1940
+- **23.7.1932** — „Hajman János, kassai szűcssegéd" v novinách (kožušník, aj turista); **29.9.1932** — úrady „vyšetrili" národnosť Hajmanovcov (maďarská → slovenská)
+- **4.–5.10.1932** — **Justin Škoda zložil šoférske skúšky** v košickej autoškole Volán
 - **17.7.1934** — narodila sa **Mária Holmáňová**
 - **1936** — zomrel **Ondrej Rusinko \*9.2.1857** (hrob Bajerov — liatinový kríž s nepresným rokom „1861"; otec Jána Rusinka \*1898 zatiaľ nie je doložený krstným zápisom) (dožil sa ~79 r.)
 
@@ -74,6 +78,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 
 - **11/1938** — Košice pripojené k Maďarsku (Kassa); Tibor Hajman prechádza na štátne Hunfalvyho gymnázium
 - **1939–41** — **Rudolf Hajman (kominár)** v tlači: pokladník → tajomník → **výkonný tajomník kominárskeho odborového spolku** v Kassa
+- **1939–1944** — huslista **Ferdinand Ginelli** (Magdin manžel) vystupuje ako **sólista Košického rozhlasu**; vysielanie sa preberalo z Budapešti, takže jeho mená čítali aj v Pécsi, Debrecíne, Szegede, Subotici či Mukačeve
 - **6.5.1940** — šestnásťročná **Alžbeta Hanisová odchádza zo Žipova do služby v Prešove**, na Floriánovu 7/395 k vdove Márii Šandallovej
 - **15.12.1940** — sčítanie 1940 (rozhodujúca noc zo 14. na 15.12.): Rusinkovci už v dome č. 22, Ján ako **samostatný roľník a majiteľ domu**, v domácnosti aj dcéra **Anna \*25.6.1931**; Hanisové stále v dome 57 spolu so **starým otcom Ondrejom Dzurendom (70, vdovec)**, prababka Anna už ako **školníčka** na štátnej ľudovej škole
 - **18.1.1942** — narodil sa **Jozef Ličko vo Valaskej** (okr. Brezno, Horehronie) ⭐ — jeho rodný list uvádza rodičov **Jozefa Lička \*22.5.1912** a **Matildu rod. Novekovú**, vtedy dvadsaťročnú ✅
@@ -94,6 +99,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **1.7.1964** — **MUDr. Tibor Hajman** sa stáva prvým vedúcim lekárom protetického oddelenia v Košiciach
 - **1966** — narodila sa **Zdena Ličková** (teraz Diana Fünfer)
 - **6.1.1967** — zomrela **Anna Rusinková rod. Fejerčáková** (71 r.)
+- **1968–1975** — **Ferdinand Ginelli učí husle na košickom konzervatóriu**; doložil to jeho žiak, huslista László Gál, ktorý uňho v týchto rokoch študoval
 - **16.1.1970** — narodila sa **mama Marta Ličková** v Košiciach ⭐
 - **1970** — zomrela **Anna Schullerová rod. Hajmanová** (\*1903 — pravdepodobne Rudolfova sestra; hrob sk. 1, z náhrobku 15.7.2026) (dožila sa ~67 r.)
 - **20.10.1971** — zomrela **Mária Dzuričková rod. Hanisová** (45 r., hrob Žipov)
@@ -127,7 +133,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **27.3.2020** — zomrel Dmytro Lorenovicz
 - **17.1.2024** — zomrela **Mária rod. Holmáňová** (89 r.) — posledná z generácie
 - **7/2024–7/2025** — Lukáš Nagy (NagyLukas) buduje strom na FS z náhrobkov a sčítacích hárkov
-- **od 9.7.2026** — tento výskum: hroby, sčítania, matriky, archívy — a stále pokračuje ⭐
+- **od 9.7.2026** — tento výskum: hroby, sčítania, matriky, archívy — a stále pokračuje ⭐. Pribudli k nemu poľský pôvod Hajmanovcov z Rajcze, budapeštiansky sobáš Ferenca a Alžbety z roku 1900, dom na Pipa utca 16, rodičia Jozefa Lička, a napokon Helenin rodný zápis s menami **Kataríny Zazylákovej** a **Justina Škodu**
 
 ## Zaujímavé priesečníky
 

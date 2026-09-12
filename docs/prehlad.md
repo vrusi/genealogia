@@ -1,75 +1,34 @@
 # Rodinný výskum — prehľad
 
-Dlhodobé pátranie po šiestich rodových líniách, ktoré sa všetky zbehli v Košiciach. Založené 9. júla 2026.
+Naša rodina má korene v piatich vetvách: v šarišských dedinách okolo Prešova, v žipovskom chotári, na Horehroní, pri Balatone a v Haliči. Všetky sa nakoniec zbehli v **Košiciach** — mesto, v ktorom sa stretli roľníci, kominári, huslisti aj majstri z hutí. Výskum sa začal 9. júla 2026 a stojí na matrikách, sčítacích hárkoch, cintorínoch, dobovej tlači a na tom, čo si rodina pamätá.
+
+Na týchto stránkach je každá vetva rozpísaná zvlášť — s rodovou líniou, dokumentmi, fotografiami a s tým, čo o nej ešte nevieme.
 
 Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md) · [Vetva Hanis](vetva-hanis.md) · [Vetva Ličko](vetva-licko.md) · [Vetva Hajman-Škodová](vetva-hajman-skodiova.md)
-Ďalej: [Rodokmeň](rodokmen.md) · [Stav osôb](stav-osob.md) · [Časová os](casova-os.md) · [Štatistiky](statistiky.md) · [Zamestnania v rodine](zamestnania.md)
+Ďalej: [Rodokmeň](rodokmen.md) · [Stav osôb](stav-osob.md) · [Časová os](casova-os.md) · [Štatistiky](statistiky.md) · Zamestnania v rodine
 
-## Čo už vieme
+## Päť vetiev
 
-### Rusinko — Šariš, gréckokatolíci z farnosti Klenov
+**[Vetva Rusinko](vetva-rusinko.md)** — gréckokatolíci z Bujakova (dnešné Brežany) v šarišskej farnosti Klenov. Je to najstaršia doložená stopa rodiny: **Joannes Rusinko** stojí v daňovom súpise Klenova už roku **1715**, teda pred tromi storočiami. Odtiaľ vedie línia cez Ondreja (\*1857) a Jána (\*1898) k dedovi Jánovi Rusinkovi.
 
-**Dedo Ján (1923–2006)** bol synom **Jána Rusinka** (\*27.4.1898 Bujakov, †28.2.1980) a **Anny rod. Fejerčákovej** (\*19.10.1895, †6.1.1967). Sobášili sa 3. júna 1919 a v máji 1922 sa presťahovali z Bujakova do Rokycian. Mali päť detí: Máriu, Jána, Štefana, Andreja a jedno, ktoré zomrelo v detstve; neskôr pribudla ešte dcéra Anna, narodená 25. júna 1931.
+**[Vetva Fejerčák-Guľas](vetva-fejercak-gulas.md)** — rímskokatolícke rodiny z farnosti Bajerov, najlepšie zdokumentovaná časť rodokmeňa: všetky osoby stoja priamo v matrikách. Obe rodiny sa v zápisoch skrývajú aj pod prímenami po dome — Fejerčákovci ako „Szabol", Guľasovci ako „Seman". Vetvu poznačila chudoba, ktorá časť príbuzenstva vyhnala za oceán.
 
-O generáciu vyššie stojí **Ondrej Rusinko** (\*9.2.1857 Bujakov, †1936), syn **Michala Rusinka a Márie rod. Gumanovej**. Najstarším doloženým nositeľom mena je **Joannes Rusinko** z daňového súpisu Klenova roku **1715**.
+**[Vetva Hanis](vetva-hanis.md)** — babkina otcovská rodina zo Žipova pri Prešove. Určila ju jedna skorá smrť: prastarý otec **Jozef Hanis** zomrel v januári 1929, päť týždňov po narodení babky Anny, a vdova zostala v otcovom dome s tromi malými dcérami. Babka svojho otca nikdy nepoznala.
 
-### Fejerčák–Guľas — Šariš, rímskokatolíci z farnosti Bajerov
+**[Vetva Ličko](vetva-licko.md)** — vetva dvoch dedov. Ličkovci sú na Horehroní doložení od roku **1656**; pálili uhlie a kuli klince pre železiarne Hronec–Podbrezová. Jozef Ličko (\*1942 Valaská) zomrel mladý a ovdovená Irena sa vydala za **Petra Lorenowicza**, ktorý si mamu aj Zdenu osvojil a vychoval — rodina Lorenowicz pochádza z okolia Przemyśla.
 
-**Peter Fejerčák** (\*10.7.1860 Janov) sa 19. februára 1884 oženil s **Máriou Guľasovou** (\*18.8.1861 Rokycany). Jeho rodičia boli Ján Fejerčák a Mária rod. Fedorová; jej rodičia **Juraj Guľas** (1834 – †16.11.1866) a **Alžbeta rod. Semanová**. Mária osirela ako päťročná a jej matka ovdovela v tridsiatich dvoch rokoch.
+**[Vetva Hajman-Škodová](vetva-hajman-skodiova.md)** — najďalej cestujúca vetva: z poľskej Rajcze cez somogyskú dedinu pri Balatone a Budapešť do Košíc. Hajmanovci tu vyrástli na remeselnícky klan — kominár, kožušník, stolári, hudobník, neskôr huslista Ferdinand Ginelli a lekári — usadený okolo Lichardovej a Skladnej. Patrí sem aj rodina Ireninej matky **Heleny**, ktorá sa narodila 1. apríla 1919 na Klobusitzkeho okružnej 3 (dnešná Masarykova) Kataríne rod. **Zazylákovej** a košickému obuvníkovi **Justinovi Škodovi**.
 
-Obe rodiny vystupujú v matrikách aj pod prímenami po dome — Fejerčákovci ako „Szabol", Guľasovci ako „Seman".
+## Čo hovorí DNA
 
-### Hanis–Dzurenda — Žipov, rímskokatolíci
+Veronikin test na AncestryDNA ukazuje vyše dvanásťtisíc príbuzenských zhôd. Najsilnejšie zhluky potvrdzujú **guľasovskú** a **rusinkovskú** líniu — sú to potomkovia vysťahovalcov do Ameriky, ktorí odišli z Rokycian a okolia Klenova.
 
-**Jozef Hanis** († 11.1.1929 vo veku 34 rokov) a **Anna rod. Dzurendová** (\*24.11.1900 Žipov), dcéra **Andreja Dzurendu a Alžbety rod. Šoltésovej**. Ich dcéry: Alžbeta \*1924, Mária \*1926 (vydatá Dzuričeková) a **babka Anna** \*4.12.1928.
+Približne **tri percentá aškenázskeho pôvodu** zostávajú nepriradené; zodpovedajú jednému predkovi štyri až šesť generácií dozadu. Ani jeden z preverených silných matchov aškenázsky podiel nemá, takže tento predok neleží v guľasovskej ani rusinkovskej línii. Najlepšie zatiaľ sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno aj samotná migrácia.
 
-### Ličko–Lorenowicz — Horehronie a Halič
-
-**Jozef Ličko** (\*18.1.1942 Valaská, †~1982), syn **Jozefa Lička \*22.5.1912** a **Matildy rod. Novekovej**, bol majstrom vo Východoslovenských strojárňach a futbalovým rozhodcom; s Irenou Hajmanovou mali dcéry Zdenu \*1966 a **mamu Martu \*1970**. Rod Ličko je na Horehroní doložený od roku **1656**; Ličkovci pálili uhlie a kuli klince pre železiarsky komplex Hronec–Podbrezová.
-
-**Dedo Peter Lorenowicz** — Irenin druhý manžel, ktorý si mamu a Zdenu osvojil a vychoval. Rod Lorenowicz pochádza z okolia Przemyśla, do Košíc prišla rodina z Chomutova za prácou v železiarňach.
-
-### Hajman + Suver — Somogy a Abov cez Budapešť do Košíc
-
-**Rudolf Hajman** (\*22.1.1910, †22.9.1991), kominár a odborový funkcionár, ⚭ **Helena rod. Škodová** (\*1.4.1919 Košice, †5.4.1994 Košice); ich deti **Irena** (\*16.11.1944, †20.4.2015) a **Rudolf ml.**, ktorý emigroval do Kanady.
-
-Rudolfovi rodičia: **Ferenc Hajman** (\*31.7.1873 Szőlőskislak) a **Alžbeta rod. Suverová** (\*6.3.1876 Mokrance), sobáš **4.2.1900 v Budapešti**; ich prvý syn Jozef sa narodil ešte pred svadbou. Rudolfovi bratia: Jozef, František, **Ján** (kožušník) a **Ladislav** (hudobník rozhlasového orchestra).
-
-Ferencovi rodičia **János Hajman** a **Anna rod. Huterová** boli **prisťahovalci z Poľska** — sobášny aj úmrtný zápis uvádzajú „Raicza, Lengyelhon". Anna zomrela roku 1879 pri pôrode. Ich otcovia, František Heiman a František Hutera, sú naši 4× prastarí rodičia.
-
-Alžbetina matka **Erzsébet Suverová** bola slúžka z Mokraniec. Neskôr sa vydala za **Jána Parohácsa** a roku 1898 kúpila v Košiciach dom na Pipa utca 16; po jej smrti koncom roku 1914 ho **zdedila dcéra Alžbeta**; prevod zaradil mestský vestník pod dedičský titul.
-
-Do širšej rodiny patria aj **Ginelliovci** — huslista a profesor konzervatória Ferdinand a jeho syn, gynekológ Tibor — a chirurg **MUDr. Tibor Hajman**, prvý vedúci protetického oddelenia v Košiciach.
-
-### Škoda a Zazulák — Košice, Zemplín a Halič
-
-**Katarína rod. Zazyláková** (1897–1985), Helenina matka, sa 29. apríla 1923 vydala za košického obuvníka **Justina Škodu** (\*~1900). Ich dcéra Helena sa narodila ešte pred sobášom, roku 1919, a manželstvo rodičov ju roku 1927 uzákonilo. Katarínino rodné meno **Zazuláková** je doma na východe — v Zemplíne a v Haliči — a je to najlepší kandidát na rodinnú pamäť o poľskom pôvode. Kto boli jej rodičia a odkiaľ prišli, zatiaľ nevieme.
-
-### Čo hovorí DNA
-
-Najsilnejšie zhluky zhôd potvrdzujú **guľasovskú** a **rusinkovskú** líniu — sú to potomkovia vysťahovalcov do Ameriky. Približne tri percentá aškenázskeho pôvodu zostávajú zatiaľ nepriradené.
-
-## Čo ešte hľadáme
-
-| Otázka | Kde je odpoveď |
-|---|---|
-| Kto bol otcom Jána Rusinka (\*1898) — potvrdenie Ondreja | krstný zápis Jána z roku 1898, farnosť Klenov |
-| Ondrejova manželka, teda praprababka | jeho sobášny zápis okolo roku 1894 |
-| Rodičia Jozefa Lička (\*1942) | jeho rodný list z matriky Valaská |
-| Rodičia Jozefa Hanisa (†1929) a odkiaľ prišiel | jeho sobáš s Annou (1918–27), farnosť Bajerov |
-| Rodné meno Kataríny Škodovej a poľská stopa | Helenin rodný zápis z 1. apríla 1919 v Košiciach |
-| Kde a kedy sa sobášili Rudolf a Helena | v Košiciach v rokoch 1938–44 sobáš nie je |
-| Kedy zomreli Ferenc Hajman a Alžbeta Suverová | košické úmrtné matriky |
-| Kedy presne zomrela Erzsébet Parohácsová rod. Suverová | civilná matrika Košice, koniec 1914 – január 1915 |
-| Osud Rudolfa Hajmana ml. v Kanade | jeho rodný zápis, potom kanadské archívy |
-| Osud Márie Rusinkovej (\*1921) a sestry Anny (\*1931) | matriky a evidencie po roku 1940 |
-| Kedy zomrela prababka Anna rod. Dzurendová a jej matka Alžbeta rod. Šoltésová | matriky farnosti Bajerov, evidencia cintorína Žipov |
-| Odkiaľ presne v Poľsku prišli Heimanovci a Huterovci | matriky farností Rajcza a Milówka |
-
-Kde sa v tom práve nachádzame — ktorá žiadosť je odoslaná a na čo sa čaká — ukazuje stránka **Stav výskumu**.
+Pri košickej vetve DNA zatiaľ mlčí. Hľadanie priezvisk **Škoda** a **Zazulák/Zazuliak** v rodokmeňoch matchov nevrátilo jediného príbuzného: slovenské rodiny sú v americkej databáze zastúpené slabo a väčšina matchov strom vôbec nemá. Kataríninu rodinu preto musia nájsť matriky, nie DNA — a k testu sa oplatí vrátiť, až keď budeme poznať jej rodnú obec a bude sa dať hľadať podľa lokality.
 
 ## Hlavné pramene
 
 Sčítacie hárky z rokov 1930 a 1940, cirkevné matriky, civilné matriky a matričné úrady, evidencie cintorínov, dobová tlač a archívy — Štátny archív v Prešove a v Košiciach, Arcibiskupský archív v Košiciach, maďarské archívy v Budapešti a Kaposvári — a napokon rodinná pamäť.
 
-Skeny kľúčových dokumentov sú v prílohách jednotlivých vetiev.
+Skeny kľúčových dokumentov sú v prílohách jednotlivých vetiev. Otvorené otázky ku každej vetve sú na jej stránke v sekcii „Čo ešte nevieme"; kde sa v tom práve nachádzame — ktorá žiadosť je odoslaná a na čo sa čaká — ukazuje stránka **Stav výskumu**.

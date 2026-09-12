@@ -2,42 +2,91 @@
 
 Súvisí: [Vetva Rusinko](vetva-rusinko.md) (Anna Hanisová ⚭ Ján Rusinko 1923) · [Prehľad](prehlad.md)
 
-Babkina otcovská rodina zo **Žipova** pri Prešove. Je to vetva poznačená jednou skorou smrťou: prastarý otec Jozef zomrel päť týždňov po narodení babky Anny a jeho vdova zostala v dome svojho otca s tromi malými dcérami.
+Babkina otcovská rodina zo **Žipova** pri Prešove.
+
+Je to vetva poznačená jednou skorou smrťou: prastarý otec Jozef zomrel päť týždňov po narodení babky Anny a jeho vdova zostala v dome svojho otca s tromi malými dcérami.
 
 ## Rodina
 
-- **Anna Hanisová** **\*4.12.1928 Žipov** — babka. Zomrela na mozgovú porážku.
-- Jej otec **Jozef Hanis** **\*~1894/95**, **†11.1.1929 vo veku 34 rokov** — zomrel päť týždňov po Anninom narodení.
-- Jej matka **Anna rod. Dzurendová** **\*24.11.1900 Žipov**, dcéra **Andreja Dzurendu a Alžbety rod. Šoltésovej** — títo dvaja sú 2× prastarí rodičia.
-- **Sestry babky Anny:** **Alžbeta** \*3.6.1924 a **Mária** \*22.1.1926.
+### Babka Anna Hanisová (\*1928)
 
-**Odkiaľ Dzurendovci prišli.** Sobášne zápisy z Bajerova posúvajú túto líniu o dve generácie ďalej. Andrej Dzurenda sa **6. novembra 1894** ako dvadsaťštyriročný oženil s **Alžbetou Šoltésovou**, dcérou **Jakuba Šoltésa a Márie rodenej Koščíkovej**. Jeho vlastní rodičia boli **Juraj Dzurenda a Barbora rodená Jurčašková** — a tí sa brali **10. júna 1867**, keď mal ženích dvadsaťšesť a nevesta dvadsaťdva. Zápis ich obidvoch usadzuje priamo v Žipove, dokonca s číslami domov: on býval v **dome 43**, ona v **dome 22**. Juraj bol synom staršieho Juraja a **Anny rodenej Matisovej**, Barbora dcérou **Michala Jurčaška a Alžbety rodenej Čordošovej**. Farár ich zapísal ako *plebei* — prostý ľud bez pôdy.
+| | |
+|---|---|
+| Narodenie | **\*4.12.1928 Žipov** |
+| Úmrtie | na mozgovú porážku |
 
-**Mária a Dzuričekovci.** Mária sa vydala za **Jána Dzuričeka** (\*1917, †1989) a zomrela mladá, roku 1971. Doložil ich spoločný náhrobok:
+**Sestry babky Anny:**
+
+- **Alžbeta** \*3.6.1924
+- **Mária** \*22.1.1926
+
+### Jej rodičia
+
+| | |
+|---|---|
+| Otec | **Jozef Hanis**, **\*~1894/95**, **†11.1.1929 vo veku 34 rokov** — zomrel päť týždňov po Anninom narodení |
+| Matka | **Anna rod. Dzurendová**, **\*24.11.1900 Žipov** |
+
+Matka Anna bola dcérou **Andreja Dzurendu a Alžbety rod. Šoltésovej**; títo dvaja sú 2× prastarí rodičia.
+
+### Odkiaľ Dzurendovci prišli
+
+Sobášne zápisy z Bajerova posúvajú túto líniu o dve generácie ďalej.
+
+Andrej Dzurenda sa **6. novembra 1894** ako dvadsaťštyriročný oženil s **Alžbetou Šoltésovou**, dcérou **Jakuba Šoltésa a Márie rodenej Koščíkovej**.
+
+Jeho vlastní rodičia boli **Juraj Dzurenda a Barbora rodená Jurčašková** — a tí sa brali **10. júna 1867**, keď mal ženích dvadsaťšesť a nevesta dvadsaťdva. Zápis ich obidvoch usadzuje priamo v Žipove, dokonca s číslami domov: on býval v **dome 43**, ona v **dome 22**.
+
+O generáciu vyššie: Juraj bol synom staršieho Juraja a **Anny rodenej Matisovej**, Barbora dcérou **Michala Jurčaška a Alžbety rodenej Čordošovej**. Farár ich zapísal ako *plebei* — prostý ľud bez pôdy.
+
+### Mária a Dzuričekovci
+
+Mária sa vydala za **Jána Dzuričeka** (\*1917, †1989) a zomrela mladá, roku 1971. Doložil ich spoločný náhrobok:
 
 ![](prilohy/hrob-maria-dzurickova-rod-hanisova-1926-1971-zipov.jpeg)
 
-Ich potomkovia — **Dzuričekovci zo Žipova** — sú otcovi bratranci a sesternice, teda naša najbližšia žijúca vetva na tejto strane rodiny. Dzuričekovská otcovská línia vedie do susedného **Bajerova**: Ján Dzuriček st. sa tam narodil roku 1874 a do Žipova ho priniesli ako nemluvňa.
+Ich potomkovia — **Dzuričekovci zo Žipova** — sú otcovi bratranci a sesternice, teda naša najbližšia žijúca vetva na tejto strane rodiny.
+
+Dzuričekovská otcovská línia vedie do susedného **Bajerova**: Ján Dzuriček st. sa tam narodil roku 1874 a do Žipova ho priniesli ako nemluvňa.
 
 ## Čo o nich hovoria sčítacie hárky
 
-**1930, Žipov č. 57** — dom patril **Andrejovi Dzurendovi** (\*1870), teda Anninmu otcovi. V byte býva jeho ovdovená dcéra **Anna Hanisová**, nádenníčka, ktorá podľa hárku ovdovela **11. januára 1929** — presne v deň Jozefovej smrti. S ňou tri dcéry: Alžbeta, Mária a dvojročná Anna.
+### 1930, Žipov č. 57
 
-**1940, ten istý dom** — v byte zostali matka s Máriou a Annou a s nimi **starý otec Ondrej (Andrej) Dzurenda**, sedemdesiatročný vdovec; dom je stále vedený na jeho meno. Že je vdovec, je jediná stopa, ktorú o smrti **Alžbety rod. Šoltésovej** máme: zomrela pred decembrom 1940. Ako jediný v domácnosti nevedel čítať ani písať.
+Dom patril **Andrejovi Dzurendovi** (\*1870), teda Anninmu otcovi. V byte býva jeho ovdovená dcéra **Anna Hanisová**, nádenníčka, ktorá podľa hárku ovdovela **11. januára 1929** — presne v deň Jozefovej smrti.
+
+S ňou tri dcéry: Alžbeta, Mária a dvojročná Anna.
+
+### 1940, ten istý dom
+
+V byte zostali matka s Máriou a Annou a s nimi **starý otec Ondrej (Andrej) Dzurenda**, sedemdesiatročný vdovec; dom je stále vedený na jeho meno. Ako jediný v domácnosti nevedel čítať ani písať.
+
+Že je vdovec, je jediná stopa, ktorú o smrti **Alžbety rod. Šoltésovej** máme: zomrela pred decembrom 1940.
 
 Anna už nie je nádenníčka — hárok ju vedie ako **školníčku (v zápise „školská slúžka") na štátnej ľudovej škole v Žipove**. Pre vdovu s tromi deťmi to znamenalo stály príjem namiesto poľnej práce od zákazky k zákazke.
 
 ![](prilohy/scitaci-harok-1940-zipov-57-hanisova-s1.jpg)
 
-Šestnásťročná **Alžbeta bola v Prešove v službe**: 6. mája 1940 sa presťahovala zo Žipova na Floriánovu 7/395 a hárok ju vedie ako **pomocnicu v domácnosti u vdovy Márie Šandallovej**, majiteľky toho domu. Tak sa z domu odchádzalo: za prácou, hneď ako to vek dovolil.
+### 1940, Prešov — Alžbeta v službe
+
+Šestnásťročná **Alžbeta bola v Prešove v službe**: 6. mája 1940 sa presťahovala zo Žipova na Floriánovu 7/395 a hárok ju vedie ako **pomocnicu v domácnosti u vdovy Márie Šandallovej**, majiteľky toho domu.
+
+Tak sa z domu odchádzalo: za prácou, hneď ako to vek dovolil.
 
 ![](prilohy/scitaci-harok-1940-presov-395-hanisova-alzbeta-s1.jpg)
 
-Dátumy narodenia oboch žien sa v prameňoch rozchádzajú. Matka Anna má v matrike Bajerov 24. november 1900, v hárku 1930 23. november 1899 a v hárku 1940 dokonca 25. november 1890. Alžbeta je vedená ako narodená 3. júna 1924, ale v hárku je deň čitateľný skôr ako 4. jún.
+### Rozpory v dátumoch narodenia
+
+Dátumy narodenia oboch žien sa v prameňoch rozchádzajú.
+
+- **Matka Anna:** matrika Bajerov 24. november 1900 · hárok 1930 23. november 1899 · hárok 1940 dokonca 25. november 1890.
+- **Alžbeta:** vedená ako narodená 3. júna 1924, ale v hárku je deň čitateľný skôr ako 4. jún.
 
 ## Priezvisko Hanis
 
-Je to vzácne meno. V celom Slovensku ho roku 1995 nosilo iba **20 mužov a 27 žien**, sústredených v Prešove, Solivare a Veľkom Šariši — teda pár kilometrov od Žipova. (Podobné **Haniš** je iná rodina, z okolia Bardejova.) V žipovskom súpise z roku 1715 Hanisovci ešte nie sú, v telefónnom zozname z roku 2005 už zase nie — rodina prišla a odišla medzi týmito dvoma dátumami.
+Je to vzácne meno. V celom Slovensku ho roku 1995 nosilo iba **20 mužov a 27 žien**, sústredených v Prešove, Solivare a Veľkom Šariši — teda pár kilometrov od Žipova. (Podobné **Haniš** je iná rodina, z okolia Bardejova.)
+
+V žipovskom súpise z roku 1715 Hanisovci ešte nie sú, v telefónnom zozname z roku 2005 už zase nie — rodina prišla a odišla medzi týmito dvoma dátumami.
 
 ## Čo ešte nevieme
 

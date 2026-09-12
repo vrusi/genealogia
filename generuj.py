@@ -33,8 +33,49 @@ Prehľad doložených členov rodiny po vetvách. Uvedení sú ľudia, ktorých 
 
 **Ako čítať dátumy:** \\*narodenie · †úmrtie · \\*† narodil sa a zomrel v ten istý deň · \\~približne · ? nevieme. Miesto sa uvádza, ak ho poznáme.
 
+**🟡 pred menom** znamená, že príbuznosť tejto osoby zatiaľ nie je doložená dokladom — rovnako ako v interaktívnom rodokmeni. V každej vetve idú najprv osoby priamej línie, za nimi ostatní príbuzní zoradení podľa narodenia.
+
 <!-- Tento súbor GENERUJE `web/generuj.py` z `vault/data/osoby.json`. Needituj ho ručne — zmena patrí do databázy. -->
 """
+
+
+def meno_s_priezviskom(o):
+    """Meno do tabuľky — nikdy nie holé krstné meno.
+
+    `zobrazenie` je často skratka („Ján", „Rudolf ml."), ktorá dávala zmysel
+    len pod hlavičkou vetvy. Ak v nej priezvisko (ani rodné) nie je, doplní sa
+    — prívlastky typu „mama" či „ml." pritom zostávajú zachované.
+    """
+    zobr = (o.get("zobrazenie") or "").strip()
+    plne = O.cele_meno(o)
+    if not zobr:
+        return plne
+    priezvisko = o.get("priezvisko") or ""
+    rodne = o.get("rodne_priezvisko") or ""
+    if (priezvisko and priezvisko in zobr) or (rodne and rodne in zobr):
+        return zobr
+    krstne = o.get("meno") or ""
+    if not (krstne and krstne in zobr):
+        return plne
+    meno = zobr.replace(krstne, f"{krstne} {priezvisko}".strip(), 1)
+    if rodne:
+        meno += f" rod. {rodne}"
+    return meno
+
+
+def _kluc_registra(o):
+    """Poradie v rámci vetvy.
+
+    `poradie` (0 = nevyplnené) drží priamu líniu v generačnom slede; kto ho
+    nemá, patrí ZA ňu — nie pred ňu, ako to robil starý fallback 999.
+    Zvyšok sa radí podľa narodenia, bezdátumoví nakoniec abecedne.
+    """
+    poradie = o.get("poradie") or 0
+    if poradie:
+        return (0, poradie, "", "", o["id"])
+    nar = o.get("narodenie") or {}
+    datum = nar.get("datum") or (nar.get("rozsah") or [None])[0]
+    return (1, 0, "" if datum else "z", str(datum or ""), meno_s_priezviskom(o).lower())
 
 
 def register_md(db):
@@ -43,15 +84,25 @@ def register_md(db):
         ludia = [o for o in db.values() if o.get("v_registri") and o.get("vetva") == vetva]
         if not ludia:
             continue
-        ludia.sort(key=lambda o: (o.get("poradie", 999), o["id"]))
+        ludia.sort(key=_kluc_registra)
         riadky.append(f"\n## {nadpis}\n")
-        riadky.append("| Osoba | Kto to je | Dátumy |")
-        riadky.append("|---|---|---|")
+        riadky.append("| Osoba | Kto to je | Dátumy | Zamestnanie |")
+        riadky.append("|---|---|---|---|")
         for o in ludia:
-            meno = o.get("zobrazenie") or O.cele_meno(o)
+            meno = meno_s_priezviskom(o)
             if o.get("zvyraznene"):
                 meno = f"**{meno}**"
-            riadky.append(f"| {meno} {{#{o['id']}}} | {o.get('popis', '')} | {O.formatuj_zivot(o)} |")
+            if not o.get("dolozeny"):
+                meno = f"🟡 {meno}"
+            # `popis` je ručná veta; kde chýba, poslúži slovný `vztah` z databázy
+            kto = (o.get("popis") or "").strip() or (o.get("vztah") or "").strip()
+            kto = re.sub(r"(?<!\\)\*", r"\\*", kto)   # `*1857` v texte nie je kurzíva
+            praca = "; ".join(
+                (x.get("hodnota") if isinstance(x, dict) else str(x))
+                for x in (o.get("povolanie") or [])
+                if (x.get("hodnota") if isinstance(x, dict) else x)
+            )
+            riadky.append(f"| {meno} {{#{o['id']}}} | {kto} | {O.formatuj_zivot(o)} | {praca} |")
     return "\n".join(riadky) + "\n"
 
 

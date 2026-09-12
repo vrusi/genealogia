@@ -2,14 +2,31 @@
 
 Súvisí: [Vetva Hajman-Škodová](vetva-hajman-skodiova.md) (Jozef Ličko ⚭ Irena Hajmanová; Lorenowiczovci podrobne tam) · [Prehľad](prehlad.md)
 
-**Vetva dvoch dedov.** Jozef Ličko (\*1942 Valaská) zomrel mladý, keď mala mama ~10 rokov. **Peter Lorenowicz** sa potom oženil s ovdovenou Irenou, **mamu a Zdenu si osvojil a vychoval ako vlastné** — a dodnes žije v rodinnom dome na Lichardovej 30, kde opatruje rodinnú pamäť (albumy, spomienky na Irenu, Helenu aj Ličkovcov). Pátranie po Ličkovcoch je pátranie po koreňoch; dedom zostáva Peter.
+**Vetva dvoch dedov.** Jozef Ličko (\*1942 Valaská) zomrel mladý, keď mala mama ~10 rokov.
+
+**Peter Lorenowicz** sa potom oženil s ovdovenou Irenou, **mamu a Zdenu si osvojil a vychoval ako vlastné** — a dodnes žije v rodinnom dome na Lichardovej 30, kde opatruje rodinnú pamäť (albumy, spomienky na Irenu, Helenu aj Ličkovcov).
+
+Pátranie po Ličkovcoch je pátranie po koreňoch; dedom zostáva Peter.
 
 ## Čo vieme o Jozefovi
 
-- **Jozef Ličko** — **\*18.1.1942 vo Valaskej** (okr. Brezno, Horehronie); potvrdzuje to jeho rodný list z knihy narodení matričného úradu Valaská. Neskôr býval v **Jasove** — „z Jasova" v rodinnej pamäti je bydlisko, nie rodisko.
-- **Majster vo VSS** (Východoslovenské strojárne Košice), **hral futbal a bol rozhodca**. Dobová tlač ho zachytila ešte v roku 1981: „brigáda, ktorú vedie súdruh Jozef Ličko".
-- **†~1981–83 na rakovinu hrubého čreva** — rodinná pamäť; presný rok zatiaľ nepoznáme.
-- ⚭ **Irena Hajmanová**, dcéry Zdena \*1966 a **mama Marta \*1970**. Jozef mal brata a z iného manželstva syna **Viktora** — maminho nevlastného brata.
+| | |
+|---|---|
+| Meno | **Jozef Ličko** |
+| Narodenie | **\*18.1.1942 vo Valaskej** (okr. Brezno, Horehronie) |
+| Úmrtie | **†~1981–83 na rakovinu hrubého čreva** — rodinná pamäť; presný rok zatiaľ nepoznáme |
+| Bydlisko | neskôr **Jasov** |
+| Povolanie | **majster vo VSS** (Východoslovenské strojárne Košice) |
+| Manželka | ⚭ **Irena Hajmanová** |
+
+Narodenie potvrdzuje jeho rodný list z knihy narodení matričného úradu Valaská. „Z Jasova" v rodinnej pamäti je bydlisko, nie rodisko.
+
+**Hral futbal a bol rozhodca.** Dobová tlač ho zachytila ešte v roku 1981: „brigáda, ktorú vedie súdruh Jozef Ličko".
+
+Deti a súrodenci:
+
+- Dcéry s Irenou: Zdena \*1966 a **mama Marta \*1970**.
+- Jozef mal brata a z iného manželstva syna **Viktora** — maminho nevlastného brata.
 
 ## Jozefovi rodičia
 
@@ -18,7 +35,9 @@ Rodný list z Valaskej otvoril generáciu nad dedom:
 - **Jozef Ličko starší** — \*22. mája 1912. Syn dostal jeho meno.
 - **Matilda Ličková rod. Noveková** — pri synovom narodení mala dvadsať rokov, narodila sa teda okolo roku 1921.
 
-Zápis vedie otca ako občana Slovenskej republiky — dieťa sa narodilo v januári 1942, za prvej slovenskej republiky. Rodiská rodičov ani presný dátum matkinho narodenia v ňom uvedené nie sú.
+Zápis vedie otca ako občana Slovenskej republiky — dieťa sa narodilo v januári 1942, za prvej slovenskej republiky.
+
+Rodiská rodičov ani presný dátum matkinho narodenia v ňom uvedené nie sú.
 
 ## Dcéry Jozefa a Ireny
 
@@ -29,9 +48,15 @@ Obe sa narodili ako **Ličkové**, po adopcii Petrom Lorenowiczom boli **Lorenow
 
 ## Ličkovci na Horehroní — Jozefov rod
 
-**Ličko je domáce horehronské priezvisko**: v Brezne je v rímskokatolíckej matrike už roku **1656** a v súpise mešťanov 1720; v **Beňuši** od roku 1790 (v podobách Licsko, Litschko, Lycsko) a meno sa odvodzuje od osady **Lično**, dnes časti Beňuša. Priamo vo **Valaskej-Piesku** je v 19. storočí doložený „uhliar Ličko" pri hámri Štiavnička.
+**Ličko je domáce horehronské priezvisko.** Doložené je:
 
-Ličkovci boli **klinčiari a uhliari** železiarskeho komplexu Hronec–Podbrezová — Jozef, neskorší majster vo VSS, do tohto robotnícko-železiarskeho rodu zapadá: remeslo v rodine išlo za železom až na východ Slovenska. Najhustejšie sa priezvisko dodnes vyskytuje v Beňuši, potom v Brezne, Valaskej, Ráztoke, Predajnej a Dolnej Lehote.
+- v Brezne v rímskokatolíckej matrike už roku **1656** a v súpise mešťanov 1720;
+- v **Beňuši** od roku 1790 (v podobách Licsko, Litschko, Lycsko) — meno sa odvodzuje od osady **Lično**, dnes časti Beňuša;
+- priamo vo **Valaskej-Piesku** v 19. storočí ako „uhliar Ličko" pri hámri Štiavnička.
+
+Ličkovci boli **klinčiari a uhliari** železiarskeho komplexu Hronec–Podbrezová. Jozef, neskorší majster vo VSS, do tohto robotnícko-železiarskeho rodu zapadá: remeslo v rodine išlo za železom až na východ Slovenska.
+
+Najhustejšie sa priezvisko dodnes vyskytuje v Beňuši, potom v Brezne, Valaskej, Ráztoke, Predajnej a Dolnej Lehote.
 
 ## Čo ešte nevieme
 
