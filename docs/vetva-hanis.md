@@ -61,7 +61,7 @@ S ňou tri dcéry: Alžbeta, Mária a dvojročná Anna.
 
 V byte zostali matka s Máriou a Annou a s nimi **starý otec Ondrej (Andrej) Dzurenda**, sedemdesiatročný vdovec; dom je stále vedený na jeho meno. Ako jediný v domácnosti nevedel čítať ani písať.
 
-Že je vdovec, je jediná stopa, ktorú o smrti **Alžbety rod. Šoltésovej** máme: zomrela pred decembrom 1940.
+Manželka **Alžbeta rod. Šoltésová** zomrela už **7. júna 1925**; sám Andrej sa dožil 85 rokov a zomrel **24. apríla 1956**. Oba dátumy uvádza kataster nehnuteľností.
 
 Anna už nie je nádenníčka — hárok ju vedie ako **školníčku (v zápise „školská slúžka") na štátnej ľudovej škole v Žipove**. Pre vdovu s tromi deťmi to znamenalo stály príjem namiesto poľnej práce od zákazky k zákazke.
 
@@ -82,6 +82,10 @@ Dátumy narodenia oboch žien sa v prameňoch rozchádzajú.
 - **Matka Anna:** matrika Bajerov 24. november 1900 · hárok 1930 23. november 1899 · hárok 1940 dokonca 25. november 1890.
 - **Alžbeta:** vedená ako narodená 3. júna 1924, ale v hárku je deň čitateľný skôr ako 4. jún.
 
+## Pôda v Žipove
+
+Andrej (v katastri Ondrej) a Alžbeta Dzurendovci sú dodnes zapísaní ako **spoluvlastníci podielov pôdy v Žipove** — na listoch vlastníctva 411, 418 a 526, spolu s ďalšími žipovskými rodinami. Ide o lesy a trvalý trávny porast v chotári Žipova; každý z manželov má podiel zhruba pol percenta, čo zodpovedá približne 2 360 m². Dedičstvo po nich nikdy nebolo prejednané, a tak ich podiely spravuje **Slovenský pozemkový fond** ako pôdu nezistených vlastníkov.
+
 ## Priezvisko Hanis
 
 Je to vzácne meno. V celom Slovensku ho roku 1995 nosilo iba **20 mužov a 27 žien**, sústredených v Prešove, Solivare a Veľkom Šariši — teda pár kilometrov od Žipova. (Podobné **Haniš** je iná rodina, z okolia Bardejova.)
@@ -91,7 +95,7 @@ V žipovskom súpise z roku 1715 Hanisovci ešte nie sú, v telefónnom zozname 
 ## Čo ešte nevieme
 
 - **Jozefovi rodičia** — kto boli a odkiaľ prišiel do Žipova. Odpoveď je v jeho sobáši s Annou (medzi rokmi 1918 a 1927) a v jeho krste okolo roku 1894; obidva doklady má farský úrad Bajerov, ktorý sme oslovili.
+- **Presný deň Andrejovho narodenia** — kataster uvádza 8. novembra 1870, sčítacie hárky 11. novembra; rozhodne krstný zápis.
 - **Dzurendovci** — krsty. Sobáše Andreja (1894) aj jeho rodičov (1867) už máme; chýbajú krstné zápisy, najmä Jurajov okolo roku 1841. Priezvisko je v Žipove doložené už v súpise 1715 v podobe „Durenda", takže tu bola rodina dávno.
 - **Hrob Jozefa Hanisa** — žipovský cintorín nie je nikde digitalizovaný, evidenciu vedie len obec.
-- **Kedy zomrela Alžbeta rod. Šoltésová** — vieme len, že pred decembrom 1940.
 - **Čo sa stalo s prababkou Annou** po sčítaní 1940 a **s Alžbetou** po roku 1940 — obidve stopy sa tam končia.

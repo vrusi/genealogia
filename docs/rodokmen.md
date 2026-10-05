@@ -35,7 +35,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 
 - Ondrej Rusinko \*9.2.1857 Bujakov č. 15, †1936 — *prapradedo, otcova strana; rodičia Michal Rusinko & Mária Gumanová, bratia Ján \*1859 a Juraj \*1862. Že bol otcom Jána \*1898, potvrdí Jánov krstný zápis*
 - Peter Fejerčák 1860 & Mária rod. Guľasová 1861 — *praprastarí, otec/Fejerčák*
-- Andrej Dzurenda \*11.11.1870 & Alžbeta rod. Šoltésová (⚭ 6.11.1894 Bajerov, Žipov č. 18, neskôr č. 57) — *praprastarí, otec/Dzurenda*
+- Andrej Dzurenda \*11.11.1870 †24.4.1956 & Alžbeta rod. Šoltésová \*1870 †7.6.1925 (⚭ 6.11.1894 Bajerov, Žipov č. 18, neskôr č. 57) — *praprastarí, otec/Dzurenda*
 - Ferenc Hajman 1873 & Alžbeta rod. Suver \*1876 Mokrance — *praprastarí, mama/Hajman*
 - Justin Škoda \*~1900, obuvník v Košiciach, & Katarína rod. Zazyláková 1897–1985 (dožila sa ~88 r.), ⚭ 29.4.1923 Košice — *praprastarí, mama/Škoda (Helenini rodičia)*
 - rodičia Jozefa Hanisa — *neznámi, otec/Hanis*
@@ -68,8 +68,8 @@ graph TD
     MG["🟢 Mária Guľasová<br>*18.8.1861 Rokycany"]
     MRG["🟡 Michal Rusinko ⚭ Mária Gumanová<br>Bujakov, 3× prastarí<br>deti: Ondrej *1857, Ján *1859, Juraj *1862"]
     OR["🟡 Ondrej Rusinko<br>*9.2.1857 Bujakov č. 15<br>†1936, hrob Bajerov<br>otec Jána *1898 — čaká na krstný zápis"]
-    AD["🟢 Andrej Dzurenda<br>*11.11.1870 · Žipov č. 18, neskôr č. 57<br>⚭ 6.11.1894 Bajerov"]
-    ASol["🟢 Alžbeta rod. Šoltésová<br>Žipov · †pred rokom 1940"]
+    AD["🟢 Andrej Dzurenda<br>*11.11.1870 †24.4.1956 · Žipov č. 18, neskôr č. 57<br>⚭ 6.11.1894 Bajerov"]
+    ASol["🟢 Alžbeta rod. Šoltésová<br>*1870 †7.6.1925 · Žipov"]
     MRG --> OR
   end
   subgraph gen3["~1895 — pradedovia"]

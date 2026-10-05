@@ -59,6 +59,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **29.4.1923** — ⚭ **Katarína Zazyláková × Justin Škoda**, košický obuvník, v Košiciach ⭐; svadbu oznámil 9. mája aj denník *Magyar Hirlap* („Skoda Justin — Zazylak Katalin")
 - **~1923** — ⚭ **Jozef Hanis × Anna Dzurendová** (odhad; prastarí rodičia z otcovej strany, Žipov); **7.8.1923** narodená **Magda Hajmanová** (dcéra Jozefa \*1898, budúca Ginelliová)
 - **3.6.1924** — narodila sa **Alžbeta Hanisová** (babkina staršia sestra, dcéra Jozefa Hanisa; 1940 v službe v Prešove); sčítací hárok 1940 uvádza deň 4.6.
+- **7.6.1925** — zomrela **Alžbeta Dzurendová rod. Šoltésová** (2× prababka, Žipov)
 - **28.9.1925** — narodil sa **Štefan Rusinko**
 - **22.1.1926** — narodila sa **Mária Hanisová** (babkina sestra, dcéra Jozefa Hanisa → vyd. **Dzuričková**); **20.4.1926** narodený **Tibor Hajman** (syn Jozefa \*1898 → budúci **MUDr., chirurg**; nezamieňať s bratrancom MUDr. Tiborom Ginellim, gynekológom)
 - **2.2.1927** — matrikár opravil Helenin rodný zápis: rodné priezvisko jej matky je **Zazyláková**; **15.3.1927** rozhodol **Župný úrad v Košiciach**, že osemročná Helena je sobášom rodičov **uzákonená ako dcéra Justina Škodu** ⭐
@@ -89,6 +90,7 @@ Súvisí: [Prehľad](prehlad.md) · [Rodokmeň](rodokmen.md) · zostavené zo v�
 - **4.–5.1946** — registrácia na Čs. oblastnom repatriačnom stredisku v Prešove: **Andrej Rusinko z Rokycian** (8.4., dedov brat — spis menuje rodičov Jána a Annu rod. Fejerčákovú), **Fejerčákovci** Andrej (17.4.), Jozef (15.4.) a Juraj (13.5.); **20.7.1946** narodený Dmytro Lorenovicz
 - **25.3.1950** — narodila sa **Mária Ginelliová** (dcéra Magdy Hajmanovej a Ferdinanda Ginelliho? → neskôr kurátorka Východoslovenského múzea; †2016)
 - **50.–60. roky** — **Rudolf ml. emigruje do Kanady** (neskôr údajne Izrael + konverzia na judaizmus)
+- **24.4.1956** — zomrel **Andrej (Ondrej) Dzurenda** (85 r., 2× pradedo, Žipov)
 - **1956** — Bujakov úradne premenovaný na **Brežany**
 - **~60te** — Lorenowiczovci prichádzajú z Chomutova do Košíc (otec do VSŽ)
 

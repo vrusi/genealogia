@@ -6,22 +6,22 @@ Kde sa v tabuľkách počítajú **mená, znamenia a povolania**, ráta sa **107
 
 ## Dĺžka života
 
-**Priemer dospelých: ženy 74 rokov, muži 67 rokov** (22 + 23 doložených osôb). **48 osôb má doložený rok narodenia aj úmrtia**, ďalším trom vieme oba roky aspoň približne — spolu 51 ľudí; šesť z nich zomrelo v detstve (traja ešte v roku narodenia) a do priemerov sa nerátajú — inak by ich stiahli tak, že by prestali hovoriť o dĺžke života a začali hovoriť o dojčenskej úmrtnosti.
+**Priemer dospelých: ženy 73 rokov, muži 68 rokov** (23 + 24 doložených osôb). **50 osôb má doložený rok narodenia aj úmrtia**, ďalším trom vieme oba roky aspoň približne — spolu 53 ľudí; šesť z nich zomrelo v detstve (traja ešte v roku narodenia) a do priemerov sa nerátajú — inak by ich stiahli tak, že by prestali hovoriť o dĺžke života a začali hovoriť o dojčenskej úmrtnosti.
 
 | Skupina | Priemer | Najdlhšie | Najkratšie |
 |---|---|---|---|
-| všetci dospelí (n=45) | 70 r. | Verona Kašperová 91 | Juraj Guľas 32 |
-| narodení pred 1900 (n=15) | 63 r. | Anna Maciaková 90 | Juraj Guľas 32 |
+| všetci dospelí (n=47) | 70 r. | Verona Kašperová 91 | Juraj Guľas 32 |
+| narodení pred 1900 (n=17) | 64 r. | Anna Maciaková 90 | Juraj Guľas 32 |
 | narodení 1900–1950 (n=29) | 74 r. | Verona Kašperová 91 | Jozef Ličko 40 |
-| ženy (n=22) | 74 r. | Verona Kašperová 91 | Anna Hajmanová ~40 |
-| muži (n=23) | 67 r. | Andrej Rusinko 90 | Juraj Guľas 32 |
+| ženy (n=23) | 73 r. | Verona Kašperová 91 | Anna Hajmanová ~40 |
+| muži (n=24) | 68 r. | Andrej Rusinko 90 | Juraj Guľas 32 |
 
 **Šesť detí, ktoré sa nedožili pätnástich** — a päť z nich je z jedinej vetvy: Adam Fejerčák a nekrstené dieťa Fejerčákovcov (obaja zomreli v roku narodenia), Ondrej Fejerčák (†0), Ondrej Fejerčák (†2), Ján Fejerčák (†3) a János Suver (†1). Peter Fejerčák a Mária Guľasová pochovali päť detí a dospelosti sa dožila jediná — prababka Anna.
 
 ```mermaid
 xychart-beta
     title "Priemerná dĺžka života dospelých podľa vetvy (n = počet osôb)"
-    x-axis ["Rusinko (n=9)", "Hajman-Skoda (n=18)", "Hanis-Dzurenda (n=8)", "Licko-Lorenowicz (n=6)", "Fejercak-Gulas (n=4)"]
+    x-axis ["Rusinko (n=9)", "Hajman-Skoda (n=18)", "Hanis-Dzurenda (n=10)", "Licko-Lorenowicz (n=6)", "Fejercak-Gulas (n=4)"]
     y-axis "roky" 0 --> 100
     bar [83, 70, 68, 65, 55]
 ```
@@ -43,10 +43,11 @@ Vetvy sú brané tak, ako sú vedené v databáze; Ličkovci a Lorenowiczovci tv
 | Anna Dzurendová po Jozefovi Hanisovi (†1929) | Anna | 40+ (nikdy sa nevydala?) |
 | Marta Kočišová (†1982) po Jozefovi Hajmanovi (†1977) | Marta | 5 |
 | Helena (†1994) po Rudolfovi (†1991) | Helena | 3 |
-| Ján Rusinko (†1980) po Anne (†1967) | Ján | 13 — vzácny prípad, keď prežil muž |
-| dedo Ján (†2006) po babke Anne (†2000) | dedo Ján | 6 — druhý taký prípad |
+| Andrej Dzurenda (†1956) po Alžbete rod. Šoltésovej (†1925) | Andrej | **31** — najdlhšie vdovstvo muža v rodine |
+| Ján Rusinko (†1980) po Anne (†1967) | Ján | 13 |
+| dedo Ján (†2006) po babke Anne (†2000) | dedo Ján | 6 |
 
-Vzorec sedí s demografiou: takmer vždy prežila žena — ale rusinkovskí muži sú výnimka (dlhovekosť).
+Vzorec sedí s demografiou: takmer vždy prežila žena — výnimkou sú rusinkovskí muži (dlhovekosť) a Andrej Dzurenda, ktorý žil po manželkinej smrti ešte tridsaťjeden rokov.
 
 ## Vekové rozdiely manželov
 
