@@ -447,7 +447,7 @@ Helenina rodina z matkinej strany. Podľa rodinnej pamäti mala pochádzať z Po
 
 **Justin Škoda**, košický obuvník narodený okolo roku 1900, do tohto obrazu zapadá.
 
-Poľská pamäť sa teda neviaže na Škodovcov, ale na **Katarínu a jej rodné meno Zazyláková**. To meno je vo svojich doložených podobách — Zazulák, maďarsky Zazulyák — doma na východe: v Zemplíne a v Haliči.
+Poľská pamäť sa teda neviaže na Škodovcov, ale na **Katarínu a jej rodné meno Zazyláková**. To meno — v matrike aj v dobovej tlači zapísané ako Zazylák, čo Štátny archív v Košiciach potvrdil overením zápisu, príbuzné s bežnejšou podobou Zazulák, maďarsky Zazulyák — je doma na východe: v Zemplíne a v Haliči.
 
 Rakúsko-uhorské armádne zoznamy z rokov 1917 a 1918 vedú dôstojníkov Zazulakovcov medzi samými haličskými menami, kanadskí Zazulakovci sa usadili v Saskatchewane, kam smerovala haličsko-ukrajinská emigrácia, a v Zemplíne je meno doložené v Michalovciach.
 
