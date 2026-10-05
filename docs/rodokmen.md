@@ -224,8 +224,8 @@ graph TD
 | Anna Fejerčáková 1895 | P3GG-4Y2 |
 | Jozef Hanis \*~1894/95 †11.1.1929 | GYM2-8M9 |
 | Anna rod. Dzurendová \*24.11.1900 (Hanisová matka) | GYM2-WVL |
-| Andrej Dzurenda \*11.11.1870 (2× pradedo, otec/Dzurenda) | PXZ3-8B1 |
-| Alžbeta rod. Šoltés (2× prababka) | PXZQ-SPB |
+| Andrej Dzurenda \*11.11.1870 (2× pradedo, otec/Dzurenda) | GLKN-64Y |
+| Alžbeta rod. Šoltés (2× prababka) | GLKG-ZNC |
 | Rudolf Hajman | PMQ3-4D3 |
 | Helena Škodová | PMQ3-HFX |
 | Justin Škoda \*~1900, obuvník (Helenin otec) | zatiaľ bez záznamu |
