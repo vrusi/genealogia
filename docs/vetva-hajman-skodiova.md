@@ -55,7 +55,8 @@ Podoba priezviska kolíše: Irenin rodný zápis z roku 1944 — vznikol ešte z
 | | |
 |---|---|
 | Vzťah | Helenina matka |
-| Roky | 1897–1985; v čase Heleninho narodenia mala dvadsaťjeden rokov |
+| Narodenie | **2. decembra 1897** v **Boryslave** (poľsky Borysław) v Haliči, dnes na Ukrajine |
+| Úmrtie | 1985 Košice |
 | Manžel | **Justin Škoda**, sobáš 29. apríla 1923 v Košiciach |
 | Hrob | ten istý ako dcéra a zať |
 
@@ -63,15 +64,25 @@ Evidencia cintorína ju vedie ako Škodovú; kameň na hrobe má vyryté „SKOD
 
 Jej rodné meno prezradil až Helenin rodný zápis: matrikár ju roku 1919 zapísal ako rodenú **Kaminszky**, no 2. februára 1927 zápis opravil — správne rodné priezvisko znie **Zazyláková**.
 
+Narodila sa v **Boryslave**, meste v Haliči, ktoré po roku 1918 pripadlo Poľsku a dnes leží na Ukrajine. Bola **nemanželské dieťa** — v jej krstnom zápise, písanom zmesou latinčiny, ukrajinčiny a maďarčiny, otec nefiguruje. Po rozpade monarchie mala **poľské občianstvo** a na jednom z dokumentov k svadbe sa sama podpísala po poľsky: **Katarzyna Zazulakowa**. Košickí úradníci ju roku 1923 písali „Katarina Zazylak“. Rodinná pamäť o poľskom pôvode sa teda viaže práve na ňu.
+
+Do Košíc prišla 11. februára 1914 alebo 1919 — posledná číslica roku je v sčítacom hárku nečitateľná. Pri sčítaní roku 1930 sa prihlásila ku **gréckokatolíckej** cirkvi, hoci ju matrika roku 1919 zapísala ako rímskokatolíčku, a viedla domácnosť na Majerskej 4. **Roku 1953 sa s Justinom rozviedla**; vtedy bývala na **Kováčskej 12** a uviedla už slovenskú národnosť.
+
 ### Praprastarý otec Justin Škoda
 
-**Obuvník, rímskokatolík, obyvateľ Košíc.** Keď sa 29. apríla 1923 ženil s Katarínou, mal dvadsaťdva rokov, a matrika dodáva, že v čase Heleninho narodenia mal osemnásť — narodil sa teda okolo roku 1900.
+Narodil sa **30. októbra 1900 v Dolnej Krupej pri Trnave** a do Košíc prišiel roku 1920. **Obuvník, rímskokatolík, obyvateľ Košíc.** Keď sa 29. apríla 1923 ženil s Katarínou, mal dvadsaťdva rokov, a matrika dodáva, že v čase Heleninho narodenia mal osemnásť — narodil sa teda okolo roku 1900.
 
 Týmto sobášom bola Helena uzákonená ako jeho dcéra; rozhodol o tom Župný úrad v Košiciach 15. marca 1927.
 
 Ich svadbu oznámil aj košický **Magyar Hirlap** 9. mája 1923 v týždennom výkaze matričného úradu: „Skoda Justin — Zazylak Katalin".
 
-A na jeseň roku 1932 sa Justin objavuje ešte raz — v zozname tých, čo zložili **šoférske skúšky** v košickej autoškole Volán.
+Pri sčítaní ľudu roku 1930 bývala rodina na **Majerskej ulici 4, v byte číslo 3** — dnes je to Požiarnická ulica. Justin je v hárku zapísaný ako **Gustáv** a pracoval ako **mestský hasič**. Okrem Heleny mali aj dcéru **Máriu**, narodenú **17. júla 1923** v Košiciach, necelé tri mesiace po svadbe; obe dievčatá chodili do školy. Domovskú príslušnosť mali všetci v Dolnej Krupej.
+
+Dom patril **mestu Košice** a vo všetkých troch jeho bytoch bývali rodiny mestských hasičov — Bruňanskí, Abošiovci a Škodovci. Rodina teda takmer iste bývala v služobnom byte priamo pri vtedy novopostavenej [hasičskej stanici na Požiarnickej](https://sk.wikipedia.org/wiki/Hasi%C4%8Dsk%C3%A1_stanica_Po%C5%BEiarnick%C3%A1_v_Ko%C5%A1iciach).
+
+Na jeseň roku 1932 sa Justin objavuje v zozname tých, čo zložili **šoférske skúšky** v košickej autoškole Volán.
+
+Roku 1953 sa s Katarínou rozviedol. Býval vtedy už v **Ostrove pri Karlových Varoch**.
 
 ### Irenin brat Rudolf ml.
 
@@ -443,15 +454,9 @@ Irena hrob nemá — bola spopolnená a popol rozptýlený.
 
 ## Škodovci a Zazulákovci
 
-Helenina rodina z matkinej strany. Podľa rodinnej pamäti mala pochádzať z Poľska, no Škodovci vyzerajú ako **domáci abovský rod** — priezvisko v podobách Škoda, Škody, Škodi a Skodi je husto rozsiate po obciach juhovýchodne od Košíc, v Nižnej a Vyšnej Myšli, Ruskove, Seni či Košickej Polianke.
+Helenini rodičia prišli do Košíc z dvoch opačných koncov. **Justin Škoda** pochádzal zo západu, z **Dolnej Krupej** v okrese Trnava, kde mala rodina aj domovskú príslušnosť. **Katarína** prišla z východu, z haličského **Boryslavu**.
 
-**Justin Škoda**, košický obuvník narodený okolo roku 1900, do tohto obrazu zapadá.
-
-Poľská pamäť sa teda neviaže na Škodovcov, ale na **Katarínu a jej rodné meno Zazyláková**. To meno — v matrike aj v dobovej tlači zapísané ako Zazylák, čo Štátny archív v Košiciach potvrdil overením zápisu, príbuzné s bežnejšou podobou Zazulák, maďarsky Zazulyák — je doma na východe: v Zemplíne a v Haliči.
-
-Rakúsko-uhorské armádne zoznamy z rokov 1917 a 1918 vedú dôstojníkov Zazulakovcov medzi samými haličskými menami, kanadskí Zazulakovci sa usadili v Saskatchewane, kam smerovala haličsko-ukrajinská emigrácia, a v Zemplíne je meno doložené v Michalovciach.
-
-Odkiaľ presne Katarínina rodina prišla, zatiaľ nevieme — jej rodičov ani rodisko nepoznáme. Slovenský úmrtný list mená rodičov neuvádza a Helenin rodný zápis dáva len matkin vek a bydlisko.
+Jej meno sa píše rôzne — Zazyláková v košickej matrike aj v dobovej tlači, Zazulakowa v jej vlastnom podpise; maďarsky Zazulyák. Je to meno doma v Haliči a v Zemplíne. Rakúsko-uhorské armádne zoznamy z rokov 1917 a 1918 vedú dôstojníkov Zazulakovcov medzi samými haličskými menami a kanadskí Zazulakovci sa usadili v Saskatchewane, kam smerovala haličsko-ukrajinská emigrácia.
 
 ## Lorenowiczovci
 
@@ -467,14 +472,15 @@ Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo 
 
 Civilný sobáš z roku 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov, takže takýto predok by musel byť o generáciu či dve vyššie.
 
-Najlepšie sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno Heimann v Haliči aj samotná migrácia. Druhým kandidátom zostáva neznáme rodné meno Kataríny Škodovej.
+Najlepšie sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno Heimann v Haliči aj samotná migrácia. Druhým kandidátom je Katarínin neznámy otec — narodila sa v haličskom Boryslave ako nemanželské dieťa.
 
 ## Čo ešte nevieme
 
 - **Presný dátum úmrtia Erzsébety Parohácsovej rod. Suverovej** — hľadá sa v košickej civilnej matrike medzi koncom roku 1914 a januárom 1915; mená dedičov by dala listina o prevode domu vo vložke 4720.
-- **Kto boli Katarínini rodičia a odkiaľ prišli.** Rodné meno už poznáme — Zazyláková — ale rodičov, rodisko ani dátum jej narodenia matrika Heleny neuvádza.
-- **Odkiaľ pochádzali Zazylákovci.** Tvar priezviska potvrdzujú dva nezávislé pramene — matrikárova oprava z roku 1927 aj novinový oznam z roku 1923 — ale kde rodina žila predtým, než sa Katarína objavila v Košiciach, nevieme.
-- **Odkiaľ pochádzal Justin Škoda** a kto boli jeho rodičia — odpovie sobášny zápis z 29. apríla 1923.
+- **Kto bola Katarínina matka a kto otec.** Vieme, že sa narodila v Boryslave ako nemanželské dieťa; mená rodičov zatiaľ nepoznáme.
+- **Kedy a prečo prišla Katarína z Haliče do Košíc.**
+- **Kto boli rodičia Justina Škodu** v Dolnej Krupej a kedy a kde zomrel.
+- **Čo sa stalo s Máriou** (\*1923), Heleninou sestrou.
 - **Kto bol Helenin biologický otec.** Matrika hovorí, že Justin Škoda; zapísaný, a potom vymazaný, bol pôvodne József Presovszki. Uzákonenie roku 1927 sa opiera o vyhlásenie rodičov, nie o dôkaz.
 - **Kedy presne Katarína zomrela.** Vieme len, že ju 8. apríla 1985 spopolnili v Košiciach a že jej urnu uložili do hrobu 4. júna. Jej úmrtný zápis je zapísaný v knihe úmrtí matriky Košice-Západ, presný dátum sa dozvieme z úmrtného listu. Rodičov zápis neuvádza, takže Kataríninu rodnú rodinu ani odtiaľ nezistíme.
 - **Kedy zomrel Ferenc a kedy Alžbeta.**

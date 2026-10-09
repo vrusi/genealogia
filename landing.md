@@ -4,9 +4,9 @@
 
 <div class="fakt-pas">
 <span>🌳 7 doložených generácií</span>
-<span>👥 170 osôb</span>
+<span>👥 171 osôb</span>
 <span>📜 najstarší záznam: 1715</span>
-<span>🌍 🇸🇰 🇭🇺 🇵🇱 🇨🇿 🇨🇦 🇺🇸</span>
+<span>🌍 🇸🇰 🇭🇺 🇵🇱 🇺🇦 🇨🇿 🇨🇦 🇺🇸</span>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 
 -   🥾 **Obuvník, ktorý sa priznal k dcére**
 
-    Helena sa narodila roku 1919 v podnájme na košickej okružnej. Muž zapísaný ako otec z matriky po štyroch mesiacoch zmizol a právneho otca — obuvníka **Justina Škodu** — dostala až ako osemročná, keď sa jej matka **Katarína Zazyláková** vydala. [→ vetva Hajman–Škodová](vetva-hajman-skodiova.md#skodovci-a-zazulakovci)
+    Helena sa narodila roku 1919 v podnájme na košickej okružnej. Muž zapísaný ako otec z matriky po štyroch mesiacoch zmizol a právneho otca — obuvníka **Justina Škodu** — dostala až ako osemročná, keď sa jej matka **Katarína Zazyláková** z haličského Boryslavu vydala. Justin pochádzal z Dolnej Krupej pri Trnave a v Košiciach sa z neho stal mestský hasič. [→ vetva Hajman–Škodová](vetva-hajman-skodiova.md#skodovci-a-zazulakovci)
 
 -   🧡 **Dedo Peter**
 
@@ -56,6 +56,10 @@
 ## Čo pribudlo
 
 <div class="grid cards" markdown>
+
+-   **Október 2026**
+
+    **Katarína rod. Zazyláková** sa narodila 2. decembra 1897 v **Boryslave** v Haliči. · **Justin Škoda** sa narodil 30. októbra 1900 v **Dolnej Krupej**; roku 1930 bol mestským hasičom. · **Mária Škodová** (\*1923), Helenina sestra. · Sčítací hárok 1930: rodina bývala na Majerskej 4, dnešnej Požiarnickej.
 
 -   **September 2026**
 

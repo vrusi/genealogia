@@ -237,7 +237,7 @@ V 19. storočí sa krstilo okamžite — novorodenecká úmrtnosť bola taká vy
 | Irena (1944–2015) | — | — | — | 0 | 4 | 24 | 45 |
 | Marta (\*1970) | — | — | — | — | — | — | 19 |
 
-**Katarína Škodová prežila celý „krátky vek extrémov" na jednom mieste**: narodila sa v Rakúsko-Uhorsku, žila v ČSR, Maďarskom kráľovstve (anexia), ČSR, ČSSR — päť štátov bez jediného sťahovania. Irena sa narodila v novembri 1944 — **priamo do frontového mesta** (Košice oslobodené v januári 1945).
+**Katarína Škodová prežila celý „krátky vek extrémov"**: narodila sa v haličskom Boryslave v Rakúsko-Uhorsku, po roku 1918 mala poľské občianstvo a v Košiciach zažila ČSR, Maďarské kráľovstvo (anexia), znovu ČSR a ČSSR. Irena sa narodila v novembri 1944 — **priamo do frontového mesta** (Košice oslobodené v januári 1945).
 
 ## Index skomolenín priezvisk
 

@@ -19,7 +19,7 @@
 <body>
 <div id="map"></div>
 <script>
-const map = L.map('map').fitBounds([[46.4, 12.9], [50.9, 23.2]]);  // celá stredná Európa: Rajcza, Somogy, Budapešť aj Šariš/Abov
+const map = L.map('map').fitBounds([[46.4, 12.9], [50.9, 23.6]]);  // celá stredná Európa: Rajcza, Somogy, Budapešť aj Šariš/Abov
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18, attribution: '&copy; OpenStreetMap'
 }).addTo(map);
@@ -67,8 +67,9 @@ const pins = [
 
   // ===== ŠKODOVÁ (fialová) =====
   {c:'skodova', lat:48.7262, lon:21.2604, t:'<b>Košice — Klobusitzkeho okružná 3 (dnes Masarykova)</b><br>• doložené bydlisko <b>Kataríny rod. Zazylákovej</b> (1897–1985) k <b>1. 4. 1919</b><br>• <b>rodisko prababky Heleny</b> — do matriky zapísanej ako Ilona; priezvisko Škoda dostala až roku 1927, keď ju uzákonil sobáš matky s <b>Justinom Škodom</b> (⚭ 29. 4. 1923 Košice)<br>• rodné meno matky matrikár pôvodne zapísal ako Kaminszky, 2. 2. 1927 opravil na <b>Zazyláková</b><br>• dom č. 3 stál druhý od mosta na južnej strane ulice; ulica sa do 1890 volala Kert utca, potom Klobusitzkeho okružná, od 1919 Masarykova<br>• <i>poloha pinu je približná — vyznačuje ulicu, nie konkrétny dom</i>'},
-  {c:'skodova', lat:48.6280, lon:21.3280, t:'<b>Nižná Myšľa</b><br>• klaster priezviska Škoda/Škody JV od Košíc — <b>kontext, nie doložená príbuznosť</b><br>• hrob Heleny Mészárosovej rod. Škodyovej a krst Helena Skodi 1893 sú <b>menovkyňe</b>, s našou Helenou nesúvisia<br>• naša vetva je doložene <b>košická</b>: Justin Škoda bol košický obuvník (*~1900)'},
-  {c:'skodova', lat:48.5560, lon:21.2580, t:'<b>Seňa</b><br>• ďalší abovský klaster priezviska Škoda/Škody — hroby a pozemky<br>• <b>len kontext k rozšíreniu priezviska</b>; žiadne prepojenie na Justina Škodu nie je doložené<br>• staršia hypotéza o „poľskej stope cez rodné meno Kataríny“ je <b>prekonaná</b>: rodné meno znie <b>Zazyláková</b> (Zazulak) a rodina žila v Košiciach; odkiaľ Zazylákovci prišli, <b>zatiaľ nevieme</b> (Zemplín? Halič?)'},
+  {c:'skodova', lat:48.7125, lon:21.2545, t:'<b>Košice — Majerská 4 (dnes Požiarnická)</b><br>• bydlisko rodiny Škodovcov pri sčítaní <b>1930</b>, byt č. 3 v mestskom dome<br>• <b>Justin (v hárku Gustáv) Škoda</b> — mestský hasič; vo všetkých troch bytoch bývali rodiny mestských hasičov, pri novej hasičskej stanici<br>• s ním Katarína a dcéry <b>Helena *1919</b> a <b>Mária *1923</b><br>• <i>poloha pinu je približná</i>'},
+  {c:'skodova', lat:48.4560, lon:17.5300, t:'<b>Dolná Krupá (okr. Trnava)</b><br>• rodisko <b>Justina Škodu *30.10.1900</b> — praprastarý otec<br>• domovská obec celej rodiny Škodovcov ešte roku 1930<br>• do Košíc odišiel roku 1920'},
+  {c:'skodova', lat:49.2890, lon:23.4290, t:'<b>Boryslav / Borysław (Halič, dnes Ukrajina)</b><br>• rodisko <b>Kataríny rod. Zazylákovej *2.12.1897</b> — praprababka<br>• nemanželské dieťa; v Košiciach gréckokatolíčka<br>• po roku 1918 poľská občianka, podpisovala sa <b>Katarzyna Zazulakowa</b><br>• do Košíc prišla 11. 2. 1914 alebo 1919'},
 
   // ===== LIČKO (hnedá) =====
   {c:'licko', lat:48.7960, lon:19.5540, t:'<b>Valaská (okr. Brezno, Horehronie)</b><br>• ⭐ <b>rodisko Jozefa Lička *1942</b> (matrika Jasov + evidencia obce)<br>• Ličkovci = horehronský rod klinčiarov a uhliarov (Beňuš/Lično, doložení od 1656)'},
@@ -104,6 +105,8 @@ const mig = [
   {a:[47.4979,19.0402], b:[48.7110,21.2530], c:C.hajman,   t:'Budapešť → Košice (~1900)'},
   {a:[50.4605,13.4178], b:[48.7095,21.2500], c:C.loren,    t:'Chomutov → Košice (~60. roky, VSŽ)'},
   {a:[49.8500,22.6000], b:[50.4605,13.4178], c:C.loren,    t:'Halič → Chomutov (po 1945?)'},
+  {a:[48.4560,17.5300], b:[48.7125,21.2545], c:C.skodova,  t:'Dolná Krupá → Košice (Justin Škoda, 1920)'},
+  {a:[49.2890,23.4290], b:[48.7262,21.2604], c:C.skodova,  t:'Boryslav (Halič) → Košice (Katarína Zazyláková, 1914 alebo 1919)'},
   {a:[48.9531,21.1861], b:[48.9741,21.1506], c:C.fejercak, t:'Janov → Rokycany (Peter ⚭ 1884)'},
   {a:[49.5090,19.1080], b:[46.7160,17.6580], c:C.hajman,   t:'Rajcza (Poľsko) → Somogy (János + Anna, pred 1861)'},
   {a:[46.7160,17.6580], b:[47.4979,19.0402], c:C.hajman,   t:'Szőlőskislak → Budapešť (Ferenc, ~90. roky 19. stor.)'},
@@ -154,7 +157,7 @@ legend.onAdd = () => {
   <span class="dot" style="background:${C.fejercak}"></span>Fejerčák–Guľas (Janov, Jakubovany)<br>
   <span class="dot" style="background:${C.hanis}"></span>Hanis + Dzuriček (Žipov, Radačov)<br>
   <span class="dot" style="background:${C.hajman}"></span>Hajman–Suver (Somogy+Abov→Budapešť→KE)<br>
-  <span class="dot" style="background:${C.skodova}"></span>Škodová (JV od Košíc)<br>
+  <span class="dot" style="background:${C.skodova}"></span>Škodová (Dolná Krupá + Boryslav→KE)<br>
   <span class="dot" style="background:${C.licko}"></span>Ličko (Medzev, Košice)<br>
   <span class="dot" style="background:${C.loren}"></span>Lorenowicz (Halič→Chomutov→KE)<br>
   <span class="dot" style="background:${C.diaspora}"></span>diaspóra (BA, DE, CA…)<br>

@@ -37,7 +37,7 @@ Legenda: 🟢 doložené záznamom · 🟡 doložené nepriamo, čaká na zápis
 - Peter Fejerčák 1860 & Mária rod. Guľasová 1861 — *praprastarí, otec/Fejerčák*
 - Andrej Dzurenda \*11.11.1870 †24.4.1956 & Alžbeta rod. Šoltésová \*1870 †7.6.1925 (⚭ 6.11.1894 Bajerov, Žipov č. 18, neskôr č. 57) — *praprastarí, otec/Dzurenda*
 - Ferenc Hajman 1873 & Alžbeta rod. Suver \*1876 Mokrance — *praprastarí, mama/Hajman*
-- Justin Škoda \*~1900, obuvník v Košiciach, & Katarína rod. Zazyláková 1897–1985 (dožila sa ~88 r.), ⚭ 29.4.1923 Košice — *praprastarí, mama/Škoda (Helenini rodičia)*
+- Justin Škoda \*30.10.1900 Dolná Krupá, obuvník a mestský hasič v Košiciach, & Katarína rod. Zazyláková \*2.12.1897 Boryslav (Halič), †1985 (dožila sa ~87 r.), ⚭ 29.4.1923 Košice, rozvod 1953 — *praprastarí, mama/Škoda (Helenini rodičia)*
 - rodičia Jozefa Hanisa — *neznámi, otec/Hanis*
 
 **3× prastarí (5) — „3× pra":**
@@ -111,8 +111,8 @@ graph TD
   subgraph mgen4["staršia generácia — praprastarí"]
     FH["🟢 Ferenc Hajman<br>*31.7.1873 Szőlőskislak (Somogy)<br>stolár; do Kassa ~1900"]
     ASch["🟢 Alžbeta rod. Suver (Schurer)<br>*6.3.1876 Mokrance<br>⚭ 4.2.1900 Budapešť; 1930 vdova, Lichardova 37"]
-    KS["🟢 Katarína rod. Zazyláková<br>Helenina matka · 1897–1985<br>hrob VC Košice sk. 1"]
-    JS["🟢 Justin Škoda<br>Helenin otec · *~1900 · obuvník v Košiciach<br>⚭ 29.4.1923 Košice"]
+    KS["🟢 Katarína rod. Zazyláková<br>Helenina matka · *2.12.1897 Boryslav (Halič) †1985<br>hrob VC Košice sk. 1"]
+    JS["🟢 Justin Škoda<br>Helenin otec · *30.10.1900 Dolná Krupá<br>obuvník, mestský hasič v Košiciach<br>⚭ 29.4.1923 Košice"]
   end
   subgraph mgen3["~1895–1920 — pradedovia"]
     LX["🟢 Jozef Ličko st. *22.5.1912<br>a Matilda rod. Noveková *~1921<br>rodiská zatiaľ neznáme"]
@@ -228,8 +228,8 @@ graph TD
 | Alžbeta rod. Šoltés (2× prababka) | GLKG-ZNC |
 | Rudolf Hajman | PMQ3-4D3 |
 | Helena Škodová | PMQ3-HFX |
-| Justin Škoda \*~1900, obuvník (Helenin otec) | zatiaľ bez záznamu |
-| Katarína rod. Zazyláková 1897–1985 (Helenina matka) | zatiaľ bez záznamu |
+| Justin Škoda \*30.10.1900 Dolná Krupá (Helenin otec) | zatiaľ bez záznamu |
+| Katarína rod. Zazyláková \*2.12.1897 Boryslav, †1985 (Helenina matka) | zatiaľ bez záznamu |
 | Ferenc Hajman (Rudolfov otec) | PX7K-3LY |
 | Alžbeta rod. Schurer/**Suver** \*6.3.1876 Mokrance (Rudolfova matka; stub LDNJ-M19 zlúčený 15.7.2026) | PX7K-M17 |
 | **János Hajman (3× pradedo, želiar, Szőlőskislak)** | LHW1-JPX |
