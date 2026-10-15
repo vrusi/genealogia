@@ -468,16 +468,17 @@ Jej meno sa píše rôzne — Zazyláková v košickej matrike aj v dobovej tla�
 
 ## Čo hovorí DNA
 
-Veronikin test ukazuje **približne tri percentá aškenázskeho pôvodu**, čo zodpovedá jednému predkovi štyri až šesť generácií dozadu.
+Veronikin test ukazuje **približne štyri percentá aškenázskeho pôvodu** zo strednej a juhovýchodnej Európy — z oblasti, kam patrí Halič aj Uhorsko. Zodpovedá to jednému predkovi štyri až šesť generácií dozadu.
 
-Civilný sobáš z roku 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov, takže takýto predok by musel byť o generáciu či dve vyššie.
+Civilný sobáš z roku 1900 dokladá Ferenca aj Alžbetu ako rímskokatolíkov, takže ak by tento predok patril k Hajmanovcom, musel by byť o generáciu či dve vyššie.
 
-Najlepšie sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno Heimann v Haliči aj samotná migrácia. Druhým kandidátom je Katarínin neznámy otec — narodila sa v haličskom Boryslave ako nemanželské dieťa.
+Katarína sa narodila v haličskom **Boryslave**, ropnom meste s veľkou židovskou komunitou, ako nemanželské dieťa; jej otca nepoznáme.
 
 ## Čo ešte nevieme
 
 - **Presný dátum úmrtia Erzsébety Parohácsovej rod. Suverovej** — hľadá sa v košickej civilnej matrike medzi koncom roku 1914 a januárom 1915; mená dedičov by dala listina o prevode domu vo vložke 4720.
 - **Kto bola Katarínina matka a kto otec.** Vieme, že sa narodila v Boryslave ako nemanželské dieťa; mená rodičov zatiaľ nepoznáme.
+- **Od ktorého predka pochádzajú štyri percentá aškenázskeho pôvodu** — či z hajmanovskej strany, alebo od Kataríninho otca.
 - **Kedy a prečo prišla Katarína z Haliče do Košíc.**
 - **Kto boli rodičia Justina Škodu** v Dolnej Krupej a kedy a kde zomrel.
 - **Čo sa stalo s Máriou** (\*1923), Heleninou sestrou.

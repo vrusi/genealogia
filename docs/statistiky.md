@@ -272,7 +272,7 @@ Praktický dôsledok: pri každom hľadaní v indexoch treba počítať so všet
 
 Manželstvo dedo Ján (GK) × babka Anna (RK) bolo konfesionálne zmiešané — bežné, ale určovalo, kde sa krstili deti. Justin Škoda aj Katarína sú v košickom zápise z roku 1919 vedení ako rímskokatolíci.
 
-Približne tri percentá aškenázskeho pôvodu v DNA zostávajú nepriradené. Hľadanie priezvisk Škoda, Zazulak a Zazuliak medzi rodostromami DNA matchov (september 2026) nevrátilo **ani jednu zhodu**, takže Kataríninu líniu ani nepotvrdilo, ani nevylúčilo — slovenské rodiny sú v týchto databázach zastúpené len slabo. Stopa zostáva otvorená; druhým kandidátom sú poľskí predkovia Ferenca. Podrobnosti sú v DNA matche (Ancestry).
+Približne štyri percentá aškenázskeho pôvodu zo strednej a juhovýchodnej Európy v DNA zostávajú nepriradené. Hľadanie priezvisk Škoda, Zazulak a Zazuliak medzi rodostromami DNA matchov (september 2026) nevrátilo **ani jednu zhodu**, takže Kataríninu líniu ani nepotvrdilo, ani nevylúčilo — slovenské rodiny sú v týchto databázach zastúpené len slabo. Stopa zostáva otvorená; druhým kandidátom sú poľskí predkovia Ferenca. Podrobnosti sú v DNA matche (Ancestry).
 
 ## Povolania — z čoho rodina žila
 

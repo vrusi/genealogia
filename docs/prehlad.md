@@ -23,7 +23,9 @@ Vetvy: [Vetva Rusinko](vetva-rusinko.md) · [Vetva Fejerčák-Guľas](vetva-feje
 
 Veronikin test na AncestryDNA ukazuje vyše dvanásťtisíc príbuzenských zhôd. Najsilnejšie zhluky potvrdzujú **guľasovskú** a **rusinkovskú** líniu — sú to potomkovia vysťahovalcov do Ameriky, ktorí odišli z Rokycian a okolia Klenova.
 
-Približne **tri percentá aškenázskeho pôvodu** zostávajú nepriradené; zodpovedajú jednému predkovi štyri až šesť generácií dozadu. Ani jeden z preverených silných matchov aškenázsky podiel nemá, takže tento predok neleží v guľasovskej ani rusinkovskej línii. Najlepšie zatiaľ sedí **poľská línia Heiman a Hutera z Rajcze** — nemecky znejúce meno aj samotná migrácia.
+Odhad pôvodu dáva najväčší podiel **východnému Slovensku** (63 %). Druhý najväčší, **šestnásť percent**, Ancestry označuje ako západnú Ukrajinu — pod tento názov spadá Halič aj rusínske kraje pod Karpatmi. Z doložených predkov odtiaľ pochádza praprababka **Katarína Zazyláková** z haličského Boryslavu; východný, gréckokatolícky obrad mali aj **Fejerčákovci** zo šarišského Janova.
+
+Približne **štyri percentá aškenázskeho pôvodu** zo strednej a juhovýchodnej Európy zodpovedajú jednému predkovi štyri až šesť generácií dozadu. Ani jeden z preverených silných matchov aškenázsky podiel nemá, takže tento predok neleží v guľasovskej ani rusinkovskej línii. Kto ním bol, zatiaľ nevieme.
 
 Pri košickej vetve DNA zatiaľ mlčí. Hľadanie priezvisk **Škoda** a **Zazulák/Zazuliak** v rodokmeňoch matchov nevrátilo jediného príbuzného: slovenské rodiny sú v americkej databáze zastúpené slabo a väčšina matchov strom vôbec nemá. Kataríninu rodinu preto musia nájsť matriky, nie DNA — a k testu sa oplatí vrátiť, až keď budeme poznať jej rodnú obec a bude sa dať hľadať podľa lokality.
 
